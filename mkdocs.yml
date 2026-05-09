@@ -1,6 +1,5 @@
 site_name: Article 6.2 Policy Wiki
 site_description: パリ協定 Article 6.2 政策状況トラッキングWiki
-site_author: Carbon Credit Fund
 
 docs_dir: wiki
 
@@ -12,17 +11,13 @@ theme:
     primary: teal
     accent: green
   features:
-    - navigation.tabs
     - navigation.sections
-    - navigation.expand
     - navigation.top
     - search.highlight
     - search.suggest
-  icon:
-    repo: fontawesome/brands/github
 
 nav:
-  - ホーム: _index.md
+  - ホーム: index.md
   - 二国間マトリクス: matrix.md
   - 各国状況:
     - 日本: countries/japan.md
