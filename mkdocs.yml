@@ -19,12 +19,50 @@ theme:
 nav:
   - ホーム: index.md
   - 二国間マトリクス: matrix.md
-  - 各国状況:
+  - 調達国（需要側）:
     - 日本: countries/japan.md
     - シンガポール: countries/singapore.md
-    - インドネシア: countries/indonesia.md
-    - フィリピン: countries/philippines.md
-    - ラオス: countries/laos.md
+    - 韓国: countries/korea.md
+    - スイス: countries/switzerland.md
+    - スウェーデン: countries/sweden.md
+  - ホスト国（供給側）:
+    - 東南アジア:
+      - インドネシア: countries/indonesia.md
+      - ベトナム: countries/vietnam.md
+      - フィリピン: countries/philippines.md
+      - タイ: countries/thailand.md
+      - マレーシア: countries/malaysia.md
+      - カンボジア: countries/cambodia.md
+      - ラオス: countries/laos.md
+      - ミャンマー: countries/myanmar.md
+    - 大洋州・中央アジア:
+      - パプアニューギニア: countries/papua_new_guinea.md
+      - モンゴル: countries/mongolia.md
+      - ウズベキスタン: countries/uzbekistan.md
+      - カザフスタン: countries/kazakhstan.md
+      - ジョージア: countries/georgia.md
+      - パラオ: countries/palau.md
+      - モルディブ: countries/maldives.md
+    - 中南米:
+      - ペルー: countries/peru.md
+      - パラグアイ: countries/paraguay.md
+      - チリ: countries/chile.md
+      - コロンビア: countries/colombia.md
+      - メキシコ: countries/mexico.md
+      - コスタリカ: countries/costa_rica.md
+    - アフリカ:
+      - ガーナ: countries/ghana.md
+      - ルワンダ: countries/rwanda.md
+      - ケニア: countries/kenya.md
+      - セネガル: countries/senegal.md
+      - エチオピア: countries/ethiopia.md
+      - コートジボワール: countries/cote_divoire.md
+      - モロッコ: countries/morocco.md
+    - その他JCMパートナー:
+      - バングラデシュ: countries/bangladesh.md
+      - チュニジア: countries/tunisia.md
+      - モルドバ: countries/moldova.md
+      - アゼルバイジャン: countries/azerbaijan.md
   - 協定詳細:
     - 日本-インドネシア: agreements/japan-indonesia.md
     - 日本-フィリピン: agreements/japan-philippines.md
