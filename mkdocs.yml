@@ -1,0 +1,57 @@
+site_name: Article 6.2 Policy Wiki
+site_description: パリ協定 Article 6.2 政策状況トラッキングWiki
+site_author: Carbon Credit Fund
+
+docs_dir: wiki
+
+theme:
+  name: material
+  language: ja
+  palette:
+    scheme: default
+    primary: teal
+    accent: green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - ホーム: _index.md
+  - 二国間マトリクス: matrix.md
+  - 各国状況:
+    - 日本: countries/japan.md
+    - シンガポール: countries/singapore.md
+    - インドネシア: countries/indonesia.md
+    - フィリピン: countries/philippines.md
+    - ラオス: countries/laos.md
+  - 協定詳細:
+    - 日本-インドネシア: agreements/japan-indonesia.md
+    - 日本-フィリピン: agreements/japan-philippines.md
+    - 日本-ラオス: agreements/japan-laos.md
+  - 制度詳細:
+    - シンガポール A6制度: singapore_ia_system.md
+    - JCMプロジェクトDB: projects_database.md
+  - 概念解説:
+    - ITMO: concepts/itmo.md
+    - Corresponding Adjustment: concepts/corresponding_adjustment.md
+    - JCM: concepts/jcm.md
+  - 収集ソース: _sources.md
+
+plugins:
+  - search:
+      lang:
+        - ja
+        - en
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
