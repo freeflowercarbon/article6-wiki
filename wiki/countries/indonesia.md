@@ -42,16 +42,25 @@
 
     ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-    | Project | Standard | Type | CCP Status | Note |
-    |---------|----------|------|-----------|------|
-    | Rimba Raya (Central Kalimantan) | Verra VCS VM0009 | REDD+ | 🟡 Under ICVCM review | 47 Mt+ issued |
-    | Katingan Peatland | Verra VCS VM0016 | Peatland REDD+ | 🟡 Under ICVCM review | ~8 Mt/yr |
-    | Karya Agung (Sumatra) | Verra VCS | REDD+ | 🟡 Under ICVCM review | — |
-    | REDD+ jurisdictional (ART TREES) | ART | Jurisdictional | 🟡 High potential | Gov program |
+    | Project | Verra ID | Standard / Method | Type | Annual Volume | CCP Status | A6.2 Status |
+    |---------|----------|------------------|------|--------------|-----------|-------------|
+    | Rimba Raya (Central Kalimantan) | VCS 674, 727 | Verra VCS **VM0007** (REDD-MF)[^rrmethod] | Forest REDD+ | ~1–2 Mt/yr[^rrvol] | 🔴 Not CCP (VM0007 REDD+ not yet approved) | 🟡 No A6.2 authorization yet; Perpres 110 path open |
+    | Katingan Mentaya (Central Kalimantan) | VCS 1477 | Verra VCS **VM0009** (Avoided Ecosystem Conversion)[^katmethod] | Peatland REDD+ | ~7.5 Mt/yr[^katvol] | 🔴 Not CCP (VM0009 peatland not yet approved) | 🟡 No A6.2 authorization yet |
+    | Karya Agung (Sumatra) | VCS (various) | Verra VCS | REDD+ | — | 🟡 Under review | 🟡 Authorization pending |
+    | REDD+ jurisdictional (ART TREES) | — | ART TREES | Jurisdictional | Large (gov program) | 🟡 ART TREES approved by ICVCM[^artccp] | 🟡 Gov-level IA required |
 
-    **Note**: ICVCM has not yet approved REDD+ (VM0007, VM0009) for CCP label. Approval expected 2026–2027.
-    > ICVCM assessment: <https://icvcm.org/assessment-process/>
+    **Methodology correction note**: VM0007 (REDD Methodology Framework, REDD-MF) is used for forest conservation projects like Rimba Raya; VM0009 (Avoided Ecosystem Conversion) is the peatland-specific methodology used by Katingan. VM0016 (Recovery and Monitoring of Ecological Communities) is a different application and is NOT applicable to these REDD+ projects.
+
+    **CCP status note**: ICVCM approved the Verra VCS *program* at program level (2024), but specific REDD+ methodologies (VM0007, VM0009) have NOT yet received the CCP label due to concerns about permanence, additionality, and leakage. ART TREES has received CCP approval for jurisdictional REDD+.[^artccp] Approval of project-level REDD+ methodologies expected 2026–2027.
+
+    [^rrmethod]: Rimba Raya (VCS 674, 727) methodology: VM0007 REDD Methodology Framework — source: Verra Registry: <https://registry.verra.org/app/projectDetail/VCS/674>
+    [^rrvol]: Rimba Raya cumulative issuance 33.6 Mt since 2013; recent annual pace reduced due to integrity scrutiny
+    [^katmethod]: Katingan Mentaya (VCS 1477) methodology: VM0009 Methodology for Avoided Ecosystem Conversion — source: Verra Registry: <https://registry.verra.org/app/projectDetail/VCS/1477>; Permian Global: <https://permianglobal.com/projects/katingan-mentaya-project/>
+    [^katvol]: Katingan annual issuance ~7.5 Mt/yr; source: Permian Global project data
+    [^artccp]: ART TREES CCP approval: <https://icvcm.org/assessment-process/>
+
     > Verra registry: <https://registry.verra.org/>
+    > ICVCM assessment process: <https://icvcm.org/assessment-process/>
 
     ## Government Contact Points
 
@@ -104,13 +113,15 @@
 
     ## CCP認証候補ボランタリープロジェクト
 
-    | プロジェクト | 規格 | 種別 | CCP状況 |
-    |------------|------|------|---------|
-    | Rimba Raya（中カリマンタン） | Verra VCS VM0009 | REDD+ | 🟡 ICVCM審査中 |
-    | Katingan Peatland | Verra VCS VM0016 | 泥炭地REDD+ | 🟡 ICVCM審査中 |
-    | ART TREES（国家管轄REDD+） | ART | 管轄型 | 🟡 高ポテンシャル |
+    | プロジェクト | Verra ID | 方法論 | 種別 | 年間発行量 | CCP状況 | A6.2状況 |
+    |------------|----------|--------|------|-----------|---------|---------|
+    | Rimba Raya（中カリマンタン） | VCS 674, 727 | **VM0007**（REDD-MF）[^rrmethod] | 森林REDD+ | 〜1〜2 Mt/yr[^rrvol] | 🔴 未承認 | 🟡 Perpres 110経路は開通 |
+    | Katingan Mentaya（中カリマンタン） | VCS 1477 | **VM0009**（Avoided Ecosystem Conversion）[^katmethod] | 泥炭地REDD+ | 〜7.5 Mt/yr[^katvol] | 🔴 未承認 | 🟡 A6.2授権なし |
+    | ART TREES（国家管轄REDD+） | — | ART TREES | 管轄型 | 大規模（政府プログラム） | 🟡 ICVCM承認済み[^artccp] | 🟡 政府間IA必要 |
 
-    **注意**: ICVCM はREDD+（VM0007・VM0009）のCCP認証をまだ承認していない（2026〜2027年見込み）
+    **方法論修正ノート**: Rimba RayaはVM0007（森林保全向けREDD方法論フレームワーク）、KatinganはVM0009（泥炭地生態系転換回避専用）。以前の記載VM0009(Rimba Raya)・VM0016(Katingan)はいずれも誤記。VM0016（生態系回復モニタリング）はREDD+とは全く異なる用途。
+
+    **CCPノート**: ICVCMはVerra VCS「プログラム」を2024年に承認したが、VM0007・VM0009のREDD+「方法論」個別の承認はまだ（恒久性・追加性・漏洩への懸念）。ART TREESは管轄型REDD+でCCP承認済み。プロジェクト型REDD+の承認は2026〜2027年見込み。
 
     ## 主要コンタクトポイント
 

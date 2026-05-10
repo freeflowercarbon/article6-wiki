@@ -66,6 +66,35 @@
 
     > Source: MSCI NBS analysis: <https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects>
 
+    ## Is JCM ODA-Type? — An Evolving Characterization
+
+    JCM was originally designed as part of Japan's bilateral ODA (Official Development Assistance) framework — an instrument for **technology and equipment export promotion** combined with climate finance. In early JCM (2013–2020), the typical project structure was: Japanese company exports equipment (e.g., high-efficiency boilers, solar panels, LED systems) to a developing country partner; the resulting emission reductions are credited and partially returned to Japan.[^jcmoda]
+
+    **The ODA-type characterization fit early JCM because:**
+    - Projects were funded through Japan's ODA-linked bilateral cooperation budgets (MOFA, JICA, GEC grants)
+    - Equipment export promotion was an explicit policy objective alongside climate goals
+    - Host country capacity building (a core ODA goal) was bundled with technology transfer
+
+    **However, NBS-focused JCM (2022–present) does not fit the ODA-type model:**
+
+    | Feature | Technology JCM (ODA-type) | NBS JCM (post-2022) |
+    |---------|--------------------------|---------------------|
+    | Equipment export | ✅ Core component | ❌ None (forest/peatland conservation) |
+    | Japan private sector involvement | Mandatory | Optional |
+    | Mechanism | Technology transfer + credit share | Payment for ecosystem services |
+    | Primary driver | Industrial competitiveness + climate | Climate finance + biodiversity |
+    | ODA characterization | ✅ Appropriate | ⚠️ Debatable / evolving |
+
+    Cambodia's **Prey Lang REDD+ JCM credit** (December 2023, ~600,000 tCO₂e) — the first JCM NBS credit — illustrates this shift: no Japanese equipment was exported; the credit was generated purely through forest protection and community-based conservation.[^jcmpreyp]
+
+    **Official position (MOFA/MOE)**: Japan's MOFA continues to describe JCM broadly as a "bilateral cooperation mechanism" aligned with sustainable development. As of 2026, MOFA has not officially reclassified NBS-focused JCM as distinct from ODA-type. However, the policy rationale increasingly emphasizes carbon market participation and Paris Agreement Article 6.2 compliance rather than equipment export promotion — suggesting the ODA-type framing is becoming less accurate for NBS projects.[^jcmmofa]
+
+    **Practical implication**: For host country governments and project developers engaging with JCM NBS projects, Japan's ODA infrastructure (GEC, JICA, bilateral grant funding) remains an important source of technical and financial support — but the mechanism's purpose has fundamentally evolved toward carbon market cooperation. Investors should not assume JCM NBS projects carry the same concessional financing or equipment-export incentive structure as earlier technology JCM projects.
+
+    [^jcmoda]: JCM original design rationale: MOFA Japan, "Joint Crediting Mechanism": <https://www.mofa.go.jp/ic/ch/page1we_000105.html>; IGES JCM comprehensive analysis: <https://www.iges.or.jp/en/pub/iges-joint-crediting-mechanism-jcm-database/en>
+    [^jcmpreyp]: Cambodia Prey Lang REDD+ JCM credit (Dec 2023): first JCM NBS credit; source: GEC JCM Projects DB: <https://gec.jp/jcm/projects/>; MSCI: <https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects>
+    [^jcmmofa]: MOFA JCM characterization (2024): <https://www.mofa.go.jp/ic/ch/page1we_000105.html>; Japan Environment Ministry JCM: <https://www.jcm.go.jp/>
+
     ## Key Sources
     - JCM Portal (MOEJ): <https://www.jcm.go.jp/>
     - GEC JCM Projects DB: <https://gec.jp/jcm/>
@@ -124,6 +153,31 @@
     1. **CA適用**: 既存プロジェクトへの遡及問題
     2. **UNFCCC報告**: Article 6.2透明性要件への対応
     3. **Authorization**: 相手国の国内承認プロセス整備
+
+    ## JCMはODA型か？ — 変化する性格付け
+
+    JCMはもともと日本のODA（政府開発援助）枠組みの一部として設計された。初期（2013〜2020年）の典型的なプロジェクト像は「日本企業が高効率ボイラー・太陽光パネル・LED照明等を途上国に輸出し、削減量をクレジット化して日本が一部を受け取る」という**設備輸出促進型**だった。[^jcmoda]
+
+    **初期JCMがODA型と言えた理由：**
+    - 外務省・JICA・GEC補助金などODA連動予算で資金調達
+    - 設備輸出促進が明示的な政策目標
+    - 技術移転とキャパシティービルディング（ODAの中核）がセット
+
+    **しかし、2022年以降に拡大したNBS型JCMはODA型とは言い難い：**
+
+    | 特徴 | 技術JCM（ODA型） | NBS-JCM（2022年以降） |
+    |------|----------------|-------------------|
+    | 設備輸出 | ✅ コアコンポーネント | ❌ なし（森林・泥炭地保全） |
+    | 日本民間企業の参加 | 必須 | 任意 |
+    | メカニズム | 技術移転＋クレジット分配 | 生態系サービスへの支払い |
+    | 主な政策目的 | 産業競争力＋気候対策 | 気候ファイナンス＋生物多様性 |
+    | ODA型への当てはまり | ✅ 妥当 | ⚠️ 疑問あり・変化中 |
+
+    カンボジアの**Prey Lang REDD+ JCMクレジット**（2023年12月、約60万tCO₂e）が典型例で、日本の設備輸出なし、純粋な森林保全・地域コミュニティベースの保全によるクレジット創出。[^jcmpreyp]
+
+    **公式見解（外務省/環境省）**: 外務省は引き続きJCMを「二国間協力メカニズム」として広く説明。2026年時点でNBS型JCMをODA型と明確に区別する公式再定義は行われていない。しかし、政策的な強調点は設備輸出促進よりもArticle 6.2のパリ協定適合・炭素市場参加へと移行しており、NBS型についてはODA型という枠組みは形骸化しつつある。[^jcmmofa]
+
+    **実務的含意**: JCMのNBSプロジェクトでは日本のODAインフラ（GEC・JICA・二国間補助金）が引き続き技術・財務支援の源泉であることは事実。ただし、従来のODA型JCMにあった設備輸出インセンティブや譲許的融資の仕組みはNBS型には必ずしも当てはまらない。投資家・事業者はこの違いを念頭に置くべき。
 
     ## 主要出典
     - JCMポータル（環境省）: <https://www.jcm.go.jp/>
