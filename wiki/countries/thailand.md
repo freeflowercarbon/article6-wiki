@@ -1,60 +1,111 @@
-# タイ 🇹🇭 — Article 6.2 ホスト国状況
+# Thailand 🇹🇭 | タイ — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2015年）パートナー。T-VER（国内自主的排出削減制度）が確立し、国内炭素市場整備が進んでいる中堅ホスト国。Climate Change Act（2022年）で制度的基盤を整備中。CA体制は未確立だが、JCMプロジェクトの実績は着実に蓄積されている。シンガポールとの協議は非公式段階。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2005年比40%削減（条件付き） |
-| 国内炭素制度 | T-VER（任意）、ETS導入検討中（2030年代） |
-| 主管省庁 | 天然資源環境省（ONEP）、エネルギー省 |
-| JCM状況 | 日本（2015年）✅ |
-| CA体制 | 未確立（検討段階） |
-| NBS成熟度 | ⭐⭐ |
+    Thailand is a Japan JCM partner (2015) and **signed a Singapore Implementation Agreement in August 2025** — making it one of the few countries with dual acquiring-country access. Thailand also completed an **ITMO transfer to Switzerland in January 2024** (1,916 units), making it the second country globally to complete an Article 6.2 ITMO transfer. T-VER (Thailand Voluntary Emission Reduction) provides a domestic carbon standard foundation.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 40% reduction vs. BAU by 2030 (conditional); 30% unconditional |
+    | Carbon System | T-VER (voluntary); ETS under consideration (2030s) |
+    | JCM (Japan) | ✅ Since 2015; 25+ projects |
+    | Singapore IA | ✅ **Signed August 2025** [^thsg] |
+    | Switzerland | ✅ **ITMO transferred January 2024** (1,916 units) [^thch] |
+    | CA Framework | 🟡 Being developed (ONEP-led) |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2015年署名 | 省エネ・太陽光・廃水処理 |
-| シンガポール 🇸🇬 | IA | 💬 非公式協議 | — |
-| スイス 🇨🇭 | バイラテラル | ⚪ | — |
-| 韓国 🇰🇷 | — | 💬 | — |
-| スウェーデン 🇸🇪 | — | 💬 | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (30%) | 🟡 Partially on track; RE expansion ongoing |
+    | Conditional target (40%) | 🟡 Requires international support |
+    | Key driver | RE expansion (solar, wind); energy efficiency; EV adoption |
+    | GST 2023 Implication | Thailand expected to raise 2035 conditional NDC; T-VER alignment with A6.2 key |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| 熱帯雨林 | ⭐⭐ | 残存森林は限定的（北部山岳地帯） |
-| マングローブ | ⭐⭐⭐ | 南部・湾岸部に資源 |
-| 水田（低メタン） | ⭐⭐⭐ | JCM方法論で検討中。世界有数の水田面積 |
-| 藻場・海草 | ⭐⭐ | アンダマン海で調査 |
+    > Source: Thailand NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=THA>
 
-## JCMプロジェクト（主要分野）
+    ## Active Article 6.2 Projects
 
-| 分野 | 特徴 |
-|------|------|
-| 工場省エネ | 自動車・電機メーカーの省エネ化多数 |
-| 太陽光 | 屋根置き・農業用ソーラー |
-| 廃水処理 | バイオガス回収 |
-| 農業 | 有機稲作・低メタン栽培（試験段階） |
+    | Project | Partner | Status | Volume | Notes |
+    |---------|---------|--------|--------|-------|
+    | Energy efficiency / industry | Switzerland | ✅ **ITMO transferred Jan 2024** | 1,916 units | 2nd global A6.2 ITMO transfer [^thch] |
+    | JCM energy efficiency (25+ projects) | Japan | 🟡 Processing toward A6.2 | Significant | Industry, buildings, RE |
+    | NBS / clean energy pipeline | Singapore | 🟡 IA signed; projects in development | TBD | Singapore IA Aug 2025 |
+    | Swiss NBS pipeline | Switzerland | 🟡 Development | TBD | — |
 
-## 投資家視点
+    > JCM Thailand: <https://gec.jp/jcm/projects/>
+    > Singapore MSE IA: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
 
-- **安定した工業基盤**: 日系製造業の多さからJCM省エネ案件の質が高い
-- **農業NBS機会**: 水田メタン削減方法論が確立すれば大規模供給の可能性
-- **課題**: CA制度が未整備。A6.2適合クレジットとして認定されるには整備が必要
-- **ETS導入**: 国内ETS導入後に国際市場への姿勢が変わる可能性
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-## 最新動向（要確認）
-- [ ] Climate Change Act（2022）の施行令整備状況
-- [ ] T-VERのA6.2適合性評価
-- [ ] シンガポールとのIA交渉開始の有無
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Thailand REDD+ / community forest | Verra VCS (prospective) | REDD+ | 🟡 Early stage |
+    | T-VER projects (RE, efficiency) | T-VER (Thai standard) | RE / EE | 🟡 CA alignment needed |
+    | Mangrove restoration | GS (prospective) | Blue carbon | 🟡 Pre-development |
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [JCM](../concepts/jcm.md)
+    > ICVCM: <https://icvcm.org/assessment-process/>
+
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | ONEP (Office of Natural Resources & Env. Policy) | NDC, carbon market, A6.2 | <https://www.onep.go.th/> |
+    | DEDE (Dept. of Alternative Energy) | RE JCM, energy efficiency | <https://www.dede.go.th/> |
+    | TGO (Thailand Greenhouse Gas Management Organization) | T-VER registry, CA | <https://www.tgo.or.th/> |
+    | GEC Thailand | JCM project support | <https://gec.jp/jcm/projects/> |
+
+    ## Key Sources
+    - Thailand NDC: <https://unfccc.int/NDCREG>
+    - Singapore IA network: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    - Switzerland FOEN bilateral: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    - TGO: <https://www.tgo.or.th/>
+
+    [^thsg]: Singapore MSE Implementation Agreements list: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^thch]: Switzerland-Thailand ITMO transfer (Jan 2024, 1,916 units); source: Swiss FOEN and carbon market reports
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    タイは日本JCM（2015年）パートナーであり、**シンガポールIAを2025年8月に署名**[^thsg]。また**スイスとの間で2024年1月にITMO移転（1,916ユニット）**[^thch]を完了し、世界2番目のA6.2 ITMO移転実績国。T-VER（タイ自主的排出削減制度）が国内炭素基盤を提供。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比40%削減（条件付き）/ 30%（無条件） |
+    | 国内炭素制度 | T-VER（任意）、ETS導入検討中（2030年代） |
+    | 主管省庁 | ONEP（天然資源環境政策計画局）、TGO |
+    | JCM状況 | 日本（2015年）✅ 25件以上 |
+    | シンガポールIA | ✅ **2025年8月署名** [^thsg] |
+    | スイス | ✅ **2024年1月ITMO移転済み**（1,916ユニット） [^thch] |
+    | CA体制 | 🟡 整備中（ONEP主導） |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（30%） | 🟡 再エネ拡大で一部進捗中 |
+    | 条件付き目標（40%） | 🟡 国際支援が必要 |
+    | GST後の方向性 | 条件付き目標の引き上げが見込まれる |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | プロジェクト | 相手 | 状況 |
+    |------------|------|------|
+    | エネルギー効率（産業） | スイス | ✅ **ITMO移転済み（2024年1月）** |
+    | JCM省エネ（25件以上） | 日本 | 🟡 A6.2化処理中 |
+    | NBS・クリーンエネルギー | シンガポール | 🟡 IA署名済み・プロジェクト開発中 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | ONEP | NDC・炭素市場・A6.2 | <https://www.onep.go.th/> |
+    | TGO | T-VER・CA | <https://www.tgo.or.th/> |
+
+    ## 関連ページ
+    - [シンガポール A6制度](../singapore_ia_system.md)
+    - [スイス](switzerland.md) — ITMO移転実績
+    - [マトリクス](../matrix.md)

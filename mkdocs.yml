@@ -32,9 +32,10 @@ nav:
   - Acquiring Parties | 調達国:
     - Japan | 日本: countries/japan.md
     - Singapore | シンガポール: countries/singapore.md
-    - Korea | 韓国: countries/korea.md
     - Switzerland | スイス: countries/switzerland.md
     - Sweden | スウェーデン: countries/sweden.md
+    - Norway | ノルウェー: countries/norway.md
+    - Korea | 韓国: countries/korea.md
     - CORSIA (International Aviation): buyers/corsia.md
     - IMO (International Shipping): buyers/imo.md
   - Host Countries | ホスト国:
@@ -102,7 +103,10 @@ markdown_extensions:
       permalink: true
   - admonition
   - attr_list
+  - footnotes
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.superfences
   - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.tilde

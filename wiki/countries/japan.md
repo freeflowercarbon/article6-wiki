@@ -9,9 +9,12 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 46% reduction from 2013 by 2030; net zero 2050 |
-    | Carbon Price System | GX-ETS (pilot 2023, full operation 2026) |
+    | Carbon Price System | GX-ETS (prep FY2026; trading starts Autumn 2027) |
+    | GX-ETS Price Floor | JPY 1,700/t CO₂e (≈ US$11) [^jpgx1] |
+    | GX-ETS Price Ceiling | JPY 4,300/t CO₂e (≈ US$27) [^jpgx1] |
+    | Price Escalation | Floor/ceiling rise annually at inflation + 3% [^jpgx1] |
     | Main Mechanism | JCM (29+ countries) |
-    | Procurement Price | ODA-based (price undisclosed; estimated ¥1,000–3,000/t equivalent) |
+    | JCM Procurement Basis | ODA-supported; JCM credit prices not publicly disclosed |
     | A6.2 Role | Acquiring country (ITMO buyer) |
     | Key Ministry | Ministry of Environment (MOEJ), METI |
 
@@ -84,11 +87,44 @@
     | METI | GX-ETS, industrial carbon | <https://www.meti.go.jp/policy/energy_environment/global_warming/> |
     | JCM Net Japan | Public JCM information portal | <https://www.jcmnet.jp/> |
 
+    ## Methodology Approach (JCM)
+
+    | Dimension | JCM Approach |
+    |-----------|-------------|
+    | Registry | Proprietary — JCM methodologies approved by each country's Joint Committee (JC) |
+    | Process | JC (co-chaired by MOEJ and host ministry) develops, reviews, approves sector methodologies |
+    | Third-party registries | NOT used directly; JCM has its own methodology database |
+    | Validation/verification | Designated Third-Party Entities (TPEs) per project |
+    | Methodology database | <https://www.jcm.go.jp/> (Japanese/English) |
+
+    JCM does not accept Verra VCS or Gold Standard methodologies directly. All methodologies are country-pair and sector-specific, developed by Japanese research institutions (IGES, JICA, etc.) and approved by the JC.[^jcmmeth]
+
+    ## Procurement Track Record & Demand
+
+    | Metric | Data |
+    |--------|------|
+    | Cumulative JCM credits issued (to June 2024) | ~0.7 Mt CO₂e [^jcmstat] |
+    | Registered projects | 83 [^jcmstat] |
+    | Funded projects (registered + pipeline) | 264 [^jcmstat] |
+    | 2030 target (cumulative) | 100 Mt CO₂e [^jcmstat] |
+    | Target achievement rate | ~0.7% ⚠️ — significant acceleration required [^jcmstat] |
+    | NBS share of JCM portfolio | ~20% (rapidly expanding from ~5% pre-2024) [^jcmnbs] |
+
+    **Demand outlook**: Japan's GX-ETS mandatory phase (FY2026) covers ~700 large emitters (≥50,000 t/yr). JCM credits are expected to be eligible for GX-ETS compliance, creating structural demand that could significantly exceed current procurement levels. The gap between the 100 Mt target and current 0.7 Mt achievement implies procurement must accelerate >140x in 5 years — market observers view this as a significant demand driver for JCM host countries.[^jcmdemand]
+
+    [^jpgx1]: Carbon Pulse, "Japan sets GX-ETS floor/ceiling prices for FY2026": <https://carbon-pulse.com/469821/>; Eco-Business: <https://www.eco-business.com/news/japan-sets-2026-price-band-for-carbon-market-to-steer-investment-by-big-polluters/>
+    [^jcmmeth]: JCM Guidelines for Implementation: <https://www.meti.go.jp/policy/energy_environment/global_warming/jcm/pdf/en_Guidelines_for_the_Implementation_of_JCM.pdf>
+    [^jcmstat]: QC Intel JCM analysis: <https://www.qcintel.com/carbon/article/feature-japan-looks-to-upscale-the-jcm-to-meet-enhanced-carbon-credit-goals-36788.html>; ERCST March 2025: <https://ercst.org/wp-content/uploads/2025/03/Cooperative-Approach_Japan_Satoru-Iino.pdf>
+    [^jcmnbs]: MSCI Japan NBS blog: <https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects>
+    [^jcmdemand]: IGES JCM Database: <https://www.iges.or.jp/en/pub/iges-joint-crediting-mechanism-jcm-database/en>
+
     ## Key Sources
     - UNFCCC Japan NDC: <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=JPN>
     - JCM Framework: <https://www.jcmnet.jp/>
     - GEC JCM Projects: <https://gec.jp/jcm/projects/>
     - MOEJ GX-ETS: <https://www.env.go.jp/earth/ondanka/gx-ets.html>
+    - GX-ETS price band: <https://carbon-pulse.com/469821/>
+    - ICAP Japan GX-ETS: <https://icapcarbonaction.com/en/ets/japan-gx-ets>
     - Article 6.2 UNFCCC: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
 
 === "🇯🇵 日本語"
@@ -102,7 +138,10 @@
     |------|------|
     | NDC目標 | 2030年に2013年比46%削減、ネットゼロ2050 |
     | NDC提出年 | 2021年 |
-    | 国内炭素価格制度 | GX-ETS（2023年試行開始、2026年本格稼働） |
+    | 国内炭素価格制度 | GX-ETS（FY2026準備期・2027年秋取引開始） |
+    | GX-ETS価格下限 | JPY 1,700/t CO₂e（≈US$11）[^jpgx1] |
+    | GX-ETS価格上限 | JPY 4,300/t CO₂e（≈US$27）[^jpgx1] |
+    | 価格上昇率 | 毎年インフレ+3%で上下限を引き上げ [^jpgx1] |
     | 主管省庁 | 環境省（MOEJ）、経済産業省（METI） |
     | Article 6.2の役割 | 調達国（ITMO取得側） |
 

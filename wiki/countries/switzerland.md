@@ -1,58 +1,150 @@
-# スイス 🇨🇭 — Article 6.2 調達国状況
+# Switzerland 🇨🇭 | スイス — Article 6.2 Acquiring Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-スイスは世界で最も積極的なA6.2調達国。国内削減だけでは2030年NDC（1990年比50%削減）を達成できないため、CO2法に基づいて削減義務の最大半分を国際取引で補完する法的枠組みを持つ。連邦環境省（FOEN）が複数国と二国間協定を締結し、世界初のA6.2 ITMO実移転（対ペルー、2023年）を実現した。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に1990年比50%削減（うち半分を国際調達で補完） |
-| 炭素価格制度 | CO2レビー（化石燃料課税）＋スイスETS（EU ETSリンク） |
-| CO2レビー税率 | CHF 120/t（2024〜） |
-| A6.2調達価格 | CHF 20〜30+/t（≈US$22〜33）推定 |
-| 将来予測（2027年） | CHF 30〜50+/t（≈US$33〜55） |
-| 主管省庁 | FOEN（連邦環境森林景観局） |
-| 国際調達上限 | NDC目標の最大50%（CO2法で規定） |
-| 年間調達予算 | CHF 1〜2億/年（概算） |
+    Switzerland is the **world's most active Article 6.2 acquiring country**, having completed the world's first Article 6.2 ITMO transfer (Peru, 2023) and now operating bilateral agreements with **16 countries**.[^chcount] Switzerland's CO2 Act legally requires up to 50% of its NDC reduction to come from international transfers — creating a structural, legally mandated procurement obligation.
 
-## Article 6.2 二国間合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 50% reduction vs. 1990 by 2030; 50% via international transfers |
+    | CO₂ Levy | CHF 120/t (≈ US$133) on fossil fuels (2024) |
+    | ETS | Swiss ETS linked to EU ETS; ~€50–70/t |
+    | A6.2 Procurement Price | CHF 20–50+/t (≈ US$22–56; project-specific) |
+    | Procurement Limit | Up to 50% of NDC target (legally mandated under CO2 Act) |
+    | Annual Procurement Budget | ~CHF 100–200M/yr (FOEN estimate) |
+    | Key Agency | FOEN (Federal Office for the Environment) |
+    | Methodology approach | Accepts Verra VCS / Gold Standard; FOEN project-specific review |
 
-| ホスト国 | 署名 | ステータス | 備考 |
-|---------|------|---------|------|
-| [ペルー 🇵🇪](peru.md) | 2020年 | ✅ ITMO移転済 | 世界初A6.2 ITMO実移転（2023年） |
-| ガーナ 🇬🇭 | 2021年 | ✅ 稼働中 | クックストーブ・REDD+ |
-| ドミニカ 🇩🇲 | 2021年 | ✅ 稼働中 | 森林保全 |
-| バヌアツ 🇻🇺 | 2021年 | ✅ 稼働中 | マングローブ |
-| [ジョージア 🇬🇪](georgia.md) | 2022年 | ✅ 稼働中 | 再エネ・森林 |
-| ウクライナ 🇺🇦 | 2022年 | ✅（一部停止） | 戦争影響あり |
-| マラウイ 🇲🇼 | 2022年 | ✅ 稼働中 | クリーンクッキング |
-| [セネガル 🇸🇳](senegal.md) | 2023年 | ✅ 稼働中 | 大グリーンウォール |
-| [モロッコ 🇲🇦](morocco.md) | 交渉中 | 🔄 | 再エネ中心 |
-| ベトナム 🇻🇳 | 交渉中 | 🔄 | — |
-| タイ 🇹🇭 | 関心 | 💬 | — |
+    ## NDC Achievement Status
 
-## 世界初A6.2 ITMO取引（スイス×ペルー、2023年）
+    | Metric | Assessment |
+    |--------|-----------|
+    | Current progress | 🔴 Behind — domestic emissions ~22% below 1990 vs. 50% target |
+    | 2030 target | 🟡 Requires both domestic acceleration AND large international procurement |
+    | Legal obligation | CO2 Act mandates international transfers — not optional |
+    | GST 2023 Implication | Switzerland expected to raise 2035 NDC; international procurement obligation likely to increase |
 
-- **背景**: 2020年のバイラテラル合意に基づき、3年かけて制度整備
-- **内容**: ペルーの省エネ・再エネプロジェクトからのITMO移転
-- **CA（Corresponding Adjustment）**: ペルー側が公式にNDCから控除記帳
-- **意義**: A6.2の初実取引として国際標準の先例となった
+    > Source: Switzerland NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=CHE>
 
-## 投資家視点
+    ## Bilateral A6.2 Agreements (16 countries) [^chfoen]
 
-- **最高の調達意欲**: 法的義務による「買わざるを得ない」構造 → 価格交渉力弱い
-- **高い基準**: FOENはCA必須、堅牢な方法論、第三者検証を要求 → 品質保証付き
-- **機会**: FOEN調達対象拡大中 → 東南アジア（ベトナム、タイ等）への拡大検討
+    | Host Country | Year | Status | Sector Focus | Notes |
+    |-------------|------|--------|--------------|-------|
+    | Peru 🇵🇪 | 2020 | ✅ **ITMO transferred 2023** | Energy eff., RE | **World's 1st A6.2 ITMO transfer** [^chperu] |
+    | Ghana 🇬🇭 | 2021 | ✅ Active | Cookstoves, REDD+ | Solar PV + energy efficient lighting |
+    | Dominica 🇩🇲 | 2021 | ✅ Active | Forest conservation | — |
+    | Vanuatu 🇻🇺 | 2021 | ✅ Active | Mangroves | — |
+    | Georgia 🇬🇪 | 2022 | ✅ Active | RE, forests | Landfill gas to energy |
+    | Ukraine 🇺🇦 | 2022 | ✅ (partly suspended) | — | War impact |
+    | Malawi 🇲🇼 | 2022 | ✅ Active | Clean cooking | — |
+    | Senegal 🇸🇳 | 2023 | ✅ Active | Biogas, Great Green Wall | — |
+    | **Thailand 🇹🇭** | **2023** | ✅ **ITMO transferred Jan 2024** | — | 1,916 units transferred [^chth] |
+    | Chile 🇨🇱 | ~2023 | ✅ Active | — | — |
+    | Uruguay 🇺🇾 | ~2023 | ✅ Active | Climate smart agri | — |
+    | Tunisia 🇹🇳 | ~2023 | ✅ Active | — | — |
+    | Morocco 🇲🇦 | — | 🔄 Negotiating | RE | — |
+    | Vietnam 🇻🇳 | — | 🔄 Negotiating | — | — |
 
-## 最新動向（要確認）
-- [ ] ペルー以外でのITMO実移転進捗
-- [ ] 2030年目標に向けた調達量拡大計画の公表
-- [ ] A6.4（Article 6.4メカニズム）適合クレジットへの受入可否
+    > Additional bilateral partners bring total to ~16; check FOEN for current list: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [ペルー](peru.md)
-- [ガーナ](ghana.md)
-- [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
+    ## Methodology Approach (FOEN)
+
+    | Dimension | Switzerland FOEN Approach |
+    |-----------|--------------------------|
+    | Registry type | Accepts existing independent carbon crediting programmes |
+    | Approved registries | Verra VCS, Gold Standard (case-by-case per project) |
+    | Swiss-specific methodology | NOT required — uses established third-party registries |
+    | Risk evaluation | FOEN contracted **BeZero Carbon** for independent risk evaluations [^chbezero] |
+    | Key requirement | Additionality, CA, robust MRV; safeguard principle: only credits generating additional cuts approved |
+    | Project approval | FOEN and host country environmental authority jointly approve each project |
+
+    ## Procurement Track Record & Demand
+
+    | Metric | Data |
+    |--------|------|
+    | ITMO transfers completed | ≥2 confirmed: Peru (2023), Thailand (Jan 2024) [^chth] |
+    | Countries with active agreements | ~16 [^chcount] |
+    | Annual procurement budget | ~CHF 100–200M/yr (estimated) |
+    | Legal procurement obligation | Up to 50% of NDC = ~17.5 Mt CO₂e cumulative by 2030 |
+    | Gap to fill | Domestic reductions alone cannot close the 50% NDC gap — international credits required by law |
+
+    **Demand tightness**: Switzerland faces the most structurally binding demand among all A6.2 acquirers — the CO2 Act creates legal liability for procurement shortfall. This makes FOEN a predictable, law-driven buyer. Switzerland's insistence on high quality (BeZero risk assessment, CA mandatory) limits the supply pool but provides price support for compliant projects.
+
+    [^chcount]: A6 Implementation Partnership: <https://a6partnership.org/partners/switzerland>; FOEN bilateral agreements page: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^chfoen]: SQ Consult Switzerland bilateral analysis: <https://www.sqconsult.com/en/references/switzerlands-bilateral-agreement-with-ghana-peru-art62-193>
+    [^chperu]: World's first A6.2 ITMO transfer confirmed; source: FOEN and multiple carbon market press reports (2023)
+    [^chth]: Thailand ITMO transfer Jan 2024 (1,916 units); source: Swiss FOEN / carbon market reports
+    [^chbezero]: Carbon Herald, "BeZero to deliver risk assessments for Article 6.2 carbon credits for Switzerland": <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
+
+    ## Carbon Pricing System
+
+    Switzerland runs a **dual system**: a CO₂ levy (CHF 120/t ≈ US$133, applied to fossil fuels for heating/industrial use, not transport) and the Swiss ETS (linked to EU ETS since 2020, covering large industrial emitters). The Swiss ETS price tracks the EU ETS (~€50–70/t). The CO₂ levy revenues fund climate programs and building renovation incentives.
+
+    Switzerland's domestic carbon price is among the world's highest, yet domestic abatement options are limited (small fossil-fuel dependent economy with high renewable share), creating strong demand pull for international credits at prices well below the domestic levy rate.
+
+    ## Key Sources
+    - Switzerland NDC: <https://unfccc.int/NDCREG>
+    - FOEN bilateral agreements: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    - A6 Implementation Partnership: <https://a6partnership.org/partners/switzerland>
+    - ICAP Swiss ETS: <https://icapcarbonaction.com/en/ets/switzerland-emissions-trading-system-ets>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    スイスは世界で**最も積極的なA6.2調達国**。世界初のA6.2 ITMO移転（対ペルー、2023年）を実現し、現在**16カ国との二国間協定**[^chcount]を運用中。CO2法により、NDC削減目標の最大50%を国際移転で補完することが法的に義務付けられており、構造的な調達義務を持つ。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に1990年比50%削減（うち50%を国際調達で補完） |
+    | CO₂レビー | CHF 120/t（≈US$133）化石燃料課税（2024年） |
+    | ETS | スイスETS（EU ETSリンク）≈€50〜70/t |
+    | A6.2調達価格 | CHF 20〜50+/t（≈US$22〜56、案件別） |
+    | 国際調達上限 | NDC目標の最大50%（CO2法で法的義務） |
+    | 主管省庁 | FOEN（連邦環境森林景観局） |
+
+    ## 二国間A6.2協定状況（16カ国）[^chfoen]
+
+    | ホスト国 | 年 | 状況 | 備考 |
+    |---------|---|------|------|
+    | ペルー 🇵🇪 | 2020年 | ✅ **ITMO移転済み（2023）** | **世界初A6.2 ITMO移転** [^chperu] |
+    | ガーナ 🇬🇭 | 2021年 | ✅ 稼働中 | クックストーブ・REDD+ |
+    | ドミニカ 🇩🇲 | 2021年 | ✅ 稼働中 | 森林保全 |
+    | バヌアツ 🇻🇺 | 2021年 | ✅ 稼働中 | マングローブ |
+    | ジョージア 🇬🇪 | 2022年 | ✅ 稼働中 | 再エネ・森林 |
+    | ウクライナ 🇺🇦 | 2022年 | ✅（一部停止） | 戦争影響 |
+    | マラウイ 🇲🇼 | 2022年 | ✅ 稼働中 | クリーンクッキング |
+    | セネガル 🇸🇳 | 2023年 | ✅ 稼働中 | バイオガス・大グリーンウォール |
+    | **タイ 🇹🇭** | **2023年** | ✅ **ITMO移転済み（2024年1月）** | 1,916ユニット移転 [^chth] |
+    | チリ 🇨🇱 | 〜2023年 | ✅ 稼働中 | — |
+    | ウルグアイ 🇺🇾 | 〜2023年 | ✅ 稼働中 | 農業炭素 |
+    | チュニジア 🇹🇳 | 〜2023年 | ✅ 稼働中 | — |
+    | モロッコ 🇲🇦 | — | 🔄 交渉中 | 再エネ |
+    | ベトナム 🇻🇳 | — | 🔄 交渉中 | — |
+
+    ## 方法論アプローチ（FOEN）
+
+    | 項目 | スイスFOENのアプローチ |
+    |------|----------------------|
+    | 方法論種別 | 既存独立クレジット認証機関の方法論を活用（独自方法論は不要） |
+    | 承認登録簿 | Verra VCS、Gold Standard（案件別審査） |
+    | リスク評価 | BeZero Carbonによる独立リスク評価を委託 [^chbezero] |
+    | 主要要件 | 追加性・CA・強固なMRV必須。ホスト国環境当局との共同承認 |
+
+    ## 調達実績・需要見通し
+
+    - 完了済みITMO移転：ペルー（2023年）、タイ（2024年1月）の最低2件 [^chth]
+    - 2030年目標：国際調達分だけで約1,750万t CO₂e必要（NDC50%を国際調達で補完）
+    - 需要の硬直性：CO2法による法的義務のため、調達は義務的 → 価格交渉力は弱い
+
+    ## 炭素価格制度の概要
+
+    スイスは**二元型制度**：化石燃料（暖房・産業用）向けCO₂レビー（CHF 120/t）と、大規模排出者向けETS（EU ETSリンク、価格≈€50〜70/t）。CO₂レビー収入は気候プログラム・建物改修補助に活用。国内炭素価格は世界最高水準だが、削減ポテンシャルが限られるため、国際クレジットへの強い需要がある。
+
+    ## 関連ページ
+    - [ペルー](peru.md) — 世界初ITMO取引相手国
+    - [ガーナ](ghana.md) — ITMO実績
+    - [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
+    - [マトリクス](../matrix.md)

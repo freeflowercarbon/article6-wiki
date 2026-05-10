@@ -27,7 +27,7 @@
     > Source: Singapore NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=SGP>
     > NEA Carbon Tax: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/carbon-tax>
 
-    ## Implementation Agreement (IA) Network
+    ## Implementation Agreement (IA) Network [^sgIA]
 
     | Country | IA Signed | Status | Notes |
     |---------|-----------|--------|-------|
@@ -36,9 +36,33 @@
     | Rwanda 🇷🇼 | 2023 | ✅ Active | Forest conservation |
     | Bhutan 🇧🇹 | 2024 | ✅ Active | Hydropower + NBS |
     | Cambodia 🇰🇭 | 2024 | ✅ Active | NBS + JCM overlap |
-    | **Peru 🇵🇪** | **2024** | ✅ **Active** | **RFP1 award: 1 project** |
-    | **Paraguay 🇵🇾** | **2024** | ✅ **Active** | **RFP1 award: 1 project** |
+    | Peru 🇵🇪 | 2024 | ✅ Active | **RFP1 award: 1 project** |
+    | Paraguay 🇵🇾 | 2024 | ✅ Active | **RFP1 award: 1 project** |
+    | **Thailand 🇹🇭** | **2025** | ✅ **Active** | **IA signed Aug 2025** [^sgth] |
+    | **Vietnam 🇻🇳** | **2025** | ✅ **Active** | **IA signed Sep 2025** [^sgvn] |
+    | Chile 🇨🇱 | 2025 | ✅ Active | — |
+    | Mongolia 🇲🇳 | 2025 | ✅ Active | — |
     | Indonesia 🇮🇩 | — | 🔄 Negotiating | Post-Perpres 110/2025 |
+
+    ### MOU / Letter of Intent Countries [^sgMOU]
+
+    | Country | Status | Notes |
+    |---------|--------|-------|
+    | Colombia 🇨🇴 | 📋 MOU | — |
+    | Dominican Republic 🇩🇴 | 📋 MOU | — |
+    | Fiji 🇫🇯 | 📋 MOU | — |
+    | Kenya 🇰🇪 | 📋 MOU | — |
+    | Malaysia 🇲🇾 | 📋 MOU | — |
+    | Morocco 🇲🇦 | 📋 MOU | — |
+    | Philippines 🇵🇭 | 📋 MOU | — |
+    | Costa Rica 🇨🇷 | 📋 MOU | — |
+    | Zambia 🇿🇲 | 📋 MOU | — |
+    | Sri Lanka 🇱🇰 | 📋 MOU | — |
+
+    [^sgIA]: Singapore MSE Implementation Agreements: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^sgth]: Thailand IA signed August 2025; source: Singapore MSE
+    [^sgvn]: Vietnam IA signed September 2025; source: Singapore MSE
+    [^sgMOU]: Singapore MSE MOUs: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/sgs-article-6-cooperations/mous/>
 
     ## Reversal Risk Policy (Singapore IA)
 
@@ -90,6 +114,40 @@
 
     > UNFCCC Article 6 portal: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
     > RFP Round 2: <https://www.mti.gov.sg/newsroom/singapore-launches-second-request-for-proposals-for-high-quality-carbon-credits/>
+
+    ## Methodology Approach (Singapore IA)
+
+    Singapore uses a **country-specific Eligibility List** system: for each IA, Singapore and the host country bilaterally agree which carbon crediting programmes and methodologies are eligible.[^sgmeth]
+
+    | Dimension | Singapore IA Approach |
+    |-----------|----------------------|
+    | Registry type | Approved registries (positive list), not proprietary methodologies |
+    | Approved registries | Verra VCS, Gold Standard, American Carbon Registry (ACR), ART TREES, Global Carbon Council [^sgmeth2] |
+    | Methodology selection | Bilateral — each IA has its own approved methodology list |
+    | CCP requirement | Not mandatory, but highly valued; aligned criteria |
+    | Key constraint | CA (Corresponding Adjustment) mandatory for all approved projects |
+    | Special protocol | Verra + Gold Standard published joint Article 6.2 crediting protocol for Singapore [^sgproto] |
+
+    [^sgmeth]: Singapore NEA Eligibility Criteria: <https://www.nea.gov.sg/media/news/news/index/singapore-publishes-eligibility-list-for-international-carbon-credits-under-the-carbon-tax-regime>; MSE: <https://www.mse.gov.sg/latest-news/eligibility-criteria-for-internationalcarboncredits/>
+    [^sgmeth2]: Carbon Pulse, "Singapore adds ACR, ART TREES standards": <https://carbon-pulse.com/195068/>
+    [^sgproto]: Verra + Gold Standard joint protocol for Singapore: <https://verra.org/singapore-gold-standard-and-verra-publish-article-6-2-crediting-protocol/>
+
+    ## Procurement Track Record & Demand
+
+    | Metric | Data |
+    |--------|------|
+    | Carbon tax liable entities | ~700 [^sgctax] |
+    | RFP Round 1 volume contracted | 2,175,000 t CO₂e (2026–2030) [^sgRFP1] |
+    | RFP Round 1 price range | S$19–41/t (≈ US$14–30) [^sgRFP1] |
+    | RFP Round 1 total value | ~S$76M (~US$60M) [^sgRFP1] |
+    | ICC demand limit | Max 5% of each entity's carbon tax obligation |
+    | Implied total ICC demand (2026–27 at S$45/t) | Estimated ~1–3 Mt/yr (market estimates; not officially published) |
+
+    **Demand tightness**: Supply of eligible ITMOs remains very limited — Singapore's RFP1 attracted only 17 bidders for 2.175 Mt, and RFP2 (Oct 2025) expanded to technology credits partly because NBS supply is constrained.[^sgdemand]
+
+    [^sgctax]: NEA Carbon Tax: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/carbon-tax>
+    [^sgRFP1]: S&P Global RFP1 results: <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>; NCCS: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^sgdemand]: MTI Singapore RFP2 announcement: <https://www.mti.gov.sg/newsroom/singapore-launches-second-request-for-proposals-for-high-quality-carbon-credits/>
 
     ## CCP (ICVCM Core Carbon Principles) Alignment
 
