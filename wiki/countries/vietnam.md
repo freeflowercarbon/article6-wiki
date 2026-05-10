@@ -11,7 +11,7 @@
     | NDC Target | 43.5% reduction vs. BAU by 2030 (conditional); 15.8% unconditional |
     | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities); VVCS domestic standard |
     | JCM (Japan) | ✅ Since 2013; 35+ projects |
-    | Singapore IA | ⚪ Not yet; interest expressed |
+    | Singapore IA | ✅ Signed Sep 2025 |
     | Switzerland | 🔄 Under negotiation |
     | CA Framework | 🟡 Being built (MONRE-led MRV strengthening) |
 
@@ -36,6 +36,7 @@
     | JCM energy efficiency (industry) | Japan | 🟡 Processing | ~15 projects |
     | JCM biogas / agriculture | Japan | 🟡 Processing | ~10 projects |
     | Mekong Delta REDD+ (EMERGE) | World Bank (BioCarbon Fund) | 🟡 ERPA signed 2024 | ~5 Mt ERR |
+    | NBS pipeline (mangroves, forests) | Singapore | 🟡 Development (IA Sep 2025) | TBD |
     | Swiss bilateral NBS | Switzerland | 🔄 Negotiation stage | TBD |
 
     > JCM projects: <https://gec.jp/jcm/projects/>
@@ -79,7 +80,7 @@
     | 国内炭素制度 | ETS試験運用（2025〜2028年、500施設以上）、VVCS国内基準 |
     | 主管省庁 | MONRE（天然資源環境省） |
     | JCM状況 | 日本（2013年）✅ 35件以上 |
-    | IA状況 | シンガポール ⚪ 関心表明のみ |
+    | IA状況 | シンガポール ✅ 2025年9月署名 |
     | CA体制 | 🟡 MONRE主導で整備中 |
 
     ## NDC達成見込み
@@ -98,6 +99,7 @@
     | JCM省エネ（工業） | 日本 | 🟡 処理中（約15件） |
     | JCMバイオガス・農業 | 日本 | 🟡 処理中（約10件） |
     | メコンデルタREDD+（EMERGE） | 世界銀行 | 🟡 ERPA締結済み（2024年） |
+    | NBSパイプライン（マングローブ・森林） | シンガポール | 🟡 開発段階（IA 2025年9月署名） |
     | スイス二国間NBS | スイス | 🔄 交渉中 |
 
     ## CCP認証候補ボランタリープロジェクト

@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Cambodia signed Implementation Agreements with both **Japan (JCM, 2022)** and **Singapore (2024)**. It holds significant REDD+ potential in the Cardamom Mountains and Mekong floodplain forests. Cambodia's legal framework for carbon credit authorization was established under Sub-Decree 159 (2023), making it one of the more legally prepared Southeast Asian hosts.
+    Cambodia signed Implementation Agreements with both **Japan (JCM, 2022)** and **Singapore (2024)**. It holds significant REDD+ potential in the Cardamom Mountains and Mekong floodplain forests. The **Prey Lang REDD+ project** (Dec 2023, ~600,000 tCO₂e/yr) became the prototype NBS-JCM — the first JCM project without equipment export. Cambodia's legal framework for carbon credit authorization was established under Sub-Decree 159 (2023), making it one of the more legally prepared Southeast Asian hosts.
 
     | Item | Detail |
     |------|--------|
@@ -28,11 +28,12 @@
 
     ## Active Article 6.2 Projects
 
-    | Project | Partner | Status | Notes |
-    |---------|---------|--------|-------|
-    | JCM RE / energy efficiency | Japan | 🟡 First projects registering | JCM signed 2022 |
-    | NBS (Cardamom REDD+) | Singapore | 🟡 Development stage | Singapore IA 2024 |
-    | Clean energy / clean cooking | Singapore | 🟡 Early stage | — |
+    | Project | Partner | Status | Volume | Notes |
+    |---------|---------|--------|--------|-------|
+    | **Prey Lang REDD+ NBS-JCM** | Japan JCM | ✅ **A6.2 Authorized Dec 2023** | ~600,000 tCO₂e/yr | Prototype NBS-JCM (no equipment export) |
+    | JCM RE / energy efficiency | Japan | 🟡 First projects registering | — | JCM signed 2022 |
+    | NBS (Cardamom REDD+) | Singapore | 🟡 Development stage | TBD | Singapore IA 2024 |
+    | Clean energy / clean cooking | Singapore | 🟡 Early stage | TBD | — |
 
     > JCM projects: <https://gec.jp/jcm/projects/>
     > Singapore IA: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/singapore-s-international-climate-change-cooperation/international-cooperation-on-climate-change>
@@ -65,7 +66,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    カンボジアは日本JCM（2022年）とシンガポールIA（2024年）の双方にアクセスできるSE Asiaの新興ホスト国。Sub-Decree 159（2023年）で炭素クレジット授権の法的枠組みを確立。カルダモン山地・メコン流域の森林資源が主要なA6.2候補。
+    カンボジアは日本JCM（2022年）とシンガポールIA（2024年）の双方にアクセスできるSE Asiaの新興ホスト国。**Prey Lang REDD+ NBS-JCM**（2023年12月授権、約60万tCO₂e/年）は機器輸出を伴わない初のJCMプロトタイプ案件。Sub-Decree 159（2023年）で炭素クレジット授権の法的枠組みを確立。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -87,11 +88,12 @@
 
     ## 稼働中・承認済みA6.2プロジェクト
 
-    | 種別 | 相手 | 状況 |
-    |------|------|------|
-    | JCM再エネ・省エネ | 日本 | 🟡 初期プロジェクト登録中 |
-    | NBS（カルダモンREDD+） | シンガポール | 🟡 開発段階 |
-    | クリーンエネルギー | シンガポール | 🟡 初期段階 |
+    | 種別 | 相手 | 状況 | 規模 |
+    |------|------|------|------|
+    | **Prey Lang REDD+ NBS-JCM** | 日本JCM | ✅ **A6.2授権済み（2023年12月）** | 約60万tCO₂e/年 |
+    | JCM再エネ・省エネ | 日本 | 🟡 初期プロジェクト登録中 | — |
+    | NBS（カルダモンREDD+） | シンガポール | 🟡 開発段階 | TBD |
+    | クリーンエネルギー | シンガポール | 🟡 初期段階 | TBD |
 
     ## CCP認証候補ボランタリープロジェクト
 
