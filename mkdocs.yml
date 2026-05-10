@@ -1,11 +1,11 @@
 site_name: Article 6.2 Policy Wiki
-site_description: パリ協定 Article 6.2 政策状況トラッキングWiki
+site_description: Paris Agreement Article 6.2 Policy Tracker | パリ協定 Article 6.2 政策状況トラッキングWiki
 
 docs_dir: wiki
 
 theme:
   name: material
-  language: ja
+  language: en
   palette:
     scheme: default
     primary: teal
@@ -15,66 +15,80 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
+    - content.tabs.link
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 日本語
+      link: /
+      lang: ja
 
 nav:
-  - ホーム: index.md
-  - 二国間マトリクス: matrix.md
-  - 調達国（需要側）:
-    - 日本: countries/japan.md
-    - シンガポール: countries/singapore.md
-    - 韓国: countries/korea.md
-    - スイス: countries/switzerland.md
-    - スウェーデン: countries/sweden.md
-  - ホスト国（供給側）:
-    - 東南アジア:
-      - インドネシア: countries/indonesia.md
-      - ベトナム: countries/vietnam.md
-      - フィリピン: countries/philippines.md
-      - タイ: countries/thailand.md
-      - マレーシア: countries/malaysia.md
-      - カンボジア: countries/cambodia.md
-      - ラオス: countries/laos.md
-      - ミャンマー: countries/myanmar.md
-    - 大洋州・中央アジア:
-      - パプアニューギニア: countries/papua_new_guinea.md
-      - モンゴル: countries/mongolia.md
-      - ウズベキスタン: countries/uzbekistan.md
-      - カザフスタン: countries/kazakhstan.md
-      - ジョージア: countries/georgia.md
-      - パラオ: countries/palau.md
-      - モルディブ: countries/maldives.md
-    - 中南米:
-      - ペルー: countries/peru.md
-      - パラグアイ: countries/paraguay.md
-      - チリ: countries/chile.md
-      - コロンビア: countries/colombia.md
-      - メキシコ: countries/mexico.md
-      - コスタリカ: countries/costa_rica.md
-    - アフリカ:
-      - ガーナ: countries/ghana.md
-      - ルワンダ: countries/rwanda.md
-      - ケニア: countries/kenya.md
-      - セネガル: countries/senegal.md
-      - エチオピア: countries/ethiopia.md
-      - コートジボワール: countries/cote_divoire.md
-      - モロッコ: countries/morocco.md
-    - その他JCMパートナー:
-      - バングラデシュ: countries/bangladesh.md
-      - チュニジア: countries/tunisia.md
-      - モルドバ: countries/moldova.md
-      - アゼルバイジャン: countries/azerbaijan.md
-  - 協定詳細:
-    - 日本-インドネシア: agreements/japan-indonesia.md
-    - 日本-フィリピン: agreements/japan-philippines.md
-    - 日本-ラオス: agreements/japan-laos.md
-  - 制度詳細:
-    - シンガポール A6制度: singapore_ia_system.md
-    - JCMプロジェクトDB: projects_database.md
-  - 概念解説:
+  - Home | ホーム: index.md
+  - Matrix | マトリクス: matrix.md
+  - Acquiring Parties | 調達国:
+    - Japan | 日本: countries/japan.md
+    - Singapore | シンガポール: countries/singapore.md
+    - Korea | 韓国: countries/korea.md
+    - Switzerland | スイス: countries/switzerland.md
+    - Sweden | スウェーデン: countries/sweden.md
+    - CORSIA (International Aviation): buyers/corsia.md
+    - IMO (International Shipping): buyers/imo.md
+  - Host Countries | ホスト国:
+    - Southeast Asia | 東南アジア:
+      - Indonesia | インドネシア: countries/indonesia.md
+      - Vietnam | ベトナム: countries/vietnam.md
+      - Philippines | フィリピン: countries/philippines.md
+      - Thailand | タイ: countries/thailand.md
+      - Malaysia | マレーシア: countries/malaysia.md
+      - Cambodia | カンボジア: countries/cambodia.md
+      - Laos | ラオス: countries/laos.md
+      - Myanmar | ミャンマー: countries/myanmar.md
+    - Pacific & Central Asia | 大洋州・中央アジア:
+      - Papua New Guinea: countries/papua_new_guinea.md
+      - Mongolia | モンゴル: countries/mongolia.md
+      - Uzbekistan | ウズベキスタン: countries/uzbekistan.md
+      - Kazakhstan | カザフスタン: countries/kazakhstan.md
+      - Georgia | ジョージア: countries/georgia.md
+      - Palau | パラオ: countries/palau.md
+      - Maldives | モルディブ: countries/maldives.md
+    - Latin America | 中南米:
+      - Peru | ペルー: countries/peru.md
+      - Paraguay | パラグアイ: countries/paraguay.md
+      - Chile | チリ: countries/chile.md
+      - Colombia | コロンビア: countries/colombia.md
+      - Mexico | メキシコ: countries/mexico.md
+      - Costa Rica: countries/costa_rica.md
+    - Africa | アフリカ:
+      - Ghana | ガーナ: countries/ghana.md
+      - Rwanda | ルワンダ: countries/rwanda.md
+      - Kenya | ケニア: countries/kenya.md
+      - Senegal | セネガル: countries/senegal.md
+      - Ethiopia | エチオピア: countries/ethiopia.md
+      - Côte d'Ivoire: countries/cote_divoire.md
+      - Morocco | モロッコ: countries/morocco.md
+    - Other JCM Partners | その他JCM:
+      - Bangladesh | バングラデシュ: countries/bangladesh.md
+      - Tunisia | チュニジア: countries/tunisia.md
+      - Moldova | モルドバ: countries/moldova.md
+      - Azerbaijan | アゼルバイジャン: countries/azerbaijan.md
+  - Bilateral Agreements | 協定詳細:
+    - Japan-Indonesia: agreements/japan-indonesia.md
+    - Japan-Philippines: agreements/japan-philippines.md
+    - Japan-Laos: agreements/japan-laos.md
+  - System Details | 制度詳細:
+    - Singapore A6 System: singapore_ia_system.md
+    - JCM Project Database: projects_database.md
+  - Concepts | 概念解説:
     - ITMO: concepts/itmo.md
     - Corresponding Adjustment: concepts/corresponding_adjustment.md
     - JCM: concepts/jcm.md
-  - 収集ソース: _sources.md
+    - PACM (Article 6.4): concepts/pacm.md
+    - Reversal Risk | リバーサルリスク: concepts/reversal_risk.md
+  - Sources | 収集ソース: _sources.md
 
 plugins:
   - search:
@@ -88,3 +102,7 @@ markdown_extensions:
       permalink: true
   - admonition
   - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences
+  - pymdownx.details

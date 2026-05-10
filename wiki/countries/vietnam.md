@@ -1,61 +1,119 @@
-# ベトナム 🇻🇳 — Article 6.2 ホスト国状況
+# Vietnam 🇻🇳 | ベトナム — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCMの最大規模パートナーの一つ。エネルギー効率・再エネJCMプロジェクトが多数稼働中。国内炭素市場（ETS）の試験的運用を2025〜2028年に計画しており、制度整備が急速に進んでいる。CA（Corresponding Adjustment）手続きは未確立だが、世界銀行・スイスとの協議を通じて構築中。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2010年比43.5%削減（条件付き） |
-| 国内炭素制度 | ベトナムETS試験運用（2025〜2028）、国内VER（VVCS） |
-| 主管省庁 | MONRE（天然資源環境省） |
-| JCM状況 | 日本（2013〜）✅ 多数稼働 |
-| CA体制 | 整備中（MRV強化段階） |
-| NBS成熟度 | ⭐⭐⭐ |
+    Vietnam is Japan's **largest JCM partner** with 35+ active projects across energy efficiency, renewable energy, and agriculture. Following Decree 06/2022/ND-CP, Vietnam established a legal carbon market framework. A domestic ETS pilot launched in 2025 (power, steel, cement, chemicals). CA procedures are under construction, driven by World Bank support and Swiss bilateral discussions.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 43.5% reduction vs. BAU by 2030 (conditional); 15.8% unconditional |
+    | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities); VVCS domestic standard |
+    | JCM (Japan) | ✅ Since 2013; 35+ projects |
+    | Singapore IA | ⚪ Not yet; interest expressed |
+    | Switzerland | 🔄 Under negotiation |
+    | CA Framework | 🟡 Being built (MONRE-led MRV strengthening) |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2013年署名・多数稼働 | 太陽光・省エネ・農業分野 |
-| シンガポール 🇸🇬 | IA | 💬 関心表明 | 未締結 |
-| スイス 🇨🇭 | バイラテラル | 🔄 交渉中 | REDD+・再エネ検討 |
-| 韓国 🇰🇷 | — | 💬 | ASEAN連携の文脈 |
-| スウェーデン 🇸🇪 | — | 💬 | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (15.8%) | 🟢 Achievable with current trajectory |
+    | Conditional target (43.5%) | 🟡 Requires significant international finance and technology transfer |
+    | Key driver | RE transition (solar boom 2019–2023); energy efficiency programs |
+    | Key obstacle | Power sector restructuring; EVN dominance; coal phase-out timeline |
+    | GST 2023 Implication | Vietnam expected to raise 2035 NDC conditional ambition; unconditional baseline remains uncertain |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| REDD+（森林） | ⭐⭐⭐ 整備中 | 世銀EMERGEプログラム（メコンデルタ） |
-| マングローブ | ⭐⭐⭐⭐ 高ポテンシャル | 南部デルタ地帯に大規模資源 |
-| 水田メタン削減 | ⭐⭐ 検討中 | 方法論開発段階 |
-| 藻場・海草 | ⭐⭐ 調査段階 | — |
+    > Source: Vietnam NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=VNM>
+    > Decree 06/2022/ND-CP: <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
 
-## JCMプロジェクト（主要）
+    ## Active Article 6.2 Projects
 
-| 分野 | 件数（概算） | 備考 |
-|------|------------|------|
-| 再生可能エネルギー | 20+件 | 太陽光・風力 |
-| エネルギー効率 | 15+件 | 工場・ビル省エネ |
-| 農業・廃水処理 | 10+件 | バイオガス等 |
+    | Project Type | Partner | Status | Est. Volume |
+    |-------------|---------|--------|-------------|
+    | JCM solar + wind | Japan | 🟡 Processing toward A6.2 | ~20 projects |
+    | JCM energy efficiency (industry) | Japan | 🟡 Processing | ~15 projects |
+    | JCM biogas / agriculture | Japan | 🟡 Processing | ~10 projects |
+    | Mekong Delta REDD+ (EMERGE) | World Bank (BioCarbon Fund) | 🟡 ERPA signed 2024 | ~5 Mt ERR |
+    | Swiss bilateral NBS | Switzerland | 🔄 Negotiation stage | TBD |
 
-## 最新動向
+    > JCM projects: <https://gec.jp/jcm/projects/>
+    > World Bank EMERGE: <https://www.worldbank.org/en/country/vietnam/brief/emissions-reductions-program-in-mekong-delta>
 
-- **2023年**: Decree 06/2022/ND-CP施行。ベトナム炭素市場の法的基盤確立
-- **2024年**: 国内ETS対象施設（500施設以上）のMRV報告義務開始
-- **2025年**: ETS試験的運用開始予定（電力・鉄鋼・セメント・化学）
-- **世銀ERPA**: メコンデルタREDD+成果払い契約（2024〜）
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-## 課題・注意事項
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Mekong Delta Blue Carbon (mangroves) | Verra VCS VM0033 | Blue carbon / NBS | 🟡 Early development |
+    | Ca Mau Mangrove REDD+ | Verra VCS | Mangrove conservation | 🟡 Under development |
+    | Vietnam Industrial Energy Efficiency | GS/Verra prospective | Energy efficiency | 🟡 Not yet submitted |
 
-- CA手続きが未確立なため、JCMクレジットのA6.2適合性には追加的な整備が必要
-- 国内ETS導入と国際炭素市場の整合を巡り政府内で議論継続
-- 政策変更リスク：電力部門改革（EVN民営化）の影響
+    > ICVCM: <https://icvcm.org/assessment-process/>
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [JCM](../concepts/jcm.md)
-- [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | MONRE (Ministry of Natural Resources) | Carbon market, NDC, ETS | <https://www.monre.gov.vn/> |
+    | VINAFOR | Forest sector carbon | <https://www.vinafor.com.vn/> |
+    | MOF (Ministry of Finance) | ETS regulatory framework | <https://www.mof.gov.vn/> |
+    | MOIT (Ministry of Industry & Trade) | Energy JCM coordination | <https://www.moit.gov.vn/> |
+    | GEC Vietnam | JCM project support | <https://gec.jp/jcm/vn/> |
+
+    ## Key Sources
+    - Vietnam NDC: <https://unfccc.int/NDCREG>
+    - Decree 06/2022/ND-CP: <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
+    - JCM Vietnam projects: <https://gec.jp/jcm/projects/>
+    - World Bank EMERGE: <https://www.worldbank.org/en/country/vietnam/brief/emissions-reductions-program-in-mekong-delta>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    ベトナムは日本JCMの**最大規模パートナー**で、35件以上の稼働中プロジェクトを持つ。Decree 06/2022/ND-CPで炭素市場の法的枠組みを確立し、2025年からETSの試験運用を開始。CA手続きは整備中で、世界銀行支援およびスイスとの二国間協議が進行中。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比43.5%削減（条件付き）／15.8%（無条件） |
+    | 国内炭素制度 | ETS試験運用（2025〜2028年、500施設以上）、VVCS国内基準 |
+    | 主管省庁 | MONRE（天然資源環境省） |
+    | JCM状況 | 日本（2013年）✅ 35件以上 |
+    | IA状況 | シンガポール ⚪ 関心表明のみ |
+    | CA体制 | 🟡 MONRE主導で整備中 |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（15.8%） | 🟢 現行軌道で達成見込み |
+    | 条件付き目標（43.5%） | 🟡 大規模国際支援が必要 |
+    | GST後の方向性 | 2035年NDCで条件付き目標の引き上げが期待される |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | 種別 | 相手 | 状況 |
+    |------|------|------|
+    | JCM太陽光・風力 | 日本 | 🟡 A6.2化処理中（約20件） |
+    | JCM省エネ（工業） | 日本 | 🟡 処理中（約15件） |
+    | JCMバイオガス・農業 | 日本 | 🟡 処理中（約10件） |
+    | メコンデルタREDD+（EMERGE） | 世界銀行 | 🟡 ERPA締結済み（2024年） |
+    | スイス二国間NBS | スイス | 🔄 交渉中 |
+
+    ## CCP認証候補ボランタリープロジェクト
+
+    | プロジェクト | 規格 | 種別 | CCP状況 |
+    |------------|------|------|---------|
+    | メコンデルタブルーカーボン | Verra VCS VM0033 | ブルーカーボン | 🟡 開発初期 |
+    | Ca Mauマングローブ | Verra VCS | マングローブ保全 | 🟡 開発中 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | MONRE | 炭素市場・NDC・ETS | <https://www.monre.gov.vn/> |
+    | GEC ベトナム | JCMプロジェクト支援 | <https://gec.jp/jcm/vn/> |
+
+    ## 関連ページ
+    - [日本-ベトナム協定](../agreements/japan-vietnam.md)
+    - [マトリクス](../matrix.md)

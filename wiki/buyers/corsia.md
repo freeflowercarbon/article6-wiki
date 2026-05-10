@@ -1,0 +1,106 @@
+# CORSIA — International Aviation Carbon Market
+
+=== "🇬🇧 English"
+
+    ## Overview
+
+    **CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)** is ICAO's global market-based measure for international aviation CO₂ emissions. Airlines must offset growth in emissions above the 2019 baseline by purchasing CORSIA Eligible Units (CEUs). CORSIA represents a major demand driver for carbon credits globally — but does **NOT currently accept Article 6.2 ITMOs directly**.
+
+    ## Key Parameters
+
+    | Item | Detail |
+    |------|--------|
+    | Governing Body | ICAO (International Civil Aviation Organization) |
+    | Legal Basis | ICAO Assembly Resolution A39-3 (2016) |
+    | Emissions Baseline | 2019 actual emissions |
+    | Phase 1 (Voluntary) | 2021–2023 |
+    | Phase 2 (Mandatory) | 2024–2026 (most states) |
+    | Phase 3 (Full) | 2027+ |
+    | Unit Name | CORSIA Eligible Unit (CEU) |
+    | Current CEU Price | US$5–20/t (varies by type, vintage) |
+    | 2027–2030 Price Estimate | US$10–40/t |
+    | Total Demand 2024–2035 | ~2–5 billion t CO₂e (wide range) |
+    | A6.2 ITMO Acceptance | ❌ Not currently accepted |
+    | A6.4 PACM Unit Acceptance | 🔄 Under ICAO-UNFCCC discussion |
+
+    ## CORSIA-Eligible Carbon Programs (CEU Sources)
+
+    | Program | Standard | NBS Eligible | ICVCM CCP Status |
+    |---------|----------|-------------|-----------------|
+    | Verra VCS (via ACR/CAR/APA) | Verra | Yes (specific methodologies) | Partial (REDD+ still under review) |
+    | Gold Standard for Global Goals | GS | Yes | Partial |
+    | American Carbon Registry (ACR) | ACR | Yes | Some approved |
+    | Climate Action Reserve (CAR) | CAR | Limited | Limited |
+    | ART TREES (jurisdictional REDD+) | ART | Yes | High potential |
+
+    Full approved list: <https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx>
+
+    ## CORSIA vs. Article 6.2 Interface
+
+    A critical issue for the Article 6.2 ecosystem:
+
+    - CORSIA and Article 6.2 serve different regulatory frameworks. CORSIA units are approved by ICAO; Article 6.2 ITMOs are authorized by host country governments under UNFCCC.
+    - A credit **cannot simultaneously** count as both a CORSIA-eligible unit and an Article 6.2 ITMO without explicit recognition by both bodies.
+    - **Double-claiming risk**: If a seller country issues an ITMO (deducted from their NDC via CA) and the same physical credit is also sold as a CEU to an airline, this creates a double-counting problem.
+    - **Resolution path**: ICAO and UNFCCC are in formal dialogue. A6.4 PACM may provide the bridge — if A6.4ERs are recognized as CEUs, they would be the preferred pathway.
+
+    ## NDC / Climate Target
+
+    CORSIA does not have a national NDC, but ICAO's long-term sectoral goal:
+    - **Net zero CO₂ from international aviation by 2050** (CNG2050, adopted 2022)
+    - **2030**: Carbon neutral growth from 2019 baseline
+
+    ## NDC Achievement Outlook
+
+    | Metric | Status |
+    |--------|--------|
+    | CORSIA participation | ~90+ states; China, Russia not fully participating |
+    | Offsetting gap (2024–2026) | Moderate; most airlines on track for Phase 2 |
+    | Long-term gap to CNG2050 | Large — offsetting alone insufficient; SAF (Sustainable Aviation Fuel) is primary tool |
+    | GST implication | ICAO under pressure to tighten ambition post-GST 2023 |
+
+    ## Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | ICAO Environment | CORSIA administration | <https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx> |
+    | ICAO CAEP | Technical standards | <https://www.icao.int/environmental-protection/Pages/CAEP.aspx> |
+
+    ## Sources
+    - ICAO CORSIA main: <https://www.icao.int/environmental-protection/CORSIA/Pages/default.aspx>
+    - Eligible Units: <https://www.icao.int/environmental-protection/CORSIA/Pages/CORSIA-Emissions-Units.aspx>
+    - CNG2050 target: <https://www.icao.int/Newsroom/Pages/States-adopt-a-Long-Term-Aspirational-Goal-for-international-aviation.aspx>
+
+=== "🇯🇵 日本語"
+
+    ## 概要
+
+    **CORSIA（国際航空炭素相殺・削減スキーム）**はICAO（国際民間航空機関）が定める国際航空CO₂排出の市場型規制。航空会社は2019年比で増加した排出量をCORSIA適格ユニット（CEU）で相殺する義務を負う。炭素クレジット需要の主要ドライバーだが、**Article 6.2 ITMOを現時点で直接受け入れていない**。
+
+    ## 主要パラメータ
+
+    | 項目 | 内容 |
+    |------|------|
+    | 管轄機関 | ICAO（国際民間航空機関） |
+    | 排出基準 | 2019年実排出量 |
+    | フェーズ1（自主） | 2021〜2023年 |
+    | フェーズ2（義務） | 2024〜2026年（多数国） |
+    | フェーズ3（完全義務） | 2027年〜 |
+    | 適格ユニット（CEU）価格 | US$5〜20/t（種別・ヴィンテージによる） |
+    | 2027〜2030年予測価格 | US$10〜40/t |
+    | 総需要（2024〜2035年） | 約20〜50億t CO₂e（推定幅大） |
+    | A6.2 ITMO受入 | ❌ 現時点で不可 |
+    | A6.4 PACMユニット受入 | 🔄 ICAO-UNFCCC協議中 |
+
+    ## Article 6.2との関係上の重大問題
+
+    - CORSIAとArticle 6.2は別々の規制体系。CORSIAはICAOが認定、A6.2 ITMOはUNFCCC下で二国間政府が授権。
+    - 同一クレジットが**CEUとITMOを同時に兼ねることは不可**（両機関の明示的認定なしには）。
+    - **ダブルカウントリスク**：CAを適用してITMOとして移転したクレジットを、同時に航空会社向けCEUとして販売すると二重計上問題が発生。
+    - **解決の方向性**：A6.4 PACM（Article 6.4メカニズム）がCORSIA適格ユニットとして認定されれば、PACMが主要なブリッジになる可能性。
+
+    ## 関連ページ
+    - [PACM（Article 6.4）](../concepts/pacm.md)
+    - [IMO（国際海運）](imo.md)
+    - [ITMO概念](../concepts/itmo.md)
+    - [リバーサルリスク](../concepts/reversal_risk.md)

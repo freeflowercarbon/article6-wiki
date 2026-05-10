@@ -1,55 +1,95 @@
-# ルワンダ 🇷🇼 — Article 6.2 ホスト国状況
+# Rwanda 🇷🇼 | ルワンダ — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-シンガポールIA（2023年）パートナー。国土は小さいがアフリカ随一のガバナンスと透明性を持つ国。2024年に国家炭素市場ポリシーを策定し、A6.2への制度整備を加速中。ヴィルンガ山地（マウンテンゴリラ生息地）周辺の生態系保全が炭素市場の柱。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2015年比38%削減（条件付き） |
-| 国内炭素制度 | 国家炭素市場ポリシー（2024年策定） |
-| 主管省庁 | 環境省（MoE）、Rwanda Environment Management Authority (REMA) |
-| IA状況 | シンガポール（2023年）✅ |
-| CA体制 | ✅ 整備進行中 |
-| NBS成熟度 | ⭐⭐⭐ |
+    Rwanda signed an Implementation Agreement with Singapore in 2023, focusing on forest conservation and NBS carbon credits. Rwanda has strong governance credentials and an ambitious NDC (38% reduction, 16% unconditional). The country also received interest under the Swiss Article 6 pilot program. Smallholder agriculture and forest conservation are the main project opportunities.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 38% reduction vs. BAU by 2030 (16% unconditional) |
+    | Carbon System | No domestic ETS; REMA oversight |
+    | JCM (Japan) | ⚪ Not a JCM partner |
+    | Singapore IA | ✅ Signed 2023; projects in development |
+    | CA Framework | 🟡 Under development |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| シンガポール 🇸🇬 | IA | ✅ 2023年署名 | 森林・クリーンクッキング |
-| 日本 🇯🇵 | — | ⚪ | — |
-| スイス 🇨🇭 | — | ⚪ | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (16%) | 🟢 On track |
+    | Conditional target (38%) | 🟡 Requires substantial international support |
+    | Key driver | Forest conservation; clean energy; agriculture |
+    | GST 2023 Implication | Rwanda expected to raise 2035 NDC ambition conditional on climate finance |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| 山岳雨林（ヴィルンガ） | ⭐⭐⭐⭐ | ゴリラ保護区を核とした保全型炭素 |
-| 竹林・農業 | ⭐⭐⭐ | 高地農業とアグロフォレストリー |
-| 泥炭湿地 | ⭐⭐ | 研究段階 |
+    > Source: Rwanda NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=RWA>
 
-## ルワンダの強み
+    ## Active Article 6.2 Projects
 
-- **ガバナンス最優秀**: 腐敗認識指数でアフリカトップクラス
-- **政治的安定性**: カガメ政権下での長期的安定（批判もあるが投資面では予見可能）
-- **先住民・コミュニティ**: 村落レベルの炭素管理制度（Ubudehe）が基盤
-- **観光との相乗**: ゴリラトレッキング観光と保全炭素の統合モデル
+    | Project | Partner | Status | Notes |
+    |---------|---------|--------|-------|
+    | Forest conservation (Gishwati area) | Singapore | 🟡 Development stage | Singapore IA 2023 |
+    | Smallholder clean cooking | Singapore (prospective) | 🟡 Scoping | — |
 
-## 投資家視点
+    > Singapore IA: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/singapore-s-international-climate-change-cooperation/international-cooperation-on-climate-change>
 
-- **透明性と信頼性**: アフリカで最も信頼できるカウンターパートの一つ
-- **規模の限界**: 国土小（2.6万km²）のため、供給量は限定的
-- **機会**: シンガポールIA下でのプレミアム炭素クレジット（生物多様性共便益付き）
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-## 最新動向（要確認）
-- [ ] 国家炭素市場ポリシー（2024年）の施行令整備
-- [ ] シンガポールIA下での第1号プロジェクト認定
-- [ ] ゴリラ保護区の炭素クレジット化進捗
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Gishwati-Mukura REDD+ | Verra VCS (prospective) | REDD+ / forest | 🟡 Pre-development |
+    | Rwanda Agroforestry | Gold Standard | Smallholder NBS | 🟡 Early stage |
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [シンガポール A6制度](../singapore_ia_system.md)
-- [ガーナ](ghana.md)
+    > ICVCM: <https://icvcm.org/assessment-process/>
+
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | REMA (Rwanda Environment Management Authority) | NDC, carbon market | <https://www.rema.gov.rw/> |
+    | MININFRA | Energy projects | <https://www.mininfra.gov.rw/> |
+    | MINAGRI | Agriculture carbon | <https://www.minagri.gov.rw/> |
+
+    ## Key Sources
+    - Rwanda NDC: <https://unfccc.int/NDCREG>
+    - REMA: <https://www.rema.gov.rw/>
+    - Singapore IA: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/singapore-s-international-climate-change-cooperation/international-cooperation-on-climate-change>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    ルワンダはシンガポールIA（2023年）を締結し、森林保全・NBS分野でのクレジット供給を目指す。ガバナンスが良好で、NDC目標（38%削減、無条件16%）も野心的。農業・森林分野が主要プロジェクト機会。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比38%削減（無条件：16%） |
+    | 主管省庁 | REMA（ルワンダ環境管理局） |
+    | シンガポールIA | ✅ 2023年署名（開発段階） |
+    | CA体制 | 🟡 整備中 |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（16%） | 🟢 順調 |
+    | 条件付き目標（38%） | 🟡 大規模国際支援が必要 |
+    | GST後の方向性 | 気候資金を条件に2035年NDCの引き上げが見込まれる |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | プロジェクト | 相手 | 状況 |
+    |------------|------|------|
+    | 森林保全（Gishwati地域） | シンガポール | 🟡 開発段階 |
+    | 小規模農家クリーンクッキング | シンガポール（予定） | 🟡 スコーピング中 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | REMA | NDC・炭素市場 | <https://www.rema.gov.rw/> |
+
+    ## 関連ページ
+    - [シンガポール A6制度](../singapore_ia_system.md)
+    - [マトリクス](../matrix.md)

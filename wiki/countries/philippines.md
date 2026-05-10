@@ -1,58 +1,116 @@
-# フィリピン — Article 6.2 政策状況
+# Philippines 🇵🇭 | フィリピン — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10 | ソース: [[raw/countries/philippines/carbon_market_framework]], [[raw/countries/philippines/jcm_japan]]
+=== "🇬🇧 English"
 
-## サマリー
-フィリピンはArticle 6.2において**潜在的な売国**だが、国内カーボン市場の整備が途上。日本とのJCM協定（2017年）が唯一の二国間クレジット枠組み。政府はカーボン市場に前向きだが、法的枠組みと登録簿整備に時間がかかっている。インドネシアに比べて輸出規制リスクは低いが、制度未成熟リスクがある。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に対BAU比75%削減（うち無条件2.71%） |
-| NDC提出年 | 2021年 |
-| 国内炭素価格制度 | 未導入（検討中） |
-| 主管省庁 | DENR（環境天然資源省）、CCC |
-| Article 6.2の役割 | 売国候補（制度整備中） |
+    The Philippines is a Japan JCM partner (2017) with emerging NBS opportunities. The 2025 **DAO 2025-23** established the Voluntary Forest Carbon Market (VFCM) roadmap, recognizing carbon rights independently from land ownership. An MOU with Singapore on Article 6.2 cooperation was signed, laying groundwork for future IA. JCM paddy methane and forestry methodologies approved in 2025 open significant new pipelines.
 
-## Article 6.2二国間合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 75% reduction vs. BAU by 2030 (only 2.71% unconditional) |
+    | Carbon System | None yet; VFCM framework under development |
+    | JCM (Japan) | ✅ Since 2017 |
+    | Singapore IA | 📋 MOU signed; IA negotiation pending |
+    | CA Framework | 🔴 Not yet established |
 
-| 相手国 | 制度 | 状況 |
-|--------|------|------|
-| 日本 | JCM（2017〜） | 🟡 CA適用協議中 |
-| シンガポール | なし | ⚪ 未開始 |
-| インドネシア | なし | ⚪ |
-| ラオス | なし | ⚪ |
+    ## NDC Achievement Status
 
-## 国内制度整備状況
-| 制度 | 状況 |
-|------|------|
-| Executive Order No.14 (2023) | 施行済み ✅ |
-| カーボン市場フレームワーク | 策定中 🟡 |
-| 国家登録簿（MRV） | 整備途上 🟡 |
-| ETS/カーボン税 | 未導入 ❌ |
-| Article 6.2 Authorization体制 | 未整備 ❌ |
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (2.71%) | 🟢 Already achievable |
+    | Conditional target (75%) | 🔴 Almost entirely conditional — near-impossible without massive international finance |
+    | Key driver | Renewable energy transition; AFOLU |
+    | GST 2023 Implication | Philippines likely to push developed countries for higher climate finance at GST — unlikely to raise unconditional NDC |
 
-## 炭素ポテンシャル
-- 再生可能エネルギー（風力・地熱・太陽光）
-- 林業・土地利用（AFOLU）
-- 廃棄物処理
+    > Source: Philippines NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PHL>
 
-## 投資家視点での評価
-**機会**: 整備途上 → 早期参入で有利なクレジット獲得の可能性
-**リスク**: Authorization制度が未整備のため、プロジェクト開発後に輸出承認が得られないリスク
+    ## Active Article 6.2 Projects
 
-## 最新動向（2025〜2026年 重要更新）
-- ✅ **DAO 2025-23（DENR）**: Voluntary Forest Carbon Market（VFCM）ロードマップ公布。NBS炭素権を土地所有権から独立した財産権として認定
-- ✅ **シンガポールとMOU締結**: Article 6.2協力に関するMOU。DENRがIA実施フレームワーク担当
-- ✅ **水田メタン削減方法論（2025年2月）**: 日比JCM合同委員会が世界初承認（[JIRCAS](https://www.jircas.go.jp/en/reports/2024/r20250204)）
-- ✅ **森林JCMガイドライン（REDD+・植林A/R）承認（2025年11月）**: 第2回JCM合同委員会（[JC Meeting Report](https://www.jcm.go.jp/jc_decisions/2891/JCM_PH_JC02_Mtg_Rep.pdf)、[QC Intel](https://www.qcintel.com/carbon/article/philippines-japan-approve-guidelines-for-forestry-jcm-projects-52408.html)）
-- ✅ **水田クレジットパイプライン急拡大**: Green Carbon（40,000ha・1M t/10年）、Yanmar、Shell、Kanematsu等が参入（[[projects_database]]参照）
-- [ ] DENRのAuthorization発行体制確立スケジュール
-- [ ] シンガポールとのIA正式締結タイムライン
-- [ ] Philippine Carbon Exchange（PCEx）の開設状況
+    | Project Type | Partner | Status | Notes |
+    |-------------|---------|--------|-------|
+    | JCM renewable energy | Japan | 🟡 Pipeline; CA pending | Geothermal, solar |
+    | JCM paddy methane (new) | Japan | 🟡 Pipeline | World-first methodology approved Feb 2025 |
+    | JCM forestry (REDD+, A/R) | Japan | 🟡 Pipeline | **Ph.4 Forest-specific Guidelines approved Nov 2025** — first in region |
+    | Clean cooking | Prospective SG IA | 💬 MOU stage | — |
 
-## 関連ページ
-- [[concepts/jcm]]
-- [[agreements/japan-philippines]]
-- [[countries/indonesia]] — 比較参考（同様の開発段階）
-- [[matrix]]
+    > JCM Projects: <https://gec.jp/jcm/projects/>
+    > DENR DAO 2025-23: <https://www.denr.gov.ph/> (search VFCM)
+    > UNFCCC A6 portal: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
+
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
+
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Winrock A/R projects (Mindanao) | Verra VCS VM0012 | Reforestation | 🟡 Under ICVCM review |
+    | Palawan REDD+ | Verra VCS | REDD+ | 🟡 Under ICVCM review |
+    | Paddy AVC methodologies (new) | JCM + prospective Verra | Agriculture | 🟡 Methodology development |
+    | Green Carbon paddy pipeline (40,000 ha) | JCM | Paddy methane | 🟡 New pipeline |
+
+    > ICVCM: <https://icvcm.org/assessment-process/>
+
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | DENR (Dept. of Environment) | VFCM, carbon rights, A6.2 | <https://www.denr.gov.ph/> |
+    | EMB (Environmental Management Bureau) | Carbon market registry | <https://emb.gov.ph/> |
+    | CCC (Climate Change Commission) | NDC coordination | <https://climate.gov.ph/> |
+    | DOE (Dept. of Energy) | Renewable energy JCM | <https://www.doe.gov.ph/> |
+
+    ## Key Sources
+    - Philippines NDC: <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PHL>
+    - DENR: <https://www.denr.gov.ph/>
+    - DAO 2025-23 (VFCM): <https://www.denr.gov.ph/> (search DAO 2025-23)
+    - JCM paddy methodology: <https://www.jircas.go.jp/en/reports/2024/r20250204>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    フィリピンはArticle 6.2において**潜在的なホスト国**。日本とのJCM協定（2017年）が唯一の二国間クレジット枠組み。2025年のDAO 2025-23（VFCM枠組み）、水田メタン削減・森林JCM方法論承認により、NBS分野で新たなパイプラインが形成中。Authorization体制整備が急務。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比75%削減（無条件：2.71%のみ） |
+    | 国内炭素制度 | 未導入（VFCM枠組み整備中） |
+    | 主管省庁 | DENR（環境天然資源省）、CCC |
+    | JCM状況 | 日本（2017年）✅ |
+    | IA状況 | シンガポールとMOU署名（IA交渉未開始） |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（2.71%） | 🟢 達成済み |
+    | 条件付き目標（75%） | 🔴 国際支援なしには事実上不可能 |
+    | GST後の方向性 | 先進国への気候資金拡大要求を強める方向。無条件目標の引き上げは困難 |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | 種別 | 相手 | 状況 |
+    |------|------|------|
+    | JCM再エネ（地熱・太陽光） | 日本 | 🟡 CA待ち |
+    | JCM水田メタン削減（新方法論） | 日本 | 🟡 世界初承認（2025年2月） |
+    | JCM森林（REDD+・A/R） | 日本 | 🟡 **Ph.4森林専用JCMガイドライン承認（2025年11月）** — 地域初 |
+
+    ## CCP認証候補ボランタリープロジェクト
+
+    | プロジェクト | 規格 | 種別 | CCP状況 |
+    |------------|------|------|---------|
+    | Palawan REDD+ | Verra VCS | REDD+ | 🟡 ICVCM審査中 |
+    | 水田AVCメソドロジー群 | JCM＋Verra見込み | 農業 | 🟡 開発中 |
+    | Green Carbon水田パイプライン（4万ha） | JCM | 水田メタン | 🟡 新規 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | DENR | VFCM・炭素権・A6.2 | <https://www.denr.gov.ph/> |
+    | EMB | 炭素市場登録簿 | <https://emb.gov.ph/> |
+    | CCC | NDC調整 | <https://climate.gov.ph/> |
+
+    ## 関連ページ
+    - [日本-フィリピン協定](../agreements/japan-philippines.md)
+    - [インドネシア](indonesia.md)
+    - [マトリクス](../matrix.md)

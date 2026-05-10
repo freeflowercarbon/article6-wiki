@@ -1,48 +1,104 @@
-# パラグアイ 🇵🇾 — Article 6.2 ホスト国状況
+# Paraguay 🇵🇾 | パラグアイ — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-南米内陸国。グランチャコ（世界第2位の乾燥林）という大規模NBS資源を持つが、A6.2のバイラテラル合意は未締結。ボランタリー炭素市場での活動が限定的で、制度整備は初期段階。日本JCMも未締結。豊富な水力発電（イタイプー、ヤシレタ）で電力の98%を再エネで賄っており、追加的な排出削減余地は限定的。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2000年比20%削減（条件付き30%） |
-| 国内炭素制度 | なし |
-| 主管省庁 | 環境省（MADES） |
-| JCM状況 | ⚪ 未締結 |
-| IA状況 | ⚪ 未締結 |
-| CA体制 | 未整備 |
-| NBS成熟度 | ⭐⭐（資源あり・制度なし） |
+    Paraguay is a **Singapore IA partner (2024)** and **won a Singapore RFP Round 1 contract** for Gran Chaco forest conservation — one of only 4 projects globally awarded. Despite limited prior A6.2 institutional development, the Singapore contract is a significant activation event. The Gran Chaco is the world's second-largest dry forest (after the Amazon), with high deforestation pressure from cattle and soy expansion.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 20% reduction vs. 2000 by 2030 (conditional 30%) |
+    | Carbon System | No ETS; MADES oversight |
+    | JCM (Japan) | ⚪ Not a JCM partner |
+    | Singapore IA | ✅ Signed 2024; **RFP Round 1 award** (Gran Chaco forest) |
+    | Switzerland | ⚪ No agreement |
+    | CA Framework | 🟡 Being built — activated by Singapore RFP1 contract |
 
-| 調達国 | 制度 | 状況 |
-|--------|------|------|
-| 全調達国 | — | ⚪ 未着手 |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (20%) | 🟢 Achievable — 98% renewable electricity from Itaipu/Yacyretá |
+    | Conditional target (30%) | 🟡 Requires international support for LULUCF sector |
+    | Key challenge | Deforestation (Gran Chaco + Eastern Forest): agriculture conversion is among the world's highest rates |
+    | GST 2023 Implication | Paraguay expected to strengthen LULUCF targets; Singapore RFP1 demonstrates A6.2 path |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| グランチャコ乾燥林 | ⭐⭐⭐ ポテンシャル | 世界2位の乾燥林。急速に農地転換が進む |
-| パラグアイ東部熱帯林 | ⭐⭐ | 残存面積は減少中 |
-| 農業炭素（大豆農地） | ⭐ | 持続可能農業との組み合わせが必要 |
+    > Source: Paraguay NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRY>
 
-## 課題・注意事項
+    ## Active Article 6.2 Projects
 
-- **森林減少リスク**: 大豆・牛肉生産のための農地開発が世界最速水準で進行
-- **制度空白**: バイラテラル協定なし、国内炭素制度なしで、A6.2実施には大幅な整備が必要
-- **アクセス問題**: 内陸国で輸送インフラが限られる
+    | Project | Partner | Status | Volume | Notes |
+    |---------|---------|--------|--------|-------|
+    | Gran Chaco dry forest conservation | Singapore | ✅ **RFP1 contract awarded Sept 2025** | ~285,000 t (2026–2030) | S$19–41/t |
 
-## 投資家視点
+    > NCCS RFP1 Award: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    > MTI Singapore RFP: <https://www.mti.gov.sg/newsroom/singapore-launches-second-request-for-proposals-for-high-quality-carbon-credits/>
 
-- **ポテンシャルはあるが**: チャコ林の炭素量は大きいが、農地転換圧力との競合が激しい
-- **現時点では時期尚早**: A6.2調達国との正式合意なし。ボランタリー市場経由のアクセスが現実的
-- **将来的機会**: 南米チャコ保全プログラム（World Bank等）との連携でA6.2移行の可能性
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [ペルー](peru.md) — 南米先進事例
-- [コロンビア](colombia.md)
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Gran Chaco REDD+ (prospective) | Verra VCS (prospective) | Dry forest conservation | 🟡 Pre-development |
+    | Paraguayan Eastern Forest | Verra VCS (prospective) | REDD+ | 🟡 Early stage |
+
+    > ICVCM: <https://icvcm.org/assessment-process/>
+
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | MADES (Ministry of Environment) | Carbon credits, NDC | <https://www.mades.gov.py/> |
+    | INFONA (National Forest Institute) | Forest carbon | <https://www.infona.gov.py/> |
+    | STP (Technical Planning Secretariat) | Investment coordination | <https://www.stp.gov.py/> |
+
+    ## Key Sources
+    - Paraguay NDC: <https://unfccc.int/NDCREG>
+    - MADES: <https://www.mades.gov.py/>
+    - NCCS Singapore RFP1 Award: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    パラグアイはシンガポールIA（2024年）を締結し、**グランチャコ乾燥林保全プロジェクトでRFP第1回を落札**（2025年9月）。世界4件の落札プロジェクトの一つ。グランチャコは世界第2位の乾燥林（アマゾンに次ぐ）で、牧畜・大豆農業による森林転換圧力が世界最高水準。電力の98%は水力（イタイプー・ヤシレタ）でカバー。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に2000年比20%削減（条件付き：30%） |
+    | 国内炭素制度 | ETS未導入；MADES（環境省）が主管 |
+    | 主管省庁 | MADES（環境省） |
+    | シンガポールIA | ✅ 2024年署名・**RFP1落札**（グランチャコ森林） |
+    | CA体制 | 🟡 整備中（シンガポール契約を機に加速） |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（20%） | 🟢 達成可能（再エネ電力98%が寄与） |
+    | 条件付き目標（30%） | 🟡 LULUCF分野の国際支援が必要 |
+    | GST後の方向性 | LULUCF目標の強化が期待。Singapore RFP1がA6.2の具体的パスを示した |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | プロジェクト | 相手 | 状況 | 規模 |
+    |------------|------|------|------|
+    | グランチャコ乾燥林保全 | シンガポール | ✅ **RFP1落札（2025年9月）** | 約28.5万t（2026〜2030年） |
+
+    ## CCP認証候補ボランタリープロジェクト
+
+    | プロジェクト | 規格 | 種別 | CCP状況 |
+    |------------|------|------|---------|
+    | グランチャコREDD+（予定） | Verra VCS（予定） | 乾燥林保全 | 🟡 開発前段階 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | MADES（環境省） | 炭素クレジット・NDC | <https://www.mades.gov.py/> |
+    | INFONA | 森林炭素 | <https://www.infona.gov.py/> |
+
+    ## 関連ページ
+    - [シンガポール A6制度](../singapore_ia_system.md)
+    - [ペルー](peru.md) — 南米先進事例（同時RFP1落札）
+    - [マトリクス](../matrix.md)

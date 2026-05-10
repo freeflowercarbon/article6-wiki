@@ -1,68 +1,114 @@
-# ペルー 🇵🇪 — Article 6.2 ホスト国状況
+# Peru 🇵🇪 | ペルー — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-**世界初のA6.2 ITMO実移転を実現した国**（2023年、対スイス）。アマゾン熱帯雨林という世界最大級のNBS資源を持ち、A6.2実施において最も先行するホスト国の一つ。スイスとの二国間協定（2020年）が制度整備の礎となっており、投資家にとって最も制度的に確認しやすいA6.2先進事例。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2010年比40%削減（条件付き） |
-| 国内炭素制度 | 準備中（炭素税・REDD+制度） |
-| 主管省庁 | 環境省（MINAM） |
-| スイス二国間 | ✅ 2020年署名・2023年ITMO移転実施 |
-| 日本JCM | ⚪ 未締結 |
-| CA体制 | ✅ 整備済み（スイス連携） |
-| NBS成熟度 | ⭐⭐⭐⭐⭐ |
+    Peru is the **world's first Article 6.2 ITMO transfer country** (Switzerland, 2023) and holds the **largest Amazon rainforest** outside Brazil (~740,000 km²). It is also a Singapore IA partner (2024) and **won a Singapore RFP Round 1 contract** — one of only 4 projects globally. Peru has the most battle-tested A6.2 CA framework in Latin America.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 40% reduction vs. 2010 by 2030 (conditional); ~30% unconditional |
+    | Carbon System | No ETS; carbon credit framework under MINAM |
+    | JCM (Japan) | ⚪ Not a JCM partner |
+    | Singapore IA | ✅ Signed 2024; **RFP Round 1 award** (Amazon REDD+) |
+    | Switzerland | ✅ Signed 2020; **world's first A6.2 ITMO transfer (2023)** |
+    | CA Framework | ✅ Operational — most mature in Latin America |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| スイス 🇨🇭 | バイラテラル | ✅ 2020年署名・2023年ITMO移転済 | **世界初A6.2実移転** |
-| 日本 🇯🇵 | JCM | ⚪ 未締結 | — |
-| シンガポール 🇸🇬 | IA | ⚪ | — |
-| 韓国 🇰🇷 | — | ⚪ | — |
-| スウェーデン 🇸🇪 | — | 💬 | 検討中 |
+    ## NDC Achievement Status
 
-## 世界初A6.2 ITMO取引の詳細（ペルー×スイス、2023年）
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (~30%) | 🟢 Achievable with current policies |
+    | Conditional target (40%) | 🟡 Requires international finance |
+    | Key driver | Amazon REDD+; RE expansion; energy efficiency |
+    | Key risk | Illegal mining, agriculture-driven deforestation |
+    | GST 2023 Implication | Peru expected to raise 2035 NDC; Amazon conservation key pillar |
 
-- **プロジェクト**: 都市型省エネ・クリーンクッキング（南部・中部）
-- **CA記帳**: ペルー政府がNDCに対応するITMO量を正式控除記帳
-- **意義**: A6.2の会計ルール（Corresponding Adjustment）の実例を世界で初めて示した
-- **規模**: 数万t-CO2e規模（詳細非公開）
-- **検証**: 第三者独立検証実施済み
+    > Source: Peru NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
 
-## NBS状況
+    ## Active Article 6.2 Projects
 
-| 分野 | 状況 | 規模・備考 |
-|------|------|-----------|
-| アマゾン熱帯雨林REDD+ | ⭐⭐⭐⭐⭐ | 世界2位の熱帯雨林保有国（約74万km²） |
-| アンデス高山生態系 | ⭐⭐⭐ | 希少生態系・高い生物多様性 |
-| マングローブ（北部） | ⭐⭐⭐ | 太平洋岸北部に分布 |
-| 農業土壌（コーヒー等） | ⭐⭐ | アグロフォレストリー |
+    | Project | Partner | Status | Volume | Notes |
+    |---------|---------|--------|--------|-------|
+    | Clean cooking / urban efficiency | Switzerland | ✅ **ITMO transferred 2023** | ~tens of thousands t | World first A6.2 transfer |
+    | Amazon REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | ~540,000 t (2026–2030) | S$19–41/t |
+    | REDD+ expansion | Switzerland (ongoing) | 🟡 Pipeline | TBD | — |
 
-## 課題
+    > Switzerland FOEN: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    > NCCS RFP1 Award: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
 
-- **先住民の権利**: アマゾン流域の先住民コミュニティとの Free, Prior and Informed Consent（FPIC）が必須
-- **開発圧力**: 違法採掘・農地開発による森林減少が継続
-- **制度面**: 国内炭素税制度の整備が遅れており、国内外の制度連携が課題
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-## 投資家視点
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Madre de Dios REDD+ | Verra VCS VM0009 | Amazon REDD+ | 🟡 Under ICVCM review |
+    | Tambopata REDD+ | Verra VCS | Amazon forest | 🟡 Under ICVCM review |
+    | Peru Amazon Conservation (portfolio) | Verra VCS / GS | REDD+ | 🟡 Multiple projects |
+    | Andean ecosystem (puna grasslands) | GS (prospective) | NBS / grasslands | 🟡 Pre-development |
 
-- **最高の制度的確実性**: A6.2 ITMO移転実績があるため、CA手続きの実態を確認済み
-- **NBS資源の巨大さ**: アマゾン保全型REDD+の供給ポテンシャルは南米最大級
-- **スイス優先枠**: 既存のバイラテラル合意がスイス優先枠を設定している可能性
-- **機会**: 日本・シンガポールとのバイラテラル拡大の余地
+    > ICVCM: <https://icvcm.org/assessment-process/>
 
-## 最新動向（要確認）
-- [ ] スイスとのITMO移転量の拡大計画
-- [ ] 日本・シンガポールとのバイラテラル協定交渉開始の有無
-- [ ] 国内REDD+制度とA6.2の整合性確認
+    ## Government Contact Points
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [スイス](switzerland.md) — 取引カウンターパート
-- [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
-- [ITMO](../concepts/itmo.md)
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | MINAM (Ministry of Environment) | Carbon market, NDC, A6.2 | <https://www.gob.pe/minam> |
+    | SERNANP (National Protected Areas) | REDD+ in protected areas | <https://www.gob.pe/sernanp> |
+    | SERFOR (National Forestry) | Forest carbon, REDD+ | <https://www.gob.pe/serfor> |
+    | PROINVERSIÓN | Investment facilitation | <https://www.proinversion.gob.pe/> |
+
+    ## Key Sources
+    - Peru NDC: <https://unfccc.int/NDCREG>
+    - Switzerland bilateral (FOEN): <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    - NCCS Singapore RFP1 Award: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    - MINAM: <https://www.gob.pe/minam>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    ペルーは**世界初のA6.2 ITMO移転国**（スイス、2023年）であり、ブラジル以外では最大のアマゾン熱帯雨林（約74万km²）を保有。シンガポールIA（2024年）も締結し、**RFP第1回を落札**（アマゾンREDD+）。ラテンアメリカで最も成熟したCA体制を持つA6.2先進ホスト国。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に2010年比40%削減（条件付き）/ 約30%（無条件） |
+    | 国内炭素制度 | ETS未導入；MINAM主導の炭素クレジット枠組み |
+    | 主管省庁 | MINAM（環境省） |
+    | シンガポールIA | ✅ 2024年署名・**RFP1落札**（アマゾンREDD+） |
+    | スイス二国間 | ✅ 2020年署名・**2023年ITMO移転済み（世界初）** |
+    | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟） |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（約30%） | 🟢 現行政策で達成見込み |
+    | 条件付き目標（40%） | 🟡 国際支援が必要 |
+    | GST後の方向性 | 2035年NDCでアマゾン保全を柱とした目標引き上げが期待される |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | プロジェクト | 相手 | 状況 | 規模 |
+    |------------|------|------|------|
+    | クリーンクッキング・省エネ | スイス | ✅ **ITMO移転済み（2023年）** | 数万t（非公表） |
+    | アマゾンREDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 約54万t（2026〜2030年） |
+
+    ## CCP認証候補ボランタリープロジェクト
+
+    | プロジェクト | 規格 | 種別 | CCP状況 |
+    |------------|------|------|---------|
+    | Madre de Dios REDD+ | Verra VCS VM0009 | アマゾンREDD+ | 🟡 ICVCM審査中 |
+    | Tambopata REDD+ | Verra VCS | 熱帯林 | 🟡 ICVCM審査中 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | MINAM（環境省） | 炭素市場・NDC・A6.2 | <https://www.gob.pe/minam> |
+    | SERFOR | 森林炭素・REDD+ | <https://www.gob.pe/serfor> |
+
+    ## 関連ページ
+    - [スイス](switzerland.md) — 取引カウンターパート（世界初）
+    - [シンガポール A6制度](../singapore_ia_system.md)
+    - [マトリクス](../matrix.md)

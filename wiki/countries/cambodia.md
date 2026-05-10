@@ -1,59 +1,113 @@
-# カンボジア 🇰🇭 — Article 6.2 ホスト国状況
+# Cambodia 🇰🇭 | カンボジア — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2022年）とシンガポールIA（2024年）の双方にアクセスできる、東南アジアで最も有利なポジションにある新興ホスト国。カルダモン山脈・コーコン湿原など大規模なNBS資源を保有。ボランタリー市場では既に主要プロジェクトが稼働中だが、A6.2適合のCA体制整備は初期段階。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2016年比42%削減（条件付き） |
-| 国内炭素制度 | 国家炭素クレジット枠組み構築中 |
-| 主管省庁 | 環境省（MoE）、経済財政省 |
-| JCM状況 | 日本（2022年）✅ |
-| IA状況 | シンガポール（2024年）✅ |
-| CA体制 | 整備初期段階 |
-| NBS成熟度 | ⭐⭐⭐ |
+    Cambodia signed Implementation Agreements with both **Japan (JCM, 2022)** and **Singapore (2024)**. It holds significant REDD+ potential in the Cardamom Mountains and Mekong floodplain forests. Cambodia's legal framework for carbon credit authorization was established under Sub-Decree 159 (2023), making it one of the more legally prepared Southeast Asian hosts.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 42% reduction vs. BAU by 2030 (conditional); ~27% unconditional |
+    | Carbon System | Sub-Decree 159/2023; no ETS |
+    | JCM (Japan) | ✅ Since 2022; first projects registering |
+    | Singapore IA | ✅ Signed 2024 |
+    | CA Framework | 🟡 Established under Sub-Decree 159 |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2022年署名 | 再エネ・省エネ中心 |
-| シンガポール 🇸🇬 | IA | ✅ 2024年署名 | REDD+・NBS対象 |
-| スイス 🇨🇭 | バイラテラル | ⚪ | — |
-| 韓国 🇰🇷 | — | ⚪ | — |
-| スウェーデン 🇸🇪 | — | ⚪ | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (~27%) | 🟢 Achievable with current RE trajectory |
+    | Conditional target (42%) | 🟡 Requires international finance (forests, transport) |
+    | Key driver | Hydropower; solar; REDD+ |
+    | GST 2023 Implication | Cambodia expected to raise conditional ambition for 2035; deforestation remains key risk |
 
-| 分野 | 状況 | 主要プロジェクト |
-|------|------|----------------|
-| 熱帯雨林REDD+ | ⭐⭐⭐ 稼働中 | カルダモン山脈（Wildlife Alliance） |
-| 湿原・泥炭地 | ⭐⭐⭐ | コーコン保護地区 |
-| マングローブ | ⭐⭐ 調査段階 | — |
+    > Source: Cambodia NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KHM>
+    > Sub-Decree 159: <https://www.mef.gov.kh/>
 
-## ボランタリー市場の実績（A6.2移行前ベース）
+    ## Active Article 6.2 Projects
 
-- **Wildlife Alliance（WCS連携）**: カルダモン山脈でVCS/GS認証クレジット発行
-- **政府歳入**: 炭素クレジット販売収入の一部を国家森林基金に組み入れ
-- **課題**: ボランタリーからA6.2/CAへの移行手続きが未整備
+    | Project | Partner | Status | Notes |
+    |---------|---------|--------|-------|
+    | JCM RE / energy efficiency | Japan | 🟡 First projects registering | JCM signed 2022 |
+    | NBS (Cardamom REDD+) | Singapore | 🟡 Development stage | Singapore IA 2024 |
+    | Clean energy / clean cooking | Singapore | 🟡 Early stage | — |
 
-## 投資家視点
+    > JCM projects: <https://gec.jp/jcm/projects/>
+    > Singapore IA: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/singapore-s-international-climate-change-cooperation/international-cooperation-on-climate-change>
 
-- **デュアルアクセス**: 日本JCMとシンガポールIAの両チャネルは東南アジアで希少
-- **NBS資源豊富**: カルダモン山脈は高品質REDD+の供給源
-- **制度リスク**: CA体制が初期段階のため、A6.2適合クレジット供給まで2〜3年の整備期間が必要
-- **政治リスク**: フン・マネット政権の安定性は比較的高い
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
 
-## 最新動向（要確認）
-- [ ] シンガポールIA下でのRFP第1号案件公募
-- [ ] 日本JCMプロジェクト第1号の承認
-- [ ] 国家炭素クレジット枠組みの完成時期
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Cardamom Mountains REDD+ | Verra VCS VM0009 | REDD+ | 🟡 ICVCM review pending |
+    | Wildlife Alliance Forest Protection | Verra VCS | REDD+ | 🟡 Established project; A6.2 path unclear |
+    | Mekong Wetlands | GS (prospective) | Blue carbon / NBS | 🟡 Pre-development |
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [シンガポール](singapore.md)
-- [シンガポール A6制度](../singapore_ia_system.md)
-- [JCM](../concepts/jcm.md)
+    > ICVCM: <https://icvcm.org/assessment-process/>
+    > Verra registry: <https://registry.verra.org/>
+
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | MoE (Ministry of Environment) | Carbon market, Sub-Decree 159, NDC | <https://www.moe.gov.kh/> |
+    | MAFF (Ministry of Agriculture) | REDD+, forest carbon | <https://www.maff.gov.kh/> |
+    | MEF (Ministry of Economy & Finance) | Carbon credit regulation | <https://www.mef.gov.kh/> |
+    | GEC Cambodia | JCM support | <https://gec.jp/jcm/projects/> |
+
+    ## Key Sources
+    - Cambodia NDC: <https://unfccc.int/NDCREG>
+    - Sub-Decree 159/2023: <https://www.mef.gov.kh/>
+    - JCM Cambodia: <https://gec.jp/jcm/projects/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    カンボジアは日本JCM（2022年）とシンガポールIA（2024年）の双方にアクセスできるSE Asiaの新興ホスト国。Sub-Decree 159（2023年）で炭素クレジット授権の法的枠組みを確立。カルダモン山地・メコン流域の森林資源が主要なA6.2候補。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比42%削減（条件付き）/ 約27%（無条件） |
+    | 国内炭素制度 | Sub-Decree 159/2023；ETS未導入 |
+    | 主管省庁 | 環境省（MoE）、農林漁業省（MAFF） |
+    | JCM状況 | 日本（2022年）✅ 初期プロジェクト登録中 |
+    | シンガポールIA | ✅ 2024年署名 |
+    | CA体制 | 🟡 Sub-Decree 159に基づき整備中 |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（約27%） | 🟢 再エネ推移で達成可能 |
+    | 条件付き目標（42%） | 🟡 国際支援が必要（森林・交通分野） |
+    | GST後の方向性 | 条件付き目標の引き上げが見込まれる。森林減少が最大リスク |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | 種別 | 相手 | 状況 |
+    |------|------|------|
+    | JCM再エネ・省エネ | 日本 | 🟡 初期プロジェクト登録中 |
+    | NBS（カルダモンREDD+） | シンガポール | 🟡 開発段階 |
+    | クリーンエネルギー | シンガポール | 🟡 初期段階 |
+
+    ## CCP認証候補ボランタリープロジェクト
+
+    | プロジェクト | 規格 | 種別 | CCP状況 |
+    |------------|------|------|---------|
+    | カルダモン山地REDD+ | Verra VCS VM0009 | REDD+ | 🟡 ICVCM審査待ち |
+    | Wildlife Alliance森林保護 | Verra VCS | REDD+ | 🟡 A6.2パス不明確 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | 環境省（MoE） | 炭素市場・NDC・Sub-Decree 159 | <https://www.moe.gov.kh/> |
+    | MAFF | REDD+・森林炭素 | <https://www.maff.gov.kh/> |
+
+    ## 関連ページ
+    - [日本-カンボジア協定](../agreements/japan-cambodia.md)
+    - [シンガポール A6制度](../singapore_ia_system.md)
+    - [マトリクス](../matrix.md)

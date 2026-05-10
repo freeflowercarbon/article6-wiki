@@ -1,68 +1,112 @@
-# ラオス — Article 6.2 政策状況
+# Laos 🇱🇦 | ラオス — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10 | ソース: [[raw/countries/laos/policy_status]], [[raw/countries/laos/jcm_japan]]
+=== "🇬🇧 English"
 
-## サマリー
-ラオスはArticle 6.2において**潜在的な売国**だが、5カ国中最も制度整備が遅れている。国土の65%が森林というREDD+ポテンシャルを持ち、水力発電も豊富。しかし国内カーボン市場・登録簿・Authorization体制はほぼ未整備。ADB・世界銀行・日本ODAによる支援が制度整備のカギ。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に対BAU比60%削減 |
-| 国内炭素価格制度 | 未導入 |
-| 主管省庁 | MONRE（自然資源環境省） |
-| Article 6.2の役割 | 売国候補（制度未整備） |
-| 開発段階 | 低・中所得国（国際支援依存） |
+    Laos has made **significant institutional advances** in 2025: the Carbon Credit Decree (May 2025) and Article 6-aligned legal framework (June 2025) provide the legal basis for carbon trading. Notably, Laos has already issued the **first Article 6.2 Authorization in the Mekong region** — 3 million credits for an enteric methane reduction project. Investor outlook has been upgraded from "5–10 years away" to "possible within 2–3 years."
 
-## Article 6.2二国間合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 60% reduction vs. BAU by 2030 |
+    | Carbon System | Carbon Credit Decree (May 2025); no ETS yet |
+    | JCM (Japan) | ✅ Since 2015; 6 projects |
+    | Singapore IA | ⚪ Not yet |
+    | CA Framework | 🟡 First authorization done (enteric methane) |
 
-| 相手国 | 制度 | 状況 |
-|--------|------|------|
-| 日本 | JCM（2015〜） | 🟠 移行遅れ気味 |
-| シンガポール | なし | ⚪ 未開始 |
-| その他 | なし | ⚪ |
+    ## NDC Achievement Status
 
-## 国内制度整備状況（2025年5月大幅更新）
-| 制度 | 状況 |
-|------|------|
-| NDC提出 | 済み ✅ |
-| **炭素クレジット令** | ✅ **2025年5月28日 PM署名・施行**（法的根拠確立） |
-| Article 6準拠法的フレームワーク | ✅ **2025年6月採択** |
-| Article 6.2 Authorization | 🟡 **実績あり**（腸内メタン削減プロジェクトに最大300万クレジット承認） |
-| 森林カーボン管理Decision | 🟡 整備済み（詳細確認中） |
-| 国家登録簿（MRV） | 🟡 整備途上（GGGIが技術支援） |
-| ETS/カーボン税 | ❌ 未導入 |
+    | Metric | Assessment |
+    |--------|-----------|
+    | Unconditional target (~5%) | 🟢 Achievable |
+    | Conditional target (60%) | 🟡 Requires significant international support |
+    | Key driver | Hydropower (clean electricity) + forest conservation |
+    | GST 2023 Implication | Expected to raise conditional ambition for 2035 NDC |
 
-## 炭素ポテンシャル（潜在的に大）
-- **森林REDD+**: 国土の65%が森林 → 保全・管理クレジットのポテンシャル大
-- **水力発電**: メコン川流域の水力発電 → ただし生態系・社会影響への懸念もあり
-- **農業**: メタン削減（稲作改善等）
+    > Source: Laos NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=LAO>
+    > Carbon Credit Decree: <https://verra.org/verra-welcomes-lao-pdrs-carbon-credit-decree/>
 
-## 主要支援機関
-| 機関 | 支援内容 |
-|------|---------|
-| ADB | カーボン市場能力構築、MRV整備 |
-| 世界銀行（FCPF） | Forest Carbon Partnership Facility |
-| GIZ | 技術支援 |
-| 日本（JICA/JCM） | JCMプロジェクト・ODA |
+    ## Active Article 6.2 Projects
 
-## 投資家視点での評価（2025年5月更新）
-**上方修正**: 2025年の制度整備により前回評価（5〜10年先）から大幅に修正。
-**機会**: 炭素クレジット令 + Article 6.2 Authorization実績 → ITMO移転は**2〜3年以内に可能性**
-**リスク**: 森林（REDD+）分野の方法論・登録簿整備はまだ途上。腸内メタン削減が先行
-**政治リスク**: 一党支配体制、政策変更リスクは変わらず存在
+    | Project | Type | Partner | Status | Notes |
+    |---------|------|---------|--------|-------|
+    | Enteric methane reduction | NBS/Agriculture | Japan JCM | ✅ **3M credits authorized** | First A6.2 Authorization in Mekong |
+    | JCM projects (5 remaining) | Energy, efficiency | Japan | 🟡 Pipeline | Processing toward A6.2 |
 
-## 最新動向（2025〜2026年）
-- ✅ **炭素クレジット令（2025年5月28日）**: 法的フレームワーク確立
-- ✅ **Article 6.2 Authorization実績**: 腸内メタン削減に最大300万クレジット承認（[Carbon Pulse](https://carbon-pulse.com/453295/)）
-- ✅ **Article 6準拠フレームワーク（2025年6月）**: [QC Intel](https://www.qcintel.com/carbon/article/laos-adopts-article-6-aligned-legal-carbon-credit-framework-42617.html)
-- ✅ **Verra歓迎声明**: [Verra](https://verra.org/verra-welcomes-lao-pdrs-carbon-credit-decree/)
-- [ ] 森林カーボン管理Decision の詳細（[Tilleke & Gibbins](https://www.tilleke.com/insights/decision-on-forest-carbon-management-in-laos/)）
-- [ ] GGGI支援の国家登録簿整備の進捗
-- [ ] JCMプロジェクト（6件）のArticle 6.2移行タイムライン
+    > Carbon Pulse report: <https://carbon-pulse.com/453295/>
+    > UNFCCC A6 portal: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
 
-## 関連ページ
-- [[concepts/jcm]]
-- [[agreements/japan-laos]]
-- [[countries/philippines]] — 比較参考（同様の発展段階）
-- [[matrix]]
+    ## CCP-Eligible Voluntary Projects (A6.2 Candidates)
+
+    | Project | Standard | Type | CCP Status |
+    |---------|----------|------|-----------|
+    | Nam Theun 2 watershed (REDD+) | Verra VCS (prospective) | Forest conservation | 🟡 Early stage |
+    | Lao PDR REDD+ readiness | World Bank FCPF | Jurisdictional | 🟡 Development |
+
+    > ICVCM: <https://icvcm.org/assessment-process/>
+
+    ## Government Contact Points
+
+    | Organization | Role | URL |
+    |-------------|------|-----|
+    | MONRE (Ministry of Natural Resources) | Carbon market, NDC, JCM | <https://www.monre.gov.la/> |
+    | GGGI Laos office | Technical assistance, registry | <https://gggi.org/country/lao-pdr/> |
+    | JICA Laos | JCM project support | <https://www.jica.go.jp/laos/> |
+
+    ## Key Sources
+    - Laos NDC: <https://unfccc.int/NDCREG>
+    - Carbon Credit Decree (Verra announcement): <https://verra.org/verra-welcomes-lao-pdrs-carbon-credit-decree/>
+    - Article 6 framework (QC Intel): <https://www.qcintel.com/carbon/article/laos-adopts-article-6-aligned-legal-carbon-credit-framework-42617.html>
+    - Carbon Pulse (enteric methane authorization): <https://carbon-pulse.com/453295/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    ラオスはArticle 6.2において**潜在的なホスト国**で、2025年の制度整備により状況が急変。炭素クレジット令（2025年5月）とArticle 6準拠法的フレームワーク（2025年6月）が法的根拠を確立。腸内メタン削減プロジェクトへの**メコン地域初のA6.2授権（最大300万クレジット）**を実現。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比60%削減 |
+    | 国内炭素制度 | 炭素クレジット令（2025年5月）・ETS未導入 |
+    | 主管省庁 | MONRE（自然資源環境省） |
+    | JCM状況 | 日本（2015年）✅ 6件 |
+    | CA実績 | ✅ 腸内メタン削減で最大300万クレジット授権 |
+
+    ## NDC達成見込み
+
+    | 指標 | 評価 |
+    |------|------|
+    | 無条件目標（約5%） | 🟢 達成可能 |
+    | 条件付き目標（60%） | 🟡 国際支援が必要 |
+    | GST後の方向性 | 2035年NDCで条件付き目標の引き上げが期待される |
+
+    ## 稼働中・承認済みA6.2プロジェクト
+
+    | プロジェクト | 種別 | 相手 | 状況 |
+    |------------|------|------|------|
+    | 腸内メタン削減 | NBS/農業 | 日本JCM | ✅ **300万クレジット授権済み**（メコン初） |
+    | その他JCMプロジェクト（5件） | エネルギー等 | 日本 | 🟡 A6.2移行パイプライン |
+
+    ## CCP認証候補ボランタリープロジェクト
+
+    | プロジェクト | 規格 | 状況 |
+    |------------|------|------|
+    | Nam Theun 2集水域（REDD+） | Verra VCS（予定） | 🟡 初期段階 |
+    | ラオスREDD+レディネス | 世銀FCPF | 🟡 整備中 |
+
+    ## 主要コンタクトポイント
+
+    | 機関 | 役割 | URL |
+    |------|------|-----|
+    | MONRE | 炭素市場・NDC・JCM | <https://www.monre.gov.la/> |
+    | GGGI ラオス | 技術支援・登録簿 | <https://gggi.org/country/lao-pdr/> |
+
+    ## 主要出典
+    - 炭素クレジット令: <https://verra.org/verra-welcomes-lao-pdrs-carbon-credit-decree/>
+    - A6.2授権実績: <https://carbon-pulse.com/453295/>
+    - A6準拠フレームワーク: <https://www.qcintel.com/carbon/article/laos-adopts-article-6-aligned-legal-carbon-credit-framework-42617.html>
+
+    ## 関連ページ
+    - [日本-ラオス協定](../agreements/japan-laos.md)
+    - [マトリクス](../matrix.md)
