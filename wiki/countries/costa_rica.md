@@ -1,49 +1,83 @@
-# コスタリカ 🇨🇷 — Article 6.2 ホスト国状況
+# Costa Rica 🇨🇷 | コスタリカ — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2013年）パートナー。生物多様性保全とカーボンニュートラルの両立で世界的に知られる環境先進国。電力の99%以上が再生可能エネルギーで、REDD+の先駆国でもある。A6.2への取り組みは積極的で、NDC達成に向けた国際炭素市場活用を戦略的に位置づけている。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に9.11MtCO2e以下（ネットゼロ2050） |
-| 国内炭素制度 | 国内ボランタリー炭素市場（C-Neutral）＋REDD+ |
-| 主管省庁 | 環境エネルギー省（MINAE） |
-| JCM状況 | 日本（2013年）✅ |
-| CA体制 | ✅ 比較的整備済み |
-| NBS成熟度 | ⭐⭐⭐⭐ |
+    Costa Rica is a Japan JCM partner (2013) and a **global pioneer in environmental policy**. Over 99% of its electricity comes from renewables. It pioneered the **PES (Payments for Environmental Services)** system in 1996 — the world's first national ecosystem payment program — and has long integrated A6.2-compatible thinking into its climate strategy. Singapore MOU has been signed, establishing a pathway for future IA.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | Net GHG ≤9.11 MtCO₂e by 2030; net zero 2050 |
+    | Carbon System | C-Neutral voluntary market + PES system + REDD+ |
+    | Key Ministry | Ministry of Environment and Energy (MINAE) |
+    | JCM (Japan) | ✅ Since 2013 |
+    | Singapore | 📋 MOU signed |
+    | Switzerland | 💬 Interest expressed |
+    | CA Framework | ✅ Relatively well-established |
+    | NBS Maturity | ⭐⭐⭐⭐ |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2013年署名 | 再エネ・省エネ |
-| スイス 🇨🇭 | バイラテラル | 💬 関心表明 | — |
-| シンガポール 🇸🇬 | — | ⚪ | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | NDC target (≤9.11 Mt) | 🟢 On track; already among world's lowest per-capita emissions |
+    | Key driver | Hydropower, geothermal, wind, solar (near-100% RE electricity) |
+    | Key challenge | Transport sector emissions (still fossil fuel dependent) |
+    | GST 2023 Implication | Costa Rica may aim for carbon negative by 2050 — needs international finance for enhanced ambition |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| 熱帯雨林REDD+ | ⭐⭐⭐⭐ | PES（生態系サービス対価）制度が1996年から稼働 |
-| マングローブ | ⭐⭐⭐ | 太平洋・カリブ両岸 |
-| 生物多様性保全 | ⭐⭐⭐⭐ | 世界の生物多様性の5%が集中 |
+    ## Bilateral A6.2 Agreements
 
-## コスタリカの独自性
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ✅ 2013 | RE, energy efficiency |
+    | Singapore 🇸🇬 | — | 📋 MOU | IA pathway established |
+    | Switzerland 🇨🇭 | Bilateral | 💬 Interest expressed | — |
 
-- **PES（Pagos por Servicios Ambientales）**: 世界初の生態系サービス支払い制度（1996年〜）。国内農家・林業者に政府が保全料を支払う
-- **国家炭素中立戦略**: Carbono Neutralidad 2050。早くからNDC＋炭素市場を統合的に設計
-- **グリーン観光**: エコツーリズムと炭素保全の相乗効果
+    ## NBS Resources
 
-## 投資家視点
+    | Category | Maturity | Notes |
+    |----------|----------|-------|
+    | Tropical forest REDD+ | ⭐⭐⭐⭐ | PES system operational since 1996; government pays landowners for conservation |
+    | Mangroves | ⭐⭐⭐ | Both Pacific and Caribbean coasts |
+    | Biodiversity conservation | ⭐⭐⭐⭐ | ~5% of global biodiversity in 0.03% of land area |
 
-- **高い信頼性**: PES制度の長い実績と政府の透明性がリスクを低減
-- **限界**: 国土が小さく、追加的なNBSクレジット供給量には上限がある
-- **機会**: A6.2の先進モデルとして、高単価での取引が期待できる
+    ## Costa Rica's Unique Position
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [ペルー](peru.md)
-- [JCM](../concepts/jcm.md)
+    - **PES (Pagos por Servicios Ambientales)**: Since 1996, the government pays farmers and forest owners for conservation services — a model for REDD+ and A6.2 compatible projects
+    - **Carbono Neutralidad 2050**: Long-standing national carbon neutrality strategy integrating NDC + carbon markets
+    - **High-integrity premium**: Long track record with government transparency makes Costa Rican credits highly credible
+    - **Scale limitation**: Small territory limits total additional NBS credit supply volume
+
+    ## Key Sources
+    - Costa Rica NDC: <https://unfccc.int/NDCREG>
+    - MINAE: <https://www.minae.go.cr/>
+    - FONAFIFO (PES administrator): <https://www.fonafifo.go.cr/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    日本JCM（2013年）パートナー。電力の99%以上が再生可能エネルギー、世界初のPES（生態系サービス対価）制度（1996年〜）、Carbono Neutralidad 2050という統合的気候戦略を持つ環境先進国。シンガポールとのMOU署名済みでIA構築への道筋が確立している。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に排出量9.11MtCO₂e以下、2050年ネットゼロ |
+    | 国内炭素制度 | C-Neutral自主市場＋PES＋REDD+ |
+    | 主管省庁 | 環境エネルギー省（MINAE） |
+    | JCM状況 | ✅ 日本（2013年） |
+    | シンガポール | 📋 MOU署名済み |
+    | スイス | 💬 関心表明 |
+    | CA体制 | ✅ 比較的整備済み |
+    | NBS成熟度 | ⭐⭐⭐⭐ |
+
+    ## コスタリカの独自性
+
+    - **PES（Pagos por Servicios Ambientales）**: 世界初の生態系サービス支払い制度（1996年〜）
+    - **高い信頼性**: PES実績と政府の透明性がリスクを低減
+    - **制約**: 国土が小さく、追加的NBS供給量には上限がある
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [ペルー](peru.md)
+    - [JCM](../concepts/jcm.md)

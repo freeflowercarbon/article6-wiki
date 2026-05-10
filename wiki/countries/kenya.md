@@ -1,69 +1,111 @@
-# ケニア 🇰🇪 — Article 6.2 ホスト国状況
+# Kenya 🇰🇪 | ケニア — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2013年）パートナー。サバンナ保全・REDD+・地熱開発という多彩な炭素クレジット源を持つ東アフリカの中核国。ボランタリー炭素市場での実績（North Rangeland Trust等）が豊富で、2023年の政府炭素取引ポリシーでA6.2への移行枠組みを整備中。地熱発電（JCM主対象）でも世界有数のポテンシャル。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に32%削減（条件付き） |
-| 国内炭素制度 | Kenya Carbon Markets Policy（2023年）、Carbon Credits Act 準備中 |
-| 主管省庁 | 環境気候変動省、Energy and Petroleum Regulatory Authority |
-| JCM状況 | 日本（2013年）✅ |
-| CA体制 | 整備中（政策枠組み確定） |
-| NBS成熟度 | ⭐⭐⭐ |
+    Kenya is a Japan JCM partner (2013) and a **Sweden bilateral partner** — one of East Africa's most active carbon market countries. Kenya holds diverse carbon credit sources: savanna conservation (Northern Rangelands Trust), geothermal energy (JCM), REDD+, and blue carbon (Mikoko Pamoja mangroves). The **Kenya Carbon Markets Policy (2023)** established a national framework for A6.2-aligned carbon trading.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 32% reduction vs. BAU by 2030 (conditional) |
+    | Carbon System | Carbon Markets Policy 2023; Carbon Credits Act (in preparation) |
+    | Key Ministry | Ministry of Environment and Climate Change; Energy and Petroleum Regulatory Authority |
+    | JCM (Japan) | ✅ Since 2013 |
+    | Sweden | ✅ Bilateral agreement active |
+    | Singapore IA | ⚪ Not yet |
+    | CA Framework | 🟡 In development (policy framework established) |
+    | NBS Maturity | ⭐⭐⭐ |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2013年署名 | 地熱・省エネ中心 |
-| シンガポール 🇸🇬 | IA | ⚪ | — |
-| スイス 🇨🇭 | — | ⚪ | — |
-| スウェーデン 🇸🇪 | — | 💬 | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Conditional target (32%) | 🟡 Requires significant international finance |
+    | Key driver | Geothermal (already world's 7th largest); RE expansion; forest conservation |
+    | Key obstacle | Population growth driving land-use change; land tenure complexity |
+    | GST 2023 Implication | Kenya expected to raise 2035 NDC ambition; A6.2 credit revenues could support higher target |
 
-| 分野 | 状況 | 主要事例 |
-|------|------|---------|
-| サバンナ保全 | ⭐⭐⭐⭐ | Northern Rangelands Trust（NRT）— VCS認証、100万t以上発行 |
-| REDD+（熱帯林） | ⭐⭐⭐ | 西部高地林 |
-| ブルーカーボン（マングローブ） | ⭐⭐⭐ | Mikoko Pamoja（世界初マングローブ炭素プロジェクト） |
-| 農業土壌 | ⭐⭐ | 小農向けアグロフォレストリー |
+    ## Bilateral A6.2 Agreements
 
-## JCMプロジェクト（主要分野）
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ✅ 2013 | Geothermal, energy efficiency |
+    | Sweden 🇸🇪 | Bilateral | ✅ Active | Energimyndigheten bilateral |
+    | Singapore 🇸🇬 | IA | ⚪ | — |
+    | Switzerland 🇨🇭 | Bilateral | ⚪ | — |
 
-| 分野 | 内容 |
-|------|------|
-| 地熱 | オルカリア地熱田の拡張（JICA連携） |
-| 太陽光 | オフグリッド農村電化 |
-| 省エネ | 工業・商業建物 |
+    ## Active A6.2 / CCP-Eligible Projects
 
-## ボランタリー市場実績
+    | Project | Standard | Type | Annual Volume | CCP Status | A6.2 Status |
+    |---------|----------|------|--------------|-----------|-------------|
+    | Northern Rangelands Trust (NRT) savanna | Verra VCS VM0032 | Savanna REDD+ | ~1 Mt/yr+ | 🟡 Under review | 🟡 Sweden bilateral candidate |
+    | Olkaria geothermal (JCM) | JCM proprietary | Geothermal RE | ~0.5 Mt/yr est. | — (JCM) | 🟡 JCM A6.2 processing |
+    | Mikoko Pamoja (mangrove) | Gold Standard | Blue carbon | ~3,000 t/yr | 🟡 GS CCP review | 🟡 Small; early A6.2 consideration |
 
-- **NRT（北部牧畜地域信託）**: マサイ・ボラナ等の牧畜地域でのサバンナ炭素。Verra VCSで累計数百万t発行
-- **Mikoko Pamoja**: 世界初のコミュニティベースマングローブ炭素プロジェクト（2013年〜）
-- **South Pole/Terrasos連携**: 複数の大規模REDD+プロジェクト
+    ## NBS Resources
 
-## 課題
+    | Category | Maturity | Key Example |
+    |----------|----------|-------------|
+    | Savanna conservation | ⭐⭐⭐⭐ | Northern Rangelands Trust — 1M+ tCO₂e issued |
+    | REDD+ (western highland forest) | ⭐⭐⭐ | High forest cover; land tenure risks |
+    | Blue carbon (mangroves) | ⭐⭐⭐ | Mikoko Pamoja — world's first community mangrove project (2013) |
+    | Agricultural soil | ⭐⭐ | Smallholder agroforestry programs |
 
-- **2023年「炭素スキャンダル」**: Guardian誌が大規模ボランタリークレジットの水増しを報告（VCS全般の信頼性問題）。A6.2移行で品質保証が重要に
-- **Land tenure**: 土地所有権が複雑（特に牧畜地域）
+    ## Risk Factors
 
-## 投資家視点
+    - **2023 "carbon scandal"**: The Guardian reported significant credit over-issuance by major VCS projects globally, including Kenya. A6.2 transition with robust MRV is critical for credibility
+    - **Land tenure complexity**: Pastoral communities have overlapping customary rights (especially Northern Kenya)
+    - **Government policy direction**: 2023 Carbon Markets Policy increases state involvement; benefit-sharing arrangements require careful assessment
 
-- **多様な炭素源**: 地熱（技術）＋サバンナ（NBS）＋マングローブ（ブルーカーボン）の組み合わせ
-- **政府の関与強化**: 2023年ポリシーで国家管理強化 → 利益配分ルールに注意
-- **機会**: 日本JCM地熱案件は収益確実性が高い
+    ## Key Sources
+    - Kenya NDC: <https://unfccc.int/NDCREG>
+    - Kenya Carbon Markets Policy 2023: <https://environment.go.ke/>
+    - NRT: <https://www.nrt-kenya.org/>
+    - Mikoko Pamoja: <https://www.planvivo.org/mikoko-pamoja>
+    - Sweden bilateral (Energimyndigheten): <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
 
-## 最新動向（要確認）
-- [ ] Carbon Credits Act制定進捗
-- [ ] シンガポール・スイスとのバイラテラル交渉開始の有無
-- [ ] NDCレジストリーとCA記帳の整備状況
+=== "🇯🇵 日本語"
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [JCM](../concepts/jcm.md)
-- [ITMO](../concepts/itmo.md)
+    ## サマリー
+    日本JCM（2013年）とスウェーデン二国間協定のパートナー。サバンナ保全（NRT）・REDD+・地熱（JCM）・ブルーカーボン（Mikoko Pamoja）という多彩な炭素クレジット源を持つ東アフリカの中核国。**2023年ケニア炭素市場ポリシー**でA6.2移行の枠組みを整備中。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にBAU比32%削減（条件付き） |
+    | 国内炭素制度 | Carbon Markets Policy（2023年）、Carbon Credits Act 準備中 |
+    | 主管省庁 | 環境気候変動省、Energy and Petroleum Regulatory Authority |
+    | JCM状況 | ✅ 日本（2013年） |
+    | スウェーデン | ✅ 二国間協定稼働中 |
+    | シンガポールIA | ⚪ なし |
+    | CA体制 | 🟡 整備中（政策枠組み確定） |
+    | NBS成熟度 | ⭐⭐⭐ |
+
+    ## 調達国との合意状況
+
+    | 調達国 | 制度 | 状況 | 備考 |
+    |--------|------|------|------|
+    | 日本 🇯🇵 | JCM | ✅ 2013年署名 | 地熱・省エネ中心 |
+    | スウェーデン 🇸🇪 | バイラテラル | ✅ 稼働中 | Energimyndigheten協定 |
+    | シンガポール 🇸🇬 | IA | ⚪ | — |
+    | スイス 🇨🇭 | — | ⚪ | — |
+
+    ## 稼働中・候補プロジェクト
+
+    | プロジェクト | 方法論 | 種別 | 年間発行量 | CCP状況 | A6.2状況 |
+    |------------|--------|------|-----------|---------|---------|
+    | NRT（北部牧畜）サバンナ | Verra VCS VM0032 | サバンナREDD+ | 〜1 Mt/yr以上 | 🟡 審査中 | 🟡 スウェーデン候補 |
+    | Olkaria地熱（JCM） | JCM独自 | 地熱再エネ | 〜0.5 Mt/yr推定 | —（JCM） | 🟡 A6.2処理中 |
+    | Mikoko Pamoja（マングローブ） | Gold Standard | ブルーカーボン | 〜3,000 t/yr | 🟡 GS審査中 | 🟡 小規模・初期 |
+
+    ## 課題
+
+    - **2023年「炭素スキャンダル」**: ケニアを含む複数のVCSプロジェクトでクレジット水増しがGuardian誌により報道
+    - **土地所有権の複雑性**: 北部ケニアを中心に慣習的権利の重複がある
+    - **政府関与の強化**: 2023年ポリシーにより国家管理強化 → 利益配分ルール要注意
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [JCM](../concepts/jcm.md)
+    - [ITMO](../concepts/itmo.md)

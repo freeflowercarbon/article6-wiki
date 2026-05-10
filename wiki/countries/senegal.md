@@ -1,44 +1,71 @@
-# セネガル 🇸🇳 — Article 6.2 ホスト国状況
+# Senegal 🇸🇳 | セネガル — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2015年）とスイス二国間協定（2023年）の双方にアクセスできる西アフリカのホスト国。世界規模のグレート・グリーン・ウォール（サヘル地帯植林）の重要な実施国であり、マングローブ回復でも実績がある。炭素市場の制度整備は初期〜中期段階。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2000年比26%削減（条件付き） |
-| 国内炭素制度 | 整備中（Article 6対応のMRV制度） |
-| 主管省庁 | 環境持続可能開発省（MEDD） |
-| JCM状況 | 日本（2015年）✅ |
-| スイス二国間 | ✅ 2023年署名 |
-| CA体制 | 整備中 |
-| NBS成熟度 | ⭐⭐⭐ |
+    Senegal has **dual acquiring-country access**: Japan JCM (2015) and Switzerland bilateral agreement (2023). It is a key implementing country for the **Great Green Wall** (pan-African Sahel reforestation initiative) and has significant mangrove restoration potential (Casamance region). Carbon market institutional development is at an early-to-intermediate stage.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 26% reduction vs. 2000 by 2030 (conditional) |
+    | Carbon System | MRV framework under development |
+    | Key Ministry | Ministry of Environment and Sustainable Development (MEDD) |
+    | JCM (Japan) | ✅ Since 2015 |
+    | Switzerland | ✅ Bilateral agreement 2023 (biogas, Great Green Wall) |
+    | CA Framework | 🟡 In development |
+    | NBS Maturity | ⭐⭐ |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2015年署名 | 太陽光・省エネ |
-| スイス 🇨🇭 | バイラテラル | ✅ 2023年署名 | グレートグリーンウォール・クリーンクッキング |
-| シンガポール 🇸🇬 | IA | ⚪ | — |
+    ## Bilateral A6.2 Agreements
 
-## NBS状況
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ✅ 2015 | Solar, energy efficiency |
+    | Switzerland 🇨🇭 | Bilateral | ✅ 2023 | Biogas, Great Green Wall |
+    | Singapore 🇸🇬 | IA | ⚪ | — |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| グレートグリーンウォール（植林） | ⭐⭐⭐ | アフリカ11か国連携。サヘル地帯で8,000km植林計画 |
-| マングローブ（カザマンス等） | ⭐⭐⭐ | 世界最大のマングローブ回復プロジェクト（Senegal Mangroves Initiative） |
-| 農業・アグロフォレストリー | ⭐⭐ | 落花生農地の炭素固定 |
+    ## NBS Resources
 
-## セネガルのマングローブ特記事項
+    | Category | Maturity | Notes |
+    |----------|----------|-------|
+    | Great Green Wall (reforestation) | ⭐⭐⭐ | 11-country African initiative; 8,000 km belt planned across Sahel |
+    | Mangroves (Casamance) | ⭐⭐⭐ | Senegal Mangroves Initiative — among world's largest restoration projects |
+    | Agroforestry (peanut farmland) | ⭐⭐ | Carbon sequestration in peanut-growing regions |
 
-- Casamance地域のマングローブ再生は世界でも屈指の規模（過去の焼き塩生産で劣化した地域を回復）
-- **Indigo Ag / Verra VCS**: 複数の国際団体が認証に関与
-- スイス合意の対象にマングローブが含まれる可能性が高い
+    ## Senegal Mangrove Highlight
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [スイス](switzerland.md)
-- [JCM](../concepts/jcm.md)
+    The Casamance region mangrove restoration is globally significant — degraded areas from historical salt-making activities are being restored. Multiple international organizations (Verra VCS) are involved in certification. Switzerland's bilateral agreement likely includes mangrove as a target sector.
+
+    ## Key Sources
+    - Senegal NDC: <https://unfccc.int/NDCREG>
+    - Great Green Wall: <https://www.greatgreenwall.org/>
+    - Switzerland FOEN bilateral: <https://www.bafu.admin.ch/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    日本JCM（2015年）とスイス二国間協定（2023年）の双方にアクセスできる西アフリカのホスト国。グレート・グリーン・ウォール（サヘル地帯植林）の重要な実施国で、マングローブ回復でも世界的実績がある。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に2000年比26%削減（条件付き） |
+    | 国内炭素制度 | MRV制度整備中 |
+    | 主管省庁 | 環境持続可能開発省（MEDD） |
+    | JCM状況 | ✅ 日本（2015年） |
+    | スイス二国間 | ✅ 2023年署名（バイオガス・GGW） |
+    | CA体制 | 🟡 整備中 |
+    | NBS成熟度 | ⭐⭐ |
+
+    ## 調達国との合意状況
+
+    | 調達国 | 制度 | 状況 | 備考 |
+    |--------|------|------|------|
+    | 日本 🇯🇵 | JCM | ✅ 2015年署名 | 太陽光・省エネ |
+    | スイス 🇨🇭 | バイラテラル | ✅ 2023年署名 | GGW・クリーンクッキング・バイオガス |
+    | シンガポール 🇸🇬 | IA | ⚪ | — |
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [スイス](switzerland.md)
+    - [JCM](../concepts/jcm.md)

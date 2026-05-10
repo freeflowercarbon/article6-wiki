@@ -1,67 +1,100 @@
-# チリ 🇨🇱 — Article 6.2 ホスト国状況
+# Chile 🇨🇱 | チリ — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2015年）パートナー。南米有数の環境先進国で、炭素税（2017年〜）とETSの双方を整備中。パタゴニア温帯雨林・アタカマ高山湿地・ブルーカーボンという質の高いNBS資源を持つ。A6.2への転換は準備段階だが、制度的な基盤はラテンアメリカでトップクラス。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に最大95MtCO2e（ネットゼロ2050） |
-| 国内炭素制度 | 炭素税（US$5/t、2017〜）＋ETS導入検討 |
-| 主管省庁 | 環境省（MMA） |
-| JCM状況 | 日本（2015年）✅ |
-| シンガポールIA | ✅ **2025年署名** |
-| スイス | ✅ バイラテラル稼働中 |
-| CA体制 | 整備中 |
-| NBS成熟度 | ⭐⭐⭐⭐ |
+    Chile has **triple acquiring-country access**: Japan JCM (2015), Singapore IA (signed 2025), and Switzerland bilateral agreement (active). Chile is one of Latin America's environmental policy leaders with a carbon tax (since 2017, US$5/t) and ETS under development. Patagonian temperate rainforest and blue carbon (kelp, seagrass) represent unique, high-quality NBS resources. Chile also occupies an interesting dual position — potentially both a host country (NBS exports) and an acquiring country (aviation, shipping sectors).
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | Max 95 MtCO₂e net by 2030; net zero 2050 |
+    | Carbon System | Carbon tax US$5/t (2017–); ETS under development |
+    | Key Ministry | Ministry of Environment (MMA) |
+    | JCM (Japan) | ✅ Since 2015 |
+    | Singapore IA | ✅ **Signed 2025** |
+    | Switzerland | ✅ Bilateral active |
+    | CA Framework | 🟡 In development |
+    | NBS Maturity | ⭐⭐⭐⭐ |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2015年署名 | 再エネ・省エネ中心 |
-| スイス 🇨🇭 | バイラテラル | ✅ 稼働中 | — |
-| シンガポール 🇸🇬 | IA | ✅ **IA署名済み（2025年）** | — |
-| 韓国 🇰🇷 | — | ⚪ | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Net emissions target (95 Mt) | 🟢 On track with current trajectory |
+    | Key driver | RE (solar boom in Atacama), copper mining efficiency, AFOLU |
+    | NBS opportunity | Patagonian forest conservation and blue carbon could generate significant ITMO supply |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| 温帯雨林（パタゴニア） | ⭐⭐⭐⭐⭐ | 世界最高炭素密度の森林の一つ |
-| ブルーカーボン（ケルプ・海草） | ⭐⭐⭐ | 太平洋岸の豊富な海洋生態系 |
-| 高山湿地（アルティプラーノ） | ⭐⭐ | アタカマのラムサール条約地域 |
-| マングローブ（北部） | ⭐⭐ | 世界最南端のマングローブ |
+    ## Bilateral A6.2 Agreements
 
-## JCMプロジェクト（主要分野）
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ✅ 2015 | RE (solar, wind), mining efficiency |
+    | Singapore 🇸🇬 | IA | ✅ **2025** | NBS, clean energy pipeline |
+    | Switzerland 🇨🇭 | Bilateral | ✅ Active | — |
 
-| 分野 | 内容 |
-|------|------|
-| 太陽光 | アタカマ砂漠の大規模案件 |
-| 風力 | パタゴニア沿岸部 |
-| 省エネ | 鉱業部門（銅鉱山等） |
+    ## Active JCM Projects
 
-## チリのA6.2戦略
+    | Sector | Content |
+    |--------|---------|
+    | Solar | Large-scale Atacama Desert projects |
+    | Wind | Patagonian coastal wind |
+    | Energy efficiency | Mining sector (copper mines) |
 
-チリは「ホスト国」と「調達国」の双方に関わる興味深いポジション：
-- **ホスト国として**: 高品質NBS（パタゴニア森林）を国際市場に提供
-- **調達国として**: 国際航空・海運部門の削減義務補完を検討
-- **LTS（長期戦略）**: 2050年ネットゼロに向けてA6.2を双方向で活用する戦略を検討
+    ## NBS Resources
 
-## 投資家視点
+    | Category | Maturity | Notes |
+    |----------|----------|-------|
+    | Temperate rainforest (Patagonia) | ⭐⭐⭐⭐⭐ | Among world's highest carbon density forests |
+    | Blue carbon (kelp, seagrass) | ⭐⭐⭐ | Rich Pacific coastal marine ecosystems |
+    | Altiplano wetlands | ⭐⭐ | Atacama Ramsar-designated areas |
+    | Mangroves (northern) | ⭐⭐ | World's southernmost mangroves |
 
-- **NBS品質が高い**: パタゴニア温帯林は永続性・生物多様性共に最高クラス
-- **制度的信頼性**: 炭素税実績のある法治国家。A6.2CA整備は時間の問題
-- **機会**: スイスとのバイラテラル締結が実現すれば欧州市場への窓口になる
+    ## Chile's Dual A6.2 Strategy
 
-## 最新動向（要確認）
-- [ ] 国内ETS設計（2025年以降）の進捗
-- [ ] スイスとのバイラテラル正式交渉の有無
-- [ ] 海洋NBS（ケルプ）の方法論開発状況
+    Chile occupies a rare dual position:
+    - **As host country**: Supplying high-quality NBS credits (Patagonian forest, blue carbon) to Japan, Singapore, Switzerland
+    - **As prospective acquiring country**: Exploring international credit use for aviation/shipping sector obligations
+    - **LTS (Long-Term Strategy)**: Chile's 2050 net-zero strategy contemplates bidirectional A6.2 use
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [ペルー](peru.md)
-- [JCM](../concepts/jcm.md)
+    ## Key Sources
+    - Chile NDC: <https://unfccc.int/NDCREG>
+    - MMA: <https://www.mma.gob.cl/>
+    - Chile carbon tax: <https://www.sii.cl/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    日本JCM（2015年）・シンガポールIA（2025年署名）・スイス二国間協定という三重のアクセスを持つ南米有数の環境先進国。炭素税（2017年〜US$5/t）とETS整備中。パタゴニア温帯雨林・ブルーカーボン（ケルプ・海草）という高品質NBS資源を持つ。ホスト国・調達国の双方の立場を持ちうる希少な国。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に最大95MtCO₂e（ネットゼロ2050） |
+    | 国内炭素制度 | 炭素税（US$5/t、2017〜）＋ETS導入検討 |
+    | 主管省庁 | 環境省（MMA） |
+    | JCM状況 | ✅ 日本（2015年） |
+    | シンガポールIA | ✅ **2025年署名** |
+    | スイス | ✅ バイラテラル稼働中 |
+    | CA体制 | 🟡 整備中 |
+    | NBS成熟度 | ⭐⭐⭐⭐ |
+
+    ## 調達国との合意状況
+
+    | 調達国 | 制度 | 状況 | 備考 |
+    |--------|------|------|------|
+    | 日本 🇯🇵 | JCM | ✅ 2015年署名 | 再エネ・省エネ中心 |
+    | スイス 🇨🇭 | バイラテラル | ✅ 稼働中 | — |
+    | シンガポール 🇸🇬 | IA | ✅ **2025年署名** | — |
+
+    ## チリのA6.2双方向戦略
+
+    チリは「ホスト国」と「調達国候補」の双方に関わる希少な立場：
+    - **ホスト国として**: パタゴニア森林・ブルーカーボンを日本・シンガポール・スイスに供給
+    - **調達国候補として**: 航空・海運部門の削減義務補完を検討
+    - **LTS（長期戦略）**: 2050年ネットゼロに向けてA6.2を双方向で活用する戦略を検討
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [ペルー](peru.md)
+    - [JCM](../concepts/jcm.md)

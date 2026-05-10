@@ -1,42 +1,83 @@
-# エチオピア 🇪🇹 — Article 6.2 ホスト国状況
+# Ethiopia 🇪🇹 | エチオピア — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2013年）パートナー。アフリカ最大の農業国で、コーヒーアグロフォレストリーという独自のNBS資源を持つ。2020〜2022年のティグライ紛争が炭素プロジェクト活動に影響を与えたが、現在は一定程度の安定を回復。制度整備は遅れており、A6.2本格化は中期以降の見込み。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2010年比68.8%削減（条件付き） |
-| 国内炭素制度 | 整備中（Ethiopia Climate Change Commission管轄） |
-| 主管省庁 | 環境・森林・気候変動委員会（EFCCC） |
-| JCM状況 | 日本（2013年）✅ |
-| CA体制 | 未整備 |
-| NBS成熟度 | ⭐⭐（資源は豊富・制度は初期） |
+    Ethiopia is a Japan JCM partner (2013) and Africa's largest agricultural country. It holds unique NBS resources including **coffee agroforestry** (Wild Coffee Forests) and highland REDD+ (Bale Mountains). The 2020–2022 Tigray conflict impacted carbon project activities, but stability has partially returned. Institutional development for A6.2 remains early-stage with full mobilization expected in the medium term.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 68.8% reduction vs. 2010 by 2030 (conditional — very ambitious) |
+    | Carbon System | Ethiopia Climate Change Commission; framework in early development |
+    | Key Ministry | Environment, Forest and Climate Change Commission (EFCCC) |
+    | JCM (Japan) | ✅ Since 2013 |
+    | CA Framework | 🔴 Not yet established |
+    | NBS Maturity | ⭐⭐ (rich resources; early institutions) |
 
-| 調達国 | 制度 | 状況 |
-|--------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2013年署名（再エネ・省エネ中心） |
-| シンガポール 🇸🇬 | — | ⚪ |
-| スイス 🇨🇭 | — | ⚪ |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Conditional target (68.8%) | 🔴 Highly ambitious; almost entirely conditional on international support |
+    | Key driver | RE expansion; REDD+ |
+    | Political risk | Post-Tigray conflict stability remains fragile in northern regions |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| コーヒーアグロフォレストリー | ⭐⭐⭐ | 西部高地のWild Coffee Forestsは固有の炭素源 |
-| 高地森林（Bale Mountain等） | ⭐⭐⭐ | REDD+プロジェクト稼働中（Bale Mountains REDD+） |
-| 農業土壌 | ⭐⭐ | 大農業国としてのポテンシャルあり |
+    ## Bilateral A6.2 Agreements
 
-## 政治・安全保障注意事項
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ✅ 2013 | RE, energy efficiency |
+    | Singapore 🇸🇬 | IA | ⚪ | — |
+    | Switzerland 🇨🇭 | Bilateral | ⚪ | — |
 
-- **ティグライ紛争（2020〜2022年）**: 北部地域でのプロジェクトに重大な影響
-- **現状**: 停戦後も紛争地域周辺は不安定。投資前のデューデリジェンスが必須
-- **地方行政**: 地方分権が強く、州政府との関係構築が必要
+    ## NBS Resources
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [JCM](../concepts/jcm.md)
+    | Category | Maturity | Notes |
+    |----------|----------|-------|
+    | Coffee agroforestry | ⭐⭐⭐ | Wild Coffee Forests in western highlands — unique carbon source |
+    | Highland forest REDD+ (Bale Mountains) | ⭐⭐⭐ | Active REDD+ project (REDD+ Bale Mountains) |
+    | Agricultural soil | ⭐⭐ | Large potential as major agricultural nation |
+
+    ## Political and Security Considerations
+
+    - **Tigray conflict (2020–2022)**: Seriously impacted projects in northern regions
+    - **Current situation**: Ceasefire holds but conflict-adjacent areas remain unstable; pre-investment due diligence is essential
+    - **Regional administration**: Strong decentralization means state government relationships are critical
+
+    ## Key Sources
+    - Ethiopia NDC: <https://unfccc.int/NDCREG>
+    - EFCCC: <https://www.efccc.gov.et/>
+    - Bale Mountains REDD+: <https://www.oromoforest.org/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    日本JCM（2013年）パートナー。アフリカ最大の農業国で、コーヒーアグロフォレストリー（Wild Coffee Forests）とBale MountainsのREDD+という独自のNBS資源を持つ。ティグライ紛争（2020〜2022年）の影響が残るが、制度整備は初期段階から前進中。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に2010年比68.8%削減（条件付き。極めて野心的） |
+    | 国内炭素制度 | 整備中（Ethiopia Climate Change Commission） |
+    | 主管省庁 | 環境・森林・気候変動委員会（EFCCC） |
+    | JCM状況 | ✅ 日本（2013年） |
+    | CA体制 | 🔴 未整備 |
+    | NBS成熟度 | ⭐⭐（資源は豊富・制度は初期） |
+
+    ## 調達国との合意状況
+
+    | 調達国 | 制度 | 状況 |
+    |--------|------|------|
+    | 日本 🇯🇵 | JCM | ✅ 2013年署名（再エネ・省エネ中心） |
+    | シンガポール 🇸🇬 | — | ⚪ |
+    | スイス 🇨🇭 | — | ⚪ |
+
+    ## 政治・安全保障注意事項
+
+    - **ティグライ紛争（2020〜2022年）**: 北部地域でのプロジェクトに重大な影響
+    - **現状**: 停戦後も紛争地域周辺は不安定。投資前のデューデリジェンスが必須
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [JCM](../concepts/jcm.md)

@@ -1,43 +1,64 @@
-# モロッコ 🇲🇦 — Article 6.2 ホスト国状況
+# Morocco 🇲🇦 | モロッコ — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-スイスとのバイラテラル協定が交渉中の北アフリカのホスト国候補。再生可能エネルギー（太陽光・風力）の大規模展開でアフリカのグリーンエネルギー先進国として注目されている。COP22（2016年）開催国。JCMは未締結だが、日本との再エネ協力関係がある。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2010年比45.5%削減（条件付き） |
-| 国内炭素制度 | 整備準備中 |
-| 主管省庁 | エネルギー移行省（MTE）、環境省 |
-| JCM状況 | ⚪ 未締結（協議の有無不明） |
-| スイス二国間 | 🔄 交渉中 |
-| CA体制 | 未整備 |
-| NBS成熟度 | ⭐⭐ |
+    Morocco is a **prospective Switzerland bilateral partner** (negotiations ongoing) and a North African renewable energy leader. As COP22 host (2016) and home to the world's largest concentrated solar power (CSP) facility (Noor-Ouarzazate), Morocco is well-positioned for technology-type A6.2 projects. Green hydrogen export ambitions add a long-term dimension to carbon credit opportunities.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 45.5% reduction vs. 2010 by 2030 (conditional) |
+    | Carbon System | Under preparation |
+    | Key Ministry | Ministry of Energy Transition (MTE); Ministry of Environment |
+    | JCM (Japan) | ⚪ None |
+    | Switzerland | 🔄 Under negotiation |
+    | CA Framework | 🔴 Not yet established |
+    | NBS Maturity | ⭐⭐ |
 
-| 調達国 | 制度 | 状況 |
-|--------|------|------|
-| スイス 🇨🇭 | バイラテラル | 🔄 交渉中 |
-| 日本 🇯🇵 | JCM | 💬 協議状況不明 |
-| シンガポール 🇸🇬 | — | ⚪ |
+    ## Bilateral A6.2 Agreements
 
-## 主要領域
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Switzerland 🇨🇭 | Bilateral | 🔄 Under negotiation | RE focus |
+    | Japan 🇯🇵 | JCM | 💬 Status unclear | RE cooperation exists |
+    | Singapore 🇸🇬 | IA | ⚪ | — |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| 太陽光（ヌール・ワルザザート等） | ⭐⭐⭐ | 世界最大級の集光型太陽熱発電（CSP）施設 |
-| 風力 | ⭐⭐⭐ | 大西洋岸に大規模資源 |
-| 砂漠植林・オアシス保全 | ⭐⭐ | サハラ周縁のアルガン林等 |
+    ## Key Sectors
 
-## モロッコの特徴
+    | Sector | Maturity | Notes |
+    |--------|----------|-------|
+    | Solar (Noor Ouarzazate CSP) | ⭐⭐⭐ | World's largest CSP facility |
+    | Wind (Atlantic coast) | ⭐⭐⭐ | Large resource along Atlantic |
+    | Desert reforestation / Argan forest | ⭐⭐ | Sahara fringe Argan forests |
 
-- **再エネ先進国**: 2030年に電力の52%を再エネに（野心的目標）
-- **グリーン水素**: 欧州向けグリーン水素輸出戦略 → カーボンクレジットとの相乗効果
-- **NBS資源は限定的**: 主体は技術型（再エネ）クレジット
+    ## Morocco's Distinctive Position
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [スイス](switzerland.md)
+    - **RE leader**: Target of 52% renewable electricity by 2030
+    - **Green hydrogen**: European green hydrogen export strategy; synergies with carbon credits
+    - **NBS limited**: Primary credit source is technology-based (RE) rather than NBS
+
+    ## Key Sources
+    - Morocco NDC: <https://unfccc.int/NDCREG>
+    - MASEN (renewable energy agency): <https://www.masen.ma/>
+    - FOEN bilateral: <https://www.bafu.admin.ch/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    スイスとのバイラテラル協定が交渉中の北アフリカのホスト国候補。世界最大のCSP太陽熱発電施設（ヌール・ワルザザート）を持つ再エネ先進国で、グリーン水素輸出戦略も持つ。NBS資源は限定的で、主体は技術型（再エネ）クレジット。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に2010年比45.5%削減（条件付き） |
+    | 国内炭素制度 | 整備準備中 |
+    | 主管省庁 | エネルギー移行省（MTE）、環境省 |
+    | JCM状況 | ⚪ 未締結 |
+    | スイス二国間 | 🔄 交渉中 |
+    | CA体制 | 🔴 未整備 |
+    | NBS成熟度 | ⭐⭐ |
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [スイス](switzerland.md)

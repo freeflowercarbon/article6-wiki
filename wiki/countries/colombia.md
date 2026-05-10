@@ -1,59 +1,86 @@
-# コロンビア 🇨🇴 — Article 6.2 ホスト国状況
+# Colombia 🇨🇴 | コロンビア — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM（2021年）パートナー。アマゾン・アンデス・太平洋沿岸の多様な生態系を持ち、REDD+や生物多様性保全型クレジットの実績が豊富。2016年の炭素税導入（ラテンアメリカ初）でNBS投資の誘引が確立。内陸紛争の歴史が一部地域のアクセスに影響するが、全般的に投資環境は改善中。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年に2015年比51%削減 |
-| 国内炭素制度 | 炭素税（COP 15,000/tCO2e≈US$4/t、2016〜）＋REDD+クレジット充当制度 |
-| 主管省庁 | 環境持続可能開発省（MADS） |
-| JCM状況 | 日本（2021年）✅ |
-| スイス関心 | 💬 協議中 |
-| CA体制 | 整備中 |
-| NBS成熟度 | ⭐⭐⭐⭐ |
+    Colombia is a Japan JCM partner (2021) with a **Singapore MOU** signed, positioning it for future IA. Colombia holds extraordinary NBS resources: Amazon rainforest, Chocó biodiversity hotspot, Andes cloud forests, and both Pacific and Caribbean mangroves. As Latin America's first country to implement a **carbon tax** (2016, COP 15,000/tCO₂e ≈ US$4/t), it has an established domestic carbon price framework that allows REDD+ credit offsetting.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 51% reduction vs. 2015 by 2030 |
+    | Carbon System | Carbon tax (2016–; COP 15,000/t ≈ US$4/t) + REDD+ credit offsetting |
+    | Key Ministry | Ministry of Environment and Sustainable Development (MADS) |
+    | JCM (Japan) | ✅ Since 2021 |
+    | Singapore | 📋 MOU signed; IA negotiation in progress |
+    | Switzerland | 💬 Under discussion |
+    | CA Framework | 🟡 In development |
+    | NBS Maturity | ⭐⭐⭐⭐ |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ✅ 2021年署名 | 再エネ・省エネ・NBS |
-| スイス 🇨🇭 | バイラテラル | 💬 協議中 | REDD+ベース |
-| シンガポール 🇸🇬 | MOU | 📋 MOU署名済み | IA交渉中 |
-| 韓国 🇰🇷 | — | ⚪ | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Current progress | 🟡 Some deforestation reduction; but Amazon deforestation still significant |
+    | 2030 target (51%) | 🟡 Challenging; forest sector is key |
+    | Key driver | REDD+, forest governance, RE transition |
+    | Post-conflict opportunity | 2016 peace agreement opened access to previously conflict-affected REDD+ areas |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| アマゾン熱帯雨林REDD+ | ⭐⭐⭐⭐⭐ | コロンビア領アマゾン（約48万km²） |
-| チョコ熱帯雨林 | ⭐⭐⭐⭐ | 世界で最も生物多様性豊かな地域の一つ |
-| アンデス雲霧林 | ⭐⭐⭐ | 高い固有種密度・水源涵養 |
-| マングローブ（太平洋・カリブ） | ⭐⭐⭐ | 両岸に大規模資源 |
-| ブルーカーボン（海草） | ⭐⭐ | 研究段階 |
+    ## Bilateral A6.2 Agreements
 
-## ボランタリー市場実績
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ✅ 2021 | RE, energy efficiency, NBS |
+    | Singapore 🇸🇬 | — | 📋 MOU | IA in negotiation |
+    | Switzerland 🇨🇭 | Bilateral | 💬 Under discussion | REDD+ focus |
 
-- **VCS/GS認証プロジェクト**: 多数稼働中（累積発行量が南米2〜3位）
-- **炭素税×REDD+**: 企業が炭素税の一部をREDD+クレジットで代替可能（独自制度）
-- **Andes-Amazon Initiative**: 複数の国際保全NGOが大規模REDD+を展開
+    ## NBS Resources
 
-## 投資家視点
+    | Category | Maturity | Notes |
+    |----------|----------|-------|
+    | Amazon REDD+ | ⭐⭐⭐⭐⭐ | Colombian Amazon ~480,000 km² |
+    | Chocó tropical forest | ⭐⭐⭐⭐ | One of world's most biodiverse areas |
+    | Andes cloud forest | ⭐⭐⭐ | High endemic species; water provisioning |
+    | Mangroves (Pacific + Caribbean) | ⭐⭐⭐ | Large resources on both coasts |
+    | Blue carbon (seagrass) | ⭐⭐ | Research stage |
 
-- **NBS量と質の両立**: アマゾン+チョコの組み合わせはポートフォリオ多様化が可能
-- **炭素税実績**: 2016年以来の炭素価格制度は制度的信頼性の根拠
-- **ポストコンフリクト機会**: 2016年平和合意以降、紛争地域でのREDD+開発機会が拡大
-- **A6.2移行課題**: CA体制整備とNDCからの控除記帳ルール確定が必要
+    ## Voluntary Market Track Record
 
-## 最新動向（要確認）
-- [ ] 日本JCMプロジェクト第1号の承認状況
-- [ ] スイスとのバイラテラル正式署名の有無
-- [ ] 国内REDD+のA6.2移行ロードマップ
+    - **VCS/GS certified projects**: Numerous active projects (Colombia ranks #2–3 in Latin America by cumulative issuance)
+    - **Carbon tax × REDD+**: Companies can use REDD+ credits to offset a portion of their carbon tax obligation — Colombia's unique integration
+    - **Andes-Amazon Initiative**: Multiple major international conservation NGOs (Amazon Conservation Team, WCS) operating large-scale REDD+
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [ペルー](peru.md)
-- [JCM](../concepts/jcm.md)
+    ## Key Sources
+    - Colombia NDC: <https://unfccc.int/NDCREG>
+    - MADS: <https://www.minambiente.gov.co/>
+    - Colombia carbon tax: <https://www.dian.gov.co/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    日本JCM（2021年）パートナー、シンガポールMOU署名済み。アマゾン・チョコ・アンデス・マングローブという多彩なNBS資源を持ち、ラテンアメリカ初の炭素税（2016年〜）でNBS投資の誘引を確立した環境先進国。内陸紛争の歴史が一部地域のアクセスに影響するが、全般的に投資環境は改善中。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年に2015年比51%削減 |
+    | 国内炭素制度 | 炭素税（COP 15,000/t≈US$4/t、2016〜）＋REDD+クレジット充当制度 |
+    | 主管省庁 | 環境持続可能開発省（MADS） |
+    | JCM状況 | ✅ 日本（2021年） |
+    | シンガポール | 📋 MOU署名済み・IA交渉中 |
+    | スイス | 💬 協議中 |
+    | CA体制 | 🟡 整備中 |
+    | NBS成熟度 | ⭐⭐⭐⭐ |
+
+    ## 調達国との合意状況
+
+    | 調達国 | 制度 | 状況 | 備考 |
+    |--------|------|------|------|
+    | 日本 🇯🇵 | JCM | ✅ 2021年署名 | 再エネ・省エネ・NBS |
+    | シンガポール 🇸🇬 | MOU | 📋 MOU署名済み | IA交渉中 |
+    | スイス 🇨🇭 | — | 💬 協議中 | REDD+ベース |
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [ペルー](peru.md)
+    - [JCM](../concepts/jcm.md)

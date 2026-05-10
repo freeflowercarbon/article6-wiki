@@ -1,60 +1,99 @@
-# マレーシア 🇲🇾 — Article 6.2 ホスト国状況
+# Malaysia 🇲🇾 | マレーシア — Article 6.2 Host Country
 
-> 最終更新: 2026-05-10
+=== "🇬🇧 English"
 
-## サマリー
-日本JCM・シンガポールIA未締結ながら、Bursa Carbon Exchange（BCX）の稼働（2022年）により東南アジアで独自の炭素市場を先行整備した国。熱帯雨林・泥炭地という高品質NBS資源を保有しており、A6.2対応が進めば有力なホスト国となりうる。シンガポールとのIA交渉を模索中とされる。
+    ## Overview
 
-## 基本情報
-| 項目 | 内容 |
-|------|------|
-| NDC目標 | 2030年にGDP原単位で2005年比45%削減（条件付き） |
-| 国内炭素制度 | Bursa Carbon Exchange（BCX）ボランタリー市場（2022〜） |
-| 主管省庁 | 自然資源・環境・気候変動省（NRECC） |
-| JCM状況 | なし（日本との正式JCM未締結） |
-| IA状況 | シンガポールとの交渉模索中 |
-| CA体制 | 未整備 |
-| NBS成熟度 | ⭐⭐⭐ |
+    Malaysia has no formal JCM or Singapore IA agreement, but operates **Bursa Carbon Exchange (BCX)** — Southeast Asia's first exchange-based voluntary carbon market (since 2022). Malaysia holds substantial NBS resources (Bornean tropical forests, peatlands) and is exploring an IA with Singapore. Its MOU with Singapore makes it a strong candidate for future bilateral A6.2 cooperation.
 
-## 調達国との合意状況
+    | Item | Detail |
+    |------|--------|
+    | NDC Target | 45% reduction in GDP carbon intensity vs. 2005 by 2030 (conditional) |
+    | Carbon System | BCX voluntary market (2022–); no ETS |
+    | Key Ministry | Ministry of Natural Resources, Environment and Climate Change (NRECC) |
+    | JCM (Japan) | ⚪ None (no formal JCM agreement) |
+    | Singapore | 📋 MOU signed; IA negotiations in progress |
+    | CA Framework | 🔴 Not yet established |
+    | NBS Maturity | ⭐⭐⭐ |
 
-| 調達国 | 制度 | 状況 | 備考 |
-|--------|------|------|------|
-| 日本 🇯🇵 | JCM | ⚪ 未締結 | 協議の有無不明 |
-| シンガポール 🇸🇬 | IA | 🔄 模索中 | BCX連携の可能性 |
-| スイス 🇨🇭 | バイラテラル | ⚪ | — |
-| 韓国 🇰🇷 | — | ⚪ | — |
-| スウェーデン 🇸🇪 | — | ⚪ | — |
+    ## NDC Achievement Status
 
-## NBS状況
+    | Metric | Assessment |
+    |--------|-----------|
+    | Conditional target (45% intensity) | 🟡 On track for intensity target; absolute emissions still rising |
+    | Key driver | RE expansion; energy efficiency; palm oil governance reform |
+    | Key obstacle | High reliance on fossil fuel revenues; land-use change (deforestation) |
+    | GST 2023 Implication | Malaysia expected to strengthen 2035 NDC; A6.2 credit supply could help fund higher ambition |
 
-| 分野 | 状況 | 備考 |
-|------|------|------|
-| 熱帯雨林（ボルネオ等） | ⭐⭐⭐⭐ | 高炭素密度。サバ州・サラワク州に大規模資源 |
-| 泥炭地 | ⭐⭐⭐⭐ | 東南アジア最大級の泥炭地（保全が鍵） |
-| マングローブ | ⭐⭐⭐ | 海岸線全域に分布 |
-| 藻場 | ⭐⭐ | 調査初期段階 |
+    ## Bilateral A6.2 Agreements
 
-## Bursa Carbon Exchange（BCX）の概要
+    | Country | Mechanism | Status | Notes |
+    |---------|-----------|--------|-------|
+    | Japan 🇯🇵 | JCM | ⚪ Not signed | No formal JCM agreement |
+    | Singapore 🇸🇬 | IA | 📋 MOU signed | IA negotiations in progress; BCX linkage possible |
+    | Switzerland 🇨🇭 | Bilateral | ⚪ | — |
+    | Sweden 🇸🇪 | Bilateral | ⚪ | — |
 
-- **設立**: 2022年。ボルサ・マレーシア傘下
-- **取引対象**: 国際VCS・GS認証クレジット
-- **特徴**: 東南アジア初の取引所ベース炭素市場
-- **課題**: A6.2適合（CA付き）クレジットの取り扱いは未整備
+    ## NBS Resources
 
-## 投資家視点
+    | Category | Maturity | Notes |
+    |----------|----------|-------|
+    | Tropical forest (Borneo — Sabah, Sarawak) | ⭐⭐⭐⭐ | High carbon density; major REDD+ potential |
+    | Peatlands | ⭐⭐⭐⭐ | Among largest peatlands in Southeast Asia; conservation critical |
+    | Mangroves | ⭐⭐⭐ | Distributed across coastlines |
+    | Seagrass | ⭐⭐ | Early research stage |
 
-- **NBS資源の質**: ボルネオの熱帯雨林・泥炭地は高品質REDD+の供給源として有望
-- **BCX活用**: 既存インフラを活用した取引プラットフォームとしての展開が期待される
-- **整備の遅れ**: JCMもIAも未締結のため、A6.2適合クレジット供給まで時間を要する
-- **ヤシ油産業との関係**: 土地利用転換（LULUCF）の透明性確保が国際的な課題
+    ## Bursa Carbon Exchange (BCX)
 
-## 最新動向（要確認）
-- [ ] シンガポールとのIA交渉の具体的進展
-- [ ] 日本との二国間協力合意の有無
-- [ ] BCXのA6.2適合クレジット取り扱い開始時期
+    | Item | Detail |
+    |------|--------|
+    | Established | 2022; subsidiary of Bursa Malaysia |
+    | Credits traded | International VCS, Gold Standard credits |
+    | Feature | Southeast Asia's first exchange-based carbon market |
+    | A6.2 readiness | CA-applied ITMOs not yet handled — VCM credits only |
 
-## 関連ページ
-- [二国間マトリクス](../matrix.md)
-- [シンガポール](singapore.md)
-- [インドネシア](indonesia.md) — 近隣のJCM先行事例
+    **Investor note**: Malaysia's NBS quality (Bornean forests, peatlands) is among the highest in Southeast Asia. However, the absence of JCM and IA agreements means A6.2-qualified credit supply will take time. Palm oil industry land-use transparency remains an international concern requiring resolution for high-integrity REDD+ development.
+
+    ## Key Sources
+    - Malaysia NDC: <https://unfccc.int/NDCREG>
+    - BCX: <https://www.bursacarbon.com.my/>
+    - NRECC: <https://www.nrecc.gov.my/>
+
+=== "🇯🇵 日本語"
+
+    ## サマリー
+    日本JCM・シンガポールIA未締結ながら、Bursa Carbon Exchange（BCX）の稼働（2022年）により東南アジアで独自の炭素市場を先行整備した国。熱帯雨林・泥炭地という高品質NBS資源を保有。シンガポールとのMOU署名済みであり、IA交渉が進行中。
+
+    ## 基本情報
+    | 項目 | 内容 |
+    |------|------|
+    | NDC目標 | 2030年にGDP原単位で2005年比45%削減（条件付き） |
+    | 国内炭素制度 | Bursa Carbon Exchange（BCX）ボランタリー市場（2022〜） |
+    | 主管省庁 | 自然資源・環境・気候変動省（NRECC） |
+    | JCM状況 | ⚪ なし（日本との正式JCM未締結） |
+    | シンガポール | 📋 MOU署名済み・IA交渉中 |
+    | CA体制 | 🔴 未整備 |
+    | NBS成熟度 | ⭐⭐⭐ |
+
+    ## 調達国との合意状況
+
+    | 調達国 | 制度 | 状況 | 備考 |
+    |--------|------|------|------|
+    | 日本 🇯🇵 | JCM | ⚪ 未締結 | 協議の有無不明 |
+    | シンガポール 🇸🇬 | IA | 📋 MOU署名済み | BCX連携の可能性 |
+    | スイス 🇨🇭 | バイラテラル | ⚪ | — |
+    | スウェーデン 🇸🇪 | — | ⚪ | — |
+
+    ## NBS状況
+
+    | 分野 | 状況 | 備考 |
+    |------|------|------|
+    | 熱帯雨林（サバ州・サラワク州） | ⭐⭐⭐⭐ | 高炭素密度。大規模REDD+ポテンシャル |
+    | 泥炭地 | ⭐⭐⭐⭐ | 東南アジア最大級（保全が鍵） |
+    | マングローブ | ⭐⭐⭐ | 海岸線全域に分布 |
+    | 藻場 | ⭐⭐ | 調査初期段階 |
+
+    ## 関連ページ
+    - [マトリクス](../matrix.md)
+    - [シンガポール](singapore.md)
+    - [インドネシア](indonesia.md)
