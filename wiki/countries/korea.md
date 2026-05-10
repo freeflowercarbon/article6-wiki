@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Korea operates **Asia's largest cap-and-trade system** (K-ETS, since 2015) and is positioning as a future Article 6.2 acquiring country. Korea's 2030 NDC (40% reduction vs. 2018) creates structural demand for international credits, particularly as Phase 4 (2026–2030) design includes expanded A6.2-compatible credit acceptance. No bilateral A6.2 agreements have been signed to date, but informal discussions with ASEAN partners are ongoing.[^krndc]
+    Korea operates **Asia's largest cap-and-trade system** (K-ETS, since 2015) and is positioning as an Article 6.2 acquiring country. Korea's 2030 NDC (40% reduction vs. 2018) creates structural demand for international credits, particularly as Phase 4 (2026–2030) design includes expanded A6.2-compatible credit acceptance. Korea has signed an MOU with **Indonesia (June 2024)** on Article 6 carbon project cooperation, and secured a project-level authorization from Cambodia (July 2025). India-Korea Article 6.2 cooperation was formalized in April 2026.[^krndc]
 
     | Item | Detail |
     |------|--------|
@@ -29,14 +29,20 @@
 
     ## Bilateral A6.2 Agreements
 
-    | Host Country | Status | Notes |
-    |-------------|--------|-------|
-    | Indonesia | 💬 Informal consultations | ASEAN carbon market cooperation context |
-    | Vietnam | 💬 Informal consultations | ASEAN carbon market linkage |
-    | Thailand | 💬 Interest expressed | — |
-    | Others | ⚪ Not yet initiated | — |
+    | Host Country | Status | Date | Notes |
+    |-------------|--------|------|-------|
+    | Indonesia 🇮🇩 | 📋 MOU | Jun 2024 | Article 6 carbon project cooperation MOU; focus on industry projects[^krid] |
+    | Cambodia 🇰🇭 | 💬 Project approval | Jul 2025 | First host-country authorization for Korean A6 project obtained[^krkh] |
+    | India 🇮🇳 | 🤝 Bilateral agreement | Apr 2026 | Signed during Korean presidential visit; ITMO cooperation framework[^krin] |
+    | Vietnam 🇻🇳 | 💬 Interest expressed | — | ASEAN carbon market linkage discussions |
+    | Thailand 🇹🇭 | 💬 Interest expressed | — | — |
+    | Others | — | — | — |
 
-    > No formal bilateral A6.2 agreements as of May 2026. Korea's engagement remains at the exploratory stage.
+    > Korea's Article 6 engagement is accelerating: the Indonesia MOU (2024) and Cambodia project approval (2025) show increasing ASEAN focus. The India agreement (April 2026) marks Korea's first formal acquiring-country bilateral outside ASEAN. Primary source verification: [Korea MOE](https://www.me.go.kr/); [Indonesia MOU — Fairatmos analysis](https://www.fairatmos.com/blog/indonesia-and-south-korea-join-forces-under-article-6-a-green-leap-forward-in-carbon-emission-reduction); [India-Korea — Carbon Credits](https://carboncredits.com/india-and-south-korea-sign-article-6-2-deal-as-global-carbon-trading-gains-momentum/).
+
+    [^krid]: Korea-Indonesia Article 6 MOU signed June 2024 by Trade Minister Inkyo Cheong and Indonesian Coordinating Minister Airlangga Hartarto; source: Fairatmos analysis: <https://www.fairatmos.com/blog/indonesia-and-south-korea-join-forces-under-article-6-a-green-leap-forward-in-carbon-emission-reduction>. Government primary source: Korea MOTIE and Indonesian CMEA.
+    [^krkh]: Cambodia granted first host-country Article 6 project approval to Korea in July 2025; source: reccessary.com analysis: <https://www.reccessary.com/en/insight/asia-pushes-ahead-on-article-6>. Government confirmation pending via Cambodia MoE.
+    [^krin]: India-Korea Article 6.2 bilateral agreement signed April 2026 during Korean presidential visit to India; source: Carbon Credits: <https://carboncredits.com/india-and-south-korea-sign-article-6-2-deal-as-global-carbon-trading-gains-momentum/>. Government confirmation: Korea Ministry of Foreign Affairs.
 
     ## Methodology Approach
 
@@ -82,7 +88,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    韓国はアジア最大規模の排出権取引制度（K-ETS、2015年〜）を運営するA6.2調達国候補。2030年NDC（2018年比40%削減）達成に向け、国際クレジットの活用枠を拡大する方向でK-ETSフェーズ4（2026〜2030）設計を進めているが、現時点でA6.2二国間協定の締結実績はなく、ASEAN諸国との非公式協議段階にとどまる。[^krndc]
+    韓国はアジア最大規模の排出権取引制度（K-ETS、2015年〜）を運営するA6.2調達国候補。2030年NDC（2018年比40%削減）達成に向け、K-ETSフェーズ4（2026〜2030）でA6.2適合クレジットの受入拡大を設計中。**インドネシアとの二国間MOU（2024年6月）**、カンボジアでの案件レベル授権取得（2025年7月）、インドとのA6.2二国間協定締結（2026年4月）と、調達活動が加速している。[^krndc]
 
     ## 基本情報
     | 項目 | 内容 |
@@ -106,14 +112,16 @@
 
     ## 二国間A6.2協定状況
 
-    | ホスト国 | 状況 | 備考 |
-    |---------|------|------|
-    | インドネシア | 💬 非公式協議 | ASEAN炭素市場協力の文脈 |
-    | ベトナム | 💬 非公式協議 | ASEAN炭素市場連携 |
-    | タイ | 💬 関心表明 | — |
-    | その他 | ⚪ 未着手 | — |
+    | ホスト国 | 状況 | 時期 | 備考 |
+    |---------|------|------|------|
+    | インドネシア 🇮🇩 | 📋 MOU | 2024年6月 | Article 6炭素プロジェクト協力MOU；産業系案件中心[^krid] |
+    | カンボジア 🇰🇭 | 💬 案件承認 | 2025年7月 | 韓国向け初のA6.2案件レベル授権取得[^krkh] |
+    | インド 🇮🇳 | 🤝 二国間協定 | 2026年4月 | 韓国大統領訪印時に締結；ITMO協力枠組み[^krin] |
+    | ベトナム 🇻🇳 | 💬 関心表明 | — | ASEAN炭素市場連携の文脈 |
+    | タイ 🇹🇭 | 💬 関心表明 | — | — |
+    | その他 | — | — | — |
 
-    > 2026年5月時点でA6.2二国間協定の締結はゼロ。
+    > 韓国のA6.2調達活動は加速中。インドネシアMOU（2024年）・カンボジア案件承認（2025年）・インド二国間協定（2026年4月）と段階的に拡大。一次ソース確認は各国政府HP（韓国環境部・インドネシア経済調整省）を参照。
 
     ## 方法論アプローチ
 

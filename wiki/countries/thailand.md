@@ -8,23 +8,25 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 40% reduction vs. BAU by 2030 (conditional); 30% unconditional |
-    | Carbon System | T-VER (voluntary); ETS under consideration (2030s) |
-    | JCM (Japan) | ✅ Since 2015; 25+ projects |
-    | Singapore IA | ✅ **Signed August 2025** [^thsg] |
-    | Switzerland | ✅ **ITMO transferred January 2024** (1,916 units) [^thch] |
+    | NDC Target | 40% reduction vs. BAU by 2030 (conditional); 30% unconditional[^thndc] |
+    | Carbon System | T-VER (voluntary)[^thver]; ETS under consideration (2030s) |
+    | JCM (Japan) | 🤝 Since 2015; 25+ projects[^thjcm] |
+    | Singapore IA | 🤝 **Signed August 2025**[^thsg] |
+    | Switzerland | ✅ **ITMO transferred January 2024** (1,916 units)[^thch] |
     | CA Framework | 🟡 Being developed (ONEP-led) |
 
     ## NDC Achievement Status
 
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (30%) | 🟡 Partially on track; RE expansion ongoing |
-    | Conditional target (40%) | 🟡 Requires international support |
+    | Unconditional target (30%)[^thndc] | 🟡 Partially on track; RE expansion ongoing |
+    | Conditional target (40%)[^thndc] | 🟡 Requires international support |
     | Key driver | RE expansion (solar, wind); energy efficiency; EV adoption |
     | GST 2023 Implication | Thailand expected to raise 2035 conditional NDC; T-VER alignment with A6.2 key |
 
-    > Source: Thailand NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=THA>
+    [^thndc]: Thailand NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=THA>
+    [^thver]: T-VER (Thailand Voluntary Emission Reduction Program): Thailand Greenhouse Gas Management Organization (TGO) <https://www.tgo.or.th/>
+    [^thjcm]: JCM Thailand projects: GEC <https://gec.jp/jcm/projects/>; MOEJ JCM portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
 
     ## Active Article 6.2 Projects
 

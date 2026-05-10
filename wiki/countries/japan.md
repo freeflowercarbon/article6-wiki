@@ -99,6 +99,42 @@
 
     JCM does not accept Verra VCS or Gold Standard methodologies directly. All methodologies are country-pair and sector-specific, developed by Japanese research institutions (IGES, JICA, etc.) and approved by the JC.[^jcmmeth]
 
+    ## JCM Forest NBS — Methodology-Specific Steps
+
+    Forest / Nature-Based Solutions (NBS) JCM projects require **additional bilateral steps** beyond standard energy/efficiency JCM:
+
+    **Required steps (Forest NBS only):**
+
+    | Step | Action | Who |
+    |------|--------|-----|
+    | 1 | JCM Implementation Agreement signed | Japan (MOEJ) + Host Ministry |
+    | 2 | Joint Committee (JC) convened | Co-chaired by MOEJ + host country environment/forest ministry |
+    | 3 | **NBS/Forest-specific methodology guideline developed** | IGES/JICA/Japanese research institutes |
+    | 4 | **JC bilateral approval of forest NBS guidelines** | JC (bilateral) — this step is unique to NBS |
+    | 5 | Project proposal submitted + validation | Third-party entity (TPE) designated by JC |
+    | 6 | JC project registration | JC secretariat |
+    | 7 | Monitoring + MRV (field-based, multi-year) | Project developer + TPE |
+    | 8 | JCM credit issuance | JCM registry |
+    | 9 | A6.2 Authorization (since Mar 2025) | Host country government |
+
+    Steps 3–4 are the key additional requirement for Forest NBS — each country pair must develop sector-specific forest carbon methodology guidelines under the JC before projects can register. Energy/RE projects skip directly from Step 1 to Step 5.
+
+    **JCM Forest NBS Guidelines Status by Country:**
+
+    | Host Country | JC Forest Guidelines | Forest NBS Project Status | Notes |
+    |-------------|---------------------|--------------------------|-------|
+    | Philippines 🇵🇭 | ✅ **Ph.4 Forest JCM Guidelines approved Nov 2025**[^phphnbs] | 🟡 REDD+ / A/R pipeline forming | First country in Southeast Asia with approved forest NBS guidelines |
+    | Cambodia 🇰🇭 | ✅ Project-specific (Dec 2023)[^khnbs] | ✅ **Prey Lang REDD+ authorized** (~600,000 t/yr) | Prototype NBS-JCM; guideline embedded in project approval |
+    | Indonesia 🇮🇩 | 🟡 Under JC discussion | 🟡 Awaiting guideline approval | Perpres 110/2025 enables export; JC forest methodology next step |
+    | Senegal 🇸🇳 | 🟡 Early development | 🟡 Great Green Wall candidate | JCM NBS not yet initiated |
+    | Ethiopia 🇪🇹 | 🔴 Not yet initiated | 🔴 Not yet | Bale Mountains REDD+ candidate |
+    | Colombia 🇨🇴 | 🟡 Early development | 🟡 Amazon + Andes pipeline | JCM 2021 (new); NBS pathway developing |
+    | Kenya 🇰🇪 | 🟡 Early | 🟡 Savanna REDD+ potential | — |
+    | Papua New Guinea 🇵🇬 | 🟡 Early | 🟡 Tropical forest; governance constraints | — |
+
+    [^phphnbs]: Philippines JCM Phase 4 Forest-specific Guidelines approved Nov 2025 by Japan-Philippines Joint Committee; source: GEC Philippines <https://gec.jp/jcm/projects/>
+    [^khnbs]: Cambodia Prey Lang NBS-JCM authorized December 2023; source: GEC Cambodia / MOEJ announcement
+
     ## Procurement Track Record & Demand
 
     | Metric | Data |
@@ -186,6 +222,37 @@
     | ラオス | エネルギー・腸内メタン | 6件 | ✅ 初認証済み |
 
     > JCMプロジェクトDB: <https://gec.jp/jcm/projects/>
+
+    ## JCM 森林NBS — 方法論分野別ステップ
+
+    森林NBS系JCMプロジェクトは、通常のエネルギー・省エネJCMと比較して**二国間固有の追加手続き**が必要です。
+
+    **森林NBS固有の必須ステップ：**
+
+    | ステップ | 手続き | 担当 |
+    |---------|--------|------|
+    | 1 | JCM実施協定署名 | 環境省（MOEJ）＋ホスト国省庁 |
+    | 2 | 合同委員会（JC）設置 | MOEJ＋ホスト国環境・森林省庁（共同議長） |
+    | 3 | **NBS/森林専用方法論ガイドライン策定** | IGES・JICA等の日本研究機関 |
+    | 4 | **JCMによる森林NBSガイドラインの二国間承認** | JC（二国間）— このステップが森林NBS固有 |
+    | 5 | プロジェクト提案書提出＋検証 | JCM指定第三者機関（TPE） |
+    | 6 | JCMプロジェクト登録 | JC事務局 |
+    | 7 | モニタリング・MRV（現地多年度） | プロジェクト開発者＋TPE |
+    | 8 | JCMクレジット発行 | JCMレジストリ |
+    | 9 | A6.2授権（2025年3月以降） | ホスト国政府 |
+
+    ステップ3〜4が森林NBSの固有要件。エネルギー・再エネ案件はステップ1からステップ5に直接進める。
+
+    **国別JCM森林NBSガイドライン整備状況：**
+
+    | ホスト国 | JC森林ガイドライン | 森林NBS案件状況 | 備考 |
+    |---------|-----------------|-------------|------|
+    | フィリピン 🇵🇭 | ✅ **Ph.4森林ガイドライン承認（2025年11月）**[^phphnbs] | 🟡 REDD+・A/Rパイプライン形成中 | 東南アジア初の承認 |
+    | カンボジア 🇰🇭 | ✅ 案件別承認（2023年12月）[^khnbs] | ✅ **Prey Lang REDD+授権済み**（約60万t/年） | プロトタイプNBS-JCM |
+    | インドネシア 🇮🇩 | 🟡 JC協議中 | 🟡 ガイドライン承認待ち | Perpres 110/2025が前提条件 |
+    | セネガル 🇸🇳 | 🟡 初期検討 | 🟡 グリーン大長城候補 | 未着手 |
+    | エチオピア 🇪🇹 | 🔴 未着手 | 🔴 未着手 | バレ山地REDD+候補 |
+    | コロンビア 🇨🇴 | 🟡 初期検討 | 🟡 アマゾン・アンデスパイプライン | JCM 2021（新規） |
 
     ## 主要コンタクトポイント
 
