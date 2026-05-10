@@ -23,15 +23,17 @@
 
     ## NDC Achievement Status
 
+    > **NDC 3.0 submitted July 2025**[^khndcnew3]: Cambodia raised conditional target to 55% reduction vs. BAU by 2035 (the first NDC with an unconditional component). Financing required: US$22B for mitigation + US$9B for adaptation (total US$31B by 2035). Key targets include 72% renewable energy capacity, halve deforestation, 59% waste sector cuts.
+
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (~27%) | 🟢 Achievable with current RE trajectory |
-    | Conditional target (42%) | 🟡 Requires international finance (forests, transport) |
-    | Key driver | Hydropower; solar; REDD+ |
-    | GST 2023 Implication | Cambodia expected to raise conditional ambition for 2035; deforestation remains key risk |
+    | Unconditional target (first set in NDC 3.0) | 🟢 Being established for 2035 |
+    | Conditional target (55% by 2035)[^khndcnew3] | 🔴 US$31B needed — A6.2 revenue is catalytic |
+    | Key driver | Hydropower; solar; REDD+ (Prey Lang breakthrough) |
+    | NDC 3.0 (Jul 2025) | 72% RE capacity; halve deforestation; 60% efficient cookstoves |
+    | Export motivation | ⭐⭐⭐ High — credit revenue critical to fund ambitious conditional NDC |
 
-    > Source: Cambodia NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KHM>
-    > Sub-Decree 159: <https://www.mef.gov.kh/>
+    [^khndcnew3]: Cambodia NDC 3.0 (Jul 2025): UNDP Cambodia <https://www.undp.org/cambodia/press-releases/cambodia-launches-third-nationally-determined-contribution-ndc-30-accelerate-climate-action-and-sustainable-development>
 
     ## Active Article 6.2 Projects
 

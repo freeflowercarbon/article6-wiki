@@ -27,13 +27,19 @@
 
     ## NDC Achievement Status
 
+    > **Key 2025 developments** (secondary sources): (1) Revised Power Development Plan 8 (PDP8, May 2025) strengthened coal phase-out and scaled solar/offshore wind targets.[^vnpdp8news] (2) Vietnam's pilot ETS launched June 2025, covering power, cement, and steel sectors with 500+ facilities.[^vnets2025] Despite this, current trajectory is rated "Critically Insufficient" vs. 1.5°C by Climate Action Tracker.[^vncatnews]
+
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (15.8%)[^vnndc] | 🟢 Achievable with current trajectory |
-    | Conditional target (43.5%)[^vnndc] | 🟡 Requires significant international finance and technology transfer |
-    | Key driver | RE transition (solar boom 2019–2023); energy efficiency programs |
-    | Key obstacle | Power sector restructuring; EVN dominance; coal phase-out timeline |
-    | GST 2023 Implication | Vietnam expected to raise 2035 NDC conditional ambition |
+    | Unconditional target (15.8%)[^vnndc] | 🟡 Off track — current policies insufficient; emissions rising |
+    | Conditional target (43.5%)[^vnndc] | 🔴 "Critically Insufficient" — 2030 emissions projected 686–722 MtCO₂e |
+    | Key driver | RE expansion; ETS pilot (Jun 2025); PDP8 revised May 2025 |
+    | Key obstacle | Coal dependency; slow fund disbursement; just-transition concerns |
+    | Export motivation | ⚠️ Caution — NDC off-track means Vietnam may need all reductions domestically |
+
+    [^vnpdp8news]: Vietnam PDP8 revision (May 2025) — strengthened coal phase-out, scaled RE: Energy transition news coverage (secondary source)
+    [^vnets2025]: Vietnam pilot ETS launched June 2025 (power, cement, steel; 500+ facilities): QC Intel / Carbon Pulse coverage <https://www.qcintel.com/>
+    [^vncatnews]: Vietnam NDC trajectory rated "Critically Insufficient" vs. 1.5°C: Climate Action Tracker <https://climateactiontracker.org/countries/vietnam/>
 
     ## Active Article 6.2 Projects
 

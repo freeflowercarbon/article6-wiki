@@ -17,12 +17,17 @@
 
     ## NDC Achievement Status
 
+    > **NDC 3.0 submitted October 2025**[^thndcnew]: Thailand raised ambition to 47% reduction by 2035 (vs. 2019 baseline), with net-zero by 2050 — 15 years earlier than the original 2065 target. The updated 2030 target is 40% reduction with 33.3% domestic action and 6.7% requiring international support.
+
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (30%)[^thndc] | 🟡 Partially on track; RE expansion ongoing |
-    | Conditional target (40%)[^thndc] | 🟡 Requires international support |
+    | Unconditional target (33.3% domestic by 2030)[^thndc] | 🟡 Partially on track; 2024 emissions rose 2.9% vs. 2023 |
+    | Conditional target (40% by 2030 / 47% by 2035)[^thndcnew] | 🟡 Requires US$7.05 billion in international climate finance |
     | Key driver | RE expansion (solar, wind); energy efficiency; EV adoption |
-    | GST 2023 Implication | Thailand expected to raise 2035 conditional NDC; T-VER alignment with A6.2 key |
+    | NDC 3.0 (Oct 2025) | Net-zero 2050 target; 2035 conditional target 47%; requires massive int'l support |
+    | Export motivation | 🟡 Medium-High — needs A6.2 revenue to meet conditional target; surplus depends on RE pace |
+
+    [^thndcnew]: Thailand NDC 3.0 (submitted Oct 2025): Climate Action Tracker <https://climateactiontracker.org/countries/thailand/>; 47% by 2035, net-zero 2050, US$7.05B finance needed
 
     [^thndc]: Thailand NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=THA>
     [^thver]: T-VER (Thailand Voluntary Emission Reduction Program): Thailand Greenhouse Gas Management Organization (TGO) <https://www.tgo.or.th/>

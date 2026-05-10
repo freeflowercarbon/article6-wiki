@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-10
+    > Last updated: 2026-05-10 | Singapore RFP2 launched Oct 31, 2025[^sgrfp2] | Norway-Switzerland CDR ITMO transfer Jun 2025[^noitmosrc]
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -33,6 +33,7 @@
     [^krpha4]: Korea K-ETS Phase 4 design: ICAP Korea ETS <https://icapcarbonaction.com/en/ets/korea-emissions-trading-scheme>
     [^sgm]: Singapore approved registries: NEA <https://www.nea.gov.sg/media/news/news/index/singapore-publishes-eligibility-list-for-international-carbon-credits-under-the-carbon-tax-regime>
     [^chm]: Switzerland methodology approach (BeZero): <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
+    [^sgrfp2]: Singapore RFP2 launched Oct 31, 2025 (combined tech-based + nature-based Article 6 credits): Carbon Pulse <https://carbon-pulse.com/451306/>
 
     ## Legend — Progress Stages
 
@@ -114,6 +115,84 @@
     | Ukraine 🇺🇦 | — | — | 🤝 bilateral(2022) ⚠️ | — | — | — |
     | Uruguay 🇺🇾 | — | — | 🤝 bilateral | — | — | — |
 
+    ## NDC Achievement Outlook — Export Readiness Signal
+
+    > A host country's NDC trajectory is a critical signal for ITMO export sustainability. Countries meeting unconditional NDCs easily have genuine surplus to export. Countries where credit revenue finances conditional-NDC reductions create a virtuous cycle. Countries failing even unconditional targets risk overselling their domestic reduction potential.[^ndccat][^ndcequity]
+
+    | Host Country | Unconditional NDC Status | Conditional Gap | Export Readiness | Key Risk / Note |
+    |-------------|:------------------------:|:---------------:|:----------------:|-----------------|
+    | Paraguay 🇵🇾 | 🟢 Achieved (98% RE electricity) | 🟡 LULUCF only | ⭐⭐⭐⭐ Very High | Gran Chaco deforestation pressure |
+    | Costa Rica 🇨🇷 | 🟢 Near-zero net emissions | 🟡 Minor gap | ⭐⭐⭐⭐ Very High | Small territory limits credit volume |
+    | Rwanda 🇷🇼 | 🟢 On track (16% uncond.) | 🟡 38% conditional | ⭐⭐⭐⭐ High | Strong governance; finance gap |
+    | Ghana 🇬🇭 | 🟢 On track (~15 Mt uncond.) | 🔴 64 Mt conditional gap | ⭐⭐⭐⭐ High | Credit revenue funds conditional NDC (virtuous cycle) |
+    | Peru 🇵🇪 | 🟢 On track (~30% uncond.) | 🟡 40% conditional | ⭐⭐⭐ High | Fossil fuel expansion contradicts NDC 3.0 (Nov 2025)[^perundcnews] |
+    | Chile 🇨🇱 | 🟢 On track (95 Mt net target) | 🟡 Needs int'l support | ⭐⭐⭐ High | Dual host+buyer role under exploration |
+    | Cambodia 🇰🇭 | 🟡 Partial | 🔴 US$31B needed (NDC 3.0 Jul 2025)[^khmndcnews] | ⭐⭐⭐ High | Credit revenue catalytic for ambitious conditional target |
+    | Thailand 🇹🇭 | 🟡 Partial | 🟡 US$7.05B by 2035 (NDC 3.0 Oct 2025)[^thandcnews] | ⭐⭐⭐ High | 2024 emissions rose 2.9%; finance gap critical |
+    | Mongolia 🇲🇳 | 🟡 Moderate | 🟡 27.2% conditional | ⭐⭐⭐ High | Desertification undermines NBS permanence |
+    | Colombia 🇨🇴 | 🟡 Partial | 🟡 51% conditional | ⭐⭐⭐ High | Amazon resources strong; no IA yet |
+    | Kenya 🇰🇪 | 🟡 At risk | 🔴 80% int'l support needed (2035 NDC May 2025)[^kendcnews] | ⭐⭐ Medium | Grid emissions spiked 27% H2 2025; watch closely |
+    | Philippines 🇵🇭 | 🟢 Trivial uncond. (2.71%) | 🔴 75% conditional gap | ⚠️ Caution | Huge conditional gap; unconditional target near-meaningless |
+    | Vietnam 🇻🇳 | 🔴 Off track | 🔴 "Critically Insufficient" vs. 1.5°C[^vnndcnews] | ⚠️ Caution | Needs all domestic reductions; exporting risks NDC integrity |
+    | Indonesia 🇮🇩 | 🔴 Off track | 🔴 "Highly Insufficient" (2nd NDC Oct 2025)[^idndcnews] | ⚠️ Caution | Perpres 110/2025 enables export legally but NDC is at risk |
+    | Papua New Guinea 🇵🇬 | 🟡 | 🔴 Major finance needed | ⭐⭐ Medium | Rich resources; governance gaps impede supply |
+
+    [^ndccat]: Climate Action Tracker (country profiles, 2024–2025): <https://climateactiontracker.org/countries/>
+    [^ndcequity]: NDC Equity Tracker: <https://www.ndcequitytracker.org/>
+    [^perundcnews]: Peru NDC 3.0 (Nov 2025); fossil fuel expansion risk (oil/gas +24% planned): Carbon Pulse <https://carbon-pulse.com/437439/>
+    [^khmndcnews]: Cambodia NDC 3.0 (Jul 2025); US$22B mitigation + US$9B adaptation needed: UNDP <https://www.undp.org/cambodia/press-releases/cambodia-launches-third-nationally-determined-contribution-ndc-30-accelerate-climate-action-and-sustainable-development>
+    [^thandcnews]: Thailand NDC 3.0 (Oct 2025); 47% by 2035; net-zero 2050 (15 years earlier): Climate Action Tracker <https://climateactiontracker.org/countries/thailand/>
+    [^kendcnews]: Kenya 2035 NDC (May 2025); grid emissions spiked 27% H2 2025: The Star Kenya <https://www.the-star.co.ke/news/2026-04-13-emissions-from-kenyas-grid-spike-despite-climate-targets>
+    [^vnndcnews]: Vietnam pilot ETS Jun 2025; PDP8 revised May 2025 but trajectory "Critically Insufficient": Climate Action Tracker <https://climateactiontracker.org/countries/vietnam/>
+    [^idndcnews]: Indonesia 2nd NDC (Oct 2025); rated "Highly Insufficient" vs. 1.5°C; heavy FOLU reliance: Climate Action Tracker <https://climateactiontracker.org/countries/indonesia/>
+
+    ## ITMO First-Issuance Timeline Estimates
+
+    > For countries without confirmed A6.2 ITMO transfers, timelines reflect CA framework readiness, first monitoring cycle duration (~18–24 months post-IA), and buyer pipeline maturity. As of mid-2025, only ~3–4 ITMO transfers confirmed globally despite 97+ bilateral IAs signed.[^itmostat]
+
+    | Host Country | Best Partner | Est. First ITMO | Status / Basis |
+    |-------------|:------------:|:---------------:|----------------|
+    | **Confirmed Transfers** | | | |
+    | Peru 🇵🇪 | Switzerland 🇨🇭 | ✅ **2023** | World's first A6.2 ITMO transfer[^peitmosrc] |
+    | Ghana 🇬🇭 | Switzerland 🇨🇭 | ✅ **Jan 2024** | First African ITMO; cookstoves + REDD+[^ghitmosrc] |
+    | Thailand 🇹🇭 | Switzerland 🇨🇭 | ✅ **Jan 2024** | 1,916 units; 2nd global transfer[^thitmosrc] |
+    | Georgia 🇬🇪 | Switzerland 🇨🇭 | ✅ **2024–2025** | RE + forest portfolio[^geitmosrc] |
+    | Laos 🇱🇦 | Japan JCM | ✅ **2024** | 3M credits authorized (enteric methane) — Mekong first[^laitmosrc] |
+    | Norway 🇳🇴 (as host) | Switzerland 🇨🇭 | ✅ **Jun 2025** | **Historic: first-ever A6.2 CDR (carbon removal) transfer**[^noitmosrc] |
+    | **Pipeline — Near-term (2026–2027)** | | | |
+    | Paraguay 🇵🇾 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025; first monitoring cycle needed[^pyitmosrc] |
+    | Ghana 🇬🇭 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1×2 contracted Sep 2025 (~1.35 Mt, cookstoves + REDD+)[^ghsgitmosrc] |
+    | Peru 🇵🇪 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025 (Amazon REDD+, ~540,000t)[^pesgitmosrc] |
+    | **Pipeline — Medium-term (2027–2028)** | | | |
+    | Cambodia 🇰🇭 | Japan JCM | 🟡 **2027–2028** | Prey Lang A6.2 authorized Dec 2023; JCM→ITMO conversion ongoing[^khitmosrc] |
+    | Vietnam 🇻🇳 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Aug 2025; ~18–24 month standard lead time[^vnitmosrc] |
+    | Chile 🇨🇱 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Apr 2025[^clitmosrc] |
+    | Mongolia 🇲🇳 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Oct 6, 2025[^mnitmosrc] |
+    | Philippines 🇵🇭 | Japan JCM | 🟡 **2027–2028** | JCM→A6.2; paddy (Feb 2025) + forest (Nov 2025) methodologies approved[^phitmosrc] |
+    | **Pipeline — Longer-term (2028+)** | | | |
+    | Papua New Guinea 🇵🇬 | Singapore 🇸🇬 | 🔴 **2028+** | IA Dec 2023; cautious "road test" approach still in early stage[^pgitmosrc] |
+    | Indonesia 🇮🇩 | Singapore 🇸🇬 | 🔴 **2028+** | Perpres 110/2025 just enacted; SG IA still negotiating[^iditmosrc] |
+    | Colombia 🇨🇴 | Japan JCM | 🔴 **2028+** | JCM 2021; no bilateral IA with buyer country yet[^coitmosrc] |
+
+    [^itmostat]: As of mid-2025, 97+ bilateral IAs signed between 59 countries but only ~3–4 confirmed ITMO transfers; bottleneck = first monitoring cycle: Paris Agreement Article 6 Implementation Report 2025 <https://ca1-aip.edcdn.com/knowledge-hub/The-Paris-Agreement-Article-6-Implementation-Status-Report-2025-Edition.pdf?v=1761224037>
+    [^peitmosrc]: Switzerland-Peru (2023 — world's first A6.2 ITMO): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^ghitmosrc]: Switzerland-Ghana (Jan 31, 2024): Klik.ch <https://www.klik.ch/en/news/news-article/first-itmo-transfer-switzerland-ghana>
+    [^thitmosrc]: Switzerland-Thailand (Jan 2024, 1,916 units): White & Case <https://www.whitecase.com/insight-alert/emerging-fundamentals-climate-mitigation-through-itmo-transactions-under-paris>
+    [^geitmosrc]: Switzerland-Georgia (2024–2025 initial transfers): FOEN bilateral portfolio <https://www.bafu.admin.ch/>
+    [^laitmosrc]: Laos JCM A6.2 authorization (3M credits, enteric methane — first in Mekong): Carbon Pulse <https://carbon-pulse.com/453295/>
+    [^noitmosrc]: Norway-Switzerland CDR ITMO transfer (Jun 17, 2025 — first-ever A6.2 carbon removal transfer): ClimeFi <https://www.climefi.com/blog-posts-climefi-structures-a-historic-first-norway-switzerland-itmo-transfer-under-article-6-of-the-paris-agreement/>
+    [^pyitmosrc]: Singapore-Paraguay RFP1 (Gran Chaco grassland, ~285,000t, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^ghsgitmosrc]: Singapore-Ghana RFP1×2 (~900,000t cookstoves + ~450,000t REDD+, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^pesgitmosrc]: Singapore-Peru RFP1 (Amazon REDD+, ~540,000t, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^khitmosrc]: Cambodia Prey Lang A6.2 authorization (Dec 2023); JCM→ITMO conversion: Article 6 Partnership <https://a6partnership.org/a6-implementation-status/current-status-of-article-6-2-implementation>
+    [^vnitmosrc]: Vietnam-Singapore IA (Aug 2025); 18–24 month standard first-ITMO lead time: Reccessary <https://www.reccessary.com/en/insight/asia-pushes-ahead-on-article-6>
+    [^clitmosrc]: Singapore-Chile IA (Apr 2025); standard 5% adaptation / 2% cancellation terms: Carbon Pulse <https://carbon-pulse.com/385478/>
+    [^mnitmosrc]: Singapore-Mongolia IA (Oct 6, 2025): MTI Singapore <https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2025/10/Updated_MTI-Press-Release-on-Singapore-Mongolia-IA-for-carbon-credits-collaboration.pdf>
+    [^phitmosrc]: Philippines-Japan (paddy methodology Feb 2025; forest guidelines Nov 2025): S&P Global <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/070124-japan-philippines-to-develop-article-62-carbon-credits-from-agriculture-projects>
+    [^pgitmosrc]: PNG-Singapore IA (Dec 2023 COP28); still in "road test" phase Nov 2025: Carbon Pulse <https://carbon-pulse.com/456809/>
+    [^iditmosrc]: Indonesia Perpres 110/2025 (Oct 2025 — legalized ITMO export); SG IA still negotiating: ARMA Law <https://www.arma-law.com/news-event/newsflash/reshaping-indonesias-carbon-governance-presidential-regulation-no-110-of-2025-concerning-the-implementation-of-carbon-economic-value-instruments-and-national-greenhouse-gas-emission-control>
+    [^coitmosrc]: Colombia-Japan JCM 2021; no bilateral IA with buyer country yet: Energy Policy Columbia <https://www.energypolicy.columbia.edu/publications/how-to-fully-operationalize-article-6-of-the-paris-agreement/>
+
     ## Host Country A6.2 Maturity Score (Investor View)
 
     | Country | NBS | CA | ITMO Record | Overall |
@@ -131,7 +210,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-05-10
+    > 最終更新: 2026-05-10 | シンガポールRFP2開始（2025年10月31日）[^sgrfp2] | ノルウェー・スイスCDR ITMO移転（2025年6月）[^noitmosrc]
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -226,6 +305,56 @@
     | バヌアツ 🇻🇺 | — | — | 🤝 二国間(2021) | — | — | — |
     | ウクライナ 🇺🇦 | — | — | 🤝 二国間(2022) ⚠️ | — | — | — |
     | ウルグアイ 🇺🇾 | — | — | 🤝 二国間 | — | — | — |
+
+    ## NDC達成見込みとITMO輸出適性
+
+    > ホスト国のNDC達成軌道はITMO輸出の持続可能性を評価する重要な指標。無条件目標を容易に達成できる国は輸出余剰が真に存在する。クレジット収益が条件付きNDCの追加的削減を促す場合は好循環（virtuous cycle）。無条件目標すら達成困難な国は輸出余剰の確保が疑わしい。[^ndccat][^ndcequity]
+
+    | ホスト国 | 無条件NDC状況 | 条件付きNDCのギャップ | ITMO輸出適性 | 主要リスク・注記 |
+    |---------|:------------:|:-------------------:|:-----------:|----------------|
+    | パラグアイ 🇵🇾 | 🟢 達成済み（再エネ98%） | 🟡 LULUCF分野のみ | ⭐⭐⭐⭐ 非常に高い | グランチャコ森林減少リスク |
+    | コスタリカ 🇨🇷 | 🟢 実質ネットゼロ達成 | 🟡 小さなギャップ | ⭐⭐⭐⭐ 非常に高い | 国土が小さく供給量は限定的 |
+    | ルワンダ 🇷🇼 | 🟢 順調（無条件16%） | 🟡 38%条件付き | ⭐⭐⭐⭐ 高い | ガバナンス優秀；資金ギャップ |
+    | ガーナ 🇬🇭 | 🟢 順調（約15 Mt無条件） | 🔴 64 Mtの条件付きギャップ | ⭐⭐⭐⭐ 高い | クレジット収益→条件付きNDC達成（好循環） |
+    | ペルー 🇵🇪 | 🟢 順調（約30%） | 🟡 40%条件付き | ⭐⭐⭐ 高い | 化石燃料拡大がNDC 3.0と矛盾（2025年11月）[^perundcnews] |
+    | チリ 🇨🇱 | 🟢 順調（95Mt目標） | 🟡 国際支援必要 | ⭐⭐⭐ 高い | ホスト国・調達国の双方ロール検討中 |
+    | カンボジア 🇰🇭 | 🟡 部分的 | 🔴 US$31B必要（NDC 3.0 2025年7月）[^khmndcnews] | ⭐⭐⭐ 高い | クレジット収益が条件付きNDC達成のカギ |
+    | タイ 🇹🇭 | 🟡 部分的 | 🟡 2035年までにUS$70.5億必要（NDC 3.0 2025年10月）[^thandcnews] | ⭐⭐⭐ 高い | 2024年排出量2.9%増加；資金ギャップが致命的 |
+    | モンゴル 🇲🇳 | 🟡 中程度 | 🟡 27.2%条件付き | ⭐⭐⭐ 高い | 砂漠化がNBS恒久性リスクを高める |
+    | コロンビア 🇨🇴 | 🟡 部分的 | 🟡 51%条件付き | ⭐⭐⭐ 高い | アマゾン資源豊富；IA未締結 |
+    | ケニア 🇰🇪 | 🟡 リスクあり | 🔴 80%国際支援必要（2035年NDC 2025年5月）[^kendcnews] | ⭐⭐ 中程度 | 2025年下半期に電力グリッド排出量27%急増 |
+    | フィリピン 🇵🇭 | 🟢 無条件は達成（2.71%） | 🔴 75%条件付きギャップ | ⚠️ 注意 | 条件付きは巨大なギャップ；無条件は事実上意味なし |
+    | ベトナム 🇻🇳 | 🔴 未達成 | 🔴 「1.5°C目標への著しい不足」[^vnndcnews] | ⚠️ 注意 | 国内削減量をすべて必要；輸出はNDC達成リスク |
+    | インドネシア 🇮🇩 | 🔴 未達成 | 🔴 「高度に不十分」（第2NDC 2025年10月）[^idndcnews] | ⚠️ 注意 | Perpres 110で輸出は合法化されたがNDC軌道がリスク |
+    | パプアニューギニア 🇵🇬 | 🟡 | 🔴 大規模資金が必要 | ⭐⭐ 中程度 | 豊富な資源；ガバナンスギャップ |
+
+    ## ITMO初発行タイムライン推定
+
+    > A6.2 ITMO移転が未確認のホスト国について、CA体制整備、初回モニタリングサイクル（IA署名後通常18〜24ヶ月）、バイヤー側パイプライン成熟度を踏まえたタイムライン推定。2025年半時点で、97以上の二国間IAが署名済みにもかかわらず、確認済みITMO移転は3〜4件のみ。[^itmostat]
+
+    | ホスト国 | 最有力パートナー | 推定初ITMO | 根拠 |
+    |---------|:--------------:|:----------:|------|
+    | **確認済み移転** | | | |
+    | ペルー 🇵🇪 | スイス 🇨🇭 | ✅ **2023年** | 世界初A6.2 ITMO移転[^peitmosrc] |
+    | ガーナ 🇬🇭 | スイス 🇨🇭 | ✅ **2024年1月** | アフリカ初（改良かまど＋REDD+）[^ghitmosrc] |
+    | タイ 🇹🇭 | スイス 🇨🇭 | ✅ **2024年1月** | 1,916ユニット・世界2番目[^thitmosrc] |
+    | ジョージア 🇬🇪 | スイス 🇨🇭 | ✅ **2024〜2025年** | 再エネ・森林ポートフォリオ[^geitmosrc] |
+    | ラオス 🇱🇦 | 日本JCM | ✅ **2024年** | 300万クレジット授権（腸内メタン）—メコン初[^laitmosrc] |
+    | **ノルウェー 🇳🇴**（ホスト） | スイス 🇨🇭 | ✅ **2025年6月** | **歴史的：A6.2初の炭素除去（CDR）移転**[^noitmosrc] |
+    | **パイプライン — 近期（2026〜2027年）** | | | |
+    | パラグアイ 🇵🇾 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1契約済（2025年9月）；初回モニタリングが必要[^pyitmosrc] |
+    | ガーナ 🇬🇭 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1×2契約（改良かまど約90万t＋REDD+約45万t）[^ghsgitmosrc] |
+    | ペルー 🇵🇪 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1契約（アマゾンREDD+約54万t）[^pesgitmosrc] |
+    | **パイプライン — 中期（2027〜2028年）** | | | |
+    | カンボジア 🇰🇭 | 日本JCM | 🟡 **2027〜2028年** | Prey Lang授権済（2023年12月）；JCM→ITMO移転処理中[^khitmosrc] |
+    | ベトナム 🇻🇳 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年8月署名；通常18〜24ヶ月リードタイム[^vnitmosrc] |
+    | チリ 🇨🇱 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年4月署名[^clitmosrc] |
+    | モンゴル 🇲🇳 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年10月6日署名[^mnitmosrc] |
+    | フィリピン 🇵🇭 | 日本JCM | 🟡 **2027〜2028年** | JCM→A6.2；水田（2025年2月）・森林（2025年11月）方法論承認[^phitmosrc] |
+    | **パイプライン — 長期（2028年以降）** | | | |
+    | パプアニューギニア 🇵🇬 | シンガポール 🇸🇬 | 🔴 **2028年以降** | IA 2023年12月；「ロードテスト」段階が継続中[^pgitmosrc] |
+    | インドネシア 🇮🇩 | シンガポール 🇸🇬 | 🔴 **2028年以降** | Perpres 110/2025制定直後；IA交渉中[^iditmosrc] |
+    | コロンビア 🇨🇴 | 日本JCM | 🔴 **2028年以降** | JCM 2021年；調達国との二国間IA未締結[^coitmosrc] |
 
     ## ホスト国のA6.2成熟度スコア（投資家向け）
 

@@ -24,15 +24,19 @@
 
     ## NDC Achievement Status
 
+    > **NDC 3.0 submitted November 2025**[^pendcnew3]: Peru committed to not exceeding 179 MtCO₂e by 2035, with carbon neutrality by 2050. However, the government approved new oil extraction projects and planned a 24% increase in oil/gas production in 2025 — creating a significant contradiction with NDC targets.[^peolilrisk] Deforestation: 705,000 ha forest lost 2021–2024 (≈453 MtCO₂e).[^pedeforisk]
+
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (~30%) | 🟢 Achievable with current policies |
-    | Conditional target (40%) | 🟡 Requires international finance |
+    | Unconditional target (~30%)[^pendc] | 🟢 Achievable with current policies |
+    | Conditional target (40% by 2030 / net-zero 2050)[^pendcnew3] | 🟡 Requires international finance |
     | Key driver | Amazon REDD+; RE expansion; energy efficiency |
-    | Key risk | Illegal mining, agriculture-driven deforestation |
-    | GST 2023 Implication | Peru expected to raise 2035 NDC; Amazon conservation key pillar |
+    | Key risk | Fossil fuel expansion contradicts NDC; deforestation still significant |
+    | Export motivation | ⭐⭐⭐ High — Amazon REDD+ genuine surplus; but watch fossil fuel track |
 
-    > Source: Peru NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
+    [^pendcnew3]: Peru NDC 3.0 (Nov 2025): target ≤179 MtCO₂e by 2035, carbon neutral 2050: Carbon Pulse <https://carbon-pulse.com/437439/>
+    [^peolilrisk]: Peru oil/gas expansion (24% planned production increase 2025) contradicts NDC 3.0: Carbon Pulse <https://carbon-pulse.com/437439/>
+    [^pedeforisk]: Peru deforestation 2021–2024: 705,000 ha lost (≈453 MtCO₂e): Climate data / secondary sources (Carbon Pulse reporting)
 
     ## Active Article 6.2 Projects
 

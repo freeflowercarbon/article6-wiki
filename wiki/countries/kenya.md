@@ -26,12 +26,18 @@
 
     ## NDC Achievement Status
 
+    > **2035 NDC submitted May 2025**[^kendcnew]: Kenya targets 35% emissions reduction vs. BAU (75.25 MtCO₂e cut from 215 MtCO₂e baseline), requiring US$56 billion total (20% domestic / 80% international). Major concern: grid emissions surged 27% in H2 2025 despite renewable energy targets.[^kengridrisk]
+
     | Metric | Assessment |
     |--------|-----------|
-    | Conditional target (32%) | 🟡 Requires significant international finance |
-    | Key driver | Geothermal (already world's 7th largest); RE expansion; forest conservation |
-    | Key obstacle | Population growth driving land-use change; land tenure complexity |
-    | GST 2023 Implication | Kenya expected to raise 2035 NDC ambition; A6.2 credit revenues could support higher target |
+    | 2030 conditional target (32% vs. BAU)[^kendc] | 🟡 Requires significant international finance |
+    | 2035 target (35% vs. BAU)[^kendcnew] | 🔴 80% international support needed; US$56B total |
+    | Key driver | Geothermal (world's 7th largest); 100% RE power target by 2035 |
+    | Key risk | Grid emissions spiked 27% H2 2025; land tenure complexity; population growth |
+    | Export motivation | ⭐⭐ Caution — 80% conditional financing gap but emission trajectory is concerning |
+
+    [^kendcnew]: Kenya 2035 NDC (May 2025): 35% reduction, US$56B total (80% international): NDC Registry; The Star Kenya <https://www.the-star.co.ke/>
+    [^kengridrisk]: Kenya grid emissions spiked 27% H2 2025 despite climate targets (secondary source): The Star Kenya <https://www.the-star.co.ke/news/2026-04-13-emissions-from-kenyas-grid-spike-despite-climate-targets>
 
     ## Bilateral A6.2 Agreements
 
