@@ -8,13 +8,17 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 45.5% reduction vs. 2010 by 2030 (conditional) |
+    | NDC Target | 45.5% reduction vs. 2010 by 2030 (conditional)[^mandc] |
     | Carbon System | Under preparation |
-    | Key Ministry | Ministry of Energy Transition (MTE); Ministry of Environment |
-    | JCM (Japan) | ⚪ None |
-    | Switzerland | 🔄 Under negotiation |
+    | Key Ministry | Ministry of Energy Transition (MTE)[^mamte]; Ministry of Environment |
+    | JCM (Japan) | — None |
+    | Switzerland | 🔄 Under negotiation[^mach] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
+
+    [^mandc]: Morocco NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MAR>
+    [^mamte]: Morocco Ministry of Energy Transition and Sustainable Development: <https://www.mem.gov.ma/>; MASEN (renewable energy agency) <https://www.masen.ma/>
+    [^mach]: Switzerland-Morocco bilateral negotiations: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; status under negotiation
 
     ## Bilateral A6.2 Agreements
 

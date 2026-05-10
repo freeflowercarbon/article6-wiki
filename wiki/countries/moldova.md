@@ -8,12 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 70% reduction vs. 1990 by 2030 (EU-aligned) |
+    | NDC Target | 70% reduction vs. 1990 by 2030 (EU-aligned)[^mdndc] |
     | Carbon System | Exploring EU ETS alignment |
-    | Key Ministry | Ministry of Environment |
-    | JCM (Japan) | ✅ Since 2016 |
+    | Key Ministry | Ministry of Environment[^mdme] |
+    | JCM (Japan) | ✅ Since 2016[^mdjcm] |
     | CA Framework | 🔴 EU alignment takes priority |
     | NBS Maturity | ⭐⭐ |
+
+    [^mdndc]: Moldova NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MDA>
+    [^mdme]: Moldova Ministry of Environment: <https://mediu.gov.md/>
+    [^mdjcm]: JCM Moldova: GEC <https://gec.jp/jcm/projects/>; signed 2016; energy efficiency and agriculture projects
 
     ## Bilateral A6.2 Agreements
 

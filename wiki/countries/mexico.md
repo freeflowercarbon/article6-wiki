@@ -8,12 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 35% reduction vs. BAU by 2030 (conditional 43%) |
-    | Carbon System | Domestic ETS pilot (2020–); carbon tax (~MXN 20/tCO₂) |
-    | Key Ministry | Ministry of Environment and Natural Resources (SEMARNAT) |
-    | JCM (Japan) | ✅ Since 2014 |
+    | NDC Target | 35% reduction vs. BAU by 2030 (conditional 43%)[^mxndc] |
+    | Carbon System | Domestic ETS pilot (2020–)[^mxets]; carbon tax (~MXN 20/tCO₂)[^mxtax] |
+    | Key Ministry | Ministry of Environment and Natural Resources (SEMARNAT)[^mxsemarnat] |
+    | JCM (Japan) | ✅ Since 2014[^mxjcm] |
     | CA Framework | 🟡 In development (ETS-linked) |
     | NBS Maturity | ⭐⭐ |
+
+    [^mxndc]: Mexico NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MEX>
+    [^mxets]: Mexico ETS pilot (SCCE, 2020–): SEMARNAT <https://www.gob.mx/semarnat/documentos/sistema-de-comercio-de-emisiones>
+    [^mxtax]: Mexico carbon tax (Ley del ISR, 2014): rates approximately MXN 20–50/tCO₂ depending on fuel type
+    [^mxsemarnat]: SEMARNAT (Secretaría de Medio Ambiente y Recursos Naturales): <https://www.gob.mx/semarnat>
+    [^mxjcm]: JCM Mexico: GEC <https://gec.jp/jcm/projects/>; signed 2014
 
     ## Bilateral A6.2 Agreements
 

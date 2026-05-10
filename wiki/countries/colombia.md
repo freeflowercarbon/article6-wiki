@@ -8,14 +8,20 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 51% reduction vs. 2015 by 2030 |
-    | Carbon System | Carbon tax (2016–; COP 15,000/t ≈ US$4/t) + REDD+ credit offsetting |
-    | Key Ministry | Ministry of Environment and Sustainable Development (MADS) |
-    | JCM (Japan) | ✅ Since 2021 |
-    | Singapore | 📋 MOU signed; IA negotiation in progress |
+    | NDC Target | 51% reduction vs. 2015 by 2030[^condc] |
+    | Carbon System | Carbon tax (2016–; COP 15,000/t ≈ US$4/t)[^cotax] + REDD+ credit offsetting |
+    | Key Ministry | Ministry of Environment and Sustainable Development (MADS)[^comads] |
+    | JCM (Japan) | ✅ Since 2021[^cojcm] |
+    | Singapore | 📋 MOU signed; IA negotiation in progress[^cosg] |
     | Switzerland | 💬 Under discussion |
     | CA Framework | 🟡 In development |
     | NBS Maturity | ⭐⭐⭐⭐ |
+
+    [^condc]: Colombia NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=COL>
+    [^cotax]: Colombia carbon tax (Ley 1819/2016): DIAN <https://www.dian.gov.co/>; rate COP 15,000/tCO₂ (~US$4/t)
+    [^comads]: Colombia MADS (Ministerio de Ambiente y Desarrollo Sostenible): <https://www.minambiente.gov.co/>
+    [^cojcm]: JCM Colombia: GEC <https://gec.jp/jcm/projects/>; signed 2021
+    [^cosg]: Singapore-Colombia MOU on Article 6.2 cooperation: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
 
     ## NDC Achievement Status
 

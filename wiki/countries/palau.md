@@ -8,11 +8,14 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 22% reduction vs. 2005 by 2025 (100% renewable electricity target) |
+    | NDC Target | 22% reduction vs. 2005 by 2025 (100% renewable electricity target)[^pwndc] |
     | Carbon System | None |
-    | JCM (Japan) | ✅ Since 2014 (small-scale projects) |
+    | JCM (Japan) | ✅ Since 2014 (small-scale projects)[^pwjcm] |
     | CA Framework | None (scale too small) |
     | NBS Maturity | ⭐ (tiny land area; ocean protection is primary) |
+
+    [^pwndc]: Palau NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PLW>
+    [^pwjcm]: JCM Palau: GEC <https://gec.jp/jcm/projects/>; signed 2014; island solar and energy efficiency projects
 
     ## Bilateral A6.2 Agreements
 

@@ -8,13 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 26% reduction vs. 2000 by 2030 (conditional) |
+    | NDC Target | 26% reduction vs. 2000 by 2030 (conditional)[^snndc] |
     | Carbon System | MRV framework under development |
-    | Key Ministry | Ministry of Environment and Sustainable Development (MEDD) |
-    | JCM (Japan) | ✅ Since 2015 |
-    | Switzerland | ✅ Bilateral agreement 2023 (biogas, Great Green Wall) |
+    | Key Ministry | Ministry of Environment and Sustainable Development (MEDD)[^snmedd] |
+    | JCM (Japan) | ✅ Since 2015[^snjcm] |
+    | Switzerland | ✅ Bilateral agreement 2023 (biogas, Great Green Wall)[^snch] |
     | CA Framework | 🟡 In development |
     | NBS Maturity | ⭐⭐ |
+
+    [^snndc]: Senegal NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=SEN>
+    [^snmedd]: Senegal MEDD (Ministère de l'Environnement et du Développement Durable): <https://www.environnement.gouv.sn/>
+    [^snjcm]: JCM Senegal: GEC <https://gec.jp/jcm/projects/>; signed 2015; solar and energy efficiency focus
+    [^snch]: Switzerland-Senegal bilateral (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; biogas and Great Green Wall projects
 
     ## Bilateral A6.2 Agreements
 

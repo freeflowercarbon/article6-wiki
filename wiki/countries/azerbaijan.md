@@ -8,12 +8,17 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 40% reduction vs. 1990 by 2030 |
-    | Carbon System | Under preparation (accelerated post-COP29) |
-    | Key Ministry | Ministry of Ecology and Natural Resources |
-    | JCM (Japan) | ✅ Since 2016 |
+    | NDC Target | 40% reduction vs. 1990 by 2030[^azndc] |
+    | Carbon System | Under preparation (accelerated post-COP29)[^azcop29] |
+    | Key Ministry | Ministry of Ecology and Natural Resources[^azmenr] |
+    | JCM (Japan) | ✅ Since 2016[^azjcm] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
+
+    [^azndc]: Azerbaijan NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=AZE>
+    [^azcop29]: COP29 (Baku, Nov 2024): Azerbaijan committed to accelerating domestic carbon market development; Baku Carbon Initiative launched: UNFCCC <https://unfccc.int/cop29>
+    [^azmenr]: Azerbaijan Ministry of Ecology and Natural Resources: <https://eco.gov.az/>
+    [^azjcm]: JCM Azerbaijan: GEC <https://gec.jp/jcm/projects/>; signed 2016; wind and energy efficiency projects
 
     ## Bilateral A6.2 Agreements
 

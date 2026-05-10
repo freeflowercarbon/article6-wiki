@@ -8,12 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 35% reduction vs. 1990 by 2030 |
+    | NDC Target | 35% reduction vs. 1990 by 2030[^uzndc] |
     | Carbon System | Under preparation |
-    | Key Ministry | Ministry of Ecology and Environmental Protection |
-    | JCM (Japan) | ✅ Since 2016 |
+    | Key Ministry | Ministry of Ecology and Environmental Protection[^uzmeep] |
+    | JCM (Japan) | ✅ Since 2016[^uzjcm] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
+
+    [^uzndc]: Uzbekistan NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=UZB>
+    [^uzmeep]: Uzbekistan Ministry of Ecology and Environmental Protection: <https://ecolex.gov.uz/>
+    [^uzjcm]: JCM Uzbekistan: GEC <https://gec.jp/jcm/projects/>; signed 2016; district heating and irrigation efficiency projects
 
     ## Bilateral A6.2 Agreements
 

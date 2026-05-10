@@ -8,12 +8,17 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 15% reduction vs. 1990 by 2030 (conditional 25%) |
-    | Carbon System | KZ-ETS (2013–); one of Asia's first mandatory ETS |
-    | Key Ministry | Ministry of Ecology and Natural Resources |
-    | JCM (Japan) | ✅ Since 2014 |
+    | NDC Target | 15% reduction vs. 1990 by 2030 (conditional 25%)[^kzndc] |
+    | Carbon System | KZ-ETS (2013–)[^kzets]; one of Asia's first mandatory ETS |
+    | Key Ministry | Ministry of Ecology and Natural Resources[^kzmenr] |
+    | JCM (Japan) | ✅ Since 2014[^kzjcm] |
     | CA Framework | 🟡 In development (ETS-linked) |
     | NBS Maturity | ⭐⭐ |
+
+    [^kzndc]: Kazakhstan NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KAZ>
+    [^kzets]: Kazakhstan ETS (KZ-ETS): ICAP <https://icapcarbonaction.com/en/ets/kazakhstan-emissions-trading-scheme>; operational since 2013
+    [^kzmenr]: Kazakhstan Ministry of Ecology and Natural Resources: <https://www.gov.kz/memleket/entities/ecolog>
+    [^kzjcm]: JCM Kazakhstan: GEC <https://gec.jp/jcm/projects/>; signed 2014; industry, flaring, RE projects
 
     ## Bilateral A6.2 Agreements
 

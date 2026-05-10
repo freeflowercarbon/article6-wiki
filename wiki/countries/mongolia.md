@@ -8,13 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 22.7% reduction vs. 2010 by 2030 (conditional 27.2%) |
+    | NDC Target | 22.7% reduction vs. 2010 by 2030 (conditional 27.2%)[^mnndc] |
     | Carbon System | In preparation (voluntary emission reduction program) |
-    | Key Ministry | Ministry of Environment and Climate Change |
-    | JCM (Japan) | ✅ Since 2013; multiple active projects |
-    | Singapore IA | ✅ Signed 2025 |
+    | Key Ministry | Ministry of Environment and Climate Change[^mnmoecc] |
+    | JCM (Japan) | ✅ Since 2013; multiple active projects[^mnjcm] |
+    | Singapore IA | ✅ Signed 2025[^mnsg] |
     | CA Framework | 🟡 In development |
     | NBS Maturity | ⭐⭐ |
+
+    [^mnndc]: Mongolia NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MNG>
+    [^mnmoecc]: Mongolia Ministry of Environment and Climate Change: <https://www.mne.mn/>
+    [^mnjcm]: JCM Mongolia: GEC <https://gec.jp/jcm/projects/>; signed 2013; district heating, building efficiency, solar projects active
+    [^mnsg]: Singapore-Mongolia Implementation Agreement (2025): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
 
     ## NDC Achievement Status
 

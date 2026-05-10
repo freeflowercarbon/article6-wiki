@@ -8,11 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 60% reduction vs. BAU by 2030 |
-    | Carbon System | Carbon Credit Decree (May 2025); no ETS yet |
-    | JCM (Japan) | ✅ Since 2015; 6 projects |
+    | NDC Target | 60% reduction vs. BAU by 2030[^landc] |
+    | Carbon System | Carbon Credit Decree (May 2025)[^laccd]; no ETS yet |
+    | Key Ministry | MONRE (Ministry of Natural Resources and Environment)[^lamonre] |
+    | JCM (Japan) | ✅ Since 2015; 6 projects[^lajcm] |
     | Singapore IA | ⚪ Not yet |
-    | CA Framework | 🟡 First authorization done (enteric methane) |
+    | CA Framework | 🟡 First authorization done (enteric methane, 3M credits)[^lacauth] |
+
+    [^landc]: Laos NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=LAO>
+    [^laccd]: Carbon Credit Decree (May 2025): Verra announcement <https://verra.org/verra-welcomes-lao-pdrs-carbon-credit-decree/>; Article 6-aligned framework (Jun 2025): QC Intel <https://www.qcintel.com/carbon/article/laos-adopts-article-6-aligned-legal-carbon-credit-framework-42617.html>
+    [^lamonre]: Laos MONRE: <https://www.monre.gov.la/>
+    [^lajcm]: JCM Laos: GEC <https://gec.jp/jcm/projects/>; signed 2015
+    [^lacauth]: First A6.2 Authorization in Mekong region (enteric methane, up to 3M credits): Carbon Pulse <https://carbon-pulse.com/453295/>
 
     ## NDC Achievement Status
 

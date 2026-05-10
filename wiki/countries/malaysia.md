@@ -8,13 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 45% reduction in GDP carbon intensity vs. 2005 by 2030 (conditional) |
-    | Carbon System | BCX voluntary market (2022–); no ETS |
-    | Key Ministry | Ministry of Natural Resources, Environment and Climate Change (NRECC) |
-    | JCM (Japan) | ⚪ None (no formal JCM agreement) |
-    | Singapore | 📋 MOU signed; IA negotiations in progress |
+    | NDC Target | 45% reduction in GDP carbon intensity vs. 2005 by 2030 (conditional)[^myndc] |
+    | Carbon System | BCX voluntary market (2022–)[^mybcx]; no ETS |
+    | Key Ministry | Ministry of Natural Resources, Environment and Climate Change (NRECC)[^mynrecc] |
+    | JCM (Japan) | — None (no formal JCM agreement) |
+    | Singapore | 📋 MOU signed; IA negotiations in progress[^mysg] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐⭐ |
+
+    [^myndc]: Malaysia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MYS>
+    [^mybcx]: Bursa Carbon Exchange (BCX): <https://www.bursacarbon.com.my/>; established Dec 2022
+    [^mynrecc]: Malaysia NRECC (Ministry of Natural Resources, Environment and Climate Change): <https://www.nrecc.gov.my/>
+    [^mysg]: Singapore-Malaysia MOU on Article 6.2 cooperation: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
 
     ## NDC Achievement Status
 

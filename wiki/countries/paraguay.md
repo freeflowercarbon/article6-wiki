@@ -8,12 +8,17 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 20% reduction vs. 2000 by 2030 (conditional 30%) |
-    | Carbon System | No ETS; MADES oversight |
-    | JCM (Japan) | ⚪ Not a JCM partner |
-    | Singapore IA | ✅ Signed 2024; **RFP Round 1 award** (Gran Chaco forest) |
-    | Switzerland | ⚪ No agreement |
-    | CA Framework | 🟡 Being built — activated by Singapore RFP1 contract |
+    | NDC Target | 20% reduction vs. 2000 by 2030 (conditional 30%)[^pyndc] |
+    | Carbon System | No ETS; MADES oversight[^pymades] |
+    | Key Ministry | MADES (Ministry of Environment and Sustainable Development)[^pymades] |
+    | JCM (Japan) | — Not a JCM partner |
+    | Singapore IA | ✅ Signed 2024; **RFP Round 1 award** (Gran Chaco forest)[^pysg] |
+    | Switzerland | — No agreement |
+    | CA Framework | 🟡 Being built — activated by Singapore RFP1 contract[^pysg] |
+
+    [^pyndc]: Paraguay NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRY>
+    [^pymades]: MADES (Ministerio del Ambiente y Desarrollo Sostenible): <https://www.mades.gov.py/>
+    [^pysg]: Singapore-Paraguay IA (2024) + RFP Round 1 award (Gran Chaco forest, ~285,000 tCO₂e, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
 
     ## NDC Achievement Status
 

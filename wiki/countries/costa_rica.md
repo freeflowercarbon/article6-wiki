@@ -8,14 +8,20 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | Net GHG ≤9.11 MtCO₂e by 2030; net zero 2050 |
-    | Carbon System | C-Neutral voluntary market + PES system + REDD+ |
-    | Key Ministry | Ministry of Environment and Energy (MINAE) |
-    | JCM (Japan) | ✅ Since 2013 |
-    | Singapore | 📋 MOU signed |
+    | NDC Target | Net GHG ≤9.11 MtCO₂e by 2030; net zero 2050[^crndc] |
+    | Carbon System | C-Neutral voluntary market + PES system (since 1996)[^crpes] + REDD+ |
+    | Key Ministry | Ministry of Environment and Energy (MINAE)[^crminae] |
+    | JCM (Japan) | ✅ Since 2013[^crjcm] |
+    | Singapore | 📋 MOU signed[^crsg] |
     | Switzerland | 💬 Interest expressed |
     | CA Framework | ✅ Relatively well-established |
     | NBS Maturity | ⭐⭐⭐⭐ |
+
+    [^crndc]: Costa Rica NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=CRI>
+    [^crpes]: Costa Rica PES (FONAFIFO Pagos por Servicios Ambientales): <https://www.fonafifo.go.cr/>; operational since 1996 under Ley Forestal 7575
+    [^crminae]: Costa Rica MINAE (Ministerio de Ambiente y Energía): <https://www.minae.go.cr/>
+    [^crjcm]: JCM Costa Rica: GEC <https://gec.jp/jcm/projects/>; signed 2013
+    [^crsg]: Singapore-Costa Rica MOU on Article 6.2 cooperation: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
 
     ## NDC Achievement Status
 

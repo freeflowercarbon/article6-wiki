@@ -8,13 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 35% reduction vs. 1990 by 2030 (conditional 50%) |
+    | NDC Target | 35% reduction vs. 1990 by 2030 (conditional 50%)[^gendc] |
     | Carbon System | In preparation (EU system alignment prioritized) |
-    | Key Ministry | Ministry of Environmental Protection and Agriculture |
-    | JCM (Japan) | ✅ Since 2016 |
-    | Switzerland | ✅ Bilateral agreement 2022; ITMO transfers in progress |
+    | Key Ministry | Ministry of Environmental Protection and Agriculture[^gemepa] |
+    | JCM (Japan) | ✅ Since 2016[^gejcm] |
+    | Switzerland | ✅ Bilateral agreement 2022; ITMO transfers in progress[^gech] |
     | CA Framework | 🟡 In development (Switzerland-linked progress) |
     | NBS Maturity | ⭐⭐ |
+
+    [^gendc]: Georgia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GEO>
+    [^gemepa]: Georgia Ministry of Environmental Protection and Agriculture: <https://mepa.gov.ge/>
+    [^gejcm]: JCM Georgia: GEC <https://gec.jp/jcm/projects/>; signed 2016; hydro and energy efficiency projects
+    [^gech]: Switzerland-Georgia bilateral (2022): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; ITMO transfers 2024–2025
 
     ## NDC Achievement Status
 

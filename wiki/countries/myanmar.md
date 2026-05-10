@@ -8,13 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | Reduction vs. 2000 baseline (updates stalled due to political crisis) |
+    | NDC Target | Reduction vs. 2000 baseline (updates stalled due to political crisis)[^mmndc] |
     | Carbon System | None (development halted) |
     | Key Ministry | Ministry of Natural Resources and Environmental Conservation (under military government) |
-    | JCM (Japan) | ⚠️ Since 2014 — activities suspended |
-    | Singapore IA | ⚪ None |
+    | JCM (Japan) | ⚠️ Since 2014[^mmjcm] — activities suspended |
+    | Singapore IA | — None |
     | CA Framework | None |
     | NBS Maturity | ⭐ (rich resources; institutions non-functional) |
+
+    [^mmndc]: Myanmar NDC (2021, stalled): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MMR>
+    [^mmjcm]: JCM Myanmar: GEC <https://gec.jp/jcm/projects/>; signed 2014; Japan MOFA suspended new approvals post-2021 coup <https://www.mofa.go.jp/a_o/rp/myanmar/>
 
     ## Investment Risk Warning
 

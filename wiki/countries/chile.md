@@ -8,14 +8,21 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | Max 95 MtCO₂e net by 2030; net zero 2050 |
-    | Carbon System | Carbon tax US$5/t (2017–); ETS under development |
-    | Key Ministry | Ministry of Environment (MMA) |
-    | JCM (Japan) | ✅ Since 2015 |
-    | Singapore IA | ✅ **Signed 2025** |
-    | Switzerland | ✅ Bilateral active |
+    | NDC Target | Max 95 MtCO₂e net by 2030; net zero 2050[^clndc] |
+    | Carbon System | Carbon tax US$5/t (2017–)[^clcarbon]; ETS under development |
+    | Key Ministry | Ministry of Environment (MMA)[^clmma] |
+    | JCM (Japan) | ✅ Since 2015[^cljcm] |
+    | Singapore IA | ✅ **Signed 2025**[^clsg] |
+    | Switzerland | ✅ Bilateral active[^clch] |
     | CA Framework | 🟡 In development |
     | NBS Maturity | ⭐⭐⭐⭐ |
+
+    [^clndc]: Chile NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=CHL>
+    [^clcarbon]: Chile carbon tax (Ley 20.780, 2017): SII (Servicio de Impuestos Internos) <https://www.sii.cl/>; rate US$5/tCO₂
+    [^clmma]: Chile MMA (Ministerio del Medio Ambiente): <https://www.mma.gob.cl/>
+    [^cljcm]: JCM Chile: GEC <https://gec.jp/jcm/projects/>; signed 2015
+    [^clsg]: Singapore-Chile Implementation Agreement (2025): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^clch]: Switzerland-Chile bilateral agreement: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
 
     ## NDC Achievement Status
 

@@ -8,13 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 51% reduction vs. 2010 by 2030 (conditional) |
+    | NDC Target | 51% reduction vs. 2010 by 2030 (conditional)[^pgndc] |
     | Carbon System | REDD+ program (in development); National Carbon Market Framework |
-    | Key Ministry | Climate Change and Development Authority (CCDA) |
-    | JCM (Japan) | ✅ Since 2014 |
-    | Singapore IA | ✅ Signed 2023 |
+    | Key Ministry | Climate Change and Development Authority (CCDA)[^pgccda] |
+    | JCM (Japan) | ✅ Since 2014[^pgjcm] |
+    | Singapore IA | ✅ Signed 2023[^pgsg] |
     | CA Framework | 🟡 Early stage |
     | NBS Maturity | ⭐⭐⭐⭐ (resources) / ⭐⭐ (institutions) |
+
+    [^pgndc]: Papua New Guinea NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PNG>
+    [^pgccda]: PNG CCDA (Climate Change and Development Authority): <https://ccda.gov.pg/>
+    [^pgjcm]: JCM Papua New Guinea: GEC <https://gec.jp/jcm/projects/>; signed 2014; RE and energy efficiency
+    [^pgsg]: Singapore-Papua New Guinea Implementation Agreement (2023): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
 
     ## NDC Achievement Status
 

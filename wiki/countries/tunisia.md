@@ -8,13 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 41% reduction vs. 2010 by 2030 (conditional) |
+    | NDC Target | 41% reduction vs. 2010 by 2030 (conditional)[^tnndc] |
     | Carbon System | None |
-    | Key Ministry | Ministry of Environment; Ministry of Energy |
-    | JCM (Japan) | ✅ Since 2015 |
-    | Switzerland | ✅ Bilateral active |
+    | Key Ministry | Ministry of Environment; Ministry of Energy[^tnme] |
+    | JCM (Japan) | ✅ Since 2015[^tnjcm] |
+    | Switzerland | ✅ Bilateral active[^tnch] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐ (arid / semi-arid country) |
+
+    [^tnndc]: Tunisia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=TUN>
+    [^tnme]: Tunisia Ministry of Environment: <https://www.environnement.gov.tn/>
+    [^tnjcm]: JCM Tunisia: GEC <https://gec.jp/jcm/projects/>; signed 2015; solar and energy efficiency projects
+    [^tnch]: Switzerland-Tunisia bilateral: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; RE projects
 
     ## Bilateral A6.2 Agreements
 

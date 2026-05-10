@@ -8,12 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 68.8% reduction vs. 2010 by 2030 (conditional — very ambitious) |
+    | NDC Target | 68.8% reduction vs. 2010 by 2030 (conditional — very ambitious)[^etndc] |
     | Carbon System | Ethiopia Climate Change Commission; framework in early development |
-    | Key Ministry | Environment, Forest and Climate Change Commission (EFCCC) |
-    | JCM (Japan) | ✅ Since 2013 |
+    | Key Ministry | Environment, Forest and Climate Change Commission (EFCCC)[^etefccc] |
+    | JCM (Japan) | ✅ Since 2013[^etjcm] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ (rich resources; early institutions) |
+
+    [^etndc]: Ethiopia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=ETH>
+    [^etefccc]: Ethiopia EFCCC (Environment, Forest and Climate Change Commission): <https://www.efccc.gov.et/>
+    [^etjcm]: JCM Ethiopia: GEC <https://gec.jp/jcm/projects/>; signed 2013; RE and energy efficiency projects
 
     ## NDC Achievement Status
 

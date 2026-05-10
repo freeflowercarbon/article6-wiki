@@ -8,11 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 38% reduction vs. BAU by 2030 (16% unconditional) |
-    | Carbon System | No domestic ETS; REMA oversight |
-    | JCM (Japan) | ⚪ Not a JCM partner |
-    | Singapore IA | ✅ Signed 2023; projects in development |
+    | NDC Target | 38% reduction vs. BAU by 2030 (16% unconditional)[^rwndc] |
+    | Carbon System | No domestic ETS; REMA oversight[^rwrema] |
+    | Key Ministry | REMA (Rwanda Environment Management Authority)[^rwrema] |
+    | JCM (Japan) | — Not a JCM partner |
+    | Singapore IA | ✅ Signed 2023; projects in development[^rwsg] |
     | CA Framework | 🟡 Under development |
+
+    [^rwndc]: Rwanda NDC (2020 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=RWA>
+    [^rwrema]: REMA (Rwanda Environment Management Authority): <https://www.rema.gov.rw/>
+    [^rwsg]: Singapore-Rwanda Implementation Agreement (2023): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
 
     ## NDC Achievement Status
 

@@ -8,12 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 22% reduction vs. 2011 by 2030 (conditional 43%) |
+    | NDC Target | 22% reduction vs. 2011 by 2030 (conditional 43%)[^bdndc] |
     | Carbon System | None |
-    | Key Ministry | Ministry of Environment, Forest and Climate Change |
-    | JCM (Japan) | ✅ Since 2013 |
+    | Key Ministry | Ministry of Environment, Forest and Climate Change[^bdmoefcc] |
+    | JCM (Japan) | ✅ Since 2013[^bdjcm] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
+
+    [^bdndc]: Bangladesh NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=BGD>
+    [^bdmoefcc]: Bangladesh Ministry of Environment, Forest and Climate Change: <https://www.moef.gov.bd/>
+    [^bdjcm]: JCM Bangladesh: GEC <https://gec.jp/jcm/projects/>; signed 2013; energy efficiency and RE projects
 
     ## Bilateral A6.2 Agreements
 

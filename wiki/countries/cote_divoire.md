@@ -8,12 +8,16 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 28% reduction vs. 2014 by 2030 (conditional) |
+    | NDC Target | 28% reduction vs. 2014 by 2030 (conditional)[^cindc] |
     | Carbon System | In development |
-    | Key Ministry | Ministry of Environment and Sustainable Development (MINEDD) |
-    | JCM (Japan) | ✅ Since 2021 |
+    | Key Ministry | Ministry of Environment and Sustainable Development (MINEDD)[^ciminedd] |
+    | JCM (Japan) | ✅ Since 2021[^cijcm] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
+
+    [^cindc]: Côte d'Ivoire NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=CIV>
+    [^ciminedd]: Côte d'Ivoire MINEDD (Ministère de l'Environnement et du Développement Durable): <https://www.environnement.gouv.ci/>
+    [^cijcm]: JCM Côte d'Ivoire: GEC <https://gec.jp/jcm/projects/>; signed 2021
 
     ## Bilateral A6.2 Agreements
 
