@@ -8,12 +8,19 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 40% reduction vs. 2010 by 2030 (conditional); ~30% unconditional |
-    | Carbon System | No ETS; carbon credit framework under MINAM |
-    | JCM (Japan) | ⚪ Not a JCM partner |
-    | Singapore IA | ✅ Signed 2024; **RFP Round 1 award** (Amazon REDD+) |
-    | Switzerland | ✅ Signed 2020; **world's first A6.2 ITMO transfer (2023)** |
-    | CA Framework | ✅ Operational — most mature in Latin America |
+    | NDC Target | 40% conditional / ~30% unconditional reduction vs. 2010 by 2030[^pendc] |
+    | Carbon System | No ETS; MINAM carbon credit framework[^peminam] |
+    | JCM (Japan) | — Not a JCM partner |
+    | Singapore IA | ✅ Signed 2024; **RFP1 contract: Amazon REDD+ (~540,000 t, 2026–2030)**[^pesg] |
+    | Switzerland | ✅ Signed 2020; **World's 1st A6.2 ITMO transfer (2023)**[^pech] |
+    | CA Framework | ✅ Operational — most mature in Latin America[^peca] |
+    | Key Ministry | MINAM (Ministry of Environment)[^peminam] |
+
+    [^pendc]: Peru NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
+    [^peminam]: Peru MINAM (Ministerio del Ambiente): <https://www.gob.pe/minam>; carbon credit framework under SERNANP/SERFOR coordination
+    [^pesg]: Singapore-Peru IA (2024) + RFP Round 1 contract (Amazon REDD+, ~540,000 tCO₂e, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; S&P Global price data <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>
+    [^pech]: Switzerland-Peru bilateral (2020) + world's first A6.2 ITMO transfer (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse ITMO report (2023)
+    [^peca]: Peru CA framework: Carbon Pulse / MINAM; most advanced in Latin America per World Bank PROGREEN
 
     ## NDC Achievement Status
 

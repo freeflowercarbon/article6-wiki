@@ -8,11 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 42% reduction vs. BAU by 2030 (conditional); ~27% unconditional |
-    | Carbon System | Sub-Decree 159/2023; no ETS |
-    | JCM (Japan) | ✅ Since 2022; first projects registering |
-    | Singapore IA | ✅ Signed 2024 |
-    | CA Framework | 🟡 Established under Sub-Decree 159 |
+    | NDC Target | 42% conditional / ~27% unconditional reduction vs. BAU by 2030[^khndc] |
+    | Carbon System | Sub-Decree 159/2023 (carbon credit authorization framework)[^khsd159]; no ETS |
+    | JCM (Japan) | ✅ Since 2022; Prey Lang NBS prototype authorized Dec 2023[^khjcm] |
+    | Singapore IA | ✅ Signed 2024[^khsg] |
+    | CA Framework | 🟡 Established under Sub-Decree 159[^khsd159] |
+    | Key Ministry | MoE (Ministry of Environment)[^khmoe] |
+
+    [^khndc]: Cambodia NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KHM>
+    [^khsd159]: Sub-Decree No.159 (October 2023) — carbon credit authorization framework: Cambodia MEF <https://www.mef.gov.kh/>
+    [^khjcm]: JCM Cambodia signed 2022; Prey Lang NBS-JCM authorized Dec 2023 (~600,000 tCO₂e/yr): GEC <https://gec.jp/jcm/projects/>
+    [^khsg]: Singapore-Cambodia Implementation Agreement (2024): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^khmoe]: Cambodia Ministry of Environment: <https://www.moe.gov.kh/>
 
     ## NDC Achievement Status
 

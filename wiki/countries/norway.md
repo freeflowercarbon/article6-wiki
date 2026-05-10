@@ -47,7 +47,28 @@
 
     Norway operates a **hybrid system**: domestic CO₂ tax (NOK 1,125/t ≈ US$105, among the world's highest) + Norwegian ETS (linked to EU ETS). The ETS covers large emitters (power, industry); the CO₂ tax covers non-ETS sectors (transport, buildings). Norway aims to reach NOK 2,000/t by 2030 (CO₂ tax escalation).[^noco2]
 
+    | Phase | System | Price (2024) | Coverage |
+    |-------|--------|-------------|---------|
+    | Norwegian ETS | Linked to EU ETS | ~€50–70/t (≈ US$55–77)[^noets] | Power, industry (large emitters) |
+    | CO₂ tax | Domestic tax | NOK 1,125/t (≈ US$105)[^noco2] | Transport, buildings, non-ETS sectors |
+    | 2030 target | CO₂ tax escalation | NOK 2,000/t (≈ US$185)[^noco2] | Non-ETS sectors |
+
     The domestic carbon price is very high by global standards, meaning Norway has strong economic incentive to seek lower-cost international reductions through A6.2 while maintaining domestic ambition.
+
+    ## Procurement Track Record & Demand
+
+    | Metric | Data |
+    |--------|------|
+    | Active bilateral A6.2 agreements | 1 confirmed — Zambia (COP29, 2024)[^noza] |
+    | NICFI annual forest finance | ~NOK 3 billion/yr grant (separate from A6.2 credits)[^nonicfi] |
+    | NDC gap (domestic only) | ~51 percentage points shortfall vs. 55% target — large gap[^nondc] |
+    | Implied A6.2 potential demand | 5–15 Mt/yr if Article 6.2 used substantially for NDC |
+
+    **Demand tightness**: Norway faces a significant domestic emissions gap (~4% reduction vs. 55% target), making Article 6.2 procurement a structural necessity. Norway's extremely high domestic CO₂ tax makes international credits at US$20–50/t economically very attractive. Norway is expected to expand bilateral agreements beyond Zambia post-2025, particularly in Africa and Southeast Asia. NICFI's forest finance network provides entry points for future A6.2 cooperation in REDD+ host countries.[^nonicfi]
+
+    [^nonicfi]: NICFI (Norway's International Climate and Forests Initiative): Norwegian government <https://www.nicfi.no/>; annual budget ~NOK 3 billion
+    [^noets]: Norwegian ETS (linked to EU ETS): ICAP <https://icapcarbonaction.com/en/ets/norway-ets>
+    [^nondc]: Norway NDC: UNFCCC <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=NOR>; emissions gap analysis: Statistics Norway <https://www.ssb.no/>
 
     ## Key Sources
     - Norway NDC: <https://unfccc.int/NDCREG>

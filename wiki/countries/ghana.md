@@ -8,12 +8,17 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 64 MtCO₂e reduction vs. 2019 BAU by 2030 (conditional) |
-    | Carbon System | GCMO established; Ghana Carbon Registry operational |
-    | JCM (Japan) | ⚪ Not a JCM partner |
-    | Singapore IA | ✅ Signed 2023; first transactions in pipeline |
-    | Switzerland | ✅ Signed 2021; ITMOs already transferred |
-    | CA Framework | ✅ Operational — most mature in Africa |
+    | NDC Target | 64 MtCO₂e reduction vs. 2019 BAU by 2030 (conditional); ~15 Mt unconditional[^ghndc] |
+    | Carbon System | GCMO established[^ghgcmo]; Ghana Carbon Registry operational[^ghgcmo] |
+    | JCM (Japan) | — Not a JCM partner |
+    | Singapore IA | 🤝 Signed 2023; **RFP1: 2 contracts awarded**[^ghsg] |
+    | Switzerland | ✅ Signed 2021; **ITMOs transferred**[^ghch] |
+    | CA Framework | ✅ Operational — most mature in sub-Saharan Africa[^ghgcmo] |
+
+    [^ghndc]: Ghana NDC (2021 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GHA>
+    [^ghgcmo]: GCMO (Ghana Carbon Market Office) — carbon registry and CA operations: MESTI <https://www.mesti.gov.gh/>
+    [^ghsg]: Singapore-Ghana IA (2023) + RFP Round 1 contracts (cookstoves ~900,000 t + REDD+ ~450,000 t, total ~1.35 Mt, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; Singapore MSE IA network <https://www.carbonmarkets-cooperation.gov.sg/>
+    [^ghch]: Switzerland-Ghana bilateral (2021) + ITMO transfers confirmed: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
 
     ## NDC Achievement Status
 

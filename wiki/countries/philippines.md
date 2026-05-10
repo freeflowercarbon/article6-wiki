@@ -8,11 +8,18 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 75% reduction vs. BAU by 2030 (only 2.71% unconditional) |
-    | Carbon System | None yet; VFCM framework under development |
-    | JCM (Japan) | ✅ Since 2017 |
-    | Singapore IA | 📋 MOU signed; IA negotiation pending |
+    | NDC Target | 75% conditional / 2.71% unconditional reduction vs. BAU by 2030[^phndc] |
+    | Carbon System | VFCM framework (DAO 2025-23)[^phvfcm]; no ETS yet |
+    | JCM (Japan) | ✅ Since 2017; paddy + forest guidelines approved 2025[^phjcm] |
+    | Singapore IA | 📋 MOU signed; IA negotiation pending[^phsg] |
     | CA Framework | 🔴 Not yet established |
+    | Key Ministry | DENR (Dept. of Environment and Natural Resources)[^phdenr] |
+
+    [^phndc]: Philippines NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PHL>
+    [^phvfcm]: DAO 2025-23 (Voluntary Forest Carbon Market rules): DENR <https://www.denr.gov.ph/>
+    [^phjcm]: JCM Philippines: GEC <https://gec.jp/jcm/projects/>; paddy methane methodology Feb 2025: JIRCAS <https://www.jircas.go.jp/en/reports/2024/r20250204>; forest guidelines Nov 2025: MOEJ
+    [^phsg]: Singapore-Philippines MOU on Article 6.2 cooperation: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
+    [^phdenr]: DENR (Philippines): <https://www.denr.gov.ph/>
 
     ## NDC Achievement Status
 

@@ -8,14 +8,21 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 32% reduction vs. BAU by 2030 (conditional) |
-    | Carbon System | Carbon Markets Policy 2023; Carbon Credits Act (in preparation) |
-    | Key Ministry | Ministry of Environment and Climate Change; Energy and Petroleum Regulatory Authority |
-    | JCM (Japan) | ✅ Since 2013 |
-    | Sweden | ✅ Bilateral agreement active |
-    | Singapore IA | ⚪ Not yet |
-    | CA Framework | 🟡 In development (policy framework established) |
+    | NDC Target | 32% conditional reduction vs. BAU by 2030[^kendc] |
+    | Carbon System | Kenya Carbon Markets Policy (2023)[^kecmp]; Carbon Credits Act (in preparation) |
+    | Key Ministry | Ministry of Environment and Climate Change[^kemoe]; EPRA |
+    | JCM (Japan) | ✅ Since 2013[^kejcm] |
+    | Sweden | 🤝 Bilateral agreement active[^keswe] |
+    | Singapore IA | 📋 MOU signed[^kesg] |
+    | CA Framework | 🟡 In development (policy framework established 2023)[^kecmp] |
     | NBS Maturity | ⭐⭐⭐ |
+
+    [^kendc]: Kenya NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KEN>
+    [^kecmp]: Kenya Carbon Markets Policy (2023): Kenya Ministry of Environment <https://environment.go.ke/>; Carbon Markets Policy framework
+    [^kemoe]: Kenya Ministry of Environment and Climate Change: <https://environment.go.ke/>
+    [^kejcm]: JCM Kenya: GEC <https://gec.jp/jcm/projects/>; signed 2013
+    [^keswe]: Sweden-Kenya bilateral agreement: Energimyndigheten <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
+    [^kesg]: Singapore-Kenya MOU on Article 6.2 cooperation: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
 
     ## NDC Achievement Status
 

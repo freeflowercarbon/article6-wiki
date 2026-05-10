@@ -8,23 +8,29 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 29% (unconditional) / 41% (conditional) reduction vs. BAU by 2030 |
-    | Carbon System | IDXCarbon (voluntary, 2023~), PTBAE-PU ETS (pilot) |
-    | JCM (Japan) | ✅ Since 2013; 50+ projects |
-    | Singapore IA | 🔄 Under negotiation |
-    | CA Framework | 🟡 Being built; Perpres 110/2025 provides legal basis |
+    | NDC Target | 29% unconditional / 41% conditional reduction vs. BAU by 2030[^idndc] |
+    | Carbon System | IDXCarbon (voluntary exchange, 2023–)[^idxcarbon]; PTBAE-PU ETS pilot[^idets] |
+    | JCM (Japan) | 🤝 Since 2013; 50+ projects[^idjcm] |
+    | Singapore IA | 🔄 Under negotiation (post-Perpres 110/2025)[^idsg] |
+    | CA Framework | 🟡 Under development; Perpres 110/2025 provides legal basis[^idperpres] |
+    | Key Ministry | KLHK (Ministry of Environment & Forestry)[^idklhk] |
+
+    [^idndc]: Indonesia Enhanced NDC (2022): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=IDN>
+    [^idxcarbon]: IDXCarbon launched August 2023; Indonesia Stock Exchange (IDX): <https://idxcarbon.co.id/>
+    [^idets]: PTBAE-PU ETS pilot (Sistem Perdagangan Emisi): KLHK regulation; see: <https://www.menlhk.go.id/>
+    [^idjcm]: JCM Indonesia projects: GEC <https://gec.jp/jcm/projects/>; MOEJ portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
+    [^idsg]: Singapore-Indonesia IA negotiations: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>; Carbon Pulse coverage (post-Perpres 110)
+    [^idperpres]: Presidential Regulation Perpres 110/2025 (October 2025) permits international carbon credit exports: BPKRI <https://peraturan.bpk.go.id/>
+    [^idklhk]: KLHK: <https://www.menlhk.go.id/>
 
     ## NDC Achievement Status
 
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (29%) | 🟢 Likely achievable with current policies |
-    | Conditional target (41%) | 🔴 Very challenging without substantial international support |
+    | Unconditional target (29%)[^idndc] | 🟢 Likely achievable with current policies |
+    | Conditional target (41%)[^idndc] | 🔴 Very challenging without substantial international support |
     | Key bottleneck | FOLU (Forestry and Other Land Use) sector — deforestation control |
     | GST 2023 Implication | Indonesia expected to raise both targets for 2035 NDC |
-
-    > Source: Indonesia NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=IDN>
-    > Perpres 110/2025: <https://peraturan.bpk.go.id/> (search: Perpres 110 2025)
 
     ## Active Article 6.2 Projects
 

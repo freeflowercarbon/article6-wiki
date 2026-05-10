@@ -8,25 +8,32 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 43.5% reduction vs. BAU by 2030 (conditional); 15.8% unconditional |
-    | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities); VVCS domestic standard |
-    | JCM (Japan) | ✅ Since 2013; 35+ projects |
-    | Singapore IA | ✅ Signed Sep 2025 |
-    | Switzerland | 🔄 Under negotiation |
-    | CA Framework | 🟡 Being built (MONRE-led MRV strengthening) |
+    | NDC Target | 43.5% conditional / 15.8% unconditional reduction vs. BAU by 2030[^vnndc] |
+    | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities)[^vnets]; VVCS domestic standard[^vnvvcs] |
+    | JCM (Japan) | ✅ Since 2013; 35+ projects[^vnjcm] |
+    | Singapore IA | ✅ Signed Sep 2025[^vnsg] |
+    | Switzerland | 🔄 Under negotiation[^vnch] |
+    | CA Framework | 🟡 Being built — Decree 06/2022/ND-CP provides legal basis[^vndec6] |
+    | Key Ministry | MONRE (Ministry of Natural Resources & Environment)[^vnmonre] |
+
+    [^vnndc]: Vietnam NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=VNM>
+    [^vnets]: Vietnam domestic ETS (Sàn giao dịch tín chỉ carbon) pilot 2025–2028 covers power, steel, cement, chemicals: Decree 06/2022/ND-CP <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
+    [^vnvvcs]: VVCS (Vietnam Voluntary Carbon Standard): MONRE regulation; see QC Intel coverage: <https://www.qcintel.com/>
+    [^vnjcm]: JCM Vietnam projects (35+ active): GEC Vietnam <https://gec.jp/jcm/vn/>
+    [^vnsg]: Singapore-Vietnam IA signed September 2025: Singapore MSE/carbonmarkets-cooperation.gov.sg <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^vnch]: Switzerland-Vietnam Article 6.2 bilateral negotiation: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^vndec6]: Vietnam Decree 06/2022/ND-CP (carbon market legal framework): <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
+    [^vnmonre]: Vietnam MONRE: <https://www.monre.gov.vn/>
 
     ## NDC Achievement Status
 
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (15.8%) | 🟢 Achievable with current trajectory |
-    | Conditional target (43.5%) | 🟡 Requires significant international finance and technology transfer |
+    | Unconditional target (15.8%)[^vnndc] | 🟢 Achievable with current trajectory |
+    | Conditional target (43.5%)[^vnndc] | 🟡 Requires significant international finance and technology transfer |
     | Key driver | RE transition (solar boom 2019–2023); energy efficiency programs |
     | Key obstacle | Power sector restructuring; EVN dominance; coal phase-out timeline |
-    | GST 2023 Implication | Vietnam expected to raise 2035 NDC conditional ambition; unconditional baseline remains uncertain |
-
-    > Source: Vietnam NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=VNM>
-    > Decree 06/2022/ND-CP: <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
+    | GST 2023 Implication | Vietnam expected to raise 2035 NDC conditional ambition |
 
     ## Active Article 6.2 Projects
 
