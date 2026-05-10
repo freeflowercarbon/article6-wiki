@@ -22,14 +22,18 @@
 
     ## NDC Achievement Status
 
+    > **NDC status (2025)**[^ghndcnew]: Ghana submitted a revised NDC in 2021 targeting 64 MtCO₂e reduction vs. BAU by 2030 — the most ambitious conditional target in West Africa relative to BAU. The unconditional target (~15 Mt) is largely on track. A6.2 credit revenue from Singapore RFP1 (cookstoves + REDD+ contracts awarded Sept 2025, ~1.35 Mt over 2026–2030)[^ghsg] directly finances conditional-NDC reductions — a textbook "virtuous cycle." NDC 3.0 expected 2025–2026 with higher ambition.[^ghndcnew]
+
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (~15 Mt) | 🟢 Achievable with current trajectory |
-    | Conditional target (64 Mt) | 🔴 Requires large-scale international finance |
+    | Unconditional target (~15 Mt)[^ghndc] | 🟢 Achievable with current trajectory |
+    | Conditional target (64 Mt)[^ghndc] | 🔴 Requires large-scale international finance — A6.2 is catalytic |
     | Key driver | Forest conservation (REDD+), clean cooking, RE |
-    | GST 2023 Implication | Ghana likely to maintain conditional targets; push for stronger climate finance commitments |
+    | RFP1 delivery | Singapore contracts: cookstoves (~900,000 t) + REDD+ (~450,000 t); delivery 2026–2030[^ghsg] |
+    | Export motivation | ⭐⭐⭐⭐ High — unconditional on track; A6.2 revenue directly funds conditional gap |
 
-    > Source: Ghana NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GHA>
+    [^ghndcnew]: Ghana NDC status (2025): GCMO / MESTI; NDC 3.0 expected: Carbon Pulse <https://carbon-pulse.com/>
+    > Ghana NDC: <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GHA>
     > GCMO: <https://www.mesti.gov.gh/>
 
     ## Active Article 6.2 Projects

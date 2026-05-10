@@ -25,12 +25,18 @@
 
     ## NDC Achievement Status
 
+    > **2nd NDC submitted October 2025**[^idndcnew]: Indonesia raised the unconditional target to 32% and conditional to 43% vs. BAU by 2030. However, Climate Action Tracker rates Indonesia's trajectory as **"Highly Insufficient"** vs. 1.5°C.[^idcat] Coal plant phase-out plans remain weak; deforestation resumed in 2024 after a brief slowdown. The 2nd NDC includes a 2050 net-zero target but the pathway is contested.[^idcat]
+
     | Metric | Assessment |
     |--------|-----------|
-    | Unconditional target (29%)[^idndc] | 🟢 Likely achievable with current policies |
-    | Conditional target (41%)[^idndc] | 🔴 Very challenging without substantial international support |
-    | Key bottleneck | FOLU (Forestry and Other Land Use) sector — deforestation control |
-    | GST 2023 Implication | Indonesia expected to raise both targets for 2035 NDC |
+    | Unconditional target (32% vs. BAU)[^idndcnew] | 🟡 Partially on track; FOLU remains critical bottleneck |
+    | Conditional target (43% vs. BAU)[^idndcnew] | 🔴 "Highly Insufficient" — coal dependency; requires massive international support |
+    | Key bottleneck | FOLU sector + coal dependency; 2024 deforestation rebound |
+    | Key driver | Geothermal expansion; solar scale-up; Perpres 110/2025 opens export path |
+    | Export motivation | ⚠️ Caution — NDC "Highly Insufficient"; exports should only come from genuine additional surplus beyond NDC compliance |
+
+    [^idndcnew]: Indonesia 2nd NDC (October 2025): 32% unconditional / 43% conditional vs. BAU by 2030, net-zero 2050 target: UNFCCC NDC Registry; Carbon Pulse <https://carbon-pulse.com/>
+    [^idcat]: Indonesia rated "Highly Insufficient" vs. 1.5°C: Climate Action Tracker <https://climateactiontracker.org/countries/indonesia/>
 
     ## Active Article 6.2 Projects
 
@@ -100,12 +106,14 @@
 
     ## NDC達成見込み・グローバルストックテイク
 
+    > **第2次NDC提出（2025年10月）**[^idndcnew]: 無条件目標をBAU比32%、条件付き目標を43%に引き上げ（2030年）。2050年ネットゼロ目標を追加。ただしClimate Action Trackerは1.5°C対比で**「Highly Insufficient（大幅不足）」**と評価[^idcat]。石炭フェーズアウトが遅く、2024年の森林減少が再加速している点が懸念。
+
     | 指標 | 評価 |
     |------|------|
-    | 無条件目標（29%） | 🟢 現行政策で達成見込み |
-    | 条件付き目標（41%） | 🔴 国際支援なしでは極めて困難 |
-    | 最大の課題 | FOLU（土地利用林業）部門の森林減少対策 |
-    | GST後の方向性 | 2035年NDCで両目標の引き上げが期待される |
+    | 無条件目標（32%）[^idndcnew] | 🟡 一部進捗；FOLU部門が最大障壁 |
+    | 条件付き目標（43%）[^idndcnew] | 🔴 「Highly Insufficient」— 石炭依存；国際支援が不可欠 |
+    | 最大の課題 | FOLUセクター＋石炭依存；2024年森林減少再加速 |
+    | 輸出モチベーション | ⚠️ 要注意 — NDC「大幅不足」のため輸出はNDC達成分を上回る真の余剰のみ |
 
     ## 稼働中・承認済みA6.2プロジェクト
 

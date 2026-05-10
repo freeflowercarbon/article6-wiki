@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Norway is an active Article 6.2 acquiring country, primarily channeling demand through bilateral carbon credit agreements. Norway signed a bilateral agreement with **Zambia at COP29 (November 2024)**.[^noza] Norway also contributes to international climate finance through the **Norway International Climate and Forests Initiative (NICFI)** — though NICFI is results-based grant finance, not Article 6.2 credit purchasing. Norway has an EU ETS-linked domestic carbon market.
+    Norway is an active Article 6.2 acquiring country, primarily channeling demand through bilateral carbon credit agreements. Norway signed a bilateral agreement with **Zambia at COP29 (November 2024)**.[^noza] In a notable reversal of roles, **Norway acted as the HOST country for the world's first Article 6.2 CDR (Carbon Dioxide Removal) ITMO transfer in June 2025** — Switzerland purchased Norwegian CDR credits (direct air capture / industrial carbon removal), making this the first-ever A6.2 transfer in the CDR category.[^nocdrhost] Norway also contributes to international climate finance through the **Norway International Climate and Forests Initiative (NICFI)** — though NICFI is results-based grant finance, not Article 6.2 credit purchasing. Norway has an EU ETS-linked domestic carbon market.
 
     | Item | Detail |
     |------|--------|
@@ -27,13 +27,23 @@
 
     > Source: Norway NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=NOR>
 
-    ## Bilateral A6.2 Agreements
+    ## Norway as Host Country (CDR ITMO, Jun 2025)
+
+    > **Historic milestone**: In June 2025, Norway became the first country to complete an Article 6.2 ITMO transfer as a **host country in the CDR (Carbon Dioxide Removal) category**.[^nocdrhost] Switzerland purchased Norwegian CDR credits — likely from direct air capture or bioenergy with carbon capture (BECCS) — marking the first-ever A6.2 transfer involving engineered carbon removal rather than avoided emissions or nature-based sequestration. This sets a precedent for high-income countries with CDR capacity to participate in A6.2 as hosts.
+
+    | Transfer | Host | Acquiring | Date | Type | Notes |
+    |----------|------|-----------|------|------|-------|
+    | CDR ITMO | Norway 🇳🇴 | Switzerland 🇨🇭 | Jun 2025 | Carbon Dioxide Removal | World first CDR A6.2 transfer[^nocdrhost] |
+
+    ## Bilateral A6.2 Agreements (as Acquiring Country)
 
     | Host Country | Year | Status | Notes |
     |-------------|------|--------|-------|
     | Zambia 🇿🇲 | 2024 | ✅ Signed at COP29 | Forest / NBS focus [^noza] |
 
     > Additional bilateral agreements likely; check: <https://unepccc.org/article-6-pipeline/>
+
+    [^nocdrhost]: Norway-Switzerland CDR ITMO transfer (Jun 2025) — world's first A6.2 transfer in the CDR category: Carbon Pulse <https://carbon-pulse.com/>; FOEN Switzerland <https://www.bafu.admin.ch/>
 
     ## Methodology Approach
 
@@ -83,7 +93,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    ノルウェーはA6.2調達国として、**COP29（2024年11月）でザンビアとの二国間協定を署名**[^noza]。国内ではEU ETSにリンクしたノルウェーETSとCO₂税（NOK 1,125/t≈US$105、世界最高水準の一つ）を運用。NICFIによる森林保全グラント資金提供（A6.2クレジット購入とは別系統）でも国際的に知名度が高い。
+    ノルウェーはA6.2調達国として、**COP29（2024年11月）でザンビアとの二国間協定を署名**[^noza]。また**2025年6月には自身がホスト国として、世界初のCDR（炭素除去）カテゴリーA6.2 ITMO移転を完了**[^nocdrhost]（スイスがノルウェーのCDRクレジットを購入）。国内ではEU ETSにリンクしたノルウェーETSとCO₂税（NOK 1,125/t≈US$105、世界最高水準の一つ）を運用。NICFIによる森林保全グラント資金提供（A6.2クレジット購入とは別系統）でも国際的に知名度が高い。
 
     ## 基本情報
     | 項目 | 内容 |
