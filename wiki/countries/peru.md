@@ -11,14 +11,14 @@
     | NDC Target | 40% conditional / ~30% unconditional reduction vs. 2010 by 2030[^pendc] |
     | Carbon System | No ETS; MINAM carbon credit framework[^peminam] |
     | JCM (Japan) | — Not a JCM partner |
-    | Singapore IA | ✅ Signed 2024; **RFP1 contract: Amazon REDD+ (~540,000 t, 2026–2030)**[^pesg] |
+    | Singapore IA | ✅ Signed **April 1, 2025**; **RFP1 contract: 2 projects (Kowen Antami REDD+ + Together for Forests REDD+), 2026–2030**[^pesg] |
     | Switzerland | ✅ Signed 2020; **World's 1st A6.2 ITMO transfer (2023)**[^pech] |
     | CA Framework | ✅ Operational — most mature in Latin America[^peca] |
     | Key Ministry | MINAM (Ministry of Environment)[^peminam] |
 
     [^pendc]: Peru NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
     [^peminam]: Peru MINAM (Ministerio del Ambiente): <https://www.gob.pe/minam>; carbon credit framework under SERNANP/SERFOR coordination
-    [^pesg]: Singapore-Peru IA (2024) + RFP Round 1 contract (Amazon REDD+, ~540,000 tCO₂e, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; S&P Global price data <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>
+    [^pesg]: Singapore-Peru IA signed **April 1, 2025** (secondary source: Carbon Pulse); RFP Round 1 contract: Kowen Antami REDD+ and Together for Forests REDD+ (part of 2,175,000 tCO₂e total from 4 projects, ≈S$76M, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; ESG Today <https://www.esgtoday.com/singapore-signs-deals-for-more-than-2-million-nature-based-carbon-credits/>; S&P Global <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>
     [^pech]: Switzerland-Peru bilateral (2020) + world's first A6.2 ITMO transfer (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse ITMO report (2023)
     [^peca]: Peru CA framework: Carbon Pulse / MINAM; most advanced in Latin America per World Bank PROGREEN
 
@@ -43,7 +43,8 @@
     | Project | Partner | Status | Volume | Notes |
     |---------|---------|--------|--------|-------|
     | Clean cooking / urban efficiency | Switzerland | ✅ **ITMO transferred 2023** | ~tens of thousands t | World first A6.2 transfer |
-    | Amazon REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | ~540,000 t (2026–2030) | S$19–41/t |
+    | Kowen Antami REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
+    | Together for Forests REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | REDD+ expansion | Switzerland (ongoing) | 🟡 Pipeline | TBD | — |
 
     > Switzerland FOEN: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
@@ -53,8 +54,8 @@
 
     | Project | Standard | Type | CCP Status |
     |---------|----------|------|-----------|
-    | Madre de Dios REDD+ | Verra VCS VM0009 | Amazon REDD+ | 🟡 Under ICVCM review |
-    | Tambopata REDD+ | Verra VCS | Amazon forest | 🟡 Under ICVCM review |
+    | Madre de Dios REDD+ | Verra VCS VM0009 | Amazon REDD+ | ❌ VM0009 permanently excluded from CCP — migration to VM0048+VMD0055 required for CCP eligibility |
+    | Tambopata REDD+ | Verra VCS (methodology TBC) | Amazon forest | 🟡 CCP pathway possible via VM0048+VMD0055 if AUD-type; VMD0055 Band 1 available for Peru |
     | Peru Amazon Conservation (portfolio) | Verra VCS / GS | REDD+ | 🟡 Multiple projects |
     | Andean ecosystem (puna grasslands) | GS (prospective) | NBS / grasslands | 🟡 Pre-development |
 
@@ -86,7 +87,7 @@
     | NDC目標 | 2030年に2010年比40%削減（条件付き）/ 約30%（無条件） |
     | 国内炭素制度 | ETS未導入；MINAM主導の炭素クレジット枠組み |
     | 主管省庁 | MINAM（環境省） |
-    | シンガポールIA | ✅ 2024年署名・**RFP1落札**（アマゾンREDD+） |
+    | シンガポールIA | ✅ **2025年4月1日署名**・**RFP1落札**（Kowen Antami REDD+ + Together for Forests REDD+） |
     | スイス二国間 | ✅ 2020年署名・**2023年ITMO移転済み（世界初）** |
     | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟） |
 
@@ -103,14 +104,15 @@
     | プロジェクト | 相手 | 状況 | 規模 |
     |------------|------|------|------|
     | クリーンクッキング・省エネ | スイス | ✅ **ITMO移転済み（2023年）** | 数万t（非公表） |
-    | アマゾンREDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 約54万t（2026〜2030年） |
+    | Kowen Antami REDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 全4案件合計2,175,000 tの一部（2026〜2030年） |
+    | Together for Forests REDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 全4案件合計2,175,000 tの一部（2026〜2030年） |
 
     ## CCP認証候補ボランタリープロジェクト
 
     | プロジェクト | 規格 | 種別 | CCP状況 |
     |------------|------|------|---------|
-    | Madre de Dios REDD+ | Verra VCS VM0009 | アマゾンREDD+ | 🟡 ICVCM審査中 |
-    | Tambopata REDD+ | Verra VCS | 熱帯林 | 🟡 ICVCM審査中 |
+    | Madre de Dios REDD+ | Verra VCS VM0009 | アマゾンREDD+ | ❌ VM0009はCCPから永久除外 — CCP取得にはVM0048+VMD0055への移行が必要 |
+    | Tambopata REDD+ | Verra VCS（方法論要確認） | 熱帯林 | 🟡 AUD型であればVM0048+VMD0055でCCP経路あり（ペルーはBand 1：即時利用可能） |
 
     ## 主要コンタクトポイント
 
