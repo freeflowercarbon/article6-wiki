@@ -119,5 +119,7 @@
 
     ## 関連ページ
     - [日本-フィリピン協定](../agreements/japan-philippines.md)
+    - [CCP適格NBS方法論ガイド](../concepts/ccp_nbs_methodologies.md) — GS AWD v1.0 CCP承認済み；PH_AM004はJCM独自方法論
+    - [JCM種別分類](../concepts/jcm.md#jcm種別分類従来型-vs-a62型) — 従来型JCM vs A6.2型JCM
     - [インドネシア](indonesia.md)
     - [マトリクス](../matrix.md)

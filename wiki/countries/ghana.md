@@ -121,5 +121,6 @@
 
     ## 関連ページ
     - [シンガポール A6制度](../singapore_ia_system.md)
+    - [CCP適格NBS方法論ガイド](../concepts/ccp_nbs_methodologies.md)
     - [スイス](switzerland.md)
     - [マトリクス](../matrix.md)

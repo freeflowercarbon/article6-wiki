@@ -50,6 +50,8 @@
 ## 3. 対象5カ国 プロジェクト別実績
 ## 3. Country-Level Project Records
 
+> **JCM種別について / JCM Type Note**: プロジェクトは「従来型JCM（Conventional JCM）」と「A6.2型JCM（Article 6.2 JCM）」に分類される。CA（Corresponding Adjustment）が適用され相手国がAuthorizationを発行したプロジェクトのみがA6.2型となり、GXリーグでの活用が可能。詳細は [JCM種別分類](concepts/jcm.md#jcm種別分類従来型-vs-a62型) を参照。
+
 ---
 
 ### 🇮🇩 インドネシア / Indonesia
@@ -61,8 +63,10 @@
 | 累計発行量（全セクター） | 不明（要確認） | — |
 | 承認方法論数 | 不明（要IGES DB確認） | — |
 | JC審議中（パイプライン） | 不明（要確認） | — |
+| **JCM種別** | **従来型JCM** — 全38件はCA未適用 | — |
 
 **セクター別内訳（テクノロジー系）**:
+
 | セクター | プロジェクト例 | 種別 |
 |---------|------------|------|
 | 省エネ（工業） | セメント工場排熱回収、冷凍設備 | テクノロジー |
@@ -71,6 +75,7 @@
 | 再エネ | 太陽光、小水力 | テクノロジー |
 
 **自然系（NBS）実績**:
+
 | プロジェクト | 種別 | 規模 | ステータス | ソース |
 |------------|------|------|---------|--------|
 | 18,000ha森林再生（Central Kalimantan） | 森林（Removal） | 開発中 | 管理計画策定中 | [MSCI](https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects) |
@@ -94,21 +99,21 @@
 | 承認方法論数 | 4件以上（要IGES DB確認） | — |
 
 **承認済み方法論（NBS関連、2025年）**:
-| 方法論 | 承認日 | 種別 | ソース |
-|--------|--------|------|--------|
-| PH_AM004：水田メタン削減（Alternate Wetting and Drying） | **2025年2月3日** | 農業（Avoidance） | [JIRCAS](https://www.jircas.go.jp/en/reports/2024/r20250204) |
-| REDD+・植林（A/R）ガイドライン | **2025年11月（JC承認）** | 森林（Avoidance/Removal） | [QC Intel](https://www.qcintel.com/carbon/article/philippines-japan-approve-guidelines-for-forestry-jcm-projects-52408.html)、[JC Meeting Report](https://www.jcm.go.jp/jc_decisions/2891/JCM_PH_JC02_Mtg_Rep.pdf) |
+| 方法論 | 承認日 | JCM種別 | ソース |
+|--------|--------|---------|--------|
+| PH_AM004：水田メタン削減（Alternate Wetting and Drying） | **2025年2月3日** | **A6.2型対応可** — 新規プロジェクトはCA申請可能 | [JIRCAS](https://www.jircas.go.jp/en/reports/2024/r20250204) |
+| REDD+・植林（A/R）ガイドライン（森林GL） | **2025年11月（JC承認）** | **A6.2型対応可** — 新規REDD+/A/RプロジェクトはCA申請可能 | [QC Intel](https://www.qcintel.com/carbon/article/philippines-japan-approve-guidelines-for-forestry-jcm-projects-52408.html)、[JC Meeting Report](https://www.jcm.go.jp/jc_decisions/2891/JCM_PH_JC02_Mtg_Rep.pdf) |
 
 **自然系（NBS）プロジェクトパイプライン**:
-| プロジェクト | 開発者 | 面積/規模 | 目標クレジット | 種別 | ステータス |
-|------------|--------|----------|------------|------|---------|
-| Nueva Vizcaya 水田（Phase 3） | Green Carbon | 30,000ha（目標） | **≈1M t/10年** | 農業Avoidance | 🟡 2025年1月開始 |
-| Leyte 水田（Phase 4） | Green Carbon | 40,000ha | **≈1M t/10年** | 農業Avoidance | 🟡 開発中 |
-| Batangas・Nueva Ecija 水田 | Green Carbon | 複数省 | — | 農業Avoidance | 🟡 開発中 |
-| フィリピン全16省 水田展開 | Green Carbon | — | — | 農業Avoidance | 計画中 |
-| フィリピン水田 | Shell | 未公表 | — | 農業Avoidance | 🟡 開発中 |
-| フィリピン水田（Faeger協力） | Yanmar | — | — | 農業Avoidance | 🟡 2025年12月契約 |
-| フィリピン水田 | Kanematsu | — | — | 農業Avoidance | 🟡 2025年10月検証開始 |
+| プロジェクト | 開発者 | 面積/規模 | 目標クレジット | 種別 | JCM種別 | ステータス |
+|------------|--------|----------|------------|------|---------|---------|
+| Nueva Vizcaya 水田（Phase 3） | Green Carbon | 30,000ha（目標） | **≈1M t/10年** | 農業Avoidance | **A6.2型対応可** | 🟡 2025年1月開始 |
+| Leyte 水田（Phase 4） | Green Carbon | 40,000ha | **≈1M t/10年** | 農業Avoidance | **A6.2型対応可** | 🟡 開発中 |
+| Batangas・Nueva Ecija 水田 | Green Carbon | 複数省 | — | 農業Avoidance | **A6.2型対応可** | 🟡 開発中 |
+| フィリピン全16省 水田展開 | Green Carbon | — | — | 農業Avoidance | **A6.2型対応可** | 計画中 |
+| フィリピン水田 | Shell | 未公表 | — | 農業Avoidance | **A6.2型対応可** | 🟡 開発中 |
+| フィリピン水田（Faeger協力） | Yanmar | — | — | 農業Avoidance | **A6.2型対応可** | 🟡 2025年12月契約 |
+| フィリピン水田 | Kanematsu | — | — | 農業Avoidance | **A6.2型対応可** | 🟡 2025年10月検証開始 |
 
 ソース: [Green Carbon Phase3](https://green-carbon.co.jp/en/jcm3-nuevavizcaya-eng/)、[Green Carbon Phase4](https://green-carbon.co.jp/en/enjcmpjvol4green-carbonphilippine/)、[Yanmar](https://www.mynewsdesk.com/yanmar/pressreleases/yanmar-signs-contract-for-the-sale-and-purchase-of-jcm-credits-generated-in-the-philippines-3422785)、[Kanematsu](https://www.kanematsu.co.jp/en/press/release/20251016_release)
 
@@ -125,11 +130,11 @@
 | 累計発行量 | 不明（要確認） | — |
 
 **プロジェクト例（テクノロジー系）**:
-| プロジェクト | セクター | 種別 |
-|------------|---------|------|
-| 11MW太陽光（Savannakhet） | 再エネ | テクノロジー |
-| ビエンチャン省エネ照明 | 省エネ | テクノロジー |
-| 農村電化（小水力） | 再エネ | テクノロジー |
+| プロジェクト | セクター | JCM種別 |
+|------------|---------|---------|
+| 11MW太陽光（Savannakhet） | 再エネ | **従来型JCM** |
+| ビエンチャン省エネ照明 | 省エネ | **従来型JCM** |
+| 農村電化（小水力） | 再エネ | **従来型JCM** |
 
 **自然系（NBS）**:
 | 項目 | 状況 | ソース |
@@ -142,9 +147,9 @@
 ### 🇯🇵 日本（JCM全体の買国視点）
 
 **参考：JCM最大規模案件（Cambodia、比較用）**:
-| プロジェクト | 国 | 発行量 | 種別 | 意義 |
-|------------|---|--------|------|------|
-| Prey Lang Wildlife Sanctuary | カンボジア | **≈0.6 Mt CO2e（2023年12月）** | 森林REDD+（Avoidance） | JCM史上初のNBSクレジット発行 |
+| プロジェクト | 国 | 発行量 | 種別 | JCM種別 | 意義 |
+|------------|---|--------|------|---------|------|
+| Prey Lang Wildlife Sanctuary | カンボジア | **≈0.6 Mt CO2e（2023年12月）** | 森林REDD+（Avoidance） | **従来型JCM** 🟡 要確認 | JCM史上初のNBSクレジット発行；A6.2正式認定（2025年3月）前の発行のため遡及的CA適用は未確認 |
 
 ソース: [MSCI Blog](https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects)
 

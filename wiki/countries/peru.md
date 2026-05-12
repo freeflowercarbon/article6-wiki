@@ -122,4 +122,6 @@
     ## 関連ページ
     - [スイス](switzerland.md) — 取引カウンターパート（世界初）
     - [シンガポール A6制度](../singapore_ia_system.md)
+    - [CCP適格NBS方法論ガイド](../concepts/ccp_nbs_methodologies.md) — VM0048+VMD0055（Band 1：ペルーで即時利用可能）
+    - [NBS × A6.2 適格性ガイド](../concepts/nbs_a62_eligibility.md)
     - [マトリクス](../matrix.md)

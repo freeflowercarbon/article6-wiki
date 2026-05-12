@@ -92,6 +92,7 @@ nav:
     - PACM (Article 6.4): concepts/pacm.md
     - Reversal Risk | リバーサルリスク: concepts/reversal_risk.md
     - NBS × A6.2 Eligibility | NBS適格性ガイド: concepts/nbs_a62_eligibility.md
+    - CCP-Eligible NBS Methodologies | CCP適格NBS方法論: concepts/ccp_nbs_methodologies.md
   - Sources | 収集ソース: _sources.md
 
 plugins:

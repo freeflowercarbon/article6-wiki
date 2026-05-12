@@ -148,5 +148,6 @@
     ## 関連ページ
     - [日本-インドネシア協定](../agreements/japan-indonesia.md)
     - [シンガポール](singapore.md) — IA交渉相手
+    - [CCP適格NBS方法論ガイド](../concepts/ccp_nbs_methodologies.md) — VMD0055はインドネシアでBand 6（未整備）
     - [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
     - [マトリクス](../matrix.md)

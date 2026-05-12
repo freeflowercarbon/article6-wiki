@@ -11,19 +11,15 @@
 
 シンガポールのArticle 6.2制度は**3層構造**：
 
-```
-Layer 1: カーボン税制度（強制）
-  └── Carbon Pricing Act 2018
-       └── 企業がカーボン税義務の最大5%をICCで代替可能（2024〜）
-
-Layer 2: ICC（国際カーボンクレジット）Framework
-  ├── Eligibility Criteria（NEA策定）
-  └── Implementation Agreement（IA）ネットワーク
-
-Layer 3: 調達チャンネル（複線）
-  ├── 政府RFP（NDC達成用：政府が直接調達）
-  └── 民間市場（企業がCIX・OTC等で調達）
-```
+- **Layer 1: カーボン税制度（強制）**
+    - Carbon Pricing Act 2018
+        - 企業がカーボン税義務の最大5%をICCで代替可能（2024〜）
+- **Layer 2: ICC（国際カーボンクレジット）Framework**
+    - Eligibility Criteria（NEA策定）
+    - Implementation Agreement（IA）ネットワーク
+- **Layer 3: 調達チャンネル（複線）**
+    - 政府RFP（NDC達成用：政府が直接調達）
+    - 民間市場（企業がCIX・OTC等で調達）
 
 **関与省庁**:
 | 省庁 | 役割 |
@@ -173,22 +169,15 @@ Layer 3: 調達チャンネル（複線）
 
 ### シンガポール経由のArticle 6.2クレジット取得フロー
 
-```
-プロジェクト開発者
-  │
-  ├── ① IA締結国かどうか確認（10カ国リスト）
-  │
-  ├── ② 相手国政府からAuthorization取得
-  │       └── 相手国がNDCからCA控除
-  │
-  ├── ③ NEA Eligibility Criteriaへの適合確認
-  │
-  ├── ④-A 政府RFP（入札）への応募
-  │         └── 価格35% + 品質35% + 能力20% + 実施10%
-  │
-  └── ④-B 民間企業へのOTC / CIX経由販売
-            └── カーボン税対象企業が税義務の最大5%に使用
-```
+**プロジェクト開発者が踏む手順：**
+
+1. **IA締結国かどうか確認**（10カ国リスト参照）
+2. **相手国政府からAuthorization取得**
+    - 相手国がNDCからITMO量をCA控除
+3. **NEA Eligibility Criteriaへの適合確認**（7原則・Eligibility List）
+4. 調達チャンネルを選択：
+    - **④-A 政府RFP（入札）への応募** — 評価基準：品質35% + 価格35% + 能力20% + 実施10%
+    - **④-B 民間企業へのOTC / CIX経由販売** — カーボン税対象企業が税義務の最大5%に充当可能
 
 ### 価格水準（参考）
 | チャンネル | 価格帯 | 根拠 |

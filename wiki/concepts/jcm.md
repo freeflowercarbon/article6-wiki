@@ -18,6 +18,42 @@
     > Source: QC Intel JCM Analysis: <https://www.qcintel.com/carbon/article/feature-japan-looks-to-upscale-the-jcm-to-meet-enhanced-carbon-credit-goals-36788.html>
     > GEC JCM Database: <https://gec.jp/jcm/projects/>
 
+    ## JCM Type Classification: Conventional vs. Article 6.2
+
+    JCM projects and methodologies fall into two distinct types based on whether a Corresponding Adjustment (CA) is applied:
+
+    | Feature | **Conventional JCM** (従来型JCM) | **Article 6.2 JCM** (A6.2型JCM) |
+    |---------|----------------------------------|-----------------------------------|
+    | Era | Pre-March 2025 (most issued credits) | Post-March 2025 (new projects) |
+    | Corresponding Adjustment | ❌ Not applied | ✅ Applied by host country |
+    | Credit destination | Japan government's NDC contribution only | ITMO — tradeable under Article 6.2 |
+    | GX League eligible? | ❌ No — Japanese companies cannot use | ✅ Yes — GX League compliance |
+    | UNFCCC reporting | Standard JCM reporting | Article 6.2 transparency framework |
+    | Host country Authorization | Basic JCM registration | Formal A6.2 Authorization required |
+
+    **Key implication**: Even after Japan's March 2025 formal recognition of JCM as Article 6.2-compatible, existing projects do not automatically become A6.2 JCM. Each project requires the host country to apply a CA and issue formal Authorization under Article 6.2. Projects and methodologies designed before this framework were not built with CA in mind.
+
+    ### Project-Level Classification
+
+    | Project / Scope | Classification | Notes |
+    |----------------|---------------|-------|
+    | Indonesia — all 38 registered projects | **Conventional JCM** | All pre-March 2025; no CA applied |
+    | Philippines — tech projects (RE, EE) | **Conventional JCM** | Standard tech-transfer JCM |
+    | Philippines — PH_AM004 Paddy/AWD | **A6.2 JCM eligible** | Methodology approved Feb 2025; new projects under this methodology can be structured as A6.2 |
+    | Philippines — forest pipeline (post Ph.4) | **A6.2 JCM eligible** | Forest guidelines approved Nov 2025; new REDD+/A/R projects can be A6.2 |
+    | Laos — tech projects | **Conventional JCM** | All current projects pre-A6.2 |
+    | Cambodia — Prey Lang REDD+ (Dec 2023) | **Conventional JCM** 🟡 要確認 | Issued before formal A6.2 recognition; retroactive CA status unconfirmed |
+
+    ### Methodology-Level Classification
+
+    | Methodology / Guideline | Type | A6.2 Upgrade Path |
+    |------------------------|------|-------------------|
+    | Philippines Forest Guidelines (Nov 2025) | **A6.2 capable** | Designed post-A6.2 recognition; new projects can apply CA |
+    | PH_AM004 — Paddy AWD (Feb 2025) | **A6.2 capable** | New methodology; project developers can request A6.2 Authorization |
+    | Pre-2025 tech methodologies (RE, EE, waste) | **Conventional JCM** | Would require methodology revision + retroactive Authorization for upgrade |
+
+    > **GX League note**: The [GX League](https://gx-league.go.jp/) is Japan's voluntary carbon market for large emitters. To use JCM credits for GX League compliance, the credits must be Article 6.2 JCM (CA applied, ITMO status). Conventional JCM credits do not qualify. This distinction became commercially significant after the March 2025 A6.2 recognition.
+
     ## JCM NBS Progress Phase Framework
 
     For NBS (Nature-Based Solutions) credits to be transferred as ITMOs under JCM-A6.2, the following sequential phases are required:
@@ -116,6 +152,42 @@
     | 2030年目標 | 100 Mt CO₂e累計 |
     | 目標達成率 | 約0.7% ⚠️ |
     | A6.2認定 | ✅ 2025年3月 — JCM正式認定 |
+
+    ## JCM種別分類：従来型 vs. A6.2型
+
+    JCMのプロジェクト・方法論は、Corresponding Adjustment（CA）が適用されるかどうかで2種類に分かれる：
+
+    | 特徴 | **従来型JCM** (Conventional JCM) | **A6.2型JCM** (Article 6.2 JCM) |
+    |------|----------------------------------|-----------------------------------|
+    | 時期 | 2025年3月以前（発行済みクレジットの大半） | 2025年3月以降（新規プロジェクト） |
+    | CA適用 | ❌ なし | ✅ 相手国がNDCから控除 |
+    | クレジットの行き先 | 日本政府NDC達成のみ | ITMO — Article 6.2下で売買可能 |
+    | GX League対応 | ❌ 不可 — 日本企業はコンプライアンス用に使えない | ✅ 可 — GXリーグ対応 |
+    | UNFCCC報告 | 標準JCM報告 | Article 6.2透明性フレームワーク |
+    | 相手国Authorization | 基本的JCM登録 | A6.2 Authorization（正式書面）が必要 |
+
+    **重要ポイント**: 2025年3月の日本によるJCM正式A6.2認定後も、既存プロジェクトが自動的にA6.2型JCMになるわけではない。各プロジェクトは相手国がCAを適用し、Article 6.2に基づくAuthorizationを発行して初めてA6.2型となる。
+
+    ### プロジェクト別種別分類
+
+    | プロジェクト / 対象 | 種別 | 備考 |
+    |-------------------|------|------|
+    | インドネシア — 承認済み38件全て | **従来型JCM** | 全て2025年3月以前；CA未適用 |
+    | フィリピン — テクノロジー系（RE・EE） | **従来型JCM** | 標準的な技術移転型JCM |
+    | フィリピン — PH_AM004 水田/AWD | **A6.2型対応可** | 2025年2月方法論承認；新規プロジェクトはA6.2で組成可能 |
+    | フィリピン — 森林パイプライン（Ph.4以降） | **A6.2型対応可** | 2025年11月森林GL承認；新規REDD+/A/RはA6.2化可能 |
+    | ラオス — テクノロジー系 | **従来型JCM** | 現状プロジェクトは全て従来型 |
+    | カンボジア — Prey Lang REDD+（2023年12月） | **従来型JCM** 🟡 要確認 | A6.2正式認定前の発行；遡及的CA適用の可否未確認 |
+
+    ### 方法論・ガイドライン別種別分類
+
+    | 方法論 / ガイドライン | 種別 | A6.2化の道筋 |
+    |--------------------|------|-------------|
+    | フィリピン森林ガイドライン（2025年11月） | **A6.2型対応可** | A6.2認定後に設計；新規プロジェクトでCA申請可能 |
+    | PH_AM004 — 水田AWD（2025年2月） | **A6.2型対応可** | 新規方法論；プロジェクト開発者がA6.2 Authorization申請可能 |
+    | 2025年以前のテクノロジー系方法論（RE・EE・廃棄物） | **従来型JCM** | A6.2化には方法論改訂＋遡及的Authorization取得が必要 |
+
+    > **GXリーグ注記**: [GXリーグ](https://gx-league.go.jp/)は大手排出企業向けの日本の自主的炭素市場。JCMクレジットをGXリーグのコンプライアンスに使うには、CA適用済み・ITMOステータスの**A6.2型JCM**である必要がある。従来型JCMクレジットは対象外。この区別は2025年3月のA6.2認定以降、実務上重要になっている。
 
     ## JCM NBS制度進捗フェーズ定義
 
