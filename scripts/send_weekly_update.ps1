@@ -1,15 +1,33 @@
-# Article 6.2 Wiki — Weekly Update Email Sender
-# Reads from outputs/weekly_update.txt and sends to shimonhama@gmail.com via Gmail SMTP
-# Requires: $env:GMAIL_APP_PASSWORD to be set (Gmail App Password for shimonhama@gmail.com)
+# Article 6.2 Wiki - Weekly Update Email Sender
+# To: shimonhama@gmail.com
+# Required environment variables:
+#   SENDER_EMAIL    - sender email address
+#   SENDER_PASSWORD - sender SMTP password (Gmail App Password)
+#   SMTP_SERVER     - optional, default: smtp.gmail.com
+#   SMTP_PORT       - optional, default: 587
 
 param(
-    [string]$UpdateFile = "C:\Users\freef\OneDrive\デスクトップ\claude\article6-wiki\outputs\weekly_update.txt"
+    [string]$UpdateFile = ""
 )
+if (-not $UpdateFile) {
+    $UpdateFile = Join-Path $PSScriptRoot "..\outputs\weekly_update.txt"
+}
 
 $To = "shimonhama@gmail.com"
-$From = "shimonhama@gmail.com"
-$Subject = "Article 6.2 Wiki — Weekly Update $(Get-Date -Format 'yyyy-MM-dd')"
+$From = $env:SENDER_EMAIL
+$Password = $env:SENDER_PASSWORD
+$SmtpServer = if ($env:SMTP_SERVER) { $env:SMTP_SERVER } else { "smtp.gmail.com" }
+$SmtpPort = if ($env:SMTP_PORT) { [int]$env:SMTP_PORT } else { 587 }
+$Subject = "Article 6.2 Wiki - Weekly Update " + (Get-Date -Format "yyyy-MM-dd")
 
+if (-not $From) {
+    Write-Error "Environment variable SENDER_EMAIL is not set"
+    exit 1
+}
+if (-not $Password) {
+    Write-Error "Environment variable SENDER_PASSWORD is not set"
+    exit 1
+}
 if (-not (Test-Path $UpdateFile)) {
     Write-Error "Update file not found: $UpdateFile"
     exit 1
@@ -17,25 +35,19 @@ if (-not (Test-Path $UpdateFile)) {
 
 $Body = Get-Content $UpdateFile -Raw -Encoding UTF8
 
-$AppPassword = $env:GMAIL_APP_PASSWORD
-if (-not $AppPassword) {
-    Write-Error "GMAIL_APP_PASSWORD environment variable not set"
-    exit 1
-}
-
-$SecurePassword = ConvertTo-SecureString $AppPassword -AsPlainText -Force
+$SecurePassword = ConvertTo-SecureString $Password -AsPlainText -Force
 $Credential = New-Object System.Management.Automation.PSCredential($From, $SecurePassword)
 
 $SmtpParams = @{
-    SmtpServer = "smtp.gmail.com"
-    Port = 587
-    UseSsl = $true
+    SmtpServer = $SmtpServer
+    Port       = $SmtpPort
+    UseSsl     = $true
     Credential = $Credential
-    From = $From
-    To = $To
-    Subject = $Subject
-    Body = $Body
-    Encoding = [System.Text.Encoding]::UTF8
+    From       = $From
+    To         = $To
+    Subject    = $Subject
+    Body       = $Body
+    Encoding   = [System.Text.Encoding]::UTF8
 }
 
 try {
