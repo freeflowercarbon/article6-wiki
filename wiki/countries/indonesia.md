@@ -13,7 +13,7 @@
     | JCM (Japan) | 🤝 Since 2013; 50+ projects[^idjcm] |
     | Singapore IA | 🔄 Under negotiation (post-Perpres 110/2025)[^idsg] |
     | CA Framework | 🟡 Under development; Perpres 110/2025 provides legal basis[^idperpres] |
-    | Key Ministry | KLHK (Ministry of Environment & Forestry)[^idklhk] |
+    | Key Ministry | KLHK (Ministry of Forestry & Environment) + KLH (Ministry of Environment — climate)[^idklhk] |
 
     [^idndc]: Indonesia Enhanced NDC (2022): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=IDN>
     [^idxcarbon]: IDXCarbon launched August 2023; Indonesia Stock Exchange (IDX): <https://idxcarbon.co.id/>
@@ -21,11 +21,11 @@
     [^idjcm]: JCM Indonesia projects: GEC <https://gec.jp/jcm/projects/>; MOEJ portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
     [^idsg]: Singapore-Indonesia IA negotiations: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>; Carbon Pulse coverage (post-Perpres 110)
     [^idperpres]: Presidential Regulation Perpres 110/2025 (October 2025) permits international carbon credit exports: BPKRI <https://peraturan.bpk.go.id/>
-    [^idklhk]: KLHK: <https://www.menlhk.go.id/>
+    [^idklhk]: **Perpres 139/2024** split the former single KLHK into two ministries: **KLHK** (Kementerian Lingkungan Hidup dan Kehutanan — Forestry & Environment) retains forestry/REDD+; **KLH** (Kementerian Lingkungan Hidup — Environment & Climate) handles climate policy and carbon markets. A6.2 coordination now spans both ministries: <https://www.menlhk.go.id/>
 
     ## NDC Achievement Status
 
-    > **2nd NDC submitted October 2025**[^idndcnew]: Indonesia raised the unconditional target to 32% and conditional to 43% vs. BAU by 2030. However, Climate Action Tracker rates Indonesia's trajectory as **"Highly Insufficient"** vs. 1.5°C.[^idcat] Coal plant phase-out plans remain weak; deforestation resumed in 2024 after a brief slowdown. The 2nd NDC includes a 2050 net-zero target but the pathway is contested.[^idcat]
+    > **2nd NDC submitted October 2025**[^idndcnew]: Indonesia raised the unconditional target to 32% and conditional to 43% vs. BAU by 2030. Climate Action Tracker rates the 2030 trajectory as **"Highly Insufficient"** vs. 1.5°C.[^idcat] **2035 NDC assessment** (May 2026): conditional target rated **"Highly Insufficient"**; unconditional rated **"Critically Insufficient"**.[^idcat2035] Coal plant phase-out plans remain weak; deforestation resumed in 2024. The 2nd NDC includes a 2050 net-zero target but the pathway is contested.[^idcat]
 
     | Metric | Assessment |
     |--------|-----------|
@@ -36,7 +36,8 @@
     | Export motivation | ⚠️ Caution — NDC "Highly Insufficient"; exports should only come from genuine additional surplus beyond NDC compliance |
 
     [^idndcnew]: Indonesia 2nd NDC (October 2025): 32% unconditional / 43% conditional vs. BAU by 2030, net-zero 2050 target: UNFCCC NDC Registry; Carbon Pulse <https://carbon-pulse.com/>
-    [^idcat]: Indonesia rated "Highly Insufficient" vs. 1.5°C: Climate Action Tracker <https://climateactiontracker.org/countries/indonesia/>
+    [^idcat]: Indonesia 2030 trajectory rated "Highly Insufficient" vs. 1.5°C: Climate Action Tracker <https://climateactiontracker.org/countries/indonesia/>
+    [^idcat2035]: Indonesia 2035 NDC assessment (May 2026): conditional = "Highly Insufficient"; unconditional = "Critically Insufficient": Climate Action Tracker <https://climateactiontracker.org/countries/indonesia/>
 
     ## Active Article 6.2 Projects
 
@@ -100,13 +101,13 @@
     |------|------|
     | NDC目標 | 2030年にBAU比29%削減（無条件）/ 41%（条件付き） |
     | 国内炭素価格制度 | IDXCarbon（2023年〜）、PTBAE-PU（ETS試行中） |
-    | 主管省庁 | KLHK（環境林業省）、Bappenas |
+    | 主管省庁 | **KLHK**（林業環境省）＋**KLH**（環境省・気候担当）[^idklhk]、Bappenas |
     | JCM状況 | 日本（2013年）✅ 50件以上 |
     | IA状況 | シンガポール 🔄 交渉中 |
 
     ## NDC達成見込み・グローバルストックテイク
 
-    > **第2次NDC提出（2025年10月）**[^idndcnew]: 無条件目標をBAU比32%、条件付き目標を43%に引き上げ（2030年）。2050年ネットゼロ目標を追加。ただしClimate Action Trackerは1.5°C対比で**「Highly Insufficient（大幅不足）」**と評価[^idcat]。石炭フェーズアウトが遅く、2024年の森林減少が再加速している点が懸念。
+    > **第2次NDC提出（2025年10月）**[^idndcnew]: 無条件目標をBAU比32%、条件付き目標を43%に引き上げ（2030年）。2050年ネットゼロ目標を追加。Climate Action Trackerは2030年軌跡を**「Highly Insufficient（大幅不足）」**と評価[^idcat]。**2035年NDC評価（2026年5月）**: 条件付き目標 = **「Highly Insufficient」**、無条件目標 = **「Critically Insufficient（危機的不足）」**[^idcat2035]。石炭フェーズアウトが遅く、2024年の森林減少が再加速している点が懸念。
 
     | 指標 | 評価 |
     |------|------|

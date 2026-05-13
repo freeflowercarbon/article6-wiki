@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-12  
+    > Last updated: 2026-05-13  
     > Sources: [ICVCM](https://icvcm.org/), [Verra](https://verra.org/), [Gold Standard](https://www.goldstandard.org/), [NEA Eligibility List](https://www.carbonmarkets-cooperation.gov.sg/environmental-integrity/eligibility-criteria/)
 
     ## What is the CCP Label?
@@ -44,6 +44,19 @@
     !!! info "VM0051 (Verra AWD)"
         Verra's VM0051 AWD methodology is **under ICVCM assessment** as of 2026. CCP approval expected but not yet confirmed. JCM PH_AM004 (Philippines, Feb 2025) is a JCM-specific methodology and is not subject to the ICVCM CCP process.
 
+    ### ✅ Blue Carbon / Mangrove Restoration
+
+    | Methodology | Standard | CCP Approval | Activity Type | Key Condition |
+    |------------|---------|-------------|--------------|---------------|
+    | **Isometric Mangrove Restoration Protocol v1.0** | Isometric | **May 11, 2026** | Mangrove restoration / blue carbon | First CCP-approved blue carbon methodology — major milestone |
+    | **VCS VMR0017** (Renewable Energy) | Verra VCS | **May 11, 2026** | Renewable energy | Same CCP Assessment Board decision |
+
+    !!! info "GCC (Gold Carbon Credit)"
+        GCC was rated **CCP-Eligible** (not CCP-Approved) in the May 11, 2026 ICVCM Assessment Board decisions. CCP-Eligible is a lower tier — credits do not carry the CCP label but meet a qualifying threshold.
+
+    !!! warning "VM0033 (Tidal Wetland & Seagrass) — still not approved"
+        Verra's VM0033 Blue Carbon methodology is NOT yet CCP-approved. The Isometric Mangrove Restoration Protocol v1.0 is a separate, Isometric-standard methodology. VM0033 and GS Blue Carbon remain under evaluation.
+
     ### ✅ Afforestation / Reforestation
 
     | Methodology | Standard | CCP Approval | Notes |
@@ -82,7 +95,7 @@
     | VM0048 + APD module (Avoided Planned Deforestation) | Under development | 2026–2027? | APD module completion + ICVCM assessment |
     | VM0051 (Verra AWD — rice paddy) | Under ICVCM assessment | 2026? | ICVCM assessment completion |
     | Tropical Peatlands Methodology (Verra, new) | In development | 2027+ | New methodology needed; VM0009 permanently excluded |
-    | Blue Carbon (mangroves, seagrass) | Standards in development | 2027+ | Verra VM0033, Gold Standard Blue Carbon — ICVCM assessment pending |
+    | Blue Carbon — VM0033 (tidal wetland/seagrass) | Under ICVCM assessment | 2027+ | VM0033 not yet approved; Isometric Mangrove Protocol v1.0 CCP-Approved May 11, 2026 (separate standard) |
     | Soil Carbon (Boomitra, etc.) | Some standards assessed | Partial | Platform/methodology specific; Singapore already contracted Boomitra |
 
     ---
@@ -92,7 +105,7 @@
     ### Singapore (ICC Framework)
 
     - **CCP requirement**: CCP-approved methodology required for ICC eligibility (NEA Eligibility List)
-    - **Current eligible NBS**: VM0048+VMD0055 (AUD), ART TREES, GS AWD v1.0, VM0047
+    - **Current eligible NBS**: VM0048+VMD0055 (AUD), ART TREES, GS AWD v1.0, VM0047, **Isometric Mangrove Restoration Protocol v1.0** (approved May 11, 2026 — pending NEA Eligibility List update)
     - **HFLD exclusion**: High Forest Low Deforestation countries excluded regardless of methodology
     - → See [Singapore A6 System Overview](../singapore_ia_system.md) for full ICC criteria
 
@@ -161,7 +174,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-05-12
+    > 最終更新: 2026-05-13
 
     ## CCPラベルとは
 
@@ -202,6 +215,19 @@
     !!! info "VM0051（Verra AWD）"
         VerraのVM0051 AWD方法論は2026年時点でICVCM評価中。CCP承認は期待されるが未確定。JCM PH_AM004（フィリピン、2025年2月）はJCM独自方法論でありICVCM CCPプロセス対象外。
 
+    ### ✅ ブルーカーボン / マングローブ回復
+
+    | 方法論 | スタンダード | CCP承認時期 | 活動タイプ | 主要条件 |
+    |--------|------------|-----------|----------|---------|
+    | **Isometric Mangrove Restoration Protocol v1.0** | Isometric | **2026年5月11日** | マングローブ回復・ブルーカーボン | 初のCCP承認ブルーカーボン方法論 — 重要マイルストーン |
+    | **VCS VMR0017**（再生可能エネルギー） | Verra VCS | **2026年5月11日** | 再生可能エネルギー | 同評価委員会決定 |
+
+    !!! info "GCC（Gold Carbon Credit）"
+        GCCは2026年5月11日ICVCM評価委員会で**CCP-Eligible**（CCP承認ではなく適格）と評定。CCPラベルは付与されないが一定品質基準を満たす下位ティア。
+
+    !!! warning "VM0033（潮汐湿地・海草）は未承認"
+        VerraのVM0033ブルーカーボン方法論はCCP未承認。Isometric Mangrove Protocol v1.0は別スタンダードの別方法論。VM0033とGS Blue Carbonは引き続き評価中。
+
     ### ✅ 植林・再植林
 
     | 方法論 | スタンダード | CCP承認 | 備考 |
@@ -238,7 +264,7 @@
     | VM0048 + APDモジュール | 開発中 | 2026〜2027年？ | APDモジュール完成＋ICVCM評価 |
     | VM0051（Verra AWD） | ICVCM評価中 | 2026年？ | 評価完了 |
     | 熱帯泥炭地方法論（Verra新規） | 開発中 | 2027年以降 | 新規方法論必要；VM0009永久除外 |
-    | ブルーカーボン（マングローブ等） | 標準化進行中 | 2027年以降 | VM0033等のICVCM評価待ち |
+    | ブルーカーボン — VM0033（潮汐湿地/海草） | ICVCM評価中 | 2027年以降 | VM0033未承認；Isometric Mangrove Protocol v1.0は2026年5月11日CCP承認（別スタンダード） |
     | 土壌炭素（Boomitra等） | 一部評価中 | — | プラットフォーム別；シンガポールはBoomitra契約済み |
 
     ---
@@ -248,7 +274,7 @@
     ### シンガポール（ICCフレームワーク）
 
     - CCP承認済み方法論がICC適格性の必要条件（NEA Eligibility List）
-    - 現在適格なNBS：VM0048+VMD0055（AUD）、ART TREES、GS AWD v1.0、VM0047
+    - 現在適格なNBS：VM0048+VMD0055（AUD）、ART TREES、GS AWD v1.0、VM0047、**Isometric Mangrove Restoration Protocol v1.0**（2026年5月11日承認 — NEA Eligibility List更新待ち）
     - HFLD国（高森林・低減少率）は方法論に関わらず除外
     - → [シンガポールA6制度詳細](../singapore_ia_system.md)参照
 

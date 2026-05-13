@@ -9,7 +9,7 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 32% conditional reduction vs. BAU by 2030[^kendc] |
-    | Carbon System | Kenya Carbon Markets Policy (2023)[^kecmp]; Carbon Credits Act (in preparation) |
+    | Carbon System | Kenya Carbon Markets Policy (2023)[^kecmp]; **National Carbon Registry launched 2026**[^kencr]; Carbon Credits Act (in preparation) |
     | Key Ministry | Ministry of Environment and Climate Change[^kemoe]; EPRA |
     | JCM (Japan) | ✅ Since 2013[^kejcm] |
     | Sweden | 🤝 Bilateral agreement active[^keswe] |
@@ -19,6 +19,7 @@
 
     [^kendc]: Kenya NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KEN>
     [^kecmp]: Kenya Carbon Markets Policy (2023): Kenya Ministry of Environment <https://environment.go.ke/>; Carbon Markets Policy framework
+    [^kencr]: Kenya National Carbon Registry formally launched (2026) — enables formal ITMO tracking and A6.2 authorization; significant milestone for host country readiness: Ministry of Environment <https://environment.go.ke/>; secondary sources (Carbon Pulse)
     [^kemoe]: Kenya Ministry of Environment and Climate Change: <https://environment.go.ke/>
     [^kejcm]: JCM Kenya: GEC <https://gec.jp/jcm/projects/>; signed 2013
     [^keswe]: Sweden-Kenya bilateral agreement: Energimyndigheten <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
@@ -87,7 +88,7 @@
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年にBAU比32%削減（条件付き） |
-    | 国内炭素制度 | Carbon Markets Policy（2023年）、Carbon Credits Act 準備中 |
+    | 国内炭素制度 | Carbon Markets Policy（2023年）、**National Carbon Registry 正式稼働（2026年）**[^kencr]、Carbon Credits Act 準備中 |
     | 主管省庁 | 環境気候変動省、Energy and Petroleum Regulatory Authority |
     | JCM状況 | ✅ 日本（2013年） |
     | スウェーデン | ✅ 二国間協定稼働中 |

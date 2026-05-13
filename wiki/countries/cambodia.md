@@ -4,21 +4,21 @@
 
     ## Overview
 
-    Cambodia signed Implementation Agreements with both **Japan (JCM, 2022)** and **Singapore (2024)**. It holds significant REDD+ potential in the Cardamom Mountains and Mekong floodplain forests. The **Prey Lang REDD+ project** (Dec 2023, ~600,000 tCO₂e/yr) became the prototype NBS-JCM — the first JCM project without equipment export. Cambodia's legal framework for carbon credit authorization was established under Sub-Decree 159 (2023), making it one of the more legally prepared Southeast Asian hosts.
+    Cambodia signed an Implementation Agreement with **Japan (JCM, 2022)** and has an **MOU with Singapore** (full IA negotiations ongoing). It holds significant REDD+ potential in the Cardamom Mountains and Mekong floodplain forests. The **Prey Lang REDD+ project** (Dec 2023, ~600,000 tCO₂e/yr) became the prototype NBS-JCM — the first JCM project without equipment export. Cambodia's legal framework for carbon credit authorization was established under Sub-Decree 159 (2023), making it one of the more legally prepared Southeast Asian hosts.
 
     | Item | Detail |
     |------|--------|
     | NDC Target | 42% conditional / ~27% unconditional reduction vs. BAU by 2030[^khndc] |
     | Carbon System | Sub-Decree 159/2023 (carbon credit authorization framework)[^khsd159]; no ETS |
     | JCM (Japan) | ✅ Since 2022; Prey Lang NBS prototype authorized Dec 2023[^khjcm] |
-    | Singapore IA | ✅ Signed 2024[^khsg] |
+    | Singapore IA | 📋 MOU only — full IA negotiations ongoing[^khsg] |
     | CA Framework | 🟡 Established under Sub-Decree 159[^khsd159] |
     | Key Ministry | MoE (Ministry of Environment)[^khmoe] |
 
     [^khndc]: Cambodia NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KHM>
     [^khsd159]: Sub-Decree No.159 (October 2023) — carbon credit authorization framework: Cambodia MEF <https://www.mef.gov.kh/>
     [^khjcm]: JCM Cambodia signed 2022; Prey Lang NBS-JCM authorized Dec 2023 (~600,000 tCO₂e/yr): GEC <https://gec.jp/jcm/projects/>
-    [^khsg]: Singapore-Cambodia Implementation Agreement (2024): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^khsg]: Singapore-Cambodia MOU on Article 6.2 cooperation — full IA negotiations ongoing as of May 2026 (Cambodia is NOT listed as a signed IA country on NCCS international collaboration page): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^khmoe]: Cambodia Ministry of Environment: <https://www.moe.gov.kh/>
 
     ## NDC Achievement Status
@@ -41,7 +41,7 @@
     |---------|---------|--------|--------|-------|
     | **Prey Lang REDD+ NBS-JCM** | Japan JCM | ✅ **A6.2 Authorized Dec 2023** | ~600,000 tCO₂e/yr | Prototype NBS-JCM (no equipment export) |
     | JCM RE / energy efficiency | Japan | 🟡 First projects registering | — | JCM signed 2022 |
-    | NBS (Cardamom REDD+) | Singapore | 🟡 Development stage | TBD | Singapore IA 2024 |
+    | NBS (Cardamom REDD+) | Singapore | 🟡 Development stage | TBD | Pending full Singapore IA (MOU only) |
     | Clean energy / clean cooking | Singapore | 🟡 Early stage | TBD | — |
 
     > JCM projects: <https://gec.jp/jcm/projects/>
@@ -84,7 +84,7 @@
     | 国内炭素制度 | Sub-Decree 159/2023；ETS未導入 |
     | 主管省庁 | 環境省（MoE）、農林漁業省（MAFF） |
     | JCM状況 | 日本（2022年）✅ 初期プロジェクト登録中 |
-    | シンガポールIA | ✅ 2024年署名 |
+    | シンガポールIA | 📋 MOU署名のみ — IA交渉継続中（2026年5月時点） |
     | CA体制 | 🟡 Sub-Decree 159に基づき整備中 |
 
     ## NDC達成見込み

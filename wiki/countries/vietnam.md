@@ -13,7 +13,7 @@
     | JCM (Japan) | ✅ Since 2013; 35+ projects[^vnjcm] |
     | Singapore IA | ✅ Signed Sep 2025[^vnsg] |
     | Switzerland | 🔄 Under negotiation[^vnch] |
-    | CA Framework | 🟡 Being built — Decree 06/2022/ND-CP provides legal basis[^vndec6] |
+    | CA Framework | 🟡 **A6.2 authorization decree effective May 19, 2026**[^vndec2026] |
     | Key Ministry | MONRE (Ministry of Natural Resources & Environment)[^vnmonre] |
 
     [^vnndc]: Vietnam NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=VNM>
@@ -23,6 +23,7 @@
     [^vnsg]: Singapore-Vietnam IA signed September 2025: Singapore MSE/carbonmarkets-cooperation.gov.sg <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^vnch]: Switzerland-Vietnam Article 6.2 bilateral negotiation: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     [^vndec6]: Vietnam Decree 06/2022/ND-CP (carbon market legal framework): <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
+    [^vndec2026]: Vietnam A6.2 authorization decree effective **May 19, 2026** — establishes formal legal basis for ITMO authorizations and corresponding adjustments under the Singapore IA (Sep 2025); enables first formal A6.2 credit transfers: MONRE <https://www.monre.gov.vn/>; secondary sources (Carbon Pulse)
     [^vnmonre]: Vietnam MONRE: <https://www.monre.gov.vn/>
 
     ## NDC Achievement Status
@@ -94,7 +95,7 @@
     | 主管省庁 | MONRE（天然資源環境省） |
     | JCM状況 | 日本（2013年）✅ 35件以上 |
     | IA状況 | シンガポール ✅ 2025年9月署名 |
-    | CA体制 | 🟡 MONRE主導で整備中 |
+    | CA体制 | 🟡 **A6.2授権政令が2026年5月19日施行**[^vndec2026] |
 
     ## NDC達成見込み
 

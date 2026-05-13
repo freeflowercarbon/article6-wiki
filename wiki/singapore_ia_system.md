@@ -1,7 +1,7 @@
 # シンガポール Article 6.2 調達・IA制度 詳細
 # Singapore Article 6.2 Procurement & IA System — Full Reference
 
-> 最終更新 / Last updated: 2026-05-10  
+> 最終更新 / Last updated: 2026-05-13  
 > 主要ソース: [carbonmarkets-cooperation.gov.sg](https://www.carbonmarkets-cooperation.gov.sg/)、[NCCS](https://www.nccs.gov.sg/)、[MTI](https://www.mti.gov.sg/)、[IETA Business Brief Jul.2025](https://www.ieta.org/uploads/wp-content/Resources/Busines-briefs/2025/IETA_Business_Brief-Singapore-final.pdf)、[Clifford Chance Aug.2025](https://www.cliffordchance.com/content/dam/cliffordchance/briefings/2025/08/singapore-carbon-initiatives-the-future-of-singapores-voluntary-carbon-markets.pdf)
 
 ---
@@ -34,7 +34,7 @@
 ## 2. Implementation Agreement（IA）ネットワーク
 ## 2. Implementation Agreement Network
 
-### 締結済みIA一覧（2026年5月時点：10カ国）
+### 締結済みIA一覧（2026年5月時点：11カ国）
 
 | 相手国 | 署名時期 | 主要NBS種別 | 東南アジア内？ |
 |--------|---------|-----------|--------------|
@@ -42,21 +42,23 @@
 | ガーナ | 2023年7月 | 再エネ・廃棄物 | — |
 | ルワンダ | 2023年10月 | 再エネ・農業 | — |
 | ブータン | 2024年 | 水力・持続可能な森林 | — |
-| カンボジア | 2024年 | REDD+・再エネ | ✅ ASEAN |
 | ペルー | **2025年4月1日** | 林業（REDD+）・再エネ | — |
 | チリ | 2024〜2025年 | 林業等 | — |
 | パラグアイ | **2025年5月** | NBS | — |
-| タイ | 2025年 | TBD | ✅ ASEAN |
+| タイ | 2025年 | TBD | ✅ ASEAN第1号 |
 | モンゴル | 2025年 | TBD | — |
-| **ベトナム** | **2025年（最新）** | TBD | ✅ **ASEAN第2号** |
+| ベトナム | **2025年9月** | TBD | ✅ ASEAN第2号 |
+| **フィリピン** | **2026年4月30日（最新）** | 林業（REDD+）・農業 | ✅ **ASEAN第4号** |
 
-ソース: [NCCS International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/)、[MTI Paraguay IA](https://www.mti.gov.sg/Newsroom/Press-Releases/2025/05/Singapore-signs-Implementation-Agreement-on-carbon-credits-collaboration-with-Paraguay)、[Saxon Renewables Vietnam](https://saxonrenewables.com/news/singapore-signs-implementation-agreement-on-carbon-credits-collaboration-with-vietnam-second-asean-partner/)
+> **注記**: カンボジアはMOU締結のみ。IA（Implementation Agreement）は未締結（2026年5月時点）。
 
-**交渉中（このWikiの対象国）**:
+ソース: [NCCS International Collaboration](https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/)、[MTI Paraguay IA](https://www.mti.gov.sg/Newsroom/Press-Releases/2025/05/Singapore-signs-Implementation-Agreement-on-carbon-credits-collaboration-with-Paraguay)、[Saxon Renewables Vietnam](https://saxonrenewables.com/news/singapore-signs-implementation-agreement-on-carbon-credits-collaboration-with-vietnam-second-asean-partner/)；Philippines IA: NCCS（2026年4月30日、secondary source）
+
+**MOU・交渉中（このWikiの対象国）**:
 | 国 | ステータス |
 |---|---|
 | 🇮🇩 インドネシア | 🔄 交渉継続中 |
-| 🇵🇭 フィリピン | 🟡 MOU段階 |
+| 🇰🇭 カンボジア | 🟡 MOU締結（IA交渉継続中） |
 | 🇱🇦 ラオス | ⚪ 未着手 |
 
 ### IAの標準的な構造（共通要素）
@@ -145,7 +147,7 @@
 | 対象プロジェクト | IA締結済み国のみ | — |
 | 結果 | 未公表（2025〜2026年落札予定） | — |
 
-> 📌 **テクノロジー系追加の意味**: JCMプロジェクト（省エネ・再エネ）も理論上対象になり得る。ただし対象はIA締結国のみのため、東南アジアはカンボジア・タイ・ベトナムのみが現時点で対象。インドネシア・フィリピンのIA締結が鍵。
+> 📌 **テクノロジー系追加の意味**: JCMプロジェクト（省エネ・再エネ）も理論上対象になり得る。ただし対象はIA締結国のみのため、東南アジアはタイ・ベトナム・フィリピン（2026年4月30日IA署名）が現時点で対象。インドネシアのIA締結が鍵。
 
 ---
 
@@ -187,9 +189,12 @@
 | **CA適用プレミアム** | +$5〜$15/t程度（推定） | （要検証：一次ソースなし） |
 
 ### 東南アジア視点での課題
-- 現時点でIA締結済みのASEAN国：カンボジア・タイ・ベトナム（3カ国のみ）
-- インドネシア・フィリピン・ラオスはIA未締結 → RFP対象外
+- 現時点でIA締結済みのASEAN国：**タイ・ベトナム・フィリピン（3カ国）**[^ph_ia_note]（フィリピン2026年4月30日署名）
+- カンボジアはMOU段階（IA未締結）
+- インドネシア・ラオスはIA未締結 → RFP対象外
 - **インドネシアとのIA締結が実現すれば市場が大きく変わる**
+
+[^ph_ia_note]: フィリピンIA署名（2026年4月30日）によりASEAN IA締結国は3カ国（タイ・ベトナム・フィリピン）。カンボジアはMOU締結のみでIA未締結。
 
 ---
 

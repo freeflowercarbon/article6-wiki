@@ -1,6 +1,6 @@
 # NBS × Article 6.2 Eligibility Guide | NBS × Article 6.2 適格性ガイド
 
-*最終更新: 2026-05-11*
+*最終更新: 2026-05-13*
 
 === "🇬🇧 English"
 
@@ -39,7 +39,8 @@
     | **IFM (US only)** | ACR IFM Non-Federal US v2.0 | ✅ Approved[^ccp_acrifm] | N/A | N/A | N/A | N/A |
     | **Peatland protection** | VM0007 / VM0009 (legacy) | ❌ Permanently excluded[^peat_excl] | ❌ | ❌ | ❌ | ❌ |
     | **Peatland (future)** | Verra Tropical Peatlands (TBD) | 🔵 Under development[^peat_new] | 🔵 | 🔵 | 🔵 | 🔵 |
-    | **Blue Carbon** | VM0033 Tidal Wetland & Seagrass | ❌ Not approved[^bc_status] | ❌ | 🟡 | ❌ | 🟡 |
+    | **Blue Carbon (mangrove — Isometric)** | Isometric Mangrove Restoration Protocol v1.0 | ✅ CCP-Approved May 11, 2026[^bc_isometric] | 🟡 (pending NEA update) | ✅ | ❌ | 🟡 |
+    | **Blue Carbon (VM0033 tidal/seagrass)** | VM0033 Tidal Wetland & Seagrass | ❌ Not approved[^bc_status] | ❌ | 🟡 | ❌ | 🟡 |
     | **Grassland / Soil Carbon** | Various (ACR, Gold Standard) | ❌ Most not approved | ❌ | 🟡 | ❌ | 🟡 |
     | **Rice Methane / AWD** | *See Section 6 below* | ✅ / 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
 
@@ -244,7 +245,8 @@
     [^ccp_acrifm]: ACR IFM on Non-Federal US Forestlands v2.0 CCP-approved February 2026 (US forest projects only): <https://icvcm.org/integrity-council-announces-assessment-decisions-on-reforestation-improved-forest-management-ifm-and-rice-cultivation-methodologies/>
     [^peat_excl]: VM0007, VM0009, VM0015, VM0037 permanently excluded from ICVCM CCP assessment (announced November 2024): <https://icvcm.org/integrity-council-approves-three-redd-methodologies/>
     [^peat_new]: Verra developing separate Tropical Peatlands Methodology; no release timeline confirmed: <https://verra.org/methodologies-main/vm0048-vmd0055-faqs/>
-    [^bc_status]: VM0033 not CCP-approved; only CCP path for mangrove blue carbon is via VM0047 ARR: <https://icvcm.org/assessment-status/>
+    [^bc_isometric]: Isometric Mangrove Restoration Protocol v1.0 CCP-Approved **May 11, 2026** — first CCP-approved blue carbon methodology: ICVCM <https://icvcm.org/assessment-reports/>
+    [^bc_status]: VM0033 Tidal Wetland & Seagrass not CCP-approved as of May 2026; Isometric Mangrove Protocol v1.0 is a separate standard (CCP-Approved May 11, 2026): <https://icvcm.org/assessment-status/>
     [^sg_terms]: Singapore IA terms: 2% cancellation at first issuance, 5% financial value to host country adaptation; signed with Peru April 1, 2025: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^ccp_rice_gs]: Gold Standard "GS Methodology for Methane Emission Reduction by Adjusted Water Management Practice in Rice Cultivation v1.0" CCP-approved February 2026: <https://icvcm.org/knowledge-resources/ccp-approved-methodologies/rice-cultivation-methane-avoidance/>
     [^vm0051]: Verra VM0051 (Improved Management in Rice Production Systems v1.0) under ICVCM assessment as of May 2026: <https://icvcm.org/assessment-status/>
@@ -287,7 +289,8 @@
     | **IFM（米国限定）** | ACR IFM Non-Federal US v2.0 | ✅ 承認済み[^ccp_acrifm] | N/A | N/A | N/A | N/A |
     | **泥炭地保護** | VM0007 / VM0009（旧来） | ❌ 永続除外[^peat_excl] | ❌ | ❌ | ❌ | ❌ |
     | **泥炭地（将来）** | Verra熱帯泥炭地方法論（開発中） | 🔵 開発中[^peat_new] | 🔵 | 🔵 | 🔵 | 🔵 |
-    | **ブルーカーボン** | VM0033 潮汐湿地・海草 | ❌ 未承認[^bc_status] | ❌ | 🟡 | ❌ | 🟡 |
+    | **ブルーカーボン（マングローブ — Isometric）** | Isometric Mangrove Restoration Protocol v1.0 | ✅ CCP承認 2026年5月11日[^bc_isometric] | 🟡（NEA更新待ち） | ✅ | ❌ | 🟡 |
+    | **ブルーカーボン（VM0033 潮汐/海草）** | VM0033 潮汐湿地・海草 | ❌ 未承認[^bc_status] | ❌ | 🟡 | ❌ | 🟡 |
     | **草地・農業土壌** | 各種（ACR、Gold Standard） | ❌ 多数未承認 | ❌ | 🟡 | ❌ | 🟡 |
     | **Rice Methane / AWD** | *セクション6参照* | ✅ / 🟡 | 🟡 | 🟡 | ✅ | 🟡 |
 

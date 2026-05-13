@@ -8,7 +8,7 @@
 
     | Item | Detail |
     |------|--------|
-    | Partner countries | 29+ (as of 2025) |
+    | Partner countries | **32** (as of April 2026; India MoC signed Aug 29, 2025[^jcmindia]) |
     | Registered projects | 83 (264 with funding approved) |
     | Credits issued | ~0.7 Mt CO₂e cumulative (as of June 2024) |
     | 2030 target | 100 Mt CO₂e cumulative |
@@ -17,6 +17,8 @@
 
     > Source: QC Intel JCM Analysis: <https://www.qcintel.com/carbon/article/feature-japan-looks-to-upscale-the-jcm-to-meet-enhanced-carbon-credit-goals-36788.html>
     > GEC JCM Database: <https://gec.jp/jcm/projects/>
+
+    [^jcmindia]: India-Japan JCM Memorandum of Cooperation signed **August 29, 2025** — India is JCM's 30th partner; as of April 2026, total partners reached 32: GEC <https://gec.jp/jcm/>; secondary sources (Carbon Pulse)
 
     ## JCM Type Classification: Conventional vs. Article 6.2
 
@@ -146,7 +148,7 @@
 
     | 項目 | 内容 |
     |------|------|
-    | 締結国数 | 29カ国以上（2025年時点） |
+    | 締結国数 | **32カ国**（2026年4月時点；インドMoC 2025年8月29日署名[^jcmindia]） |
     | 登録済みプロジェクト数 | 83件（資金補助選定済み264件） |
     | 累計発行量 | 約0.7 Mt CO₂e（2024年6月時点） |
     | 2030年目標 | 100 Mt CO₂e累計 |
