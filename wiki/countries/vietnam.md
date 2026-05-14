@@ -17,7 +17,7 @@
     | Key Ministry | MONRE (Ministry of Natural Resources & Environment)[^vnmonre] |
 
     [^vnndc]: Vietnam NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=VNM>
-    [^vnets]: Vietnam domestic ETS (Sàn giao dịch tín chỉ carbon) pilot 2025–2028 covers power, steel, cement, chemicals: Decree 06/2022/ND-CP <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
+    [^vnets]: Vietnam domestic ETS pilot launched **June 2025** covering **34 thermal power plants, 25 steel mills, 51 cement plants** (110 facilities total in pilot phase). 2026 GHG quota set at **268.4 Mt CO₂e** (Decision 263/QD-TTg; up from 243.1 Mt in 2025). Full market operation targeted by 2028. Ministry of Finance finalizing trading platform decree: Decree 06/2022/ND-CP; Decision 263/QD-TTg; ICAP; Carbon Pulse
     [^vnvvcs]: VVCS (Vietnam Voluntary Carbon Standard): MONRE regulation; see QC Intel coverage: <https://www.qcintel.com/>
     [^vnjcm]: JCM Vietnam projects (35+ active): GEC Vietnam <https://gec.jp/jcm/vn/>
     [^vnsg]: Singapore-Vietnam IA signed September 2025: Singapore MSE/carbonmarkets-cooperation.gov.sg <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>

@@ -9,7 +9,7 @@
     | Item | Detail |
     |------|--------|
     | Partner countries | **32** (as of April 2026; India MoC signed Aug 29, 2025[^jcmindia]) |
-    | Registered projects | 83 (264 with funding approved) |
+    | Registered projects | 83 (264 with funding approved); **133 A6.2 activities** globally attributed to JCM[^jcmglobal] |
     | Credits issued | ~0.7 Mt CO₂e cumulative (as of June 2024) |
     | 2030 target | 100 Mt CO₂e cumulative |
     | Target achievement | ~0.7% ⚠️ |
@@ -19,6 +19,7 @@
     > GEC JCM Database: <https://gec.jp/jcm/projects/>
 
     [^jcmindia]: India-Japan JCM Memorandum of Cooperation signed **August 29, 2025** — India is JCM's 30th partner; as of April 2026, total partners reached 32: GEC <https://gec.jp/jcm/>; secondary sources (Carbon Pulse)
+    [^jcmglobal]: Global A6.2 statistics (as of 2026): 169 projects/activities globally under Article 6.2; Japan JCM accounts for 133 of these across 29 host countries; 106 bilateral arrangements formalized (59 MoUs, 40 BAs, 7 others): Secondary sources compiled via Group B crawl 2026-05-15
 
     ## JCM Type Classification: Conventional vs. Article 6.2
 

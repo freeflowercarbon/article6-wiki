@@ -21,7 +21,7 @@
     [^idjcm]: JCM Indonesia projects: GEC <https://gec.jp/jcm/projects/>; MOEJ portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
     [^idsg]: Singapore-Indonesia IA negotiations: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>; Carbon Pulse coverage (post-Perpres 110)
     [^idperpres]: Presidential Regulation Perpres 110/2025 (October 2025) permits international carbon credit exports: BPKRI <https://peraturan.bpk.go.id/>
-    [^idklhk]: **Perpres 139/2024** split the former single KLHK into two ministries: **KLHK** (Kementerian Lingkungan Hidup dan Kehutanan — Forestry & Environment) retains forestry/REDD+; **KLH** (Kementerian Lingkungan Hidup — Environment & Climate) handles climate policy and carbon markets. A6.2 coordination now spans both ministries: <https://www.menlhk.go.id/>
+    [^idklhk]: **Perpres 139/2024** split the former single KLHK into two ministries: **KLHK** (Kementerian Lingkungan Hidup dan Kehutanan — Forestry) retains REDD+ and forest carbon at <https://www.kehutanan.go.id/>; **KLH** (Kementerian Lingkungan Hidup — Environment & Climate) handles A6.2 carbon market coordination at <https://www.kemenlh.go.id/>. Note: old menlhk.go.id now redirects to a restructuring notice.
 
     ## NDC Achievement Status
 
@@ -79,7 +79,8 @@
 
     | Organization | Role | URL |
     |-------------|------|-----|
-    | KLHK (Ministry of Environment & Forestry) | Carbon market, REDD+, A6.2 | <https://www.menlhk.go.id/> |
+    | KLHK (Ministry of Forestry — post Perpres 139/2024) | REDD+, forest carbon | <https://www.kehutanan.go.id/> |
+    | KLH (Ministry of Environment — post Perpres 139/2024) | Carbon market, A6.2, climate policy | <https://www.kemenlh.go.id/> |
     | Bappenas (National Planning Agency) | NDC coordination, climate finance | <https://www.bappenas.go.id/> |
     | IDXCarbon | Carbon exchange | <https://idxcarbon.co.id/> |
     | SRUK registry | New trading registry (Perpres 110/2025) | Contact via KLHK |

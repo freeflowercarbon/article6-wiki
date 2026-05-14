@@ -9,7 +9,7 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 40% reduction vs. BAU by 2030 (conditional); 30% unconditional[^thndc] |
-    | Carbon System | T-VER (voluntary)[^thver]; ETS under consideration (2030s) |
+    | Carbon System | T-VER (voluntary) + **Premium T-VER** (Article 6 eligible, 2026)[^thver]; ETS under consideration (2030s) |
     | JCM (Japan) | 🤝 Since 2015; 25+ projects[^thjcm] |
     | Singapore IA | 🤝 **Signed August 2025**[^thsg] |
     | Switzerland | ✅ **ITMO transferred January 2024** (1,916 units)[^thch] |
@@ -30,7 +30,7 @@
     [^thndcnew]: Thailand NDC 3.0 (submitted Oct 2025): Climate Action Tracker <https://climateactiontracker.org/countries/thailand/>; 47% by 2035, net-zero 2050, US$7.05B finance needed
 
     [^thndc]: Thailand NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=THA>
-    [^thver]: T-VER (Thailand Voluntary Emission Reduction Program): Thailand Greenhouse Gas Management Organization (TGO) <https://www.tgo.or.th/>
+    [^thver]: T-VER (Thailand Voluntary Emission Reduction Program): TGO <https://www.tgo.or.th/>. **Premium T-VER** launched 2026 under Guidelines V.06 — specifically designed for Article 6 eligibility with crediting periods to 2030; Thailand will retain **10% of total ITMOs** as share-of-proceeds per NDC Action Plan (approved by Cabinet December 2024): TGO; secondary sources (Carbon Pulse)
     [^thjcm]: JCM Thailand projects: GEC <https://gec.jp/jcm/projects/>; MOEJ JCM portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
 
     ## Active Article 6.2 Projects
@@ -51,6 +51,7 @@
     |---------|----------|------|-----------|
     | Thailand REDD+ / community forest | Verra VCS (prospective) | REDD+ | 🟡 Early stage |
     | T-VER projects (RE, efficiency) | T-VER (Thai standard) | RE / EE | 🟡 CA alignment needed |
+    | **Premium T-VER** (Article 6 eligible) | Premium T-VER (TGO, 2026) | RE / EE / NBS | ✅ Designed for A6 eligibility — 10% ITMO retained by Thailand |
     | Mangrove restoration | GS (prospective) | Blue carbon | 🟡 Pre-development |
 
     > ICVCM: <https://icvcm.org/assessment-process/>
