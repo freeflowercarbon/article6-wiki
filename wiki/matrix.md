@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-10 | Singapore RFP2 launched Oct 31, 2025[^sgrfp2] | Norway-Switzerland CDR ITMO transfer Jun 2025[^noitmosrc]
+    > Last updated: 2026-05-15 | Singapore RFP2 launched Oct 31, 2025[^sgrfp2] | Norway-Switzerland CDR ITMO transfer Jun 2025[^noitmosrc] | Tanzania JCM MoC May 2025 | India JCM MoC Aug 29, 2025 (partner #30)
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -97,6 +97,7 @@
     | [Senegal 🇸🇳](countries/senegal.md) | 🤝 JCM(2015) | — | 🤝 bilateral(2023) | — | — | — |
     | [Ethiopia 🇪🇹](countries/ethiopia.md) | 🤝 JCM(2013) | — | — | — | — | — |
     | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🤝 JCM(2021) | — | — | — | — | — |
+    | Tanzania 🇹🇿 | 🤝 **JCM(May 2025)** | — | — | — | — | — |
     | [Morocco 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | — | — |
     | Zambia 🇿🇲 | — | 📋 MOU | — | 🤝 bilateral | 🤝 bilateral(2024) | — |
     | Malawi 🇲🇼 | — | — | 🤝 bilateral(2022) | — | — | — |
@@ -106,6 +107,7 @@
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
+    | India 🇮🇳 | 🤝 **JCM(Aug 29, 2025)** | — | — | — | — | — |
     | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🤝 JCM(2013) | — | — | — | — | — |
     | [Tunisia 🇹🇳](countries/tunisia.md) | 🤝 JCM(2015) | — | 🤝 bilateral | — | — | — |
     | [Moldova 🇲🇩](countries/moldova.md) | 🤝 JCM(2016) | — | — | — | — | — |

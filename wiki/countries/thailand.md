@@ -10,7 +10,7 @@
     |------|--------|
     | NDC Target | 40% reduction vs. BAU by 2030 (conditional); 30% unconditional[^thndc] |
     | Carbon System | T-VER (voluntary) + **Premium T-VER** (Article 6 eligible, 2026)[^thver]; ETS under consideration (2030s) |
-    | JCM (Japan) | 🤝 Since 2015; 25+ projects[^thjcm] |
+    | JCM (Japan) | 🤝 Since 2015; 25+ projects; **20 approved methodologies** (2nd most of any JCM partner country)[^thjcm] |
     | Singapore IA | 🤝 **Signed August 2025**[^thsg] |
     | Switzerland | ✅ **ITMO transferred January 2024** (1,916 units)[^thch] |
     | CA Framework | 🟡 Being developed (ONEP-led) |

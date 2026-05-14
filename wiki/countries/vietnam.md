@@ -10,7 +10,7 @@
     |------|--------|
     | NDC Target | 43.5% conditional / 15.8% unconditional reduction vs. BAU by 2030[^vnndc] |
     | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities)[^vnets]; VVCS domestic standard[^vnvvcs] |
-    | JCM (Japan) | ✅ Since 2013; 35+ projects[^vnjcm] |
+    | JCM (Japan) | ✅ Since 2013; 35+ projects; **15 approved methodologies** (3rd most of any JCM partner country)[^vnjcm] |
     | Singapore IA | ✅ Signed Sep 2025[^vnsg] |
     | Switzerland | 🔄 Under negotiation[^vnch] |
     | CA Framework | 🟡 **A6.2 authorization decree effective May 19, 2026**[^vndec2026] |

@@ -9,10 +9,10 @@
     | Item | Detail |
     |------|--------|
     | Partner countries | **32** (as of April 2026; India MoC signed Aug 29, 2025[^jcmindia]) |
-    | Registered projects | 83 (264 with funding approved); **133 A6.2 activities** globally attributed to JCM[^jcmglobal] |
-    | Credits issued | ~0.7 Mt CO₂e cumulative (as of June 2024) |
+    | Registered projects | **94** (264 with funding approved); **133 A6.2 activities** globally attributed to JCM[^jcmglobal] |
+    | Credits issued | **817,247 tCO₂e** cumulative (as of March 2026) |
     | 2030 target | 100 Mt CO₂e cumulative |
-    | Target achievement | ~0.7% ⚠️ |
+    | Target achievement | ~0.8% ⚠️ |
     | A6.2 recognition | ✅ March 2025 — JCM formally recognized as Article 6.2 |
 
     > Source: QC Intel JCM Analysis: <https://www.qcintel.com/carbon/article/feature-japan-looks-to-upscale-the-jcm-to-meet-enhanced-carbon-credit-goals-36788.html>
@@ -20,6 +20,46 @@
 
     [^jcmindia]: India-Japan JCM Memorandum of Cooperation signed **August 29, 2025** — India is JCM's 30th partner; as of April 2026, total partners reached 32: GEC <https://gec.jp/jcm/>; secondary sources (Carbon Pulse)
     [^jcmglobal]: Global A6.2 statistics (as of 2026): 169 projects/activities globally under Article 6.2; Japan JCM accounts for 133 of these across 29 host countries; 106 bilateral arrangements formalized (59 MoUs, 40 BAs, 7 others): Secondary sources compiled via Group B crawl 2026-05-15
+
+    ## Recent Developments (2025–2026)
+
+    | Development | Date | Details |
+    |-------------|------|---------|
+    | JCMA established | April 2025 | JCM Implementation Agency (JCMA) created as one-stop operational focal point: project registration, CA management, UNFCCC reporting under Article 6.2 |
+    | New Application Criteria | December 2025 | MOEJ published updated criteria incorporating A6.2 sequencing requirements for new JCM project applications |
+    | PIN adoption | January 2026 | 14 JCM partner countries have adopted Project Idea Note (PIN) process — standardized pre-registration framework |
+    | Palau — A6.2 cooperative approach | September 16, 2025 | Palau submitted first Article 6.2 Initial Report to UNFCCC; JCM formally authorized as Article 6.2 cooperative approach |
+    | Tanzania MoC | May 2025 | Tanzania became a new JCM partner |
+    | India MoC | August 29, 2025 | India–Japan MoC signed; India became partner #30 |
+    | JCM expansion proposals | 2025–2026 | Dual registration (JCM + VCS/Gold Standard) and methodology integration with existing voluntary standards under active policy discussion |
+
+    > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026); OECC JCM partner analysis; UNFCCC Article 6.2 reporting database
+
+    ## Partner Country Classification: COP26 Alignment
+
+    JCM partner countries fall into three categories based on when their bilateral agreement was signed relative to COP26 (November 2021) and whether the bilateral framework has been updated to reflect Article 6.2:
+
+    | Category | Description | Representative Countries |
+    |----------|-------------|--------------------------|
+    | **Pre-COP26 / Not yet revised** | Signed before COP26; CA and A6.2 Authorization procedures not yet formally incorporated | Indonesia (2013), Vietnam (2013), Laos (2015), Thailand (2015) |
+    | **Pre-COP26 / Revised** | Predates COP26 but bilateral framework updated to reflect Article 6.2 (CA, Authorization, transparency) | Philippines (~2024–2025 updated) |
+    | **Post-COP26** | Signed after COP26; Article 6.2 provisions incorporated from inception | India (Aug 2025), Tanzania (May 2025), Palau (A6.2 cooperative approach, Sep 2025) |
+
+    **Implication**: Post-COP26 agreements tend to have clearer Article 6.2 Authorization procedures from the outset. Pre-COP26 countries require bilateral negotiation to retrofit CA/Authorization frameworks into existing Joint Committee operating rules — a process that takes 1–3 years and is the primary bottleneck for converting Conventional JCM projects to A6.2 JCM.
+
+    > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026), pp.18–20
+
+    ## JCM Contribution to GX-ETS Compliance
+
+    Under GX-ETS (from April 2026), JCM A6.2 credits (ITMOs) are eligible offsets, capped at **10% of compliance obligations**. Five key roles identified:
+
+    1. **Supply-side diversification**: JCM provides offshore credits not subject to domestic J-Credit supply constraints (J-Credit 2030 target: 15 Mt; current annual issuance ~1.7 Mt)
+    2. **NDC contribution**: Both Japan's NDC credits and ITMO imports count toward Japan's FY2035 target (60% reduction vs. FY2013)
+    3. **Price ceiling mechanism**: GX-ETS upper price corridor (¥4,300/t in FY2026, +3%/yr) makes offshore JCM credits attractive when domestic prices approach or exceed this level
+    4. **Host country co-benefit**: CA deduction from host NDC ensures authentic climate accounting; avoids double-counting under Article 6.2 transparency framework
+    5. **Private-sector JCM growth**: Companies invest upfront (no government subsidy) → credits allocated to investing companies → eligible for GX-ETS compliance post-CA
+
+    > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026), p.17; METI GX-ETS design documents
 
     ## JCM Type Classification: Conventional vs. Article 6.2
 
@@ -30,7 +70,7 @@
     | Era | Pre-March 2025 (most issued credits) | Post-March 2025 (new projects) |
     | Corresponding Adjustment | ❌ Not applied | ✅ Applied by host country |
     | Credit destination | Japan government's NDC contribution only | ITMO — tradeable under Article 6.2 |
-    | GX League eligible? | ❌ No — Japanese companies cannot use | ✅ Yes — GX League compliance |
+    | GX-ETS eligible? | ❌ No — not eligible for mandatory GX-ETS compliance | ✅ Yes — GX-ETS eligible (10% cap applies) |
     | UNFCCC reporting | Standard JCM reporting | Article 6.2 transparency framework |
     | Host country Authorization | Basic JCM registration | Formal A6.2 Authorization required |
 
@@ -55,7 +95,7 @@
     | PH_AM004 — Paddy AWD (Feb 2025) | **A6.2 capable** | New methodology; project developers can request A6.2 Authorization |
     | Pre-2025 tech methodologies (RE, EE, waste) | **Conventional JCM** | Would require methodology revision + retroactive Authorization for upgrade |
 
-    > **GX League note**: The [GX League](https://gx-league.go.jp/) is Japan's voluntary carbon market for large emitters. To use JCM credits for GX League compliance, the credits must be Article 6.2 JCM (CA applied, ITMO status). Conventional JCM credits do not qualify. This distinction became commercially significant after the March 2025 A6.2 recognition.
+    > **GX-ETS note**: The GX League (voluntary market, FY2023–FY2025) **ended in FY2025** and was replaced by the **GX Future Consortium**. The mandatory **GX-ETS** launched in April 2026 (300–400 companies, >100,000 t CO₂/yr threshold). Under GX-ETS, eligible offsets are J-Credits and JCM credits (capped at 10% of compliance obligations). To use JCM credits for GX-ETS compliance, the credits must be **Article 6.2 JCM** (CA applied, ITMO status). Conventional JCM credits do not qualify. This distinction became commercially significant after the March 2025 A6.2 recognition and April 2026 GX-ETS launch.
 
     ## JCM NBS Progress Phase Framework
 
@@ -150,11 +190,51 @@
     | 項目 | 内容 |
     |------|------|
     | 締結国数 | **32カ国**（2026年4月時点；インドMoC 2025年8月29日署名[^jcmindia]） |
-    | 登録済みプロジェクト数 | 83件（資金補助選定済み264件） |
-    | 累計発行量 | 約0.7 Mt CO₂e（2024年6月時点） |
+    | 登録済みプロジェクト数 | **94件**（資金補助選定済み264件） |
+    | 累計発行量 | **817,247 tCO₂e**（2026年3月時点） |
     | 2030年目標 | 100 Mt CO₂e累計 |
     | 目標達成率 | 約0.7% ⚠️ |
     | A6.2認定 | ✅ 2025年3月 — JCM正式認定 |
+
+    ## 最近の動向（2025〜2026年）
+
+    | 動向 | 時期 | 内容 |
+    |------|------|------|
+    | JCMA設立 | 2025年4月 | JCM実施機関（JCMA）をワンストップの運営拠点として設立。プロジェクト登録・CA管理・UNFCCC報告を一元化 |
+    | 新規申請基準改訂 | 2025年12月 | 環境省がA6.2の時系列要件（シーケンシング）を組み込んだ新規JCMプロジェクト申請基準を公表 |
+    | PIN採用 | 2026年1月 | JCM締結国14か国がプロジェクトアイデアノート（PIN）プロセスを採用 — 標準化された事前登録フレームワーク |
+    | パラオ — A6.2協調アプローチ | 2025年9月16日 | パラオがUNFCCCにArticle 6.2初期報告書を提出；JCMが正式にArticle 6.2協調アプローチとして承認 |
+    | タンザニア MoC | 2025年5月 | タンザニアが新規JCM締結国として加盟 |
+    | インド MoC | 2025年8月29日 | 日印MoC署名；インドが第30番目の締結国に |
+    | JCM拡張提案 | 2025〜2026年 | デュアル登録（JCM＋VCS/ゴールドスタンダード）や既存自主基準との方法論統合が政策議論の俎上に |
+
+    > 出典: IETA「Carbon Markets & Emissions Trading in Japan」（2026年5月）；OECC JCM締結国分析；UNFCCC Article 6.2報告データベース
+
+    ## 締結国分類：COP26適合度
+
+    JCM締結国は、二国間協定の署名時期とArticle 6.2への対応状況により3つのカテゴリーに分類される：
+
+    | カテゴリー | 説明 | 代表的な国 |
+    |-----------|------|-----------|
+    | **COP26前・未改定** | COP26以前の締結；CA・A6.2 Authorization手続きが未整備 | インドネシア（2013）、ベトナム（2013）、ラオス（2015）、タイ（2015） |
+    | **COP26前・改定済み** | COP26前の締結だが、Article 6.2対応（CA・Authorization・透明性）に向けて更新済み | フィリピン（2024〜2025年頃改訂） |
+    | **COP26後締結** | COP26後の締結；Article 6.2条項を当初から組み込み | インド（2025年8月）、タンザニア（2025年5月）、パラオ（A6.2協調アプローチ、2025年9月） |
+
+    **含意**: COP26後の協定はAuthorization手続きが明確。COP26前の締結国では、CA・Authorization枠組みを既存の合同委員会（JC）運営規則に追加するための二国間交渉が必要で、通常1〜3年を要する — これがConventional JCMをA6.2型に転換する際の主なボトルネック。
+
+    > 出典: IETA「Carbon Markets & Emissions Trading in Japan」（2026年5月）pp.18–20
+
+    ## GX-ETSコンプライアンスへのJCMの貢献
+
+    GX-ETS（2026年4月開始）では、JCM A6.2クレジット（ITMO）が適格オフセットとして利用可能（コンプライアンス義務量の**10%上限**）。JCMの5つの役割：
+
+    1. **供給側の多様化**: 国内J-Creditの供給制約（2030年目標1,500万t；年間発行量〜170万t）に依存しないオフショアクレジットを提供
+    2. **NDC達成に貢献**: JCMクレジット（国内向け）とITMO輸入の両方が日本の2035年目標（FY2013比60%削減）にカウント可能
+    3. **価格上限メカニズム**: GX-ETSの価格上限（FY2026：¥4,300/t、年3%上昇）に国内価格が近づいた時点でオフショアJCMクレジットが競争力を持つ
+    4. **相手国の利益（co-benefit）**: 相手国NDCからCA控除することで二重算定を回避；Article 6.2透明性フレームワークに適合
+    5. **民間JCMの拡大**: 企業が先行投資（政府補助なし）→ 企業にクレジット配分 → CA取得後にGX-ETSで活用可能
+
+    > 出典: IETA「Carbon Markets & Emissions Trading in Japan」（2026年5月）p.17；METI GX-ETS設計文書
 
     ## JCM種別分類：従来型 vs. A6.2型
 
@@ -165,7 +245,7 @@
     | 時期 | 2025年3月以前（発行済みクレジットの大半） | 2025年3月以降（新規プロジェクト） |
     | CA適用 | ❌ なし | ✅ 相手国がNDCから控除 |
     | クレジットの行き先 | 日本政府NDC達成のみ | ITMO — Article 6.2下で売買可能 |
-    | GX League対応 | ❌ 不可 — 日本企業はコンプライアンス用に使えない | ✅ 可 — GXリーグ対応 |
+    | GX-ETS対応 | ❌ 不可 — GX-ETSコンプライアンスには使えない | ✅ 可 — GX-ETS対応（10%キャップあり） |
     | UNFCCC報告 | 標準JCM報告 | Article 6.2透明性フレームワーク |
     | 相手国Authorization | 基本的JCM登録 | A6.2 Authorization（正式書面）が必要 |
 
@@ -190,7 +270,7 @@
     | PH_AM004 — 水田AWD（2025年2月） | **A6.2型対応可** | 新規方法論；プロジェクト開発者がA6.2 Authorization申請可能 |
     | 2025年以前のテクノロジー系方法論（RE・EE・廃棄物） | **従来型JCM** | A6.2化には方法論改訂＋遡及的Authorization取得が必要 |
 
-    > **GXリーグ注記**: [GXリーグ](https://gx-league.go.jp/)は大手排出企業向けの日本の自主的炭素市場。JCMクレジットをGXリーグのコンプライアンスに使うには、CA適用済み・ITMOステータスの**A6.2型JCM**である必要がある。従来型JCMクレジットは対象外。この区別は2025年3月のA6.2認定以降、実務上重要になっている。
+    > **GX-ETSノート**: GXリーグ（自主的市場、FY2023〜FY2025）は**FY2025で終了**し、**GXフューチャーコンソーシアム**に移行。義務的な**GX-ETS**は2026年4月に開始（300〜400社、年間10万t超が対象）。GX-ETSの適格オフセットはJ-CreditとJCMクレジット（義務量の10%上限）。JCMクレジットをGX-ETS対応に使うには、CA適用済み・ITMOステータスの**A6.2型JCM**である必要がある。従来型JCMクレジットは対象外。この区別は2025年3月のA6.2認定・2026年4月のGX-ETS開始以降、実務上重要になっている。
 
     ## JCM NBS制度進捗フェーズ定義
 

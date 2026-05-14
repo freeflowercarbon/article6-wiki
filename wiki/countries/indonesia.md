@@ -10,7 +10,7 @@
     |------|--------|
     | NDC Target | 29% unconditional / 41% conditional reduction vs. BAU by 2030[^idndc] |
     | Carbon System | IDXCarbon (voluntary exchange, 2023–)[^idxcarbon]; PTBAE-PU ETS pilot[^idets] |
-    | JCM (Japan) | 🤝 Since 2013; 50+ projects[^idjcm] |
+    | JCM (Japan) | 🤝 Since 2013; 50+ projects; **29 approved methodologies** (most of any JCM partner country)[^idjcm] |
     | Singapore IA | 🔄 Under negotiation (post-Perpres 110/2025)[^idsg] |
     | CA Framework | 🟡 Under development; Perpres 110/2025 provides legal basis[^idperpres] |
     | Key Ministry | KLHK (Ministry of Forestry & Environment) + KLH (Ministry of Environment — climate)[^idklhk] |
@@ -82,7 +82,7 @@
     | KLHK (Ministry of Forestry — post Perpres 139/2024) | REDD+, forest carbon | <https://www.kehutanan.go.id/> |
     | KLH (Ministry of Environment — post Perpres 139/2024) | Carbon market, A6.2, climate policy | <https://www.kemenlh.go.id/> |
     | Bappenas (National Planning Agency) | NDC coordination, climate finance | <https://www.bappenas.go.id/> |
-    | IDXCarbon | Carbon exchange | <https://idxcarbon.co.id/> |
+    | IDXCarbon | Carbon exchange (as of May 2026: **1.9M+ tCO₂e** traded; 93.7B IDR; 10 projects; 155 participants) | <https://idxcarbon.co.id/> |
     | SRUK registry | New trading registry (Perpres 110/2025) | Contact via KLHK |
 
     ## Key Sources
@@ -103,7 +103,7 @@
     | NDC目標 | 2030年にBAU比29%削減（無条件）/ 41%（条件付き） |
     | 国内炭素価格制度 | IDXCarbon（2023年〜）、PTBAE-PU（ETS試行中） |
     | 主管省庁 | **KLHK**（林業環境省）＋**KLH**（環境省・気候担当）[^idklhk]、Bappenas |
-    | JCM状況 | 日本（2013年）✅ 50件以上 |
+    | JCM状況 | 日本（2013年）✅ 50件以上；**承認方法論29件**（JCM締結国中最多）[^idjcm] |
     | IA状況 | シンガポール 🔄 交渉中 |
 
     ## NDC達成見込み・グローバルストックテイク

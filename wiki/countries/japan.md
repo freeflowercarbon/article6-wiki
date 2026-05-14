@@ -4,28 +4,35 @@
 
     ## Overview
 
-    Japan is an **acquiring country** under Article 6.2, primarily through the **Joint Crediting Mechanism (JCM)** — bilateral carbon credit agreements with 29+ countries. In March 2025, Japan formally recognized JCM as Article 6.2-compatible, unlocking the pathway for ITMOs. Japan's NDC target is a **46% reduction from 2013 by 2030**, supplemented by JCM credits.
+    Japan is an **acquiring country** under Article 6.2, primarily through the **Joint Crediting Mechanism (JCM)** — bilateral carbon credit agreements with 32 countries (as of April 2026). In March 2025, Japan formally recognized JCM as Article 6.2-compatible, unlocking the pathway for ITMOs. Japan's NDC target is a **46% reduction from 2013 by 2030** (updated 2025 NDC: **60% by FY2035 vs. FY2013**), supplemented by JCM credits.
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 46% reduction from 2013 by 2030; net zero 2050 |
-    | Carbon Price System | GX-ETS (prep FY2026; trading starts Autumn 2027) |
-    | GX-ETS Price Floor | JPY 1,700/t CO₂e (≈ US$11) [^jpgx1] |
-    | GX-ETS Price Ceiling | JPY 4,300/t CO₂e (≈ US$27) [^jpgx1] |
-    | Price Escalation | Floor/ceiling rise annually at inflation + 3% [^jpgx1] |
-    | Main Mechanism | JCM (29+ countries) |
-    | JCM Procurement Basis | ODA-supported; JCM credit prices not publicly disclosed |
+    | NDC Target (2030) | 46% reduction from FY2013 (1,395 Mt → ~760 Mt) |
+    | NDC Target (2035) | **60% reduction from FY2013** (→ ~560 Mt) — submitted 2025 |
+    | Net Zero | 2050 |
+    | Carbon Price System | **GX-ETS launched April 2026** (mandatory; 300–400 companies, >100,000 t/yr) |
+    | GX-ETS Price Floor | JPY 1,700/t CO₂e (≈ US$11) — FY2026 starting level [^jpgx1] |
+    | GX-ETS Price Ceiling | JPY 4,300/t CO₂e (≈ US$27) — FY2026 starting level [^jpgx1] |
+    | Price Escalation | Floor/ceiling rise annually at +3% [^jpgx1] |
+    | GX-ETS Eligible Offsets | J-Credits + JCM A6.2 credits (ITMO); cap: 10% of obligations |
+    | GX-ETS Penalty | 11× upper limit price per non-compliant tonne |
+    | Main Mechanism | JCM (32 countries as of April 2026) |
+    | JCMA | JCM Implementation Agency established April 2025 (one-stop operational focal point) |
     | A6.2 Role | Acquiring country (ITMO buyer) |
     | Key Ministry | Ministry of Environment (MOEJ), METI |
+    | Energy Plan | 7th Basic Energy Plan (February 2025): thermal 30–40%, nuclear 20%, renewable 40–50% by 2040 |
+    | SBTi | 2,000+ companies (January 2026) — **world #1** (global: ~10,000 companies) |
 
     ## NDC Achievement Status
 
     | Metric | Assessment |
     |--------|-----------|
-    | Current Progress (2023) | ~29% reduction from 2013 — behind pace |
-    | 2030 Target Achievement | 🟡 Challenging — requires acceleration of GX policies |
-    | GST 2023 Implication | Japan expected to strengthen 2035 NDC toward ~60–65% reduction |
-    | JCM Contribution | Target: 100 Mt CO₂e cumulative by 2030 (JCM across all partners) |
+    | Current Progress (2023) | ~29% reduction from FY2013 — behind pace for 2030 target |
+    | 2030 Target Achievement | 🟡 Challenging — requires full GX-ETS implementation and JCM acceleration |
+    | 2025 NDC Update | **60% by FY2035** vs. FY2013 submitted in 2025; aligns with GST expectations |
+    | JCM 2030 Target | 100 Mt CO₂e cumulative (JCM across all partners) |
+    | JCM Achievement Rate | ~0.8% (817,247 tCO₂e issued as of March 2026) — **significant gap** |
 
     > Source: Japan's NDC — <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=JPN>
     > GX-ETS: <https://www.env.go.jp/earth/ondanka/gx-ets.html>
@@ -139,20 +146,64 @@
 
     | Metric | Data |
     |--------|------|
-    | Cumulative JCM credits issued (to June 2024) | ~0.7 Mt CO₂e [^jcmstat] |
-    | Registered projects | 83 [^jcmstat] |
+    | Cumulative JCM credits issued (March 2026) | **817,247 tCO₂e** [^jcmstat] |
+    | Registered projects (March 2026) | **94** [^jcmstat] |
     | Funded projects (registered + pipeline) | 264 [^jcmstat] |
     | 2030 target (cumulative) | 100 Mt CO₂e [^jcmstat] |
-    | Target achievement rate | ~0.7% ⚠️ — significant acceleration required [^jcmstat] |
+    | Target achievement rate | ~0.8% ⚠️ — significant acceleration required [^jcmstat] |
     | NBS share of JCM portfolio | ~20% (rapidly expanding from ~5% pre-2024) [^jcmnbs] |
+    | J-Credit registered projects | 757 (March 2025) |
+    | J-Credit cumulative issuance | ~10.16 Mt CO₂e (2030 target: 15 Mt) |
+    | J-Credit 2024 annual issuance | ~1.7 Mt (record; forest management: ~770,000 t = ~45%) |
+    | J-Credit JPX price (March 2026) | ~¥4,300–5,000/t (converging near GX-ETS upper limit) |
 
-    **Demand outlook**: Japan's GX-ETS mandatory phase (FY2026) covers ~700 large emitters (≥50,000 t/yr). JCM credits are expected to be eligible for GX-ETS compliance, creating structural demand that could significantly exceed current procurement levels. The gap between the 100 Mt target and current 0.7 Mt achievement implies procurement must accelerate >140x in 5 years — market observers view this as a significant demand driver for JCM host countries.[^jcmdemand]
+    **Demand outlook**: Japan's GX-ETS launched in April 2026 covering 300–400 large emitters (>100,000 t/yr). JCM A6.2 credits (ITMOs) are eligible for GX-ETS compliance up to 10% of obligations. The gap between the 100 Mt JCM target and current 817,247 tCO₂e (~0.8%) implies procurement must accelerate >100× in 4 years. Three demand scenarios under GX-ETS:
+
+    | Scenario | Annual JCM demand by 2030 | Key condition |
+    |----------|--------------------------|---------------|
+    | **Oversupply** | < 5 Mt/yr | Domestic abatement accelerates; domestic J-Credit sufficient |
+    | **Balanced** | 5–20 Mt/yr | Moderate domestic gap; JCM fills residual |
+    | **Shortage** | > 20 Mt/yr | Slow domestic abatement; JCM credit essential for compliance |
+
+    > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026), p.29–30[^jcmdemand]
 
     [^jpgx1]: Carbon Pulse, "Japan sets GX-ETS floor/ceiling prices for FY2026": <https://carbon-pulse.com/469821/>; Eco-Business: <https://www.eco-business.com/news/japan-sets-2026-price-band-for-carbon-market-to-steer-investment-by-big-polluters/>
     [^jcmmeth]: JCM Guidelines for Implementation: <https://www.meti.go.jp/policy/energy_environment/global_warming/jcm/pdf/en_Guidelines_for_the_Implementation_of_JCM.pdf>
     [^jcmstat]: QC Intel JCM analysis: <https://www.qcintel.com/carbon/article/feature-japan-looks-to-upscale-the-jcm-to-meet-enhanced-carbon-credit-goals-36788.html>; ERCST March 2025: <https://ercst.org/wp-content/uploads/2025/03/Cooperative-Approach_Japan_Satoru-Iino.pdf>
     [^jcmnbs]: MSCI Japan NBS blog: <https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects>
     [^jcmdemand]: IGES JCM Database: <https://www.iges.or.jp/en/pub/iges-joint-crediting-mechanism-jcm-database/en>
+
+    ## GX-ETS Design Parameters (FY2026)
+
+    | Parameter | Detail |
+    |-----------|--------|
+    | Launch | April 2026 (mandatory compliance begins) |
+    | Scope | ~300–400 companies; >100,000 t CO₂/yr threshold |
+    | Price floor (FY2026) | ¥1,700/t |
+    | Price ceiling (FY2026) | ¥4,300/t |
+    | Price escalation | +3%/yr on both floor and ceiling |
+    | Eligible offsets | J-Credits + JCM A6.2 credits (ITMO) |
+    | Offset cap | 10% of compliance obligations |
+    | Penalty | 11× upper limit price (per non-compliant tonne) |
+    | Auctioning | From FY2033 (power sector first) |
+    | Predecessor | GX League (voluntary, FY2023–FY2025) — **ended FY2025** |
+    | Successor of GX League | GX Future Consortium (voluntary capacity building, FY2026+) |
+
+    > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026), Table 2; METI GX-ETS design documents
+
+    ## CBAM Exposure
+
+    EU CBAM entered its **definitive phase January 1, 2026** (steel, aluminum, cement, fertilizers, hydrogen). Japan's export-oriented industries face direct exposure:
+
+    | Sector | Estimated exposure |
+    |--------|-------------------|
+    | Steel (鉄鋼) | High — Japan is major steel exporter to EU |
+    | Aluminum | Medium |
+    | Cement | Lower (less EU-directed exports) |
+
+    Canada, US, Australia, Turkey also exploring CBAM-type measures. CBAM strengthens the case for GX-ETS price legitimacy and creates indirect demand for JCM credits (carbon cost parity).
+
+    > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026), pp.33–35
 
     ## Key Sources
     - UNFCCC Japan NDC: <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=JPN>
@@ -161,34 +212,42 @@
     - MOEJ GX-ETS: <https://www.env.go.jp/earth/ondanka/gx-ets.html>
     - GX-ETS price band: <https://carbon-pulse.com/469821/>
     - ICAP Japan GX-ETS: <https://icapcarbonaction.com/en/ets/japan-gx-ets>
+    - IETA Japan Report (May 2026): <https://www.ieta.org/resources/japan-carbon-market-report-2026/>
     - Article 6.2 UNFCCC: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
 
 === "🇯🇵 日本語"
 
     ## サマリー
 
-    日本はArticle 6.2において**調達国（ITMOの取得側）**として位置付けられる。JCM（二国間クレジット制度）を29カ国以上と締結しており、2025年3月にJCMをArticle 6.2適合と正式認定。NDC目標は**2030年に2013年比46%削減**で、JCMクレジットを補完的手段として活用する。
+    日本はArticle 6.2において**調達国（ITMOの取得側）**として位置付けられる。JCM（二国間クレジット制度）を32カ国と締結（2026年4月時点）、2025年3月にJCMをArticle 6.2適合と正式認定。NDC目標は**2030年にFY2013比46%削減**（2025年提出NDC更新版：**FY2035に60%削減**）。
 
     ## 基本情報
     | 項目 | 内容 |
     |------|------|
-    | NDC目標 | 2030年に2013年比46%削減、ネットゼロ2050 |
-    | NDC提出年 | 2021年 |
-    | 国内炭素価格制度 | GX-ETS（FY2026準備期・2027年秋取引開始） |
-    | GX-ETS価格下限 | JPY 1,700/t CO₂e（≈US$11）[^jpgx1] |
-    | GX-ETS価格上限 | JPY 4,300/t CO₂e（≈US$27）[^jpgx1] |
-    | 価格上昇率 | 毎年インフレ+3%で上下限を引き上げ [^jpgx1] |
+    | NDC目標（2030年） | FY2013比46%削減（1,395 Mt → 約760 Mt） |
+    | NDC目標（2035年） | **FY2013比60%削減**（→約560 Mt）— 2025年提出 |
+    | ネットゼロ | 2050年 |
+    | 国内炭素価格制度 | **GX-ETS 2026年4月開始**（義務的；300〜400社、年間10万t超対象） |
+    | GX-ETS価格下限 | JPY 1,700/t CO₂e（FY2026）[^jpgx1] |
+    | GX-ETS価格上限 | JPY 4,300/t CO₂e（FY2026）[^jpgx1] |
+    | 価格上昇率 | 毎年+3% [^jpgx1] |
+    | GX-ETS適格オフセット | J-Credit＋JCM A6.2クレジット（ITMO）；義務量の10%上限 |
+    | GX-ETSペナルティ | 価格上限の11倍/t |
     | 主管省庁 | 環境省（MOEJ）、経済産業省（METI） |
+    | JCMA | JCM実施機関（2025年4月設立）— ワンストップ運営拠点 |
     | Article 6.2の役割 | 調達国（ITMO取得側） |
+    | エネルギー計画 | 第7次エネルギー基本計画（2025年2月）：火力30〜40%・原子力20%・再エネ40〜50%（2040年） |
+    | SBTi認定企業数 | 2,000社以上（2026年1月）— **世界1位**（世界全体：約10,000社） |
 
     ## NDC達成見込み・グローバルストックテイク
 
     | 指標 | 評価 |
     |------|------|
-    | 現在の進捗（2023年） | 約29%削減達成（目標46%に対し不足） |
-    | 2030年達成見込み | 🟡 GX政策加速なしでは困難 |
-    | GST（2023年）後の方向性 | 2035年NDCは60〜65%削減水準が求められる見込み |
-    | JCM貢献目標 | 全パートナー累積1億t-CO2e（2030年まで） |
+    | 現在の進捗（2023年） | FY2013比約29%削減達成（2030年目標46%に対して遅延） |
+    | 2030年達成見込み | 🟡 GX-ETS完全実施とJCM加速なしでは困難 |
+    | 2025年NDC更新 | **FY2035に60%削減**を提出済み；GST 2023の要請水準に合致 |
+    | JCM 2030年目標 | 全パートナーで累積1億t CO₂e（現状：817,247 tCO₂e = **約0.8%**）|
+    | JCM累計発行量（2026年3月） | **817,247 tCO₂e** ⚠️ — 目標達成には大幅な加速が必要 |
 
     ## Article 6.2二国間合意状況
 
