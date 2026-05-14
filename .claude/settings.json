@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "Bash(*)"
+      "Bash(*)",
+      "WebFetch",
+      "WebSearch",
+      "Write(C:/Users/freef/OneDrive/デスクトップ/claude/article6-wiki/outputs/*)"
     ]
   }
 }
