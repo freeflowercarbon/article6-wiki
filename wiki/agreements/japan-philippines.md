@@ -22,6 +22,6 @@
 | 制度未成熟リスク | 🟡 中 | 登録簿・Authorization体制が未整備 |
 
 ## 関連ページ
-- [[countries/japan]]
-- [[countries/philippines]]
-- [[concepts/jcm]]
+- [Japan 🇯🇵](../countries/japan.md)
+- [Philippines 🇵🇭](../countries/philippines.md)
+- [JCM](../concepts/jcm.md)

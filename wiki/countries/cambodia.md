@@ -119,6 +119,5 @@
     | MAFF | REDD+・森林炭素 | <https://www.maff.gov.kh/> |
 
     ## 関連ページ
-    - [日本-カンボジア協定](../agreements/japan-cambodia.md)
     - [シンガポール A6制度](../singapore_ia_system.md)
     - [マトリクス](../matrix.md)

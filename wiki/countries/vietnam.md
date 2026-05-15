@@ -131,5 +131,4 @@
     | GEC ベトナム | JCMプロジェクト支援 | <https://gec.jp/jcm/vn/> |
 
     ## 関連ページ
-    - [日本-ベトナム協定](../agreements/japan-vietnam.md)
     - [マトリクス](../matrix.md)

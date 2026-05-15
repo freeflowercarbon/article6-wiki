@@ -28,6 +28,6 @@
 | 規模リスク | 🟢 低 | プロジェクト規模が小さいため損失限定的 |
 
 ## 関連ページ
-- [[countries/japan]]
-- [[countries/laos]]
-- [[concepts/jcm]]
+- [Japan 🇯🇵](../countries/japan.md)
+- [Laos 🇱🇦](../countries/laos.md)
+- [JCM](../concepts/jcm.md)

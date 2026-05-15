@@ -30,7 +30,7 @@
 | タイムラインリスク | 🟡 中 | 交渉長期化の可能性 |
 
 ## 関連ページ
-- [[countries/japan]]
-- [[countries/indonesia]]
-- [[concepts/jcm]]
-- [[concepts/corresponding_adjustment]]
+- [Japan 🇯🇵](../countries/japan.md)
+- [Indonesia 🇮🇩](../countries/indonesia.md)
+- [JCM](../concepts/jcm.md)
+- [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
