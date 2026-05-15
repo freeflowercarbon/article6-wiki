@@ -78,6 +78,34 @@
     [^chth]: Thailand ITMO transfer Jan 2024 (1,916 units); source: Swiss FOEN / carbon market reports
     [^chbezero]: Carbon Herald, "BeZero to deliver risk assessments for Article 6.2 carbon credits for Switzerland": <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
 
+    ## Eligible & Excluded Project Types (NBS Exclusion)
+
+    > ⚠️ **Critical for NBS / forestry project developers**: Switzerland's CO2 Act and FOEN's published eligibility criteria **explicitly exclude** nature-based and land-use projects from international ITMO eligibility. This is not a soft preference — it is a legal exclusion.
+
+    **FOEN Document**: "Zulässige und ausgeschlossene Projekt- und Programmtypen" (Eligible and Excluded Project and Programme Types), January 2024.[^chnbs]
+
+    | Category | Switzerland ITMO Eligibility |
+    |----------|------------------------------|
+    | Land use, land-use change, forestry (LULUCF) | ❌ **Excluded** |
+    | REDD+ (avoided deforestation) | ❌ **Excluded** |
+    | Afforestation / reforestation | ❌ **Excluded** |
+    | Biological CO₂ sequestration (soil carbon, biochar) | ❌ **Excluded** |
+    | Renewable energy (solar, wind, hydro) | ✅ Eligible |
+    | Energy efficiency (buildings, industry, cookstoves) | ✅ Eligible |
+    | E-mobility / clean transport | ✅ Eligible |
+    | Agricultural methane reduction | ✅ Eligible |
+    | CDR (Carbon Dioxide Removal — geological / DAC) | ✅ Eligible (Norway-Switzerland CDR ITMO pilot, Jun 2025)[^chcdr] |
+
+    **Confirmed cases**:
+    - WAHU e-bikes Ghana A6.2 authorization (May 2025) — e-mobility, eligible ✅
+    - Norway-Switzerland CDR ITMO transfer (Jun 2025) — geological CDR, eligible ✅
+    - Ghana bilateral table lists "REDD+" as a label, but **REDD+ projects under that bilateral are not authorized as ITMOs** — only non-NBS project types (cookstoves, solar PV, lighting) are transferred[^chnbs]
+
+    **Implication for bilateral partners**: Countries whose primary carbon asset is REDD+ or forest conservation (Uganda, Malawi, Dominica, Vanuatu) will not be able to export NBS credits to Switzerland under A6.2 — the bilateral will focus on cookstoves, RE, or other eligible sectors. NBS project developers must target other acquiring countries (Singapore, Japan JCM, Sweden, Norway via LEAF/ART — noting Norway's NOGER also excludes direct ITMO purchase of forestry projects).
+
+    [^chnbs]: FOEN, "Zulässige und ausgeschlossene Projekt- und Programmtypen" (Jan 2024): <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; klik.ch project types guidance
+    [^chcdr]: Norway-Switzerland CDR ITMO pilot (Jun 2025): Carbon Pulse / FOEN
+
     ## Carbon Pricing System
 
     Switzerland runs a **dual system**: a CO₂ levy (CHF 120/t ≈ US$133, applied to fossil fuels for heating/industrial use, not transport) and the Swiss ETS (linked to EU ETS since 2020, covering large industrial emitters). The Swiss ETS price tracks the EU ETS (~€50–70/t). The CO₂ levy revenues fund climate programs and building renovation incentives.
@@ -138,6 +166,26 @@
     - 完了済みITMO移転：ペルー（2023年）、タイ（2024年1月）の最低2件 [^chth]
     - 2030年目標：国際調達分だけで約1,750万t CO₂e必要（NDC50%を国際調達で補完）
     - 需要の硬直性：CO2法による法的義務のため、調達は義務的 → 価格交渉力は弱い
+
+    ## NBS・林業プロジェクトの除外（重要）
+
+    > ⚠️ **NBS投資家向け重要注意**: スイスのCO2法とFOEN適格性基準は、自然保護・土地利用系プロジェクトを**国際ITMOとして明示的に除外**している。
+
+    **FOENガイダンス**：「Zulässige und ausgeschlossene Projekt- und Programmtypen」（適格・除外プロジェクト種別、2024年1月）[^chnbs]
+
+    | カテゴリ | スイスITMO適格性 |
+    |---------|-----------------|
+    | 土地利用・土地利用変化・林業（LULUCF） | ❌ **除外** |
+    | REDD+（森林減少回避） | ❌ **除外** |
+    | 植林・再植林 | ❌ **除外** |
+    | 生物的CO₂吸収（土壌炭素・バイオ炭） | ❌ **除外** |
+    | 再生可能エネルギー | ✅ 適格 |
+    | 省エネルギー（建物・産業・クッキングストーブ） | ✅ 適格 |
+    | Eモビリティ・クリーン輸送 | ✅ 適格 |
+    | 農業メタン削減 | ✅ 適格 |
+    | CDR（炭素除去——地質学的・DAC） | ✅ 適格（ノルウェー-スイスCDR ITMOパイロット、2025年6月） |
+
+    **バイラテラルパートナーへの含意**: ウガンダ・マラウィ・ドミニカ・バヌアツ等、主要炭素資産がREDD+/森林保全の国は、スイス向けにNBSクレジットを輸出できない。スイスとの二国間協定はクリーンクッキング・再エネ案件に集中する見込み。NBS開発者はシンガポール・日本JCM・スウェーデン等の他の調達国を探索する必要がある（ノルウェーのNOGERも林業ITMOの直接購入は除外していることに留意）。
 
     ## 炭素価格制度の概要
 

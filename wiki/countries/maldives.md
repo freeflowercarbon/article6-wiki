@@ -11,10 +11,12 @@
     | NDC Target | 26% reduction vs. 2010 by 2030 (70% renewable electricity)[^mvndc] |
     | Carbon System | None |
     | JCM (Japan) | ✅ Since 2013[^mvjcm] |
+    | UNFCCC AIR | 🟡 Article 6.2 Initial Report submitted to UNFCCC[^mvair] |
     | NBS Maturity | ⭐ (minimal land area; coral reef is primary ecosystem) |
 
     [^mvndc]: Maldives NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MDV>
     [^mvjcm]: JCM Maldives: GEC <https://gec.jp/jcm/projects/>; signed 2013; island solar, resort energy efficiency
+    [^mvair]: Maldives Article 6.2 Initial Report submitted to UNFCCC CARP: <https://www4.unfccc.int/sites/SubmissionsStaging/Pages/ArticleSixReports.aspx>
 
     ## Bilateral A6.2 Agreements
 
@@ -44,6 +46,7 @@
     | NDC目標 | 2030年に2010年比26%削減（再エネ70%） |
     | 国内炭素制度 | なし |
     | JCM状況 | ✅ 日本（2013年） |
+    | UNFCCC AIR | 🟡 Article 6.2初期報告書（AIR）提出済み |
     | NBS成熟度 | ⭐（陸域が極小・サンゴ礁が主） |
 
     ## 関連ページ

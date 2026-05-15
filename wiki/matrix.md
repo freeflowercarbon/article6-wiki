@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-15 | Singapore RFP2 launched Oct 31, 2025[^sgrfp2] | Norway-Switzerland CDR ITMO transfer Jun 2025[^noitmosrc] | Tanzania JCM MoC May 2025 | India JCM MoC Aug 29, 2025 (partner #30)
+    > Last updated: 2026-05-16 | Singapore RFP2 launched Oct 31, 2025[^sgrfp2] | Norway-Switzerland CDR ITMO transfer Jun 2025[^noitmosrc] | Tanzania JCM MoC May 2025 | India JCM MoC Aug 29, 2025 (partner #30) | Malawi AIR Aug 2025 | Uganda regulations Apr 2025 + Switzerland bilateral COP30 Nov 2025
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -213,7 +213,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-05-10 | シンガポールRFP2開始（2025年10月31日）[^sgrfp2] | ノルウェー・スイスCDR ITMO移転（2025年6月）[^noitmosrc]
+    > 最終更新: 2026-05-16 | シンガポールRFP2開始（2025年10月31日）[^sgrfp2] | ノルウェー・スイスCDR ITMO移転（2025年6月）[^noitmosrc] | マラウィAIR 2025年8月 | ウガンダ規制2025年4月・スイス二国間COP30 2025年11月
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
