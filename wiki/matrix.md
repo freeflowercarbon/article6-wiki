@@ -100,7 +100,8 @@
     | Tanzania 🇹🇿 | 🤝 **JCM(May 2025)** | — | — | — | — | — |
     | [Morocco 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | — | — |
     | Zambia 🇿🇲 | — | 📋 MOU | — | 🤝 bilateral | 🤝 bilateral(2024) | — |
-    | Malawi 🇲🇼 | — | — | 🤝 bilateral(2022) | — | — | — |
+    | [Malawi 🇲🇼](countries/malawi.md) | — | — | 🤝 bilateral; **AIR Aug 2025** | — | — | — |
+    | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🤝 bilateral(COP30 2025) | 💬 | — | — |
     | Dominica 🇩🇲 | — | — | 🤝 bilateral(2021) | 🤝 bilateral | — | — |
 
     ## Other JCM & Bilateral Partners
@@ -292,7 +293,8 @@
     | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🤝 JCM(2021) | — | — | — | — | — |
     | [モロッコ 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | — | — |
     | ザンビア 🇿🇲 | — | 📋 MOU | — | 🤝 二国間 | 🤝 二国間(2024) | — |
-    | マラウイ 🇲🇼 | — | — | 🤝 二国間(2022) | — | — | — |
+    | [マラウィ 🇲🇼](countries/malawi.md) | — | — | 🤝 二国間；**AIR 2025年8月** | — | — | — |
+    | [ウガンダ 🇺🇬](countries/uganda.md) | — | — | 🤝 二国間(COP30 2025) | 💬 | — | — |
     | ドミニカ 🇩🇲 | — | — | 🤝 二国間(2021) | 🤝 二国間 | — | — |
 
     ## その他JCM・バイラテラルパートナー
