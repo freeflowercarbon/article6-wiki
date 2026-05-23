@@ -141,11 +141,13 @@
     | RFP Round 1 price range | S$19–41/t (≈ US$14–30) [^sgRFP1] |
     | RFP Round 1 total value | ~S$76M (~US$60M) [^sgRFP1] |
     | ICC demand limit | Max 5% of each entity's carbon tax obligation |
+    | ICC rollover (2025→2026) | Unused 2025 ICC quota rolls into 2026 with conversion: **(A – B) × (S$25/S$45)** to adjust for the tax rate increase[^sgrollover] |
     | Implied total ICC demand (2026–27 at S$45/t) | Estimated ~1–3 Mt/yr (market estimates; not officially published) |
 
     **Demand tightness**: Supply of eligible ITMOs remains very limited — Singapore's RFP1 attracted only 17 bidders for 2.175 Mt, and RFP2 (Oct 2025) expanded to technology credits partly because NBS supply is constrained.[^sgdemand]
 
     [^sgctax]: NEA Carbon Tax: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/carbon-tax>
+    [^sgrollover]: Singapore ICC rollover formula for 2025→2026 rate transition: NEA Carbon Tax page <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/climate-change/carbon-tax>
     [^sgRFP1]: S&P Global RFP1 results: <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>; NCCS: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^sgdemand]: MTI Singapore RFP2 announcement: <https://www.mti.gov.sg/newsroom/singapore-launches-second-request-for-proposals-for-high-quality-carbon-credits/>
 

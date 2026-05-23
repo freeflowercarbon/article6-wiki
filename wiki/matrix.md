@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-16 | Singapore RFP2 launched Oct 31, 2025[^sgrfp2] | Norway-Switzerland CDR ITMO transfer Jun 2025[^noitmosrc] | Tanzania JCM MoC May 2025 | India JCM MoC Aug 29, 2025 (partner #30) | Malawi AIR Aug 2025 | Uganda regulations Apr 2025 + Switzerland bilateral COP30 Nov 2025
+    > Last updated: 2026-05-16 | Singapore S$45/t from Jan 2026 | Oman JCM MoC Apr 10, 2026 (partner #31-32) | India JCM MoC Aug 29, 2025 (partner #30) | Malawi AIR Aug 2025 | Uganda bilateral COP30 Nov 2025 | CBAM Q1 2026 €75.36/t
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -11,7 +11,7 @@
 
     | | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |---|---|---|---|---|---|---|
-    | **Carbon price (current)** | GX-ETS: JPY 1,700–4,300/t (≈US$11–27)[^jpgx] | S$25/t (≈US$19)[^sgprice] | CO₂ levy CHF 120/t (≈US$133); ETS ~€50–70/t[^chprice] | SEK 1,330/t (≈US$125)[^seprice] | NOK 1,125/t (≈US$105)[^noprice] | KRW 8,000–18,000/t (≈US$6–13)[^krprice] |
+    | **Carbon price (current)** | GX-ETS: JPY 1,700–4,300/t (≈US$11–27)[^jpgx] | **S$45/t** (≈US$33)[^sgprice] *(since Jan 2026)* | CO₂ levy CHF 120/t (≈US$133); ETS ~€50–70/t[^chprice] | SEK 1,330/t (≈US$125)[^seprice] | NOK 1,125/t (≈US$105)[^noprice] | KRW 8,000–18,000/t (≈US$6–13)[^krprice] |
     | **Carbon price (2027 est.)** | Rises at inflation+3%/yr[^jpgx] | S$45/t (≈US$33)[^sgprice] | ETS tracks EU ETS | SEK ~1,500+/t[^seprice] | NOK ~1,400/t[^noprice] | KRW 20,000–40,000/t (≈US$15–29)[^krprice] |
     | **Price escalation defined?** | ✅ inflation+3%/yr[^jpgx] | ✅ S$25→45→50–80/t[^sgprice] | — | ✅ Annual increases[^seprice] | ✅ Toward NOK 2,000/t by 2030[^noprice] | — |
     | **Procurement mechanism** | JCM (ODA-based)[^jcmm] | IA + private-sector RFP[^sgIA] | FOEN bilateral (case-by-case)[^chfoen] | Energimyndigheten bilateral[^swepart] | KLD bilateral[^noza] | K-ETS external credit quota[^krpha4] |
@@ -213,7 +213,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-05-16 | シンガポールRFP2開始（2025年10月31日）[^sgrfp2] | ノルウェー・スイスCDR ITMO移転（2025年6月）[^noitmosrc] | マラウィAIR 2025年8月 | ウガンダ規制2025年4月・スイス二国間COP30 2025年11月
+    > 最終更新: 2026-05-16 | シンガポール炭素税S$45/t（2026年1月〜） | オマーンJCM MoC（2026年4月10日）パートナー国#31-32 | インドJCM MoC（2025年8月29日）#30 | マラウィAIR 2025年8月 | CBAMスタートQ1 2026 €75.36/t
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 

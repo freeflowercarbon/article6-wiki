@@ -13,12 +13,20 @@
     | Q1 2026 certificate price | **€75.36/t CO₂e** (linked to EU ETS quarterly average)[^cbamq1] |
     | Covered sectors (Phase 1) | Steel, aluminium, cement, fertilisers, hydrogen |
     | Phase 2 expansion | 2028: 180 downstream products (steel/aluminium-intensive)[^cbamiext] |
-    | Article 6 credits (Tier 2) | **Accepted up to 10% of reported embedded emissions** (EU draft, May 13, 2026)[^tfg] |
+    | Aug 2025 | Call for evidence — CBAM emissions methodology & carbon pricing rules[^cbamcfe] |
+    | Oct 2025 | Amended CBAM Regulation (simplification) published in Official Journal[^cbamamd] |
+    | Dec 2025 | Commission proposal — strengthened anti-circumvention provisions[^cbamcirc] |
+    | May 13 – Jun 10, 2026 | Public consultation on **Implementing Act for third-country carbon price recognition** (Tier 1 + Tier 2 Article 6 credits)[^cbamcons] |
+    | Article 6 credits (Tier 2) | **Accepted up to 10% of reported embedded emissions** per Implementing Act draft[^tfg] |
     | Key uncertainty | "Transitivity" — whether Singapore's carbon tax (which allows 5% A6 offset) is automatically CBAM-recognised as Tier 1 |
 
     [^cbamq1]: S&P Global (Apr 7, 2026): <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/040726-brussels-confirms-first-cbam-certificate-price-for-q1-2026-at-eur7536mtco2e>
     [^cbamiext]: EU CBAM 2028 extension: European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
     [^tfg]: Trade Finance Global (May 2026): <https://www.tradefinanceglobal.com/posts/new-eu-draft-carbon-credits-cbam-requirements/>
+    [^cbamcfe]: EU CBAM call for evidence (Aug 2025): European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
+    [^cbamamd]: Amended CBAM Regulation (Oct 2025): Official Journal of the EU <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
+    [^cbamcirc]: Commission anti-circumvention proposal (Dec 2025): European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
+    [^cbamcons]: CBAM Implementing Act public consultation (May 13 – Jun 10, 2026) — covers both Tier 1 (domestic carbon prices) and Tier 2 (Article 6 credit deductions): European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
 
     ## Two-Tier Carbon Price Deduction Structure
 
