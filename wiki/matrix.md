@@ -13,7 +13,7 @@
     |---|---|---|---|---|---|---|
     | **Carbon price (current)** | GX-ETS: JPY 1,700–4,300/t (≈US$11–27)[^jpgx] | **S$45/t** (≈US$33)[^sgprice] *(since Jan 2026)* | CO₂ levy CHF 120/t (≈US$133); ETS ~€50–70/t[^chprice] | SEK 1,330/t (≈US$125)[^seprice] | NOK 1,125/t (≈US$105)[^noprice] | KRW 8,000–18,000/t (≈US$6–13)[^krprice] |
     | **Carbon price (2027 est.)** | Rises at inflation+3%/yr[^jpgx] | S$45/t (≈US$33)[^sgprice] | ETS tracks EU ETS | SEK ~1,500+/t[^seprice] | NOK ~1,400/t[^noprice] | KRW 20,000–40,000/t (≈US$15–29)[^krprice] |
-    | **Price escalation defined?** | ✅ inflation+3%/yr[^jpgx] | ✅ S$25→45→50–80/t[^sgprice] | — | ✅ Annual increases[^seprice] | ✅ Toward NOK 2,000/t by 2030[^noprice] | — |
+    | **Price escalation defined?** | 🟢 inflation+3%/yr[^jpgx] | 🟢 S$25→45→50–80/t[^sgprice] | — | 🟢 Annual increases[^seprice] | 🟢 Toward NOK 2,000/t by 2030[^noprice] | — |
     | **Procurement mechanism** | JCM (ODA-based)[^jcmm] | IA + private-sector RFP[^sgIA] | FOEN bilateral (case-by-case)[^chfoen] | Energimyndigheten bilateral[^swepart] | KLD bilateral[^noza] | K-ETS external credit quota[^krpha4] |
     | **International procurement limit** | No formal cap (NDC supplement) | Max 5% of carbon tax liability[^sgprice] | Up to 50% of NDC (CO2 Act)[^chprice] | Not published | Not published | Up to 5% of K-ETS allowances[^krpha4] |
     | **Methodology approach** | Proprietary JCM methodologies[^jcmm] | Registry positive list (Verra, GS, ACR, ART TREES, GCC)[^sgm] | Verra/GS accepted; FOEN + BeZero review[^chm] | Verra/GS case-by-case[^swepart] | Verra/GS case-by-case | CDM-based; A6.2 criteria TBD[^krpha4] |
@@ -35,91 +35,87 @@
     [^chm]: Switzerland methodology approach (BeZero): <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
     [^sgrfp2]: Singapore RFP2 launched Oct 31, 2025 (combined tech-based + nature-based Article 6 credits): Carbon Pulse <https://carbon-pulse.com/451306/>
 
-    ## Legend — Progress Stages
+    ## Legend
 
-    Stages are cumulative: higher stage = more advanced. Read cells as: **symbol** + detail text (year, note).
+    | Symbol | Meaning |
+    |--------|---------|
+    | — | No engagement |
+    | 🔴 | **MOU / Letter of Intent signed** (early-stage commitment) |
+    | 🟡 | **IA / bilateral agreement signed** — no confirmed A6.2 ITMO transfer yet |
+    | 🟢 | **ITMO actually transferred** — confirmed A6.2 inter-country transfer |
+    | ⚠️ | Agreement exists but activity **suspended** |
 
-    | Symbol | Stage | Meaning |
-    |--------|:-----:|---------|
-    | — | 0 | No engagement |
-    | 💬 | 1 | Interest expressed / informal discussion |
-    | 📋 | 2 | MOU / Letter of Intent signed |
-    | 🔄 | 3 | Formal IA / bilateral negotiation ongoing |
-    | 🤝 | 4 | Agreement signed (JCM / IA / bilateral) — no confirmed A6.2 transfers yet |
-    | ✅ | 5 | A6.2 credits / ITMOs **actually transferred** |
-    | ⚠️ | — | Agreement exists but activity **suspended** |
-
-    > **Note**: Most JCM agreements (🤝) have issued JCM credits domestically, but formal Article 6.2 ITMO designation under the March 2025 framework is ongoing. ✅ is reserved for confirmed inter-country A6.2 transfers.
+    > **Note**: 🟡 JCM agreements have typically issued JCM credits domestically, but formal Article 6.2 ITMO authorization under the March 2025 framework is still in progress for most. 🟢 is reserved for confirmed bilateral ITMO transfers only.
 
     ## Southeast Asia
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Indonesia 🇮🇩](countries/indonesia.md) | 🤝 JCM(2013) | 🔄 IA negotiating | — | — | — | 📋 MOU(2024) |
-    | [Vietnam 🇻🇳](countries/vietnam.md) | 🤝 JCM(2013) | 🤝 **IA(2025)** | 🔄 | — | — | 💬 |
-    | [Philippines 🇵🇭](countries/philippines.md) | 🤝 JCM(2017) | 🤝 **IA(Apr 2026)** | — | — | — | — |
-    | [Thailand 🇹🇭](countries/thailand.md) | 🤝 JCM(2015) | 🤝 **IA(2025)** | ✅ **ITMO Jan 2024 + Apr 2026** | — | — | 💬 |
-    | [Malaysia 🇲🇾](countries/malaysia.md) | — | 📋 MOU | — | — | — | — |
-    | [Cambodia 🇰🇭](countries/cambodia.md) | 🤝 JCM(2022) | 📋 **MOU only** (IA negotiating) | — | — | — | 💬 |
-    | [Laos 🇱🇦](countries/laos.md) | 🤝 JCM(2015) | — | — | — | — | — |
+    | [Indonesia 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 IA negotiating | — | — | — | 🔴 MOU(2024) |
+    | [Vietnam 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
+    | [Philippines 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
+    | [Thailand 🇹🇭](countries/thailand.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟢 **ITMO Jan 2024 + Apr 2026** | — | — | — |
+    | [Malaysia 🇲🇾](countries/malaysia.md) | — | 🔴 MOU | — | — | — | — |
+    | [Cambodia 🇰🇭](countries/cambodia.md) | 🟡 JCM(2022) | 🔴 **MOU only** (IA negotiating) | — | — | — | — |
+    | [Laos 🇱🇦](countries/laos.md) | 🟡 JCM(2015) | — | — | — | — | — |
     | [Myanmar 🇲🇲](countries/myanmar.md) | ⚠️ JCM(2014) | — | — | — | — | — |
 
     ## Pacific & Central Asia
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Papua New Guinea 🇵🇬](countries/papua_new_guinea.md) | 🤝 JCM(2014) | 🤝 IA(2023) | — | — | — | — |
-    | [Mongolia 🇲🇳](countries/mongolia.md) | 🤝 JCM(2013) | 🤝 **IA(2025)** | — | — | — | — |
-    | [Uzbekistan 🇺🇿](countries/uzbekistan.md) | 🤝 JCM(2016) | — | — | — | — | — |
-    | [Kazakhstan 🇰🇿](countries/kazakhstan.md) | 🤝 JCM(2014) | — | — | — | — | — |
-    | [Georgia 🇬🇪](countries/georgia.md) | 🤝 JCM(2016) | — | 🤝 bilateral(2022) | — | — | — |
-    | [Palau 🇵🇼](countries/palau.md) | 🤝 JCM(2014) | — | — | — | — | — |
-    | [Maldives 🇲🇻](countries/maldives.md) | 🤝 JCM(2013) | — | — | — | — | — |
+    | [Papua New Guinea 🇵🇬](countries/papua_new_guinea.md) | 🟡 JCM(2014) | 🟡 IA(2023) | — | — | — | — |
+    | [Mongolia 🇲🇳](countries/mongolia.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | — | — | — | — |
+    | [Uzbekistan 🇺🇿](countries/uzbekistan.md) | 🟡 JCM(2016) | — | — | — | — | — |
+    | [Kazakhstan 🇰🇿](countries/kazakhstan.md) | 🟡 JCM(2014) | — | — | — | — | — |
+    | [Georgia 🇬🇪](countries/georgia.md) | 🟡 JCM(2016) | — | 🟡 bilateral(2022) | — | — | — |
+    | [Palau 🇵🇼](countries/palau.md) | 🟡 JCM(2014) | — | — | — | — | — |
+    | [Maldives 🇲🇻](countries/maldives.md) | 🟡 JCM(2013) | — | — | — | — | — |
 
     ## Latin America
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Peru 🇵🇪](countries/peru.md) | — | 🤝 IA(2024) RFP1 | ✅ bilateral(2020) **ITMO 2023** | 💬 | — | — |
-    | [Paraguay 🇵🇾](countries/paraguay.md) | — | 🤝 IA(2024) RFP1 | — | — | — | — |
-    | [Chile 🇨🇱](countries/chile.md) | 🤝 JCM(2015) | 🤝 **IA(2025)** | 🤝 bilateral | 💬 | — | — |
-    | [Colombia 🇨🇴](countries/colombia.md) | 🤝 JCM(2021) | 📋 MOU | 💬 | — | — | — |
-    | [Mexico 🇲🇽](countries/mexico.md) | 🤝 JCM(2014) | — | — | — | — | — |
-    | [Costa Rica 🇨🇷](countries/costa_rica.md) | 🤝 JCM(2013) | 📋 MOU | — | — | — | — |
+    | [Peru 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1 | 🟢 bilateral(2020) **ITMO 2023** | — | — | — |
+    | [Paraguay 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1 | — | — | — | — |
+    | [Chile 🇨🇱](countries/chile.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟡 bilateral | — | — | — |
+    | [Colombia 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
+    | [Mexico 🇲🇽](countries/mexico.md) | 🟡 JCM(2014) | — | — | — | — | — |
+    | [Costa Rica 🇨🇷](countries/costa_rica.md) | 🟡 JCM(2013) | 🔴 MOU | — | — | — | — |
 
     ## Africa
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Ghana 🇬🇭](countries/ghana.md) | — | 🤝 IA(2023) **RFP1:Kwahu ARR** | ✅ bilateral(2021) **11,733 ITMO Jul 2025** | 🤝 bilateral | — | — |
-    | [Rwanda 🇷🇼](countries/rwanda.md) | — | 🤝 IA(2023) | — | 🤝 bilateral | — | — |
-    | [Kenya 🇰🇪](countries/kenya.md) | 🤝 JCM(2013) | 📋 MOU | — | 🤝 bilateral | — | — |
-    | [Senegal 🇸🇳](countries/senegal.md) | 🤝 JCM(2015) | — | 🤝 bilateral(2023) | — | 🤝 bilateral | — |
-    | [Ethiopia 🇪🇹](countries/ethiopia.md) | 🤝 JCM(2013) | — | — | — | — | — |
-    | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🤝 JCM(2021) | — | — | — | — | — |
-    | Tanzania 🇹🇿 | 🤝 **JCM(May 2025)** | — | — | — | — | — |
-    | [Morocco 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | 🤝 **bilateral(May 2026)** | — |
-    | Zambia 🇿🇲 | — | 📋 MOU | — | 🤝 bilateral | 🤝 **bilateral(COP30 2025)** | — |
-    | [Malawi 🇲🇼](countries/malawi.md) | — | — | 🤝 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
-    | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🤝 bilateral(COP30 2025) | 💬 | — | — |
-    | Dominica 🇩🇲 | — | — | 🤝 bilateral(2021) | 🤝 bilateral | — | — |
-    | Benin 🇧🇯 | — | — | — | — | 🤝 bilateral | — |
-    | Jordan 🇯🇴 | — | — | — | — | 🤝 **bilateral(Mar 2026)** | — |
-    | Pakistan 🇵🇰 | — | — | — | — | 📋 **MoU(Apr 2026)** | — |
+    | [Ghana 🇬🇭](countries/ghana.md) | — | 🟡 IA(2023) **RFP1:Kwahu ARR** | 🟢 bilateral(2021) **11,733 ITMO Jul 2025** | 🟡 bilateral | — | — |
+    | [Rwanda 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) | — | 🟡 bilateral | — | — |
+    | [Kenya 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | — | 🟡 bilateral | — | — |
+    | [Senegal 🇸🇳](countries/senegal.md) | 🟡 JCM(2015) | — | 🟡 bilateral(2023) | — | 🟡 bilateral | — |
+    | [Ethiopia 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
+    | Tanzania 🇹🇿 | 🟡 **JCM(May 2025)** | — | — | — | — | — |
+    | [Morocco 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **bilateral(May 2026)** | — |
+    | Zambia 🇿🇲 | — | 🔴 MOU | — | 🟡 bilateral | 🟡 **bilateral(COP30 2025)** | — |
+    | [Malawi 🇲🇼](countries/malawi.md) | — | — | 🟡 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
+    | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🟡 bilateral(COP30 2025) | — | — | — |
+    | Dominica 🇩🇲 | — | — | 🟡 bilateral(2021) | 🟡 bilateral | — | — |
+    | Benin 🇧🇯 | — | — | — | — | 🟡 bilateral | — |
+    | Jordan 🇯🇴 | — | — | — | — | 🟡 **bilateral(Mar 2026)** | — |
+    | Pakistan 🇵🇰 | — | — | — | — | 🔴 **MoU(Apr 2026)** | — |
 
     ## Other JCM & Bilateral Partners
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | India 🇮🇳 | 🤝 **JCM(Aug 29, 2025)** | — | — | — | — | 🤝 **A6.2 bilateral(Apr 2026)** |
-    | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🤝 JCM(2013) | — | — | — | — | — |
-    | [Tunisia 🇹🇳](countries/tunisia.md) | 🤝 JCM(2015) | — | 🤝 bilateral | — | — | — |
-    | [Moldova 🇲🇩](countries/moldova.md) | 🤝 JCM(2016) | — | — | — | — | — |
-    | [Azerbaijan 🇦🇿](countries/azerbaijan.md) | 🤝 JCM(2016) | — | — | — | — | — |
-    | Nepal 🇳🇵 | — | — | — | 🤝 bilateral | — | — |
-    | Vanuatu 🇻🇺 | — | — | 🤝 bilateral(2021) | — | — | — |
-    | Ukraine 🇺🇦 | — | — | 🤝 bilateral(2022) ⚠️ | — | — | — |
-    | Uruguay 🇺🇾 | — | — | 🤝 bilateral | — | — | — |
+    | India 🇮🇳 | 🟡 **JCM(Aug 29, 2025)** | — | — | — | — | 🟡 **A6.2 bilateral(Apr 2026)** |
+    | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [Tunisia 🇹🇳](countries/tunisia.md) | 🟡 JCM(2015) | — | 🟡 bilateral | — | — | — |
+    | [Moldova 🇲🇩](countries/moldova.md) | 🟡 JCM(2016) | — | — | — | — | — |
+    | [Azerbaijan 🇦🇿](countries/azerbaijan.md) | 🟡 JCM(2016) | — | — | — | — | — |
+    | Nepal 🇳🇵 | — | — | — | 🟡 bilateral | — | — |
+    | Vanuatu 🇻🇺 | — | — | 🟡 bilateral(2021) | — | — | — |
+    | Ukraine 🇺🇦 | — | — | 🟡 bilateral(2022) ⚠️ | — | — | — |
+    | Uruguay 🇺🇾 | — | — | 🟡 bilateral | — | — | — |
 
     ## NDC Achievement Outlook — Export Readiness Signal
 
@@ -159,12 +155,12 @@
     | Host Country | Best Partner | Est. First ITMO | Status / Basis |
     |-------------|:------------:|:---------------:|----------------|
     | **Confirmed Transfers** | | | |
-    | Peru 🇵🇪 | Switzerland 🇨🇭 | ✅ **2023** | World's first A6.2 ITMO transfer[^peitmosrc] |
-    | Ghana 🇬🇭 | Switzerland 🇨🇭 | ✅ **Jul 7, 2025** | **11,733 ITMOs** — Africa's first A6.2 ITMO for NDC use; cookstoves[^ghitmosrc] |
-    | Thailand 🇹🇭 | Switzerland 🇨🇭 | ✅ **Jan 2024 + Apr 2, 2026** | Jan 2024: 1,916 units (2nd global); **Apr 2, 2026: 49,717 units (Bangkok E-Bus)**[^thitmosrc] |
-    | Georgia 🇬🇪 | Switzerland 🇨🇭 | ✅ **2024–2025** | RE + forest portfolio[^geitmosrc] |
-    | Laos 🇱🇦 | Japan JCM | ✅ **2024** | 3M credits authorized (enteric methane) — Mekong first[^laitmosrc] |
-    | Norway 🇳🇴 (as host) | Switzerland 🇨🇭 | ✅ **Jun 2025** | **Historic: first-ever A6.2 CDR (carbon removal) transfer**[^noitmosrc] |
+    | Peru 🇵🇪 | Switzerland 🇨🇭 | 🟢 **2023** | World's first A6.2 ITMO transfer[^peitmosrc] |
+    | Ghana 🇬🇭 | Switzerland 🇨🇭 | 🟢 **Jul 7, 2025** | **11,733 ITMOs** — Africa's first A6.2 ITMO for NDC use; cookstoves[^ghitmosrc] |
+    | Thailand 🇹🇭 | Switzerland 🇨🇭 | 🟢 **Jan 2024 + Apr 2, 2026** | Jan 2024: 1,916 units (2nd global); **Apr 2, 2026: 49,717 units (Bangkok E-Bus)**[^thitmosrc] |
+    | Georgia 🇬🇪 | Switzerland 🇨🇭 | 🟢 **2024–2025** | RE + forest portfolio[^geitmosrc] |
+    | Laos 🇱🇦 | Japan JCM | 🟢 **2024** | 3M credits authorized (enteric methane) — Mekong first[^laitmosrc] |
+    | Norway 🇳🇴 (as host) | Switzerland 🇨🇭 | 🟢 **Jun 2025** | **Historic: first-ever A6.2 CDR (carbon removal) transfer**[^noitmosrc] |
     | **Pipeline — Near-term (2026–2027)** | | | |
     | Paraguay 🇵🇾 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025; first monitoring cycle needed[^pyitmosrc] |
     | Ghana 🇬🇭 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025 (~1.35 Mt, **Kwahu Landscape Restoration ARR**)[^ghsgitmosrc] |
@@ -228,7 +224,7 @@
     |---|---|---|---|---|---|---|
     | **炭素価格（現在）** | GX-ETS: JPY 1,700〜4,300/t[^jpgx] | S$25/t (≈US$19)[^sgprice] | CO₂レビーCHF 120/t (≈US$133)；ETS≈€50〜70/t[^chprice] | SEK 1,330/t (≈US$125)[^seprice] | NOK 1,125/t (≈US$105)[^noprice] | KRW 8,000〜18,000/t (≈US$6〜13)[^krprice] |
     | **炭素価格（2027年予測）** | インフレ+3%/年で上昇[^jpgx] | S$45/t (≈US$33)[^sgprice] | EU ETS連動[^chprice] | SEK 1,500+/t[^seprice] | NOK〜1,400/t[^noprice] | KRW 20,000〜40,000/t[^krprice] |
-    | **価格上昇率の定め** | ✅ インフレ+3%/年[^jpgx] | ✅ S$25→45→50〜80[^sgprice] | — | ✅ 毎年引き上げ計画[^seprice] | ✅ 2030年NOK 2,000/t目標[^noprice] | — |
+    | **価格上昇率の定め** | 🟢 インフレ+3%/年[^jpgx] | 🟢 S$25→45→50〜80[^sgprice] | — | 🟢 毎年引き上げ計画[^seprice] | 🟢 2030年NOK 2,000/t目標[^noprice] | — |
     | **調達メカニズム** | JCM（ODA型）[^jcmm] | IA＋民間RFP[^sgIA] | FOEN二国間（案件別）[^chfoen] | エネルギー庁二国間[^swepart] | KLD二国間[^noza] | K-ETS外部クレジット枠[^krpha4] |
     | **国際調達上限** | 上限なし（NDC補完） | 炭素税義務の最大5%[^sgprice] | NDC目標の最大50%（CO2法）[^chprice] | 非公表 | 非公表 | K-ETS排出枠の5%[^krpha4] |
     | **方法論アプローチ** | JCM独自方法論[^jcmm] | 承認登録簿ポジティブリスト[^sgm] | Verra/GS＋FOEN審査[^chm] | Verra/GS 案件別[^swepart] | Verra/GS 案件別 | CDM準拠；A6.2基準未定[^krpha4] |
@@ -236,84 +232,84 @@
 
     ## 凡例 — 進捗ステージ
 
-    ステージは累積的：数字が大きいほど進捗が進んでいる。セルは **記号** + 詳細テキスト（年・備考）の組み合わせで読む。
+    | 記号 | 意味 |
+    |------|------|
+    | — | 未着手・関係なし |
+    | 🔴 | **MOU・意向書署名済み**（初期的コミットメント） |
+    | 🟡 | **IA・二国間協定署名済み** — A6.2 ITMO移転実績なし |
+    | 🟢 | **ITMO実際に移転済み** — A6.2二国間移転確認済み |
+    | ⚠️ | 協定あり・活動**停止中** |
 
-    | 記号 | ステージ | 意味 |
-    |------|:--------:|------|
-    | — | 0 | 未着手・関係なし |
-    | 💬 | 1 | 関心表明・非公式協議 |
-    | 📋 | 2 | MOU・意向書署名済み |
-    | 🔄 | 3 | IA・二国間協定の正式交渉中 |
-    | 🤝 | 4 | 協定署名済み（JCM / IA / バイラテラル）— A6.2移転実績なし |
-    | ✅ | 5 | A6.2クレジット / ITMO **実際に移転済み** |
-    | ⚠️ | — | 協定あり・活動**停止中** |
-
-    > **注記**: JCM協定（🤝）の多くは国内でJCMクレジットを発行済みだが、2025年3月のA6.2適合認定後のITMO正式移転手続きは進行中。✅は二国間ITMO移転が確認済みの場合のみ使用。
+    > **注記**: 🟡 JCM協定の多くは国内でJCMクレジットを発行済みだが、2025年3月のA6.2適合認定後のITMO正式移転手続きは進行中。🟢は二国間ITMO移転が確認済みの場合のみ使用。
 
     ## 東南アジア
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [インドネシア 🇮🇩](countries/indonesia.md) | 🤝 JCM(2013) | 🔄 IA交渉中 | — | — | — | 📋 MOU(2024) |
-    | [ベトナム 🇻🇳](countries/vietnam.md) | 🤝 JCM(2013) | 🤝 **IA(2025)** | 🔄 | — | — | 💬 |
-    | [フィリピン 🇵🇭](countries/philippines.md) | 🤝 JCM(2017) | 📋 MOU | — | — | — | — |
-    | [タイ 🇹🇭](countries/thailand.md) | 🤝 JCM(2015) | 🤝 **IA(2025)** | ✅ **ITMO 2024年1月** | — | — | 💬 |
-    | [マレーシア 🇲🇾](countries/malaysia.md) | — | 📋 MOU | — | — | — | — |
-    | [カンボジア 🇰🇭](countries/cambodia.md) | 🤝 JCM(2022) | 🤝 IA(2024) | — | — | — | 💬 |
-    | [ラオス 🇱🇦](countries/laos.md) | 🤝 JCM(2015) | — | — | — | — | — |
+    | [インドネシア 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 IA交渉中 | — | — | — | 🔴 MOU(2024) |
+    | [ベトナム 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
+    | [フィリピン 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
+    | [タイ 🇹🇭](countries/thailand.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟢 **ITMO 2024年1月 + 2026年4月** | — | — | — |
+    | [マレーシア 🇲🇾](countries/malaysia.md) | — | 🔴 MOU | — | — | — | — |
+    | [カンボジア 🇰🇭](countries/cambodia.md) | 🟡 JCM(2022) | 🔴 **MOU only**（IA交渉中） | — | — | — | — |
+    | [ラオス 🇱🇦](countries/laos.md) | 🟡 JCM(2015) | — | — | — | — | — |
     | [ミャンマー 🇲🇲](countries/myanmar.md) | ⚠️ JCM(2014) | — | — | — | — | — |
 
     ## 大洋州・中央アジア
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [パプアニューギニア 🇵🇬](countries/papua_new_guinea.md) | 🤝 JCM(2014) | 🤝 IA(2023) | — | — | — | — |
-    | [モンゴル 🇲🇳](countries/mongolia.md) | 🤝 JCM(2013) | 🤝 **IA(2025)** | — | — | — | — |
-    | [ウズベキスタン 🇺🇿](countries/uzbekistan.md) | 🤝 JCM(2016) | — | — | — | — | — |
-    | [カザフスタン 🇰🇿](countries/kazakhstan.md) | 🤝 JCM(2014) | — | — | — | — | — |
-    | [ジョージア 🇬🇪](countries/georgia.md) | 🤝 JCM(2016) | — | 🤝 二国間(2022) | — | — | — |
-    | [パラオ 🇵🇼](countries/palau.md) | 🤝 JCM(2014) | — | — | — | — | — |
-    | [モルディブ 🇲🇻](countries/maldives.md) | 🤝 JCM(2013) | — | — | — | — | — |
+    | [パプアニューギニア 🇵🇬](countries/papua_new_guinea.md) | 🟡 JCM(2014) | 🟡 IA(2023) | — | — | — | — |
+    | [モンゴル 🇲🇳](countries/mongolia.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | — | — | — | — |
+    | [ウズベキスタン 🇺🇿](countries/uzbekistan.md) | 🟡 JCM(2016) | — | — | — | — | — |
+    | [カザフスタン 🇰🇿](countries/kazakhstan.md) | 🟡 JCM(2014) | — | — | — | — | — |
+    | [ジョージア 🇬🇪](countries/georgia.md) | 🟡 JCM(2016) | — | 🟡 二国間(2022) | — | — | — |
+    | [パラオ 🇵🇼](countries/palau.md) | 🟡 JCM(2014) | — | — | — | — | — |
+    | [モルディブ 🇲🇻](countries/maldives.md) | 🟡 JCM(2013) | — | — | — | — | — |
 
     ## 中南米
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [ペルー 🇵🇪](countries/peru.md) | — | 🤝 IA(2024) RFP1落札 | ✅ 二国間(2020) **ITMO 2023** | 💬 | — | — |
-    | [パラグアイ 🇵🇾](countries/paraguay.md) | — | 🤝 IA(2024) RFP1落札 | — | — | — | — |
-    | [チリ 🇨🇱](countries/chile.md) | 🤝 JCM(2015) | 🤝 **IA(2025)** | 🤝 二国間 | 💬 | — | — |
-    | [コロンビア 🇨🇴](countries/colombia.md) | 🤝 JCM(2021) | 📋 MOU | 💬 | — | — | — |
-    | [メキシコ 🇲🇽](countries/mexico.md) | 🤝 JCM(2014) | — | — | — | — | — |
-    | [コスタリカ 🇨🇷](countries/costa_rica.md) | 🤝 JCM(2013) | 📋 MOU | — | — | — | — |
+    | [ペルー 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1落札 | 🟢 二国間(2020) **ITMO 2023** | — | — | — |
+    | [パラグアイ 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1落札 | — | — | — | — |
+    | [チリ 🇨🇱](countries/chile.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟡 二国間 | — | — | — |
+    | [コロンビア 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
+    | [メキシコ 🇲🇽](countries/mexico.md) | 🟡 JCM(2014) | — | — | — | — | — |
+    | [コスタリカ 🇨🇷](countries/costa_rica.md) | 🟡 JCM(2013) | 🔴 MOU | — | — | — | — |
 
     ## アフリカ
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [ガーナ 🇬🇭](countries/ghana.md) | — | 🤝 IA(2023) RFP1×2 | ✅ 二国間(2021) **ITMO** | 🤝 二国間 | — | — |
-    | [ルワンダ 🇷🇼](countries/rwanda.md) | — | 🤝 IA(2023) | — | 🤝 二国間 | — | — |
-    | [ケニア 🇰🇪](countries/kenya.md) | 🤝 JCM(2013) | 📋 MOU | — | 🤝 二国間 | — | — |
-    | [セネガル 🇸🇳](countries/senegal.md) | 🤝 JCM(2015) | — | 🤝 二国間(2023) | — | — | — |
-    | [エチオピア 🇪🇹](countries/ethiopia.md) | 🤝 JCM(2013) | — | — | — | — | — |
-    | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🤝 JCM(2021) | — | — | — | — | — |
-    | [モロッコ 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | — | — |
-    | ザンビア 🇿🇲 | — | 📋 MOU | — | 🤝 二国間 | 🤝 二国間(2024) | — |
-    | [マラウィ 🇲🇼](countries/malawi.md) | — | — | 🤝 二国間；**AIR 2025年8月** | — | — | — |
-    | [ウガンダ 🇺🇬](countries/uganda.md) | — | — | 🤝 二国間(COP30 2025) | 💬 | — | — |
-    | ドミニカ 🇩🇲 | — | — | 🤝 二国間(2021) | 🤝 二国間 | — | — |
+    | [ガーナ 🇬🇭](countries/ghana.md) | — | 🟡 IA(2023) **RFP1:Kwahu ARR** | 🟢 二国間(2021) **11,733 ITMO 2025年7月** | 🟡 二国間 | — | — |
+    | [ルワンダ 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) | — | 🟡 二国間 | — | — |
+    | [ケニア 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | — | 🟡 二国間 | — | — |
+    | [セネガル 🇸🇳](countries/senegal.md) | 🟡 JCM(2015) | — | 🟡 二国間(2023) | — | 🟡 二国間 | — |
+    | [エチオピア 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
+    | [モロッコ 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **二国間(2026年5月)** | — |
+    | ザンビア 🇿🇲 | — | 🔴 MOU | — | 🟡 二国間 | 🟡 **二国間(COP30 2025)** | — |
+    | [マラウィ 🇲🇼](countries/malawi.md) | — | — | 🟡 二国間；**AIR 2025年8月；乳牛バイオガス授権 2026年4月** | — | — | — |
+    | [ウガンダ 🇺🇬](countries/uganda.md) | — | — | 🟡 二国間(COP30 2025) | — | — | — |
+    | ドミニカ 🇩🇲 | — | — | 🟡 二国間(2021) | 🟡 二国間 | — | — |
+    | ベナン 🇧🇯 | — | — | — | — | 🟡 二国間 | — |
+    | ヨルダン 🇯🇴 | — | — | — | — | 🟡 **二国間(2026年3月)** | — |
+    | パキスタン 🇵🇰 | — | — | — | — | 🔴 **MoU(2026年4月)** | — |
 
     ## その他JCM・バイラテラルパートナー
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [バングラデシュ 🇧🇩](countries/bangladesh.md) | 🤝 JCM(2013) | — | — | — | — | — |
-    | [チュニジア 🇹🇳](countries/tunisia.md) | 🤝 JCM(2015) | — | 🤝 二国間 | — | — | — |
-    | [モルドバ 🇲🇩](countries/moldova.md) | 🤝 JCM(2016) | — | — | — | — | — |
-    | [アゼルバイジャン 🇦🇿](countries/azerbaijan.md) | 🤝 JCM(2016) | — | — | — | — | — |
-    | ネパール 🇳🇵 | — | — | — | 🤝 二国間 | — | — |
-    | バヌアツ 🇻🇺 | — | — | 🤝 二国間(2021) | — | — | — |
-    | ウクライナ 🇺🇦 | — | — | 🤝 二国間(2022) ⚠️ | — | — | — |
-    | ウルグアイ 🇺🇾 | — | — | 🤝 二国間 | — | — | — |
+    | インド 🇮🇳 | 🟡 **JCM(2025年8月)** | — | — | — | — | 🟡 **A6.2二国間協定(2026年4月)** |
+    | [バングラデシュ 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [チュニジア 🇹🇳](countries/tunisia.md) | 🟡 JCM(2015) | — | 🟡 二国間 | — | — | — |
+    | [モルドバ 🇲🇩](countries/moldova.md) | 🟡 JCM(2016) | — | — | — | — | — |
+    | [アゼルバイジャン 🇦🇿](countries/azerbaijan.md) | 🟡 JCM(2016) | — | — | — | — | — |
+    | ネパール 🇳🇵 | — | — | — | 🟡 二国間 | — | — |
+    | バヌアツ 🇻🇺 | — | — | 🟡 二国間(2021) | — | — | — |
+    | ウクライナ 🇺🇦 | — | — | 🟡 二国間(2022) ⚠️ | — | — | — |
+    | ウルグアイ 🇺🇾 | — | — | 🟡 二国間 | — | — | — |
 
     ## NDC達成見込みとITMO輸出適性
 
@@ -344,12 +340,12 @@
     | ホスト国 | 最有力パートナー | 推定初ITMO | 根拠 |
     |---------|:--------------:|:----------:|------|
     | **確認済み移転** | | | |
-    | ペルー 🇵🇪 | スイス 🇨🇭 | ✅ **2023年** | 世界初A6.2 ITMO移転[^peitmosrc] |
-    | ガーナ 🇬🇭 | スイス 🇨🇭 | ✅ **2024年1月** | アフリカ初（改良かまど＋REDD+）[^ghitmosrc] |
-    | タイ 🇹🇭 | スイス 🇨🇭 | ✅ **2024年1月** | 1,916ユニット・世界2番目[^thitmosrc] |
-    | ジョージア 🇬🇪 | スイス 🇨🇭 | ✅ **2024〜2025年** | 再エネ・森林ポートフォリオ[^geitmosrc] |
-    | ラオス 🇱🇦 | 日本JCM | ✅ **2024年** | 300万クレジット授権（腸内メタン）—メコン初[^laitmosrc] |
-    | **ノルウェー 🇳🇴**（ホスト） | スイス 🇨🇭 | ✅ **2025年6月** | **歴史的：A6.2初の炭素除去（CDR）移転**[^noitmosrc] |
+    | ペルー 🇵🇪 | スイス 🇨🇭 | 🟢 **2023年** | 世界初A6.2 ITMO移転[^peitmosrc] |
+    | ガーナ 🇬🇭 | スイス 🇨🇭 | 🟢 **2024年1月** | アフリカ初（改良かまど＋REDD+）[^ghitmosrc] |
+    | タイ 🇹🇭 | スイス 🇨🇭 | 🟢 **2024年1月** | 1,916ユニット・世界2番目[^thitmosrc] |
+    | ジョージア 🇬🇪 | スイス 🇨🇭 | 🟢 **2024〜2025年** | 再エネ・森林ポートフォリオ[^geitmosrc] |
+    | ラオス 🇱🇦 | 日本JCM | 🟢 **2024年** | 300万クレジット授権（腸内メタン）—メコン初[^laitmosrc] |
+    | **ノルウェー 🇳🇴**（ホスト） | スイス 🇨🇭 | 🟢 **2025年6月** | **歴史的：A6.2初の炭素除去（CDR）移転**[^noitmosrc] |
     | **パイプライン — 近期（2026〜2027年）** | | | |
     | パラグアイ 🇵🇾 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1契約済（2025年9月）；初回モニタリングが必要[^pyitmosrc] |
     | ガーナ 🇬🇭 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1×2契約（改良かまど約90万t＋REDD+約45万t）[^ghsgitmosrc] |
