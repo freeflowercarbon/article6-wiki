@@ -49,6 +49,7 @@
     | Thailand | 2015 | 🟡 Ongoing | T-VER alignment |
     | Papua New Guinea | 2014 | 🟡 IA also with Singapore | Dual access |
     | **Oman 🇴🇲** | **2026** | 🟡 MoC signed | **MoC signed April 10, 2026** — partner #31 or #32[^jpoman] |
+    | **Kyrgyz Republic 🇰🇬** | — | 🟡 JC governance milestone | **JC governance arrangement finalized May 25, 2026**[^jpkyrgyz] |
     | All 32 partners | — | [→ full matrix](../matrix.md) | — |
 
     ## Reversal Risk Policy (JCM)
@@ -142,6 +143,7 @@
 
     [^phphnbs]: Philippines JCM Phase 4 Forest-specific Guidelines approved Nov 2025 by Japan-Philippines Joint Committee; source: GEC Philippines <https://gec.jp/jcm/projects/>
     [^jpoman]: Oman JCM MoC signed April 10, 2026: JCMA news <https://gec.jp/jcm/agency/en/news/>
+    [^jpkyrgyz]: Japan-Kyrgyz Republic JCM Joint Committee governance arrangement finalized May 25, 2026: JCMA / MOEJ announcement
     [^khnbs]: Cambodia Prey Lang NBS-JCM authorized December 2023; source: GEC Cambodia / MOEJ announcement
 
     ## Procurement Track Record & Demand
@@ -159,7 +161,11 @@
     | J-Credit 2024 annual issuance | ~1.7 Mt (record; forest management: ~770,000 t = ~45%) |
     | J-Credit JPX price (March 2026) | ~¥4,300–5,000/t (converging near GX-ETS upper limit) |
 
-    **Demand outlook**: Japan's GX-ETS launched in April 2026 covering 300–400 large emitters (>100,000 t/yr). JCM A6.2 credits (ITMOs) are eligible for GX-ETS compliance up to 10% of obligations. The gap between the 100 Mt JCM target and current 817,247 tCO₂e (~0.8%) implies procurement must accelerate >100× in 4 years. Three demand scenarios under GX-ETS:
+    **Demand outlook**: Japan's GX-ETS launched in April 2026 covering 300–400 large emitters (>100,000 t/yr). JCM A6.2 credits (ITMOs) are eligible for GX-ETS compliance up to 10% of obligations. The gap between the 100 Mt JCM target and current 817,247 tCO₂e (~0.8%) implies procurement must accelerate >100× in 4 years.
+
+    > ⚠️ **H1 2026 demand muted**: Near-term GX-ETS credit demand is weaker than expected due to **allocation uncertainty** — initial free allowance allocations have not been finalized, leaving companies uncertain about their actual compliance gap. Cap publication deferred to autumn 2026. Banking into FY2027 likely. The structural demand remains high but near-term trading volumes are subdued.[^jcmh1muted]
+
+    Three demand scenarios under GX-ETS:
 
     | Scenario | Annual JCM demand by 2030 | Key condition |
     |----------|--------------------------|---------------|
@@ -174,6 +180,7 @@
     [^jcmstat]: QC Intel JCM analysis: <https://www.qcintel.com/carbon/article/feature-japan-looks-to-upscale-the-jcm-to-meet-enhanced-carbon-credit-goals-36788.html>; ERCST March 2025: <https://ercst.org/wp-content/uploads/2025/03/Cooperative-Approach_Japan_Satoru-Iino.pdf>
     [^jcmnbs]: MSCI Japan NBS blog: <https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects>
     [^jcmdemand]: IGES JCM Database: <https://www.iges.or.jp/en/pub/iges-joint-crediting-mechanism-jcm-database/en>
+    [^jcmh1muted]: GX-ETS H1 2026 demand muted due to allocation uncertainty; cap publication deferred to autumn 2026; banking into FY2027 anticipated: Carbon Pulse / IETA Japan Report (May 2026)
 
     ## GX-ETS Design Parameters (FY2026)
 

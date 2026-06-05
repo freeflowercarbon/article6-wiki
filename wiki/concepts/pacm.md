@@ -55,8 +55,11 @@
     | Nov 2024 (COP29) | Full operationalization — complete rules package adopted by CMA |
     | Dec 2024 | CDM transition application window open |
     | 2025 | First PACM project registrations expected; A6.4SB begins methodology reviews |
-    | 2026 | First A6.4ERs expected to be issued; UNFCCC registry operational (target) |
+    | **Feb 26, 2026** | **HISTORIC: First-ever A6.4ERs issued** — Myanmar efficient cookstoves project: **58,428 tCO₂e** (South Korea acquiring country)[^firstpacm] |
+    | 2026 | UNFCCC registry operational (target); further methodology approvals |
     | 2027+ | Scale-up phase; CORSIA eligibility decision expected |
+
+    [^firstpacm]: First Article 6.4 credits (A6.4ERs) issued February 26, 2026 — Myanmar efficient cookstoves project, 58,428 tCO₂e; acquiring country: South Korea: UNFCCC A6.4SB registry; Carbon Pulse (Feb 26, 2026)
 
     ## A6.4SB — Active Methodology Reviews (as of Q1 2026)
 
@@ -80,7 +83,7 @@
     | CA requirement | No | Yes (Type B only) | Yes |
     | Registry | CDM registry (winding down) | UNFCCC central registry | Host country + bilateral |
     | Speed to registration | 18–36 months | Uncertain (target <18 months) | Faster (bilateral) |
-    | Status (Q1 2026) | Wind-down; new registrations closed | Pipeline forming | Active; ITMOs issued |
+    | Status (Q2 2026) | Wind-down; new registrations closed | **First credits issued Feb 26, 2026** (Myanmar, 58,428 t) | Active; ITMOs issued |
     | NBS / REDD+ | Widely used (but no CA) | Under methodology review | Used bilaterally (JCM, SG IA) |
 
     ## CDM to PACM Transition
@@ -180,7 +183,8 @@
     | 2024年11月（COP29） | 完全運用化 — CMAで完全ルールパッケージ採択 |
     | 2024年12月 | CDM移行申請ウィンドウ開始 |
     | 2025年 | 初のPACMプロジェクト登録が見込まれる |
-    | 2026年 | 初のA6.4ER発行見込み・UNFCCC登録簿稼働（目標） |
+    | **2026年2月26日** | **【歴史的】初のA6.4ERが発行** — ミャンマー省エネかまどプロジェクト、58,428 tCO₂e（韓国が調達）[^firstpacm] |
+    | 2026年 | UNFCCC登録簿稼働（目標）；方法論追加承認 |
     | 2027年以降 | スケールアップ、CORSIA適格性決定見込み |
 
     ## CDMからPACMへの移行

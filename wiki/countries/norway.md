@@ -37,13 +37,40 @@
 
     ## Bilateral A6.2 Agreements (as Acquiring Country)
 
-    | Host Country | Year | Status | Notes |
-    |-------------|------|--------|-------|
-    | Zambia 🇿🇲 | 2024 | ✅ Signed at COP29 | Forest / NBS focus [^noza] |
+    Norway has significantly expanded its Article 6.2 bilateral portfolio through the **NOGER (Norwegian Green Emission Reductions)** mechanism — the government's primary acquisition vehicle for international carbon credits.[^noger]
 
-    > Additional bilateral agreements likely; check: <https://unepccc.org/article-6-pipeline/>
+    | Host Country | Agreement Type | Date | Status | Notes |
+    |-------------|---------------|------|--------|-------|
+    | Benin 🇧🇯 | Bilateral Agreement | 2024 | ✅ Active | NOGER portfolio |
+    | Zambia 🇿🇲 | Bilateral Agreement | Nov 2024 | ✅ **Signed at COP30** | Forest / NBS focus [^noza] |
+    | Jordan 🇯🇴 | Bilateral Agreement | Mar 3, 2026 | ✅ **Signed** | NOGER portfolio[^nojordan] |
+    | Indonesia 🇮🇩 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
+    | Senegal 🇸🇳 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
+    | Pakistan 🇵🇰 | MoU | Apr 1, 2026 | ✅ **Signed** | Article 6.2 cooperation[^nopak] |
+    | Morocco 🇲🇦 | Bilateral Agreement | May 5, 2026 | ✅ **Signed** | NOGER portfolio[^nomorocco] |
 
-    [^nocdrhost]: Norway-Switzerland CDR ITMO transfer (Jun 2025) — world's first A6.2 transfer in the CDR category: Carbon Pulse <https://carbon-pulse.com/>; FOEN Switzerland <https://www.bafu.admin.ch/>
+    > ⚠️ **NOGER exclusion**: Norway's NOGER framework **excludes direct forestry ITMO purchase** (NBS excluded from eligible credit types, similar to Switzerland's CO2 Act constraint). Host countries with primarily NBS/REDD+ pipelines may need to target other buyers.
+
+    > UNEP-CCC A6 pipeline: <https://unepccc.org/article-6-pipeline/>
+
+    ## Article 6 Ambition Alliance (AAA6)
+
+    Norway joined the **Article 6 Ambition Alliance (AAA6)** at COP30 (Belém, November 2025) as a **financing member**.[^noaaa6]
+
+    | AAA6 Element | Detail |
+    |-------------|--------|
+    | Announced | COP30, November 21, 2025 |
+    | Norway's role | Financing member (alongside Germany, Luxembourg, Sweden, Switzerland) |
+    | Host members | Peru, Chile, Mongolia, Ghana, Zambia |
+    | Structure | OIMP — outcomes-based, no NDC credit counting for donor countries |
+
+    [^noger]: NOGER (Norwegian Green Emission Reductions) — Norway's government A6.2 procurement program: Norwegian Environment Agency (Miljødirektoratet)
+    [^nojordan]: Norway-Jordan bilateral agreement signed March 3, 2026: GGGI press release / Norwegian government
+    [^nopak]: Norway-Pakistan MoU on Article 6.2 cooperation signed April 1, 2026: Norwegian government
+    [^nomorocco]: Norway-Morocco bilateral agreement signed May 5, 2026: GGGI / Norwegian government
+    [^noaaa6]: Article 6 Ambition Alliance (AAA6) launched COP30, November 21, 2025: <https://www.carbon-markets.gov.sg/article6-ambition-alliance>
+
+    [^nocdrhost]: Norway-Switzerland CDR ITMO transfer June 17, 2025 — world's first A6.2 transfer in the CDR category: Carbon Pulse <https://carbon-pulse.com/>; FOEN Switzerland <https://www.bafu.admin.ch/>
 
     ## Methodology Approach
 
@@ -69,7 +96,7 @@
 
     | Metric | Data |
     |--------|------|
-    | Active bilateral A6.2 agreements | 1 confirmed — Zambia (COP29, 2024)[^noza] |
+    | Active bilateral A6.2 agreements | **7 confirmed** — Benin, Zambia (COP30, Nov 2025), Jordan (Mar 2026), Indonesia, Senegal, Pakistan MoU (Apr 2026), Morocco (May 2026)[^noza][^nojordan][^nopak][^nomorocco] |
     | NICFI annual forest finance | ~NOK 3 billion/yr grant (separate from A6.2 credits)[^nonicfi] |
     | NDC gap (domestic only) | ~51 percentage points shortfall vs. 55% target — large gap[^nondc] |
     | Implied A6.2 potential demand | 5–15 Mt/yr if Article 6.2 used substantially for NDC |
@@ -87,7 +114,7 @@
     - UNEP-CCC Zambia-Norway bilateral: <https://unepccc.org/zambias-climate-commitment-yields-results-bilateral-agreements-signed-with-sweden-and-norway-at-cop29/>
     - ICAP Norway ETS: <https://icapcarbonaction.com/en/ets/norway-ets>
 
-    [^noza]: UNEP-CCC, "Zambia's climate commitment yields results — bilateral agreements signed with Sweden and Norway at COP29": <https://unepccc.org/zambias-climate-commitment-yields-results-bilateral-agreements-signed-with-sweden-and-norway-at-cop29/>
+    [^noza]: UNEP-CCC, "Zambia's climate commitment yields results — bilateral agreements signed with Sweden and Norway at COP30 (Belém, Nov 2025)": <https://unepccc.org/zambias-climate-commitment-yields-results-bilateral-agreements-signed-with-sweden-and-norway-at-cop29/>
     [^noco2]: Norway CO₂ tax escalation path: <https://www.regjeringen.no/en/dep/kld/id668/>
 
 === "🇯🇵 日本語"
@@ -104,11 +131,19 @@
     | A6.2の役割 | 調達国（二国間協定） |
     | 主管省庁 | 気候環境省（KLD）、ノルウェー環境庁 |
 
-    ## 二国間A6.2協定状況
+    ## 二国間A6.2協定状況（NOGER）
 
-    | ホスト国 | 年 | 状況 |
-    |---------|---|------|
-    | ザンビア 🇿🇲 | 2024年 | ✅ COP29で署名 [^noza] |
+    | ホスト国 | 署名 | 状況 |
+    |---------|------|------|
+    | ベナン 🇧🇯 | 2024年 | ✅ 活動中 |
+    | ザンビア 🇿🇲 | 2025年11月（COP30） | ✅ 署名済み [^noza] |
+    | インドネシア 🇮🇩 | 2025年 | ✅ 活動中 |
+    | セネガル 🇸🇳 | 2025年 | ✅ 活動中 |
+    | ヨルダン 🇯🇴 | 2026年3月3日 | ✅ **署名済み** [^nojordan] |
+    | パキスタン 🇵🇰 | 2026年4月1日（MoU） | ✅ **署名済み** [^nopak] |
+    | モロッコ 🇲🇦 | 2026年5月5日 | ✅ **署名済み** [^nomorocco] |
+
+    > ⚠️ **NOGER除外事項**: 直接的な林業ITMOの購入は対象外（NBS除外、スイスCO2法の制約と類似）。
 
     ## 炭素価格制度の概要
 

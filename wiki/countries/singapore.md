@@ -42,6 +42,7 @@
     | **Vietnam 🇻🇳** | **2025** | ✅ **Active** | **IA signed Sep 2025** [^sgvn] |
     | Chile 🇨🇱 | 2025 | ✅ Active | — |
     | Mongolia 🇲🇳 | 2025 | ✅ Active | — |
+    | **Philippines 🇵🇭** | **2026** | ✅ **Active** | **IA signed April 30, 2026 — 12th Singapore IA** [^sgph] |
     | Indonesia 🇮🇩 | — | 🔄 Negotiating | Post-Perpres 110/2025 |
 
     ### MOU / Letter of Intent Countries [^sgMOU]
@@ -54,7 +55,7 @@
     | Kenya 🇰🇪 | 📋 MOU | — |
     | Malaysia 🇲🇾 | 📋 MOU | — |
     | Morocco 🇲🇦 | 📋 MOU | — |
-    | Philippines 🇵🇭 | 📋 MOU | — |
+    | Brazil 🇧🇷 | 📋 MOU | MOU signed Dec 18, 2025 |
     | Costa Rica 🇨🇷 | 📋 MOU | — |
     | Zambia 🇿🇲 | 📋 MOU | — |
     | Sri Lanka 🇱🇰 | 📋 MOU | — |
@@ -62,6 +63,7 @@
     [^sgIA]: Singapore MSE Implementation Agreements: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^sgth]: Thailand IA signed August 2025; source: Singapore MSE
     [^sgvn]: Vietnam IA signed September 2025; source: Singapore MSE
+    [^sgph]: Singapore-Philippines Implementation Agreement signed April 30, 2026 (12th Singapore IA; 4th ASEAN IA partner): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^sgMOU]: Singapore MSE MOUs: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/sgs-article-6-cooperations/mous/>
 
     ## Reversal Risk Policy (Singapore IA)
@@ -93,12 +95,13 @@
 
     | Country | Project Type | Volume | Price Range | Status |
     |---------|-------------|--------|-------------|--------|
-    | Ghana | Improved cookstoves | ~900,000 t | S$19–41/t | 🟡 Delivery 2026–2030 |
-    | Ghana | REDD+ forest conservation | ~450,000 t | S$19–41/t | 🟡 Delivery 2026–2030 |
-    | **Peru** | **Amazon REDD+** | **~540,000 t** | S$19–41/t | 🟡 **Delivery 2026–2030** |
+    | **Ghana** | **Kwahu Landscape Restoration (ARR)** | **~1,350,000 t** | S$19–41/t | 🟡 Delivery 2026–2030 |
+    | **Peru** | **Amazon REDD+ (Kowen Antami + Together for Forests)** | **~540,000 t** | S$19–41/t | 🟡 **Delivery 2026–2030** |
     | **Paraguay** | **Gran Chaco forest** | **~285,000 t** | S$19–41/t | 🟡 **Delivery 2026–2030** |
 
     **Total RFP1**: 4 projects, 2,175,000 t-CO₂e, ~S$76M (~US$60M)
+
+    > ⚠️ **Correction (Jun 2026)**: Earlier versions listed the Ghana RFP1 contract as "cookstoves + REDD+". The confirmed contracted project is the **Kwahu Landscape Restoration (Afforestation/Reforestation, ARR)** in Ghana's Eastern Region.
 
     > Source: NCCS Award: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     > Price data: <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>
@@ -209,8 +212,13 @@
     | ルワンダ 🇷🇼 | 2023年 | ✅ 稼働中 | 森林保全 |
     | ブータン 🇧🇹 | 2024年 | ✅ 稼働中 | 水力・NBS |
     | カンボジア 🇰🇭 | 2024年 | ✅ 稼働中 | NBS＋JCM重複 |
-    | **ペルー 🇵🇪** | **2024年** | ✅ **稼働中** | **RFP1落札：1プロジェクト（アマゾンREDD+）** |
+    | **ペルー 🇵🇪** | **2024年** | ✅ **稼働中** | **RFP1落札：Kowen Antami + Together for Forests REDD+** |
     | **パラグアイ 🇵🇾** | **2024年** | ✅ **稼働中** | **RFP1落札：1プロジェクト（グランチャコ）** |
+    | **タイ 🇹🇭** | **2025年** | ✅ **稼働中** | **IA署名 2025年8月** |
+    | **ベトナム 🇻🇳** | **2025年** | ✅ **稼働中** | **IA署名 2025年9月** |
+    | チリ 🇨🇱 | 2025年 | ✅ 稼働中 | — |
+    | モンゴル 🇲🇳 | 2025年 | ✅ 稼働中 | — |
+    | **フィリピン 🇵🇭** | **2026年** | ✅ **稼働中** | **IA署名 2026年4月30日（第12号IA）** |
     | インドネシア 🇮🇩 | — | 🔄 交渉中 | Perpres 110/2025後 |
 
     ## リバーサルリスクに対するシンガポールIAの立場

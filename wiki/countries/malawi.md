@@ -12,7 +12,7 @@
     | Carbon System | Carbon Market Office established under DNA; national registry under development[^mwcmo] |
     | JCM (Japan) | — Not a JCM partner |
     | Singapore IA | — Not yet |
-    | Switzerland | ✅ Bilateral signed; **AIR submitted August 2025** (1M+ ITMO planned)[^mwch] |
+    | Switzerland | ✅ Bilateral signed; **AIR submitted August 2025** (1M+ ITMO planned); **Dairy Biogas Program authorized April 6, 2026**[^mwch][^mwdairy] |
     | CA Framework | 🟡 In progress — AIR submitted; CA procedures under development[^mwair] |
     | Key Ministry | Ministry of Forestry and Natural Resources (MFNR)[^mwmfnr] |
 
@@ -20,6 +20,7 @@
     [^mwcmo]: Malawi Carbon Market Office and DNA (Designated National Authority): NDC Partnership <https://ndcpartnership.org/country/mwi>
     [^mwch]: Switzerland-Malawi bilateral agreement + Article 6.2 Initial Report (August 2025): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse <https://carbon-pulse.com/426119/>
     [^mwair]: Malawi Article 6.2 Initial Report (AIR) submitted August 2025 (Hestian CF / Chitetezo Mbaula project, 1M+ ITMOs planned): UNFCCC CARP <https://www4.unfccc.int/sites/SubmissionsStaging/Documents/202508131039---Initial%20report_Hestian%20CF_Government%20of%20Malawi_12_08_2025.pdf>
+    [^mwdairy]: **Dairy Biogas Program authorized April 6, 2026** — Malawi's first Article 6.2 authorization for a biogas/agri project; implementing entities: Sistema.bio, ACT Group, EcoGen; compliance framework: KliK (Swiss obligation): Carbon Pulse / UNFCCC CARP
     [^mwmfnr]: Ministry of Forestry and Natural Resources: <https://www.forestry.gov.mw/>
 
     ## NDC Achievement Status
@@ -42,6 +43,7 @@
     | Project | Partner | Status | Est. Volume |
     |---------|---------|--------|-------------|
     | Clean cooking — Chitetezo Mbaula (efficient biomass stoves) | Switzerland / KliK / Hestian CF | 🟡 **AIR submitted Aug 2025; ITMO issuance pending** | 1M+ t CO₂e planned |
+    | **Dairy Biogas Program** | Switzerland / KliK / Sistema.bio / ACT Group / EcoGen | ✅ **A6.2 Authorized April 6, 2026** — Malawi's first A6.2 authorization[^mwdairy] | TBD |
 
     > Switzerland bilateral: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     > KliK (Swiss offsetting administrator): <https://www.klik.ch/en/>
@@ -102,6 +104,7 @@
     | プロジェクト | 相手 | 状況 | 規模 |
     |------------|------|------|------|
     | クリーンクッキング（Chitetezo Mbaula） | スイス / KliK / Hestian CF | 🟡 AIR提出済み；ITMO発行待ち | 100万t超 |
+    | **Dairy Biogas Program（酪農バイオガス）** | スイス / KliK / Sistema.bio / ACT Group / EcoGen | ✅ **A6.2授権済み（2026年4月6日）** — マラウィ初の授権 | TBD |
 
     ## NBS投資家向け注記
 

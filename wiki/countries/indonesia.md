@@ -83,7 +83,9 @@
     | KLH (Ministry of Environment — post Perpres 139/2024) | Carbon market, A6.2, climate policy | <https://www.kemenlh.go.id/> |
     | Bappenas (National Planning Agency) | NDC coordination, climate finance | <https://www.bappenas.go.id/> |
     | IDXCarbon | Carbon exchange (as of May 2026: **1.9M+ tCO₂e** traded; 93.7B IDR; 10 projects; 155 participants) | <https://idxcarbon.co.id/> |
-    | SRUK registry | New trading registry (Perpres 110/2025) | Contact via KLHK |
+    | SRUK registry | **In trial phase since April 2026; target full launch July 2026** (replaces SRN-PPI for A6.2 transactions under Perpres 110/2025)[^idsruk] | Contact via KLHK |
+
+    [^idsruk]: SRUK (Sistem Registrasi Usaha Kehutanan) carbon unit registry in trial phase April 2026; target operational July 2026. **Ministerial Regulation 6/2026** (forestry carbon, April 13, 2026) establishes additional governance rules for forest carbon transactions under SRUK: KLHK <https://www.kehutanan.go.id/>; Carbon Pulse (Apr 2026)
 
     ## Key Sources
     - Indonesia Enhanced NDC 2022: <https://unfccc.int/NDCREG>

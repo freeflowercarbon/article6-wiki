@@ -17,8 +17,8 @@
 
     [^ghndc]: Ghana NDC (2021 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GHA>
     [^ghgcmo]: GCMO (Ghana Carbon Market Office) — carbon registry and CA operations: MESTI <https://www.mesti.gov.gh/>
-    [^ghsg]: Singapore-Ghana IA (2023) + RFP Round 1 contracts (cookstoves ~900,000 t + REDD+ ~450,000 t, total ~1.35 Mt, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; Singapore MSE IA network <https://www.carbonmarkets-cooperation.gov.sg/>
-    [^ghch]: Switzerland-Ghana bilateral (2021) + ITMO transfers confirmed: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^ghsg]: Singapore-Ghana IA (2023) + RFP Round 1 contract: **Kwahu Landscape Restoration (ARR, Eastern Region)** — ~1,350,000 t, 2026–2030 (earlier incorrect descriptions cited "cookstoves + REDD+"; correct project is Kwahu ARR): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; Singapore MSE IA network <https://www.carbonmarkets-cooperation.gov.sg/>
+    [^ghch]: Switzerland-Ghana bilateral (2021) + **11,733 ITMOs issued July 7, 2025** (cookstoves project — Africa's first A6.2 ITMO transfer for NDC use): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse (Jul 2025)
 
     ## NDC Achievement Status
 
@@ -29,7 +29,7 @@
     | Unconditional target (~15 Mt)[^ghndc] | 🟢 Achievable with current trajectory |
     | Conditional target (64 Mt)[^ghndc] | 🔴 Requires large-scale international finance — A6.2 is catalytic |
     | Key driver | Forest conservation (REDD+), clean cooking, RE |
-    | RFP1 delivery | Singapore contracts: cookstoves (~900,000 t) + REDD+ (~450,000 t); delivery 2026–2030[^ghsg] |
+    | RFP1 delivery | Singapore contract: **Kwahu Landscape Restoration ARR** (~1,350,000 t); delivery 2026–2030[^ghsg] |
     | Export motivation | ⭐⭐⭐⭐ High — unconditional on track; A6.2 revenue directly funds conditional gap |
 
     [^ghndcnew]: Ghana NDC status (2025): GCMO / MESTI; NDC 3.0 expected: Carbon Pulse <https://carbon-pulse.com/>
@@ -40,10 +40,10 @@
 
     | Project | Partner | Status | Volume |
     |---------|---------|--------|--------|
-    | Improved cookstoves (LPG reduction) | Switzerland | ✅ **ITMO transferred** | ~200,000 t/yr |
+    | Improved cookstoves (LPG reduction) | Switzerland | ✅ **11,733 ITMOs issued July 7, 2025** — Africa's first A6.2 ITMO for NDC use | ~200,000 t/yr |
     | REDD+ forest conservation (Northern Ghana) | Switzerland | ✅ **ITMO transferred** | Undisclosed |
-    | Clean cooking / NBS pipeline | Singapore | 🟡 First transactions pending | TBD |
-    | REDD+ tropical forest (Southern Ghana) | Singapore (prospective) | 🟡 Development | TBD |
+    | **Kwahu Landscape Restoration (ARR)** | Singapore — RFP1 | ✅ **Contract awarded Sept 2025; delivery 2026–2030** | ~1,350,000 t total |
+    | REDD+ tropical forest (pipeline) | Singapore (prospective) | 🟡 Development (post-RFP1) | TBD |
 
     > Switzerland BAFU/FOEN: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     > UNFCCC A6 portal: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
@@ -100,9 +100,9 @@
 
     | プロジェクト | 相手 | 状況 | 規模 |
     |------------|------|------|------|
-    | 改良かまど（LPG削減） | スイス | ✅ **ITMO移転済み** | 約20万t/年 |
+    | 改良かまど（LPG削減） | スイス | ✅ **ITMO 11,733ユニット発行（2025年7月7日）** — アフリカ初のA6.2 ITMO（NDC充当） | 約20万t/年 |
     | REDD+森林保全（北部） | スイス | ✅ **ITMO移転済み** | 非公表 |
-    | クリーンクッキング | シンガポール | 🟡 初取引進行中 | TBD |
+    | **Kwahu Landscape Restoration（ARR）** | シンガポール — RFP1 | ✅ **契約締結（2025年9月）；2026〜2030年納入** | 合計約135万t |
 
     ## CCP認証候補ボランタリープロジェクト
 

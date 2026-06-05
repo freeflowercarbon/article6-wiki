@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-16 | Singapore S$45/t from Jan 2026 | Oman JCM MoC Apr 10, 2026 (partner #31-32) | India JCM MoC Aug 29, 2025 (partner #30) | Malawi AIR Aug 2025 | Uganda bilateral COP30 Nov 2025 | CBAM Q1 2026 €75.36/t
+    > Last updated: **2026-06-06** | Philippines Singapore IA signed Apr 30, 2026 (12th IA) | Vietnam A6.2 decree effective May 19, 2026 | Norway-Morocco BA May 5, 2026 | Norway-Jordan BA Mar 3, 2026 | Peru CARP AIR Jun 1, 2026 (23 AIRs total) | Malawi Dairy Biogas authorized Apr 6, 2026 | Thailand-Switzerland 49,717 ITMOs Apr 2, 2026 | PACM first credits Feb 26, 2026 (Myanmar, 58,428t) | CBAM Q1 2026 €75.36/t
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -29,7 +29,7 @@
     [^sgIA]: Singapore MSE Implementation Agreements: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^chfoen]: Switzerland FOEN bilateral agreements: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     [^swepart]: Energimyndigheten Partnerships under the Paris Agreement: <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
-    [^noza]: Norway-Zambia bilateral (COP29): UNEP-CCC <https://unepccc.org/zambias-climate-commitment-yields-results-bilateral-agreements-signed-with-sweden-and-norway-at-cop29/>
+    [^noza]: Norway-Zambia bilateral (COP30, Belém, Nov 2025): UNEP-CCC <https://unepccc.org/zambias-climate-commitment-yields-results-bilateral-agreements-signed-with-sweden-and-norway-at-cop29/>
     [^krpha4]: Korea K-ETS Phase 4 design: ICAP Korea ETS <https://icapcarbonaction.com/en/ets/korea-emissions-trading-scheme>
     [^sgm]: Singapore approved registries: NEA <https://www.nea.gov.sg/media/news/news/index/singapore-publishes-eligibility-list-for-international-carbon-credits-under-the-carbon-tax-regime>
     [^chm]: Switzerland methodology approach (BeZero): <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
@@ -57,10 +57,10 @@
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
     | [Indonesia 🇮🇩](countries/indonesia.md) | 🤝 JCM(2013) | 🔄 IA negotiating | — | — | — | 📋 MOU(2024) |
     | [Vietnam 🇻🇳](countries/vietnam.md) | 🤝 JCM(2013) | 🤝 **IA(2025)** | 🔄 | — | — | 💬 |
-    | [Philippines 🇵🇭](countries/philippines.md) | 🤝 JCM(2017) | 📋 MOU | — | — | — | — |
-    | [Thailand 🇹🇭](countries/thailand.md) | 🤝 JCM(2015) | 🤝 **IA(2025)** | ✅ **ITMO Jan 2024** | — | — | 💬 |
+    | [Philippines 🇵🇭](countries/philippines.md) | 🤝 JCM(2017) | 🤝 **IA(Apr 2026)** | — | — | — | — |
+    | [Thailand 🇹🇭](countries/thailand.md) | 🤝 JCM(2015) | 🤝 **IA(2025)** | ✅ **ITMO Jan 2024 + Apr 2026** | — | — | 💬 |
     | [Malaysia 🇲🇾](countries/malaysia.md) | — | 📋 MOU | — | — | — | — |
-    | [Cambodia 🇰🇭](countries/cambodia.md) | 🤝 JCM(2022) | 🤝 IA(2024) | — | — | — | 💬 |
+    | [Cambodia 🇰🇭](countries/cambodia.md) | 🤝 JCM(2022) | 📋 **MOU only** (IA negotiating) | — | — | — | 💬 |
     | [Laos 🇱🇦](countries/laos.md) | 🤝 JCM(2015) | — | — | — | — | — |
     | [Myanmar 🇲🇲](countries/myanmar.md) | ⚠️ JCM(2014) | — | — | — | — | — |
 
@@ -91,24 +91,27 @@
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Ghana 🇬🇭](countries/ghana.md) | — | 🤝 IA(2023) RFP1×2 | ✅ bilateral(2021) **ITMO** | 🤝 bilateral | — | — |
+    | [Ghana 🇬🇭](countries/ghana.md) | — | 🤝 IA(2023) **RFP1:Kwahu ARR** | ✅ bilateral(2021) **11,733 ITMO Jul 2025** | 🤝 bilateral | — | — |
     | [Rwanda 🇷🇼](countries/rwanda.md) | — | 🤝 IA(2023) | — | 🤝 bilateral | — | — |
     | [Kenya 🇰🇪](countries/kenya.md) | 🤝 JCM(2013) | 📋 MOU | — | 🤝 bilateral | — | — |
-    | [Senegal 🇸🇳](countries/senegal.md) | 🤝 JCM(2015) | — | 🤝 bilateral(2023) | — | — | — |
+    | [Senegal 🇸🇳](countries/senegal.md) | 🤝 JCM(2015) | — | 🤝 bilateral(2023) | — | 🤝 bilateral | — |
     | [Ethiopia 🇪🇹](countries/ethiopia.md) | 🤝 JCM(2013) | — | — | — | — | — |
     | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🤝 JCM(2021) | — | — | — | — | — |
     | Tanzania 🇹🇿 | 🤝 **JCM(May 2025)** | — | — | — | — | — |
-    | [Morocco 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | — | — |
-    | Zambia 🇿🇲 | — | 📋 MOU | — | 🤝 bilateral | 🤝 bilateral(2024) | — |
-    | [Malawi 🇲🇼](countries/malawi.md) | — | — | 🤝 bilateral; **AIR Aug 2025** | — | — | — |
+    | [Morocco 🇲🇦](countries/morocco.md) | 💬 | 📋 MOU | 🔄 | — | 🤝 **bilateral(May 2026)** | — |
+    | Zambia 🇿🇲 | — | 📋 MOU | — | 🤝 bilateral | 🤝 **bilateral(COP30 2025)** | — |
+    | [Malawi 🇲🇼](countries/malawi.md) | — | — | 🤝 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
     | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🤝 bilateral(COP30 2025) | 💬 | — | — |
     | Dominica 🇩🇲 | — | — | 🤝 bilateral(2021) | 🤝 bilateral | — | — |
+    | Benin 🇧🇯 | — | — | — | — | 🤝 bilateral | — |
+    | Jordan 🇯🇴 | — | — | — | — | 🤝 **bilateral(Mar 2026)** | — |
+    | Pakistan 🇵🇰 | — | — | — | — | 📋 **MoU(Apr 2026)** | — |
 
     ## Other JCM & Bilateral Partners
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | India 🇮🇳 | 🤝 **JCM(Aug 29, 2025)** | — | — | — | — | — |
+    | India 🇮🇳 | 🤝 **JCM(Aug 29, 2025)** | — | — | — | — | 🤝 **A6.2 bilateral(Apr 2026)** |
     | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🤝 JCM(2013) | — | — | — | — | — |
     | [Tunisia 🇹🇳](countries/tunisia.md) | 🤝 JCM(2015) | — | 🤝 bilateral | — | — | — |
     | [Moldova 🇲🇩](countries/moldova.md) | 🤝 JCM(2016) | — | — | — | — | — |
@@ -157,20 +160,21 @@
     |-------------|:------------:|:---------------:|----------------|
     | **Confirmed Transfers** | | | |
     | Peru 🇵🇪 | Switzerland 🇨🇭 | ✅ **2023** | World's first A6.2 ITMO transfer[^peitmosrc] |
-    | Ghana 🇬🇭 | Switzerland 🇨🇭 | ✅ **Jan 2024** | First African ITMO; cookstoves + REDD+[^ghitmosrc] |
-    | Thailand 🇹🇭 | Switzerland 🇨🇭 | ✅ **Jan 2024** | 1,916 units; 2nd global transfer[^thitmosrc] |
+    | Ghana 🇬🇭 | Switzerland 🇨🇭 | ✅ **Jul 7, 2025** | **11,733 ITMOs** — Africa's first A6.2 ITMO for NDC use; cookstoves[^ghitmosrc] |
+    | Thailand 🇹🇭 | Switzerland 🇨🇭 | ✅ **Jan 2024 + Apr 2, 2026** | Jan 2024: 1,916 units (2nd global); **Apr 2, 2026: 49,717 units (Bangkok E-Bus)**[^thitmosrc] |
     | Georgia 🇬🇪 | Switzerland 🇨🇭 | ✅ **2024–2025** | RE + forest portfolio[^geitmosrc] |
     | Laos 🇱🇦 | Japan JCM | ✅ **2024** | 3M credits authorized (enteric methane) — Mekong first[^laitmosrc] |
     | Norway 🇳🇴 (as host) | Switzerland 🇨🇭 | ✅ **Jun 2025** | **Historic: first-ever A6.2 CDR (carbon removal) transfer**[^noitmosrc] |
     | **Pipeline — Near-term (2026–2027)** | | | |
     | Paraguay 🇵🇾 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025; first monitoring cycle needed[^pyitmosrc] |
-    | Ghana 🇬🇭 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1×2 contracted Sep 2025 (~1.35 Mt, cookstoves + REDD+)[^ghsgitmosrc] |
+    | Ghana 🇬🇭 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025 (~1.35 Mt, **Kwahu Landscape Restoration ARR**)[^ghsgitmosrc] |
     | Peru 🇵🇪 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025 (Amazon REDD+, ~540,000t)[^pesgitmosrc] |
     | **Pipeline — Medium-term (2027–2028)** | | | |
     | Cambodia 🇰🇭 | Japan JCM | 🟡 **2027–2028** | Prey Lang A6.2 authorized Dec 2023; JCM→ITMO conversion ongoing[^khitmosrc] |
     | Vietnam 🇻🇳 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Aug 2025; ~18–24 month standard lead time[^vnitmosrc] |
     | Chile 🇨🇱 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Apr 2025[^clitmosrc] |
     | Mongolia 🇲🇳 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Oct 6, 2025[^mnitmosrc] |
+    | Philippines 🇵🇭 | Singapore 🇸🇬 | 🟡 **2027–2028** | **IA signed Apr 30, 2026** (12th Singapore IA); ~18–24 month first-ITMO lead time[^phsgitmosrc] |
     | Philippines 🇵🇭 | Japan JCM | 🟡 **2027–2028** | JCM→A6.2; paddy (Feb 2025) + forest (Nov 2025) methodologies approved[^phitmosrc] |
     | **Pipeline — Longer-term (2028+)** | | | |
     | Papua New Guinea 🇵🇬 | Singapore 🇸🇬 | 🔴 **2028+** | IA Dec 2023; cautious "road test" approach still in early stage[^pgitmosrc] |
@@ -179,13 +183,14 @@
 
     [^itmostat]: As of mid-2025, 97+ bilateral IAs signed between 59 countries but only ~3–4 confirmed ITMO transfers; bottleneck = first monitoring cycle: Paris Agreement Article 6 Implementation Report 2025 <https://ca1-aip.edcdn.com/knowledge-hub/The-Paris-Agreement-Article-6-Implementation-Status-Report-2025-Edition.pdf?v=1761224037>
     [^peitmosrc]: Switzerland-Peru (2023 — world's first A6.2 ITMO): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
-    [^ghitmosrc]: Switzerland-Ghana (Jan 31, 2024): Klik.ch <https://www.klik.ch/en/news/news-article/first-itmo-transfer-switzerland-ghana>
-    [^thitmosrc]: Switzerland-Thailand (Jan 2024, 1,916 units): White & Case <https://www.whitecase.com/insight-alert/emerging-fundamentals-climate-mitigation-through-itmo-transactions-under-paris>
+    [^ghitmosrc]: Switzerland-Ghana: **11,733 ITMOs issued July 7, 2025** (cookstoves project — Africa's first A6.2 ITMO for NDC use; confirmed via UNFCCC CARP / Carbon Pulse Jul 2025): Klik.ch <https://www.klik.ch/en/news/news-article/first-itmo-transfer-switzerland-ghana>; earlier Jan 2024 transfer was a test/pilot. July 2025 = first confirmed NDC-counted transfer.
+    [^thitmosrc]: Switzerland-Thailand: (1) Jan 2024: 1,916 units (2nd global A6.2 transfer): White & Case <https://www.whitecase.com/insight-alert/emerging-fundamentals-climate-mitigation-through-itmo-transactions-under-paris>; (2) **Apr 2, 2026: 49,717 units** (Bangkok E-Bus, 2023–2024 vintage): Swiss FOEN; Carbon Pulse (Apr 2026)
     [^geitmosrc]: Switzerland-Georgia (2024–2025 initial transfers): FOEN bilateral portfolio <https://www.bafu.admin.ch/>
     [^laitmosrc]: Laos JCM A6.2 authorization (3M credits, enteric methane — first in Mekong): Carbon Pulse <https://carbon-pulse.com/453295/>
     [^noitmosrc]: Norway-Switzerland CDR ITMO transfer (Jun 17, 2025 — first-ever A6.2 carbon removal transfer): ClimeFi <https://www.climefi.com/blog-posts-climefi-structures-a-historic-first-norway-switzerland-itmo-transfer-under-article-6-of-the-paris-agreement/>
     [^pyitmosrc]: Singapore-Paraguay RFP1 (Gran Chaco grassland, ~285,000t, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
-    [^ghsgitmosrc]: Singapore-Ghana RFP1×2 (~900,000t cookstoves + ~450,000t REDD+, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^ghsgitmosrc]: Singapore-Ghana RFP1 Kwahu Landscape Restoration ARR (~1,350,000t, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^phsgitmosrc]: Singapore-Philippines IA signed April 30, 2026 (12th Singapore IA): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^pesgitmosrc]: Singapore-Peru RFP1 (Amazon REDD+, ~540,000t, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^khitmosrc]: Cambodia Prey Lang A6.2 authorization (Dec 2023); JCM→ITMO conversion: Article 6 Partnership <https://a6partnership.org/a6-implementation-status/current-status-of-article-6-2-implementation>
     [^vnitmosrc]: Vietnam-Singapore IA (Aug 2025); 18–24 month standard first-ITMO lead time: Reccessary <https://www.reccessary.com/en/insight/asia-pushes-ahead-on-article-6>

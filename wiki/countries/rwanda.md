@@ -34,8 +34,10 @@
 
     | Project | Partner | Status | Notes |
     |---------|---------|--------|-------|
-    | Forest conservation (Gishwati area) | Singapore | 🟡 Development stage | Singapore IA 2023 |
+    | Forest conservation (Gishwati area) | Singapore | 🟡 Development stage | Singapore IA 2023; **project application call issued January 30, 2026**[^rwcall] |
     | Smallholder clean cooking | Singapore (prospective) | 🟡 Scoping | — |
+
+    [^rwcall]: Singapore-Rwanda IA project application call issued January 30, 2026: Singapore MSE / NCCS announcement
 
     > Singapore IA: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/singapore-s-international-climate-change-cooperation/international-cooperation-on-climate-change>
 
@@ -86,7 +88,7 @@
 
     | プロジェクト | 相手 | 状況 |
     |------------|------|------|
-    | 森林保全（Gishwati地域） | シンガポール | 🟡 開発段階 |
+    | 森林保全（Gishwati地域） | シンガポール | 🟡 開発段階（**プロジェクト公募 2026年1月30日**） |
     | 小規模農家クリーンクッキング | シンガポール（予定） | 🟡 スコーピング中 |
 
     ## 主要コンタクトポイント

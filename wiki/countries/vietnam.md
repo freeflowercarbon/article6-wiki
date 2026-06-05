@@ -10,7 +10,7 @@
     |------|--------|
     | NDC Target | 43.5% conditional / 15.8% unconditional reduction vs. BAU by 2030[^vnndc] |
     | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities)[^vnets]; VVCS domestic standard[^vnvvcs] |
-    | JCM (Japan) | ✅ Since 2013; 35+ projects; **15 approved methodologies** (3rd most of any JCM partner country)[^vnjcm] |
+    | JCM (Japan) | ✅ Since 2013; 35+ projects; **15 approved methodologies** (3rd most of any JCM partner country); **JCM projects formally upgraded to Article 6.2 pathway May 2, 2026**[^vnjcm][^vnjcm_a62] |
     | Singapore IA | ✅ Signed Sep 2025[^vnsg] |
     | Switzerland | 🔄 Under negotiation[^vnch] |
     | CA Framework | 🟡 **A6.2 authorization decree effective May 19, 2026**[^vndec2026] |
@@ -20,6 +20,7 @@
     [^vnets]: Vietnam domestic ETS pilot launched **June 2025** covering **34 thermal power plants, 25 steel mills, 51 cement plants** (110 facilities total in pilot phase). 2026 GHG quota set at **268.4 Mt CO₂e** (Decision 263/QD-TTg; up from 243.1 Mt in 2025). Full market operation targeted by 2028. Ministry of Finance finalizing trading platform decree: Decree 06/2022/ND-CP; Decision 263/QD-TTg; ICAP; Carbon Pulse
     [^vnvvcs]: VVCS (Vietnam Voluntary Carbon Standard): MONRE regulation; see QC Intel coverage: <https://www.qcintel.com/>
     [^vnjcm]: JCM Vietnam projects (35+ active): GEC Vietnam <https://gec.jp/jcm/vn/>
+    [^vnjcm_a62]: Japan-Vietnam JCM projects formally upgraded to Article 6.2 bilateral pathway May 2, 2026 — enabling ITMO authorization under the Singapore IA and JCM frameworks: MOEJ / GEC announcement; Carbon Pulse (May 2026)
     [^vnsg]: Singapore-Vietnam IA signed September 2025: Singapore MSE/carbonmarkets-cooperation.gov.sg <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^vnch]: Switzerland-Vietnam Article 6.2 bilateral negotiation: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     [^vndec6]: Vietnam Decree 06/2022/ND-CP (carbon market legal framework): <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
@@ -93,7 +94,7 @@
     | NDC目標 | 2030年にBAU比43.5%削減（条件付き）／15.8%（無条件） |
     | 国内炭素制度 | ETS試験運用（2025〜2028年、500施設以上）、VVCS国内基準 |
     | 主管省庁 | MONRE（天然資源環境省） |
-    | JCM状況 | 日本（2013年）✅ 35件以上 |
+    | JCM状況 | 日本（2013年）✅ 35件以上；**JCM案件のA6.2移行 2026年5月2日**[^vnjcm_a62] |
     | IA状況 | シンガポール ✅ 2025年9月署名 |
     | CA体制 | 🟡 **A6.2授権政令が2026年5月19日施行**[^vndec2026] |
 

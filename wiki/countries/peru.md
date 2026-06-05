@@ -11,9 +11,9 @@
     | NDC Target | 40% conditional / ~30% unconditional reduction vs. 2010 by 2030[^pendc] |
     | Carbon System | No ETS; MINAM carbon credit framework[^peminam] |
     | JCM (Japan) | — Not a JCM partner |
-    | Singapore IA | ✅ Signed **April 1, 2025**; **RFP1 contract: 2 projects (Kowen Antami REDD+ + Together for Forests REDD+), 2026–2030**[^pesg] |
+    | Singapore IA | ✅ Signed April 1, 2025; **entered into force October 18, 2025**; **RFP1 contract: 2 projects (Kowen Antami REDD+ + Together for Forests REDD+), 2026–2030**[^pesg] |
     | Switzerland | ✅ Signed 2020; **World's 1st A6.2 ITMO transfer (2023)**[^pech] |
-    | CA Framework | ✅ Operational — most mature in Latin America[^peca] |
+    | CA Framework | ✅ Operational — most mature in Latin America; **RENAMI registry launched February 2026**[^perenami]; **CARP AIR submitted June 1, 2026**[^peair] |
     | Key Ministry | MINAM (Ministry of Environment)[^peminam] |
 
     [^pendc]: Peru NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
@@ -21,6 +21,9 @@
     [^pesg]: Singapore-Peru IA signed **April 1, 2025** (secondary source: Carbon Pulse); RFP Round 1 contract: Kowen Antami REDD+ and Together for Forests REDD+ (part of 2,175,000 tCO₂e total from 4 projects, ≈S$76M, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; ESG Today <https://www.esgtoday.com/singapore-signs-deals-for-more-than-2-million-nature-based-carbon-credits/>; S&P Global <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>
     [^pech]: Switzerland-Peru bilateral (2020) + world's first A6.2 ITMO transfer (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse ITMO report (2023)
     [^peca]: Peru CA framework: Carbon Pulse / MINAM; most advanced in Latin America per World Bank PROGREEN
+    [^perenami]: RENAMI (Registro Nacional de Medidas de Mitigación) — Peru's national mitigation measures registry; launched February 2026 under MINAM: <https://www.gob.pe/minam>
+    [^peair]: Peru CARP Article 6.2 Initial Report (AIR) submitted June 1, 2026 to UNFCCC (total AIR count: 23 parties): UNFCCC CARP portal <https://unfccc.int/process/transparency-and-reporting/reporting-and-review-under-the-paris-agreement/article-6>
+    [^petukiref]: Tuki Wasi cookstoves project (Amazon communities, Switzerland/KliK) authorized March 20, 2026; registered in RENAMI (Feb 2026): CARP / Carbon Pulse
 
     ## NDC Achievement Status
 
@@ -43,6 +46,7 @@
     | Project | Partner | Status | Volume | Notes |
     |---------|---------|--------|--------|-------|
     | Clean cooking / urban efficiency | Switzerland | ✅ **ITMO transferred 2023** | ~tens of thousands t | World first A6.2 transfer |
+    | **Tuki Wasi (efficient cookstoves, Amazon communities)** | Switzerland / KliK | ✅ **A6.2 Authorized March 20, 2026** | TBD | RENAMI-registered[^petukiref] |
     | Kowen Antami REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | Together for Forests REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | REDD+ expansion | Switzerland (ongoing) | 🟡 Pipeline | TBD | — |
@@ -87,9 +91,9 @@
     | NDC目標 | 2030年に2010年比40%削減（条件付き）/ 約30%（無条件） |
     | 国内炭素制度 | ETS未導入；MINAM主導の炭素クレジット枠組み |
     | 主管省庁 | MINAM（環境省） |
-    | シンガポールIA | ✅ **2025年4月1日署名**・**RFP1落札**（Kowen Antami REDD+ + Together for Forests REDD+） |
+    | シンガポールIA | ✅ **2025年4月1日署名**・**2025年10月18日発効**・**RFP1落札**（Kowen Antami REDD+ + Together for Forests REDD+） |
     | スイス二国間 | ✅ 2020年署名・**2023年ITMO移転済み（世界初）** |
-    | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟） |
+    | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟）；**RENAMI 2026年2月開設**；**CARP AIR 2026年6月1日提出** |
 
     ## NDC達成見込み
 
@@ -104,6 +108,7 @@
     | プロジェクト | 相手 | 状況 | 規模 |
     |------------|------|------|------|
     | クリーンクッキング・省エネ | スイス | ✅ **ITMO移転済み（2023年）** | 数万t（非公表） |
+    | **Tuki Wasi（アマゾン地域住民向け改良かまど）** | スイス / KliK | ✅ **A6.2授権済み（2026年3月20日）** | TBD |
     | Kowen Antami REDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 全4案件合計2,175,000 tの一部（2026〜2030年） |
     | Together for Forests REDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 全4案件合計2,175,000 tの一部（2026〜2030年） |
 

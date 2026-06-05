@@ -9,12 +9,18 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 45% reduction in GDP carbon intensity vs. 2005 by 2030 (conditional)[^myndc] |
-    | Carbon System | BCX voluntary market (2022–)[^mybcx]; no ETS |
+    | Carbon System | BCX voluntary market (2022–)[^mybcx]; **NCMP launched April 22, 2026**[^myncmp]; carbon tax postponed |
+    | Carbon Tax | ⚠️ **Postponed** — originally planned for 2025; delayed pending NCMP review[^mycarbontax] |
+    | A6.4 Priority | Malaysia has indicated priority for Article 6.4 over Article 6.2 in near term[^mya64] |
     | Key Ministry | Ministry of Natural Resources, Environment and Climate Change (NRECC)[^mynrecc] |
     | JCM (Japan) | — None (no formal JCM agreement) |
     | Singapore | 📋 MOU signed; IA negotiations in progress[^mysg] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐⭐ |
+
+    [^myncmp]: **NCMP (National Carbon Market Policy)** launched April 22, 2026 by NRECC — establishes Malaysia's overall carbon market governance framework, covering both domestic voluntary market (BCX) and Article 6 pathways: NRECC <https://www.nrecc.gov.my/>; secondary sources (Carbon Pulse)
+    [^mycarbontax]: Malaysia carbon tax implementation postponed (originally targeted 2025): NRECC / Ministry of Finance; pending NCMP implementation review
+    [^mya64]: Malaysia signals preference for Article 6.4 (PACM) over bilateral Article 6.2 in near-term carbon market strategy: NRECC / Carbon Pulse (Apr 2026)
 
     [^myndc]: Malaysia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=MYS>
     [^mybcx]: Bursa Carbon Exchange (BCX): <https://www.bursacarbon.com.my/>; established Dec 2022
@@ -73,7 +79,9 @@
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年にGDP原単位で2005年比45%削減（条件付き） |
-    | 国内炭素制度 | Bursa Carbon Exchange（BCX）ボランタリー市場（2022〜） |
+    | 国内炭素制度 | Bursa Carbon Exchange（BCX）ボランタリー市場（2022〜）；**NCMP 2026年4月22日公表** |
+    | 炭素税 | ⚠️ **延期**（2025年予定が見直し中） |
+    | A6.4優先 | 近期はArticle 6.2より**Article 6.4（PACM）を優先**する方針を示唆 |
     | 主管省庁 | 自然資源・環境・気候変動省（NRECC） |
     | JCM状況 | ⚪ なし（日本との正式JCM未締結） |
     | シンガポール | 📋 MOU署名済み・IA交渉中 |

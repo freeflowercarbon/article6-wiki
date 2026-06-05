@@ -70,15 +70,19 @@
 
     | Metric | Data |
     |--------|------|
-    | Active A6.2 bilateral agreements | 0 (as of May 2026) |
+    | Active A6.2 bilateral agreements | **1 formal** (India, Apr 2026) + MOU (Indonesia) + project-level (Cambodia) |
+    | **K-ETS Phase 4 A6 eligibility criteria** | **Confirmed**: ex-post credits only; post-2010 vintage; A6.2 authorization required[^krpha4criteria] |
+    | **K-MSR (Market Stability Reserve)** | 🔄 **Pending** — K-ETS Phase 4 MSR design under finalisation[^krmsr] |
     | KCU usage (Phase 3) | Limited; low price has reduced incentive |
-    | Phase 4 demand outlook | Significant — if alignment is finalized, 685 covered firms face increasing obligations |
+    | Phase 4 demand outlook | Significant — 685 covered firms face increasing obligations; 5% external credit cap[^krpha4] |
     | ASEAN cooperation | ACMC (ASEAN Carbon Market Cooperation) context; Korea is an observer |
 
     **Demand outlook**: Korea's potential demand for A6.2 credits is large in absolute terms (covered emissions ~600 Mt CO₂e/yr) but remains contingent on Phase 4 design decisions. If KCU eligibility is extended to A6.2 ITMOs with a 5%+ cap and price reaches KRW 30,000–40,000/t (≈ US$22–29), Korea would become a significant buyer — particularly from ASEAN JCM countries. The 2025–2026 period is critical for policy finalization.
 
     [^krndc]: Korea NDC: <https://unfccc.int/NDCREG>
     [^krpha4]: K-ETS Phase 4 design discussion: Ministry of Environment Korea; ICAP Korea ETS profile: <https://icapcarbonaction.com/en/ets/korea-emissions-trading-scheme>
+    [^krpha4criteria]: K-ETS Phase 4 A6.2 credit eligibility criteria confirmed: (1) **ex-post credits only** (no ex-ante / forward credits); (2) **post-2010 vintage** minimum; (3) A6.2 host country authorization required. Source: Korea MOE; Carbon Pulse (2025–2026)
+    [^krmsr]: K-ETS Market Stability Reserve (K-MSR) — Phase 4 design element pending finalization; intended to manage allowance price volatility: Korea MOE; ICAP
 
     ## Key Sources
     - Korea NDC: <https://unfccc.int/NDCREG>
