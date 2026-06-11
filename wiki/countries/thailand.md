@@ -4,15 +4,15 @@
 
     ## Overview
 
-    Thailand is a Japan JCM partner (2015) and **signed a Singapore Implementation Agreement in August 2025** — making it one of the few countries with dual acquiring-country access. Thailand also completed an **ITMO transfer to Switzerland in January 2024** (1,916 units), making it the second country globally to complete an Article 6.2 ITMO transfer. T-VER (Thailand Voluntary Emission Reduction) provides a domestic carbon standard foundation.
+    Thailand is the **world leader in completed Article 6.2 ITMO transfers**: the **world's first-ever A6.2 ITMO transfer** (to Switzerland, December 2023 — Bangkok E-Bus, 1,916 units), a second Swiss issuance of **49,717 units in April 2026**, and the **first-ever JCM ITMO transfer** (to Japan, November 11, 2025 — TH014 floating solar, 1,009 t). With a Japan JCM partnership (2015) and a **Singapore Implementation Agreement (August 2025)**, Thailand has triple acquiring-country access. T-VER (Thailand Voluntary Emission Reduction) provides a domestic carbon standard foundation.
 
     | Item | Detail |
     |------|--------|
     | NDC Target | 40% reduction vs. BAU by 2030 (conditional); 30% unconditional[^thndc] |
     | Carbon System | T-VER (voluntary) + **Premium T-VER** (Article 6 eligible, 2026)[^thver]; ETS under consideration (2030s) |
-    | JCM (Japan) | 🤝 Since 2015; 25+ projects; **20 approved methodologies** (2nd most of any JCM partner country)[^thjcm] |
-    | Singapore IA | 🤝 **Signed August 2025**[^thsg] |
-    | Switzerland | ✅ **2 ITMO transfers completed**: Jan 2024 (1,916 units) + **Apr 2, 2026 (49,717 units, Bangkok E-Bus)**[^thch] |
+    | JCM (Japan) | 🟢 Since 2015; 25+ projects; **20 approved methodologies**; ✅ **first-ever JCM ITMO transfer Nov 11, 2025** (TH014, 1,009t)[^thjcm][^thjcm_itmo] |
+    | Singapore IA | 🟡 **Signed August 2025**[^thsg] |
+    | Switzerland | 🟢 **2 ITMO transfers completed**: **Dec 2023 (1,916 units — world's first)** + **Apr 2, 2026 (49,717 units, Bangkok E-Bus)**[^thch] |
     | CA Framework | 🟡 Being developed (ONEP-led) |
 
     ## NDC Achievement Status
@@ -37,9 +37,9 @@
 
     | Project | Partner | Status | Volume | Notes |
     |---------|---------|--------|--------|-------|
-    | Energy efficiency / industry | Switzerland | ✅ **ITMO transferred Jan 2024** (1,916 units — 2nd global A6.2 ITMO transfer) | 1,916 units | [^thch] |
-    | **Bangkok E-Bus (BTS Skytrain E-Bus)** | Switzerland | ✅ **49,717 ITMOs issued April 2, 2026** (2023–2024 vintage) | 49,717 units | **Largest single A6.2 ITMO issuance in Thailand to date** [^thch2] |
-    | **JCM — First ITMO transfer** | Japan | ✅ **First JCM ITMO transfer: December 17, 2025** | Not disclosed | First A6.2 transfer under Japan-Thailand JCM [^thjcm_itmo] |
+    | **Bangkok E-Bus Programme** | Switzerland | ✅ **World's first A6.2 ITMO transfer: Dec 2023** (1,916 units) | 1,916 units | First-ever completed Article 6.2 transaction globally [^thch] |
+    | **Bangkok E-Bus (2nd issuance)** | Switzerland | ✅ **49,717 ITMOs issued April 2, 2026** (2023–2024 vintage) | 49,717 units | **Largest single A6.2 ITMO issuance in Thailand to date** [^thch2] |
+    | **JCM TH014 floating solar — first JCM ITMO transfer** | Japan | ✅ **Transfer completed November 11, 2025** | 1,009 tCO₂e (vintage 2021) | **First-ever ITMO transfer under the JCM** — 5MW floating solar on industrial reservoir; acquired by MOEJ; JC7 issuance decision Oct 30, 2025 [^thjcm_itmo] |
     | JCM energy efficiency (25+ projects) | Japan | 🟡 Processing toward A6.2 | Significant | Industry, buildings, RE |
     | NBS / clean energy pipeline | Singapore | 🟡 IA signed; **project application call issued March 31, 2026** | TBD | Singapore IA Aug 2025[^thsg_call] |
     | Swiss NBS pipeline | Switzerland | 🟡 Development | TBD | — |
@@ -75,14 +75,14 @@
 
     [^thsg]: Singapore MSE Implementation Agreements list: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^thsg_call]: Singapore project application call for Thailand IA projects issued March 31, 2026: Singapore MSE / NCCS
-    [^thch]: Switzerland-Thailand ITMO transfers: (1) Jan 2024: 1,916 units — 2nd global A6.2 ITMO transfer; (2) Apr 2, 2026: **49,717 units** (Bangkok E-Bus, 2023–2024 vintage): Swiss FOEN; Carbon Pulse (Apr 2026)
-    [^thch2]: Thailand-Switzerland Bangkok E-Bus ITMO issuance (49,717 units, April 2, 2026): Swiss FOEN bilateral registry; UNFCCC A6 portal
-    [^thjcm_itmo]: Japan-Thailand JCM first ITMO transfer: December 17, 2025; source: MOEJ / GEC Japan announcement
+    [^thch]: Switzerland-Thailand ITMO transfers: (1) **Dec 2023: 1,916 units — world's first completed A6.2 ITMO transfer** (Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; (2) Apr 2, 2026: **49,717 units** (2023–2024 vintage): Energy Absolute <https://www.energyabsolute.co.th/en/newsroom/news/490/>; Swiss FOEN
+    [^thch2]: Thailand-Switzerland Bangkok E-Bus ITMO issuance (49,717 units, April 2, 2026): Energy Absolute; Swiss FOEN bilateral registry; UNFCCC A6 portal
+    [^thjcm_itmo]: Japan-Thailand **first-ever JCM ITMO transfer completed November 11, 2025**: "Introduction of 5MW Floating Solar Power System on Industrial Water Reservoir in Thailand" (TH014), 1,009 tCO₂e, vintage 2021, credit authentication no. JCM-TH-JP-2018-3026-01401, acquired by Ministry of the Environment Japan; issuance decided at 7th Joint Committee Oct 30, 2025: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>
 
 === "🇯🇵 日本語"
 
     ## サマリー
-    タイは日本JCM（2015年）パートナーであり、**シンガポールIAを2025年8月に署名**[^thsg]。また**スイスとの間で2024年1月にITMO移転（1,916ユニット）**[^thch]を完了し、世界2番目のA6.2 ITMO移転実績国。T-VER（タイ自主的排出削減制度）が国内炭素基盤を提供。
+    タイは**A6.2 ITMO移転実績で世界最先端**のホスト国。**世界初のA6.2 ITMO移転**（2023年12月、スイス向け、バンコクE-Bus 1,916ユニット）[^thch]、2026年4月の追加発行（49,717ユニット）、さらに**JCM史上初のITMO移転**（2025年11月11日、日本向け、TH014浮体式太陽光 1,009t）[^thjcm_itmo]を達成。日本JCM（2015年）・シンガポールIA（2025年8月署名）[^thsg]・スイスと、3調達国アクセスを持つ。T-VER（タイ自主的排出削減制度）が国内炭素基盤を提供。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -90,9 +90,9 @@
     | NDC目標 | 2030年にBAU比40%削減（条件付き）/ 30%（無条件） |
     | 国内炭素制度 | T-VER（任意）、ETS導入検討中（2030年代） |
     | 主管省庁 | ONEP（天然資源環境政策計画局）、TGO |
-    | JCM状況 | 日本（2015年）✅ 25件以上 |
-    | シンガポールIA | ✅ **2025年8月署名** [^thsg] |
-    | スイス | ✅ **2024年1月ITMO移転済み**（1,916ユニット） [^thch] |
+    | JCM状況 | 日本（2015年）🟢 25件以上；✅ **JCM初のITMO移転 2025年11月11日**（TH014、1,009t） |
+    | シンガポールIA | 🟡 **2025年8月署名** [^thsg] |
+    | スイス | 🟢 **ITMO移転2回完了**：**2023年12月（1,916ユニット・世界初）**＋2026年4月2日（49,717ユニット） [^thch] |
     | CA体制 | 🟡 整備中（ONEP主導） |
 
     ## NDC達成見込み
@@ -107,9 +107,9 @@
 
     | プロジェクト | 相手 | 状況 |
     |------------|------|------|
-    | エネルギー効率（産業） | スイス | ✅ **ITMO移転済み（2024年1月 1,916ユニット）** |
-    | **バンコクE-バス（BTS）** | スイス | ✅ **49,717 ITMO発行（2026年4月2日）** |
-    | **JCM 初ITMO移転** | 日本 | ✅ **2025年12月17日（初移転）** |
+    | **バンコクE-Busプログラム** | スイス | ✅ **世界初のA6.2 ITMO移転（2023年12月、1,916ユニット）** |
+    | **バンコクE-Bus（第2回発行）** | スイス | ✅ **49,717 ITMO発行（2026年4月2日、2023-24ビンテージ）** |
+    | **JCM TH014 浮体式太陽光 — JCM初のITMO移転** | 日本 | ✅ **2025年11月11日移転完了**（1,009t、2021ビンテージ、環境省取得） |
     | JCM省エネ（25件以上） | 日本 | 🟡 A6.2化処理中 |
     | NBS・クリーンエネルギー | シンガポール | 🟡 **プロジェクト公募（2026年3月31日）** |
 

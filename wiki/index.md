@@ -4,7 +4,7 @@
 
     Tracking policy developments under Paris Agreement Article 6.2 (international carbon markets).
 
-    Last updated: 2026-05-10
+    Last updated: 2026-06-12
 
     ---
 
@@ -13,6 +13,7 @@
     | Page | Content |
     |------|---------|
     | [Bilateral Matrix](matrix.md) | Acquiring × host country agreement status ← **Start here** |
+    | [**ITMO Transfer Tracker**](itmo_tracker.md) | **All confirmed A6.2 ITMO transfers worldwide (6 to date)** |
     | [JCM Project DB](projects_database.md) | Approved project counts, issuance volumes, NBS breakdown |
     | [Singapore A6 System](singapore_ia_system.md) | RFP procurement, IA details, pricing information |
 
@@ -24,12 +25,12 @@
 
     | Country | Carbon Price (Current) | Carbon Price (2027 est.) | Key Recent Development |
     |---------|----------------------|--------------------------|----------------------|
-    | [🇯🇵 Japan](countries/japan.md) | GX-ETS JPY 1,700–4,300/t (≈US$11–27) | Higher (inflation+3%/yr) | JCM formally A6.2-recognized March 2025 |
-    | [🇸🇬 Singapore](countries/singapore.md) | S$25/t (≈US$19) | S$45/t (≈US$33) | 11 IAs active; RFP Round 1 awarded 2.2 Mt (2025) |
-    | [🇨🇭 Switzerland](countries/switzerland.md) | CHF 120/t levy (≈US$133) | Maintained | World's 1st + 2nd A6.2 ITMO transfers (Peru 2023; Thailand Jan 2024) |
+    | [🇯🇵 Japan](countries/japan.md) | GX-ETS JPY 1,700–4,300/t (≈US$11–27) | Higher (inflation+3%/yr) | **First JCM ITMO transfers: Thailand Nov 2025 + Maldives Dec 2025** |
+    | [🇸🇬 Singapore](countries/singapore.md) | S$45/t (≈US$33, 2026) | S$50–80/t (2028) | **12 IAs active** (Philippines Apr 2026); RFP Round 1 awarded 2.2 Mt |
+    | [🇨🇭 Switzerland](countries/switzerland.md) | CHF 120/t levy (≈US$133) | Maintained | **4 ITMO transfers** (Thailand ×2, Norway CDR, Ghana) — world leader |
     | [🇸🇪 Sweden](countries/sweden.md) | SEK 1,330/t (≈US$125) | Maintained | 6 active bilateral agreements; world's highest carbon tax |
-    | [🇳🇴 Norway](countries/norway.md) | NOK 1,125/t (≈US$105) | NOK 2,000/t by 2030 | Zambia bilateral signed COP29 Nov 2024 |
-    | [🇰🇷 Korea](countries/korea.md) | KRW 8,000–18,000/t (≈US$6–13) | KRW 20,000–40,000/t | K-ETS Phase 4 design; A6.2 framework under study |
+    | [🇳🇴 Norway](countries/norway.md) | NOK 1,125/t (≈US$105) | NOK 2,000/t by 2030 | 7 NOGER bilaterals (Morocco May 2026, Jordan Mar 2026, Pakistan MoU Apr 2026) |
+    | [🇰🇷 Korea](countries/korea.md) | KRW 8,000–18,000/t (≈US$6–13) | KRW 20,000–40,000/t | K-ETS Phase 4 A6.2 criteria confirmed; India bilateral Apr 2026; acquiring first PACM A6.4ERs |
 
     ---
 
@@ -44,9 +45,9 @@
     | [🇮🇩 Indonesia](countries/indonesia.md) | Japan JCM ✅ / SG negotiating | ⭐⭐⭐ | Perpres 110/2025 enables ITMO exports |
     | [🇻🇳 Vietnam](countries/vietnam.md) | Japan JCM ✅ / SG IA ✅ (2025) | ⭐⭐⭐ | Singapore IA signed Sep 2025; domestic ETS pilot |
     | [🇵🇭 Philippines](countries/philippines.md) | Japan JCM ✅ | ⭐⭐ | Forest JCM guidelines approved Nov 2025 (1st in region) |
-    | [🇹🇭 Thailand](countries/thailand.md) | Japan JCM ✅ / SG IA ✅ (2025) / CH ✅ | ⭐⭐ | World 2nd ITMO transfer (Switzerland Jan 2024, 1,916 units) |
+    | [🇹🇭 Thailand](countries/thailand.md) | Japan JCM ✅ / SG IA ✅ (2025) / CH ✅ | ⭐⭐ | **World's 1st ITMO transfer (CH, Dec 2023) + 1st-ever JCM ITMO (JP, Nov 2025)** |
     | [🇲🇾 Malaysia](countries/malaysia.md) | SG MOU | ⭐⭐⭐ | BCX operational; IA negotiations in progress |
-    | [🇰🇭 Cambodia](countries/cambodia.md) | Japan JCM ✅ / SG IA ✅ | ⭐⭐ | Dual-access framework in development |
+    | [🇰🇭 Cambodia](countries/cambodia.md) | Japan JCM ✅ / SG MOU (IA negotiating) | ⭐⭐ | JC7 credit issuance decision Mar 2026 |
     | [🇱🇦 Laos](countries/laos.md) | Japan JCM ✅ | ⭐⭐ | Carbon Credit Decree enacted May 2025 |
     | [🇲🇲 Myanmar](countries/myanmar.md) | Japan JCM ⚠️ | ⭐ | Activities suspended due to political instability |
 
@@ -106,7 +107,7 @@
 
     パリ協定 Article 6.2（国際炭素市場）の政策状況をトラッキングするWikiです。
 
-    最終更新：2026-05-10
+    最終更新：2026-06-12
 
     ---
 
@@ -115,6 +116,7 @@
     | ページ | 内容 |
     |--------|------|
     | [二国間マトリクス](matrix.md) | 調達国×ホスト国の合意ステータス一覧 ← **まずここ** |
+    | [**ITMO移転トラッカー**](itmo_tracker.md) | **世界の確認済みA6.2 ITMO移転の全件一覧（現在6件）** |
     | [JCMプロジェクトDB](projects_database.md) | 承認件数・発行量・NBS内訳 |
     | [シンガポール A6制度](singapore_ia_system.md) | 入札制度・IA詳細・価格情報 |
 
@@ -126,12 +128,12 @@
 
     | 国 | 炭素価格（現在） | 炭素価格（2027年予測） | 主な最新動向 |
     |---|---|---|---|
-    | [🇯🇵 日本](countries/japan.md) | GX-ETS JPY 1,700〜4,300/t（≈US$11〜27） | インフレ+3%/年で上昇 | 2025年3月 JCMをA6.2正式認定 |
-    | [🇸🇬 シンガポール](countries/singapore.md) | S$25/t（≈US$19） | S$45/t（≈US$33） | IA 11か国稼働・RFP第1回 220万t授与（2025年） |
-    | [🇨🇭 スイス](countries/switzerland.md) | CHF 120/tレビー（≈US$133） | 維持 | 世界1・2位A6.2 ITMO移転（対ペルー2023・対タイ2024年1月） |
+    | [🇯🇵 日本](countries/japan.md) | GX-ETS JPY 1,700〜4,300/t（≈US$11〜27） | インフレ+3%/年で上昇 | **JCM初のITMO移転：タイ 2025年11月＋モルディブ 2025年12月** |
+    | [🇸🇬 シンガポール](countries/singapore.md) | S$45/t（≈US$33、2026年〜） | S$50〜80/t（2028年） | **IA 12か国稼働**（フィリピン 2026年4月）・RFP第1回 220万t授与 |
+    | [🇨🇭 スイス](countries/switzerland.md) | CHF 120/tレビー（≈US$133） | 維持 | **ITMO移転4件**（タイ×2・ノルウェーCDR・ガーナ）— 世界首位 |
     | [🇸🇪 スウェーデン](countries/sweden.md) | SEK 1,330/t（≈US$125） | 維持 | 二国間協定6か国・世界最高炭素税 |
-    | [🇳🇴 ノルウェー](countries/norway.md) | NOK 1,125/t（≈US$105） | NOK 2,000/t（2030年） | COP29でザンビア二国間協定署名（2024年11月） |
-    | [🇰🇷 韓国](countries/korea.md) | KRW 8,000〜18,000/t（≈US$6〜13） | KRW 20,000〜40,000/t | K-ETSフェーズ4設計中・A6.2枠組み検討 |
+    | [🇳🇴 ノルウェー](countries/norway.md) | NOK 1,125/t（≈US$105） | NOK 2,000/t（2030年） | NOGER 7か国（モロッコ 2026年5月・ヨルダン 2026年3月・パキスタンMoU 2026年4月） |
+    | [🇰🇷 韓国](countries/korea.md) | KRW 8,000〜18,000/t（≈US$6〜13） | KRW 20,000〜40,000/t | K-ETSフェーズ4 A6.2基準確定・インド二国間 2026年4月・PACM初A6.4ER取得 |
 
     ---
 
@@ -146,9 +148,9 @@
     | [🇮🇩 インドネシア](countries/indonesia.md) | 日本JCM ✅ / SG交渉中 | ⭐⭐⭐ | Perpres 110/2025でITMO輸出解禁 |
     | [🇻🇳 ベトナム](countries/vietnam.md) | 日本JCM ✅ / SG IA ✅（2025年） | ⭐⭐⭐ | SG IA 2025年9月署名・国内ETS試験運用 |
     | [🇵🇭 フィリピン](countries/philippines.md) | 日本JCM ✅ | ⭐⭐ | 森林JCMガイドライン承認（2025年11月、地域初） |
-    | [🇹🇭 タイ](countries/thailand.md) | 日本JCM ✅ / SG IA ✅（2025年） / CH ✅ | ⭐⭐ | 世界2位A6.2 ITMO移転（スイス、2024年1月） |
+    | [🇹🇭 タイ](countries/thailand.md) | 日本JCM ✅ / SG IA ✅（2025年） / CH ✅ | ⭐⭐ | **世界初ITMO移転（スイス 2023年12月）＋JCM初ITMO（日本 2025年11月）** |
     | [🇲🇾 マレーシア](countries/malaysia.md) | SG MOU | ⭐⭐⭐ | BCX稼働・IA交渉中 |
-    | [🇰🇭 カンボジア](countries/cambodia.md) | 日本JCM ✅ / SG IA ✅ | ⭐⭐ | デュアルアクセス整備中 |
+    | [🇰🇭 カンボジア](countries/cambodia.md) | 日本JCM ✅ / SG MOU（IA交渉中） | ⭐⭐ | JC7発行決定（2026年3月） |
     | [🇱🇦 ラオス](countries/laos.md) | 日本JCM ✅ | ⭐⭐ | 炭素クレジット令（2025年5月）成立 |
     | [🇲🇲 ミャンマー](countries/myanmar.md) | 日本JCM ⚠️ | ⭐ | 政情不安により活動停止中 |
 
@@ -160,7 +162,7 @@
     | [🇲🇳 モンゴル](countries/mongolia.md) | 日本JCM ✅ / SG IA ✅（2025年） | ⭐⭐ | 草地・森林炭素、省エネJCM複数稼働 |
     | [🇺🇿 ウズベキスタン](countries/uzbekistan.md) | 日本JCM ✅ | ⭐⭐ | アラル海回復NBS検討中 |
     | [🇰🇿 カザフスタン](countries/kazakhstan.md) | 日本JCM ✅ | ⭐⭐ | CIS初のETS稼働国 |
-    | [🇬🇪 ジョージア](countries/georgia.md) | 日本JCM ✅ / スイス ✅ | ⭐⭐ | 森林・水力・スイス取引実績 |
+    | [🇬🇪 ジョージア](countries/georgia.md) | 日本JCM ✅ / スイス ✅ | ⭐⭐ | 森林・水力・スイス協定（移転は未実施） |
     | [🇵🇼 パラオ](countries/palau.md) | 日本JCM ✅ | ⭐ | 海洋保護・ブルーカーボン |
     | [🇲🇻 モルディブ](countries/maldives.md) | 日本JCM ✅ | ⭐ | 小島嶼国・適応優先 |
 
@@ -168,7 +170,7 @@
 
     | 国 | JCM/IA | NBS成熟度 | 主な最新動向 |
     |---|---|---|---|
-    | [🇵🇪 ペルー](countries/peru.md) | スイス ✅ / SG IA ✅ | ⭐⭐⭐⭐⭐ | 世界初A6.2 ITMO移転（2023年） |
+    | [🇵🇪 ペルー](countries/peru.md) | スイス 🟡 / SG IA ✅ | ⭐⭐⭐⭐⭐ | 世界初A6.2二国間協定（2020年）；Tuki Wasi授権2026年3月 |
     | [🇵🇾 パラグアイ](countries/paraguay.md) | SG IA ✅ | ⭐⭐ | グランチャコ森林・SG RFP第1回契約 |
     | [🇨🇱 チリ](countries/chile.md) | 日本JCM ✅ / SG IA ✅ / CH ✅ | ⭐⭐⭐ | 温帯林・ブルーカーボン・炭素税制 |
     | [🇨🇴 コロンビア](countries/colombia.md) | 日本JCM ✅ / SG MOU | ⭐⭐⭐⭐ | アマゾン・アンデスREDD+豊富 |

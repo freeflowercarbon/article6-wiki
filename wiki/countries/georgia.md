@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Georgia holds **dual bilateral access**: Japan JCM (2016) and Switzerland bilateral agreement (2022). The Switzerland agreement is among the more advanced of Switzerland's 16 bilateral partnerships, with ITMO transfers reported in 2024–2025. Georgia is an EU accession candidate, which drives institutional improvement aligned with European carbon market standards. The Caucasus forest and hydropower resources are the primary carbon credit generators.
+    Georgia holds **dual bilateral access**: Japan JCM (2016) and Switzerland bilateral agreement (2022). Energy-efficiency retrofit projects for public buildings are under implementation with Switzerland, but **no ITMO transfer has been confirmed as of June 2026** (an earlier entry on this page reporting 2024–25 transfers could not be verified and has been corrected). Georgia is an EU accession candidate, which drives institutional improvement aligned with European carbon market standards. The Caucasus forest and hydropower resources are the primary carbon credit generators.
 
     | Item | Detail |
     |------|--------|
@@ -12,14 +12,14 @@
     | Carbon System | In preparation (EU system alignment prioritized) |
     | Key Ministry | Ministry of Environmental Protection and Agriculture[^gemepa] |
     | JCM (Japan) | ✅ Since 2016[^gejcm] |
-    | Switzerland | ✅ Bilateral agreement 2022; ITMO transfers in progress[^gech] |
+    | Switzerland | 🟡 Bilateral agreement 2022; projects under implementation — no confirmed ITMO transfer（要確認）[^gech] |
     | CA Framework | 🟡 In development (Switzerland-linked progress) |
     | NBS Maturity | ⭐⭐ |
 
     [^gendc]: Georgia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GEO>
     [^gemepa]: Georgia Ministry of Environmental Protection and Agriculture: <https://mepa.gov.ge/>
     [^gejcm]: JCM Georgia: GEC <https://gec.jp/jcm/projects/>; signed 2016; hydro and energy efficiency projects
-    [^gech]: Switzerland-Georgia bilateral (2022): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; ITMO transfers 2024–2025
+    [^gech]: Switzerland-Georgia bilateral (2022): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; energy-efficiency retrofit of public buildings under implementation; no confirmed ITMO transfer as of June 2026
 
     ## NDC Achievement Status
 
@@ -35,7 +35,7 @@
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
     | Japan 🇯🇵 | JCM | ✅ 2016 | Hydro, energy efficiency |
-    | Switzerland 🇨🇭 | Bilateral | ✅ 2022; ITMO transfers 2024–25 | Renewable energy, forest, landfill gas |
+    | Switzerland 🇨🇭 | Bilateral | 🟡 2022; projects under implementation — no confirmed transfer | Energy efficiency, RE, landfill gas |
     | Singapore 🇸🇬 | IA | ⚪ | — |
 
     ## Active A6.2 Projects
@@ -57,7 +57,7 @@
     ## Switzerland Partnership Detail
 
     - **2022 agreement**: Mixed portfolio (RE, energy efficiency, NBS)
-    - **ITMO transfers**: Initial transfers reported 2024–2025 (details not publicly disclosed)
+    - **ITMO transfers**: None confirmed as of June 2026 — energy-efficiency retrofit projects under implementation; first transfer estimated 2026–27
     - **CA accounting**: Georgia government committed to CA deduction from NDC
     - **FOEN approach**: BeZero Carbon independent risk evaluation applies; Verra/GS accepted
 
@@ -69,7 +69,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    日本JCM（2016年）とスイス二国間協定（2022年）の双方にアクセスできる中規模ホスト国。コーカサスの豊かな森林・水力資源を持ち、再エネ開発とNBS両面でのA6.2参加が可能。EU加盟候補国として制度的整備が進んでいる。スイスとのITMO移転は2024〜2025年に実施段階へ。
+    日本JCM（2016年）とスイス二国間協定（2022年）の双方にアクセスできる中規模ホスト国。コーカサスの豊かな森林・水力資源を持ち、再エネ開発とNBS両面でのA6.2参加が可能。EU加盟候補国として制度的整備が進んでいる。スイスとは公共建築物省エネ改修案件が実施中だが、**ITMO移転は2026年6月時点で未確認**（旧記載「2024〜25年移転」は検証できず訂正）。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -78,7 +78,7 @@
     | 国内炭素制度 | 準備中（EU制度との整合を優先） |
     | 主管省庁 | 環境保護・農業省 |
     | JCM状況 | ✅ 日本（2016年） |
-    | スイス二国間 | ✅ 2022年署名・ITMO移転2024〜2025年 |
+    | スイス二国間 | 🟡 2022年署名・案件実施中（ITMO移転は未確認） |
     | CA体制 | 🟡 整備中（スイス連携で進展） |
     | NBS成熟度 | ⭐⭐ |
 
@@ -87,13 +87,13 @@
     | 調達国 | 制度 | 状況 | 備考 |
     |--------|------|------|------|
     | 日本 🇯🇵 | JCM | ✅ 2016年署名 | 水力・省エネ中心 |
-    | スイス 🇨🇭 | バイラテラル | ✅ 2022年署名・ITMO移転実施中 | 再エネ・森林・埋立地ガス |
+    | スイス 🇨🇭 | バイラテラル | 🟡 2022年署名・案件実施中（移転未確認） | 省エネ・再エネ・埋立地ガス |
     | シンガポール 🇸🇬 | — | ⚪ | — |
 
     ## スイスとの取引実績
 
     - 2022年協定：再エネ・省エネ・NBS複合型
-    - ITMO移転：2024〜2025年にかけて初期移転の実施（詳細非公開）
+    - ITMO移転：2026年6月時点で確認済み移転なし — 公共建築物省エネ改修が実施中；初回移転は2026〜27年見込み
     - CA記帳：ジョージア政府がNDCから控除記帳する方針
 
     ## 関連ページ

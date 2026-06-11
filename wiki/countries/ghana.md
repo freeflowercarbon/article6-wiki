@@ -41,7 +41,7 @@
     | Project | Partner | Status | Volume |
     |---------|---------|--------|--------|
     | Improved cookstoves (LPG reduction) | Switzerland | ✅ **11,733 ITMOs issued July 7, 2025** — Africa's first A6.2 ITMO for NDC use | ~200,000 t/yr |
-    | REDD+ forest conservation (Northern Ghana) | Switzerland | ✅ **ITMO transferred** | Undisclosed |
+    | REDD+ forest conservation (Northern Ghana) | — | ❌ Not eligible for Switzerland (FOEN excludes LULUCF/REDD+); VCM or other buyers only | — |
     | **Kwahu Landscape Restoration (ARR)** | Singapore — RFP1 | ✅ **Contract awarded Sept 2025; delivery 2026–2030** | ~1,350,000 t total |
     | REDD+ tropical forest (pipeline) | Singapore (prospective) | 🟡 Development (post-RFP1) | TBD |
 
@@ -85,7 +85,7 @@
     | 国内炭素制度 | GCMO設立・ガーナ炭素登録簿稼働 |
     | 主管省庁 | MESTI（環境省）、GCMO |
     | シンガポールIA | ✅ 2023年署名（初取引進行中） |
-    | スイス二国間 | ✅ 2021年署名・ITMO移転済み |
+    | スイス二国間 | 🟢 2021年署名；**11,733 ITMO発行（2025年7月7日・アフリカ初）** |
     | CA体制 | ✅ 稼働中（アフリカ最成熟） |
 
     ## NDC達成見込み
@@ -101,7 +101,7 @@
     | プロジェクト | 相手 | 状況 | 規模 |
     |------------|------|------|------|
     | 改良かまど（LPG削減） | スイス | ✅ **ITMO 11,733ユニット発行（2025年7月7日）** — アフリカ初のA6.2 ITMO（NDC充当） | 約20万t/年 |
-    | REDD+森林保全（北部） | スイス | ✅ **ITMO移転済み** | 非公表 |
+    | REDD+森林保全（北部） | — | ❌ スイス向け不適格（FOENはLULUCF/REDD+を除外）；VCM・他調達国向けのみ | — |
     | **Kwahu Landscape Restoration（ARR）** | シンガポール — RFP1 | ✅ **契約締結（2025年9月）；2026〜2030年納入** | 合計約135万t |
 
     ## CCP認証候補ボランタリープロジェクト

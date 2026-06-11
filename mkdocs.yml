@@ -31,6 +31,7 @@ extra:
 nav:
   - Home | ホーム: index.md
   - Matrix | マトリクス: matrix.md
+  - ITMO Tracker | 移転トラッカー: itmo_tracker.md
   - Acquiring Parties | 調達国:
     - Japan | 日本: countries/japan.md
     - Singapore | シンガポール: countries/singapore.md

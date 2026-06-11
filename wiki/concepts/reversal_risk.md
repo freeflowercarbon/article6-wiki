@@ -52,7 +52,7 @@
     | Published policy | Bilateral agreements include permanence clauses |
     | Who bears obligation if buffer exceeded | Host country government |
     | Acquirer's NDC treatment | Switzerland retains ITMOs; host country replaces |
-    | Notable | World's first A6.2 transaction (Switzerland-Peru, 2023) set precedent |
+    | Notable | World's first A6.2 bilateral agreement (Switzerland-Peru, 2020) set the contractual precedent |
 
     > Source: Swiss FOEN Bilateral Agreements — <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-climate-change/policy/the-paris-agreement/bilateral-agreements-on-climate-change.html>
 

@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Peru is the **world's first Article 6.2 ITMO transfer country** (Switzerland, 2023) and holds the **largest Amazon rainforest** outside Brazil (~740,000 km²). It is also a Singapore IA partner (2024) and **won a Singapore RFP Round 1 contract** — one of only 4 projects globally. Peru has the most battle-tested A6.2 CA framework in Latin America.
+    Peru signed the **world's first Article 6.2 bilateral agreement** (Switzerland, October 2020) and holds the **largest Amazon rainforest** outside Brazil (~740,000 km²). The Tuki Wasi cookstove activity was **authorized March 20, 2026** and is the first project registered in Peru's RENAMI registry — but **no ITMO transfer has been completed yet** (the world's first actual transfer was Thailand-Switzerland, Dec 2023). Peru is also a Singapore IA partner and **won a Singapore RFP Round 1 contract**. Peru has one of the most mature A6.2 CA frameworks in Latin America.
 
     | Item | Detail |
     |------|--------|
@@ -12,14 +12,14 @@
     | Carbon System | No ETS; MINAM carbon credit framework[^peminam] |
     | JCM (Japan) | — Not a JCM partner |
     | Singapore IA | ✅ Signed April 1, 2025; **entered into force October 18, 2025**; **RFP1 contract: 2 projects (Kowen Antami REDD+ + Together for Forests REDD+), 2026–2030**[^pesg] |
-    | Switzerland | ✅ Signed 2020; **World's 1st A6.2 ITMO transfer (2023)**[^pech] |
+    | Switzerland | 🟡 Signed Oct 2020 — **world's first A6.2 bilateral agreement**; Tuki Wasi authorized Mar 20, 2026; **no ITMO transfer yet**[^pech] |
     | CA Framework | ✅ Operational — most mature in Latin America; **RENAMI registry launched February 2026**[^perenami]; **CARP AIR submitted June 1, 2026**[^peair] |
     | Key Ministry | MINAM (Ministry of Environment)[^peminam] |
 
     [^pendc]: Peru NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
     [^peminam]: Peru MINAM (Ministerio del Ambiente): <https://www.gob.pe/minam>; carbon credit framework under SERNANP/SERFOR coordination
     [^pesg]: Singapore-Peru IA signed **April 1, 2025** (secondary source: Carbon Pulse); RFP Round 1 contract: Kowen Antami REDD+ and Together for Forests REDD+ (part of 2,175,000 tCO₂e total from 4 projects, ≈S$76M, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; ESG Today <https://www.esgtoday.com/singapore-signs-deals-for-more-than-2-million-nature-based-carbon-credits/>; S&P Global <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>
-    [^pech]: Switzerland-Peru bilateral (2020) + world's first A6.2 ITMO transfer (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse ITMO report (2023)
+    [^pech]: Switzerland-Peru bilateral agreement signed October 2020 — the world's **first** A6.2 bilateral agreement (and Nov 2021 Microsol contract = world's first commercial ITMO purchase agreement). **No ITMO transfer completed as of June 2026** — Tuki Wasi authorized Mar 20, 2026; first transfer expected 2026–27: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>
     [^peca]: Peru CA framework: Carbon Pulse / MINAM; most advanced in Latin America per World Bank PROGREEN
     [^perenami]: RENAMI (Registro Nacional de Medidas de Mitigación) — Peru's national mitigation measures registry; launched February 2026 under MINAM: <https://www.gob.pe/minam>
     [^peair]: Peru CARP Article 6.2 Initial Report (AIR) submitted June 1, 2026 to UNFCCC (total AIR count: 23 parties): UNFCCC CARP portal <https://unfccc.int/process/transparency-and-reporting/reporting-and-review-under-the-paris-agreement/article-6>
@@ -45,8 +45,7 @@
 
     | Project | Partner | Status | Volume | Notes |
     |---------|---------|--------|--------|-------|
-    | Clean cooking / urban efficiency | Switzerland | ✅ **ITMO transferred 2023** | ~tens of thousands t | World first A6.2 transfer |
-    | **Tuki Wasi (efficient cookstoves, Amazon communities)** | Switzerland / KliK | ✅ **A6.2 Authorized March 20, 2026** | TBD | RENAMI-registered[^petukiref] |
+    | **Tuki Wasi (efficient cookstoves, Amazon communities)** | Switzerland / KliK | 🟡 **A6.2 Authorized March 20, 2026** — first ITMO transfer expected 2026–27 | TBD | RENAMI-registered; first South American ICS program under A6.2[^petukiref] |
     | Kowen Antami REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | Together for Forests REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | REDD+ expansion | Switzerland (ongoing) | 🟡 Pipeline | TBD | — |
@@ -83,7 +82,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    ペルーは**世界初のA6.2 ITMO移転国**（スイス、2023年）であり、ブラジル以外では最大のアマゾン熱帯雨林（約74万km²）を保有。シンガポールIA（2024年）も締結し、**RFP第1回を落札**（アマゾンREDD+）。ラテンアメリカで最も成熟したCA体制を持つA6.2先進ホスト国。
+    ペルーは**世界初のA6.2二国間協定**をスイスと締結（2020年10月）し、ブラジル以外では最大のアマゾン熱帯雨林（約74万km²）を保有。Tuki Wasi改良かまど活動が**2026年3月20日に授権**され、RENAMI登録第1号となったが、**ITMO移転実績はまだない**（世界初の実移転はタイ-スイス、2023年12月）。シンガポールIAも締結し、**RFP第1回を落札**（アマゾンREDD+）。ラテンアメリカで最も成熟したCA体制を持つA6.2先進ホスト国。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -92,7 +91,7 @@
     | 国内炭素制度 | ETS未導入；MINAM主導の炭素クレジット枠組み |
     | 主管省庁 | MINAM（環境省） |
     | シンガポールIA | ✅ **2025年4月1日署名**・**2025年10月18日発効**・**RFP1落札**（Kowen Antami REDD+ + Together for Forests REDD+） |
-    | スイス二国間 | ✅ 2020年署名・**2023年ITMO移転済み（世界初）** |
+    | スイス二国間 | 🟡 2020年10月署名（**世界初のA6.2二国間協定**）；Tuki Wasi授権 2026年3月20日 — **ITMO移転実績なし** |
     | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟）；**RENAMI 2026年2月開設**；**CARP AIR 2026年6月1日提出** |
 
     ## NDC達成見込み
@@ -107,7 +106,7 @@
 
     | プロジェクト | 相手 | 状況 | 規模 |
     |------------|------|------|------|
-    | クリーンクッキング・省エネ | スイス | ✅ **ITMO移転済み（2023年）** | 数万t（非公表） |
+    | Tuki Wasi（改良かまど・アマゾン地域） | スイス／KliK | 🟡 **2026年3月20日授権** — 初回ITMO移転は2026〜27年見込み | 未定 |
     | **Tuki Wasi（アマゾン地域住民向け改良かまど）** | スイス / KliK | ✅ **A6.2授権済み（2026年3月20日）** | TBD |
     | Kowen Antami REDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 全4案件合計2,175,000 tの一部（2026〜2030年） |
     | Together for Forests REDD+ | シンガポール | ✅ **RFP1落札（2025年9月）** | 全4案件合計2,175,000 tの一部（2026〜2030年） |
@@ -127,7 +126,7 @@
     | SERFOR | 森林炭素・REDD+ | <https://www.gob.pe/serfor> |
 
     ## 関連ページ
-    - [スイス](switzerland.md) — 取引カウンターパート（世界初）
+    - [スイス](switzerland.md) — 世界初の二国間協定パートナー
     - [シンガポール A6制度](../singapore_ia_system.md)
     - [CCP適格NBS方法論ガイド](../concepts/ccp_nbs_methodologies.md) — VM0048+VMD0055（Band 1：ペルーで即時利用可能）
     - [NBS × A6.2 適格性ガイド](../concepts/nbs_a62_eligibility.md)

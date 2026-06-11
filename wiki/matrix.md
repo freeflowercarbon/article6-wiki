@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-06** | Philippines Singapore IA signed Apr 30, 2026 (12th IA) | Vietnam A6.2 decree effective May 19, 2026 | Norway-Morocco BA May 5, 2026 | Norway-Jordan BA Mar 3, 2026 | Peru CARP AIR Jun 1, 2026 (23 AIRs total) | Malawi Dairy Biogas authorized Apr 6, 2026 | Thailand-Switzerland 49,717 ITMOs Apr 2, 2026 | PACM first credits Feb 26, 2026 (Myanmar, 58,428t) | CBAM Q1 2026 €75.36/t
+    > Last updated: **2026-06-12** | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (12th IA) | Vietnam A6.2 decree effective May 19, 2026 | Norway-Morocco BA May 5, 2026 | Peru: Tuki Wasi authorized Mar 20, 2026 (no ITMO transfer yet — prior "ITMO 2023" entry corrected) | Thailand-Switzerland 49,717 ITMOs Apr 2, 2026 | PACM first credits Feb 26, 2026 (Myanmar, 58,428t)
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -54,7 +54,7 @@
     | [Indonesia 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 IA negotiating | — | — | — | 🔴 MOU(2024) |
     | [Vietnam 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
     | [Philippines 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
-    | [Thailand 🇹🇭](countries/thailand.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟢 **ITMO Jan 2024 + Apr 2026** | — | — | — |
+    | [Thailand 🇹🇭](countries/thailand.md) | 🟢 JCM(2015) **ITMO Nov 2025** | 🟡 **IA(2025)** | 🟢 **ITMO Dec 2023 + Apr 2026** | — | — | — |
     | [Malaysia 🇲🇾](countries/malaysia.md) | — | 🔴 MOU | — | — | — | — |
     | [Cambodia 🇰🇭](countries/cambodia.md) | 🟡 JCM(2022) | 🔴 **MOU only** (IA negotiating) | — | — | — | — |
     | [Laos 🇱🇦](countries/laos.md) | 🟡 JCM(2015) | — | — | — | — | — |
@@ -70,13 +70,13 @@
     | [Kazakhstan 🇰🇿](countries/kazakhstan.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [Georgia 🇬🇪](countries/georgia.md) | 🟡 JCM(2016) | — | 🟡 bilateral(2022) | — | — | — |
     | [Palau 🇵🇼](countries/palau.md) | 🟡 JCM(2014) | — | — | — | — | — |
-    | [Maldives 🇲🇻](countries/maldives.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [Maldives 🇲🇻](countries/maldives.md) | 🟢 JCM(2013) **ITMO Dec 2025** | — | — | — | — | — |
 
     ## Latin America
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Peru 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1 | 🟢 bilateral(2020) **ITMO 2023** | — | — | — |
+    | [Peru 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1 | 🟡 bilateral(2020) **Tuki Wasi authorized Mar 2026** | — | — | — |
     | [Paraguay 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1 | — | — | — | — |
     | [Chile 🇨🇱](countries/chile.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟡 bilateral | — | — | — |
     | [Colombia 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
@@ -154,13 +154,16 @@
 
     | Host Country | Best Partner | Est. First ITMO | Status / Basis |
     |-------------|:------------:|:---------------:|----------------|
-    | **Confirmed Transfers** | | | |
-    | Peru 🇵🇪 | Switzerland 🇨🇭 | 🟢 **2023** | World's first A6.2 ITMO transfer[^peitmosrc] |
+    | **Confirmed Transfers** (see [ITMO Transfer Tracker](itmo_tracker.md)) | | | |
+    | Thailand 🇹🇭 | Switzerland 🇨🇭 | 🟢 **Dec 2023 + Apr 2, 2026** | **World's first A6.2 ITMO transfer** (1,916 units, Bangkok E-Bus); **Apr 2, 2026: +49,717 units**[^thitmosrc] |
     | Ghana 🇬🇭 | Switzerland 🇨🇭 | 🟢 **Jul 7, 2025** | **11,733 ITMOs** — Africa's first A6.2 ITMO for NDC use; cookstoves[^ghitmosrc] |
-    | Thailand 🇹🇭 | Switzerland 🇨🇭 | 🟢 **Jan 2024 + Apr 2, 2026** | Jan 2024: 1,916 units (2nd global); **Apr 2, 2026: 49,717 units (Bangkok E-Bus)**[^thitmosrc] |
-    | Georgia 🇬🇪 | Switzerland 🇨🇭 | 🟢 **2024–2025** | RE + forest portfolio[^geitmosrc] |
-    | Laos 🇱🇦 | Japan JCM | 🟢 **2024** | 3M credits authorized (enteric methane) — Mekong first[^laitmosrc] |
     | Norway 🇳🇴 (as host) | Switzerland 🇨🇭 | 🟢 **Jun 2025** | **Historic: first-ever A6.2 CDR (carbon removal) transfer**[^noitmosrc] |
+    | Thailand 🇹🇭 | Japan JCM | 🟢 **Nov 11, 2025** | **First-ever JCM ITMO transfer** — TH014 floating solar, 1,009 t (vintage 2021)[^thjpitmosrc] |
+    | Maldives 🇲🇻 | Japan JCM | 🟢 **Dec 17, 2025** | 2nd JCM ITMO transfer — MV002 Addu City smart mini-grid, 433 t (vintage 2021–22)[^mvjpitmosrc] |
+    | **Authorized — not yet transferred** | | | |
+    | Peru 🇵🇪 | Switzerland 🇨🇭 | 🟡 **2026–2027 est.** | Tuki Wasi cookstoves **authorized Mar 20, 2026**; RENAMI registered Feb 2026 — no transfer yet[^peitmosrc] |
+    | Georgia 🇬🇪 | Switzerland 🇨🇭 | 🟡 **2026–2027 est.** | Bilateral (2022); energy-efficiency retrofit projects underway — no confirmed transfer[^geitmosrc] |
+    | Laos 🇱🇦 | Japan JCM | 🟡 **2026–2027 est.** | A6.2 authorization (enteric methane) reported — transfer not confirmed（要確認）[^laitmosrc] |
     | **Pipeline — Near-term (2026–2027)** | | | |
     | Paraguay 🇵🇾 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025; first monitoring cycle needed[^pyitmosrc] |
     | Ghana 🇬🇭 | Singapore 🇸🇬 | 🟡 **2026–2027** | RFP1 contracted Sep 2025 (~1.35 Mt, **Kwahu Landscape Restoration ARR**)[^ghsgitmosrc] |
@@ -177,12 +180,14 @@
     | Indonesia 🇮🇩 | Singapore 🇸🇬 | 🔴 **2028+** | Perpres 110/2025 just enacted; SG IA still negotiating[^iditmosrc] |
     | Colombia 🇨🇴 | Japan JCM | 🔴 **2028+** | JCM 2021; no bilateral IA with buyer country yet[^coitmosrc] |
 
-    [^itmostat]: As of mid-2025, 97+ bilateral IAs signed between 59 countries but only ~3–4 confirmed ITMO transfers; bottleneck = first monitoring cycle: Paris Agreement Article 6 Implementation Report 2025 <https://ca1-aip.edcdn.com/knowledge-hub/The-Paris-Agreement-Article-6-Implementation-Status-Report-2025-Edition.pdf?v=1761224037>
-    [^peitmosrc]: Switzerland-Peru (2023 — world's first A6.2 ITMO): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^itmostat]: As of June 2026, 106 bilateral arrangements formalized across 53 host countries, but only ~5 confirmed A6.2 ITMO transfers (TH-CH ×2, GH-CH, NO-CH CDR, TH-JP, MV-JP); bottleneck = first monitoring cycle: A6 Implementation Partnership <https://a6partnership.org/a6-implementation-status/current-status-of-article-6-2-implementation>
+    [^peitmosrc]: Switzerland-Peru: bilateral agreement Oct 2020 (world's **first** A6.2 bilateral agreement — agreement, not transfer); Tuki Wasi cookstoves authorized Mar 20, 2026; first RENAMI registration Feb 2026; no ITMO transfer yet: KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>; Microsol/UNEP-CCC <https://unepccc.org/peru-registers-first-article-6-project-to-scale-up-clean-cooking/>
     [^ghitmosrc]: Switzerland-Ghana: **11,733 ITMOs issued July 7, 2025** (cookstoves project — Africa's first A6.2 ITMO for NDC use; confirmed via UNFCCC CARP / Carbon Pulse Jul 2025): Klik.ch <https://www.klik.ch/en/news/news-article/first-itmo-transfer-switzerland-ghana>; earlier Jan 2024 transfer was a test/pilot. July 2025 = first confirmed NDC-counted transfer.
-    [^thitmosrc]: Switzerland-Thailand: (1) Jan 2024: 1,916 units (2nd global A6.2 transfer): White & Case <https://www.whitecase.com/insight-alert/emerging-fundamentals-climate-mitigation-through-itmo-transactions-under-paris>; (2) **Apr 2, 2026: 49,717 units** (Bangkok E-Bus, 2023–2024 vintage): Swiss FOEN; Carbon Pulse (Apr 2026)
-    [^geitmosrc]: Switzerland-Georgia (2024–2025 initial transfers): FOEN bilateral portfolio <https://www.bafu.admin.ch/>
-    [^laitmosrc]: Laos JCM A6.2 authorization (3M credits, enteric methane — first in Mekong): Carbon Pulse <https://carbon-pulse.com/453295/>
+    [^thitmosrc]: Switzerland-Thailand: (1) Dec 2023/Jan 2024: 1,916 units — **world's first A6.2 ITMO transfer** (Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; (2) **Apr 2, 2026: 49,717 units** (Bangkok E-Bus, 2023–2024 vintage): Energy Absolute; Swiss FOEN; Carbon Pulse (Apr 2026)
+    [^geitmosrc]: Switzerland-Georgia bilateral (2022); energy-efficiency retrofit of public buildings under implementation; no confirmed ITMO transfer as of Jun 2026: FOEN bilateral portfolio <https://www.bafu.admin.ch/>
+    [^laitmosrc]: Laos JCM A6.2 authorization (enteric methane — first in Mekong) reported by Carbon Pulse <https://carbon-pulse.com/453295/>; international transfer not confirmed（要確認）
+    [^thjpitmosrc]: Japan-Thailand: **first-ever JCM ITMO transfer completed Nov 11, 2025** — "Introduction of 5MW Floating Solar Power System on Industrial Water Reservoir in Thailand" (TH014), 1,009 tCO₂e, vintage 2021, acquired by MOEJ; JC7 issuance decision Oct 30, 2025: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>
+    [^mvjpitmosrc]: Japan-Maldives: JCM ITMO transfer completed Dec 17, 2025 — "Smart Mini Grid System at Addu City" (MV002), 433 tCO₂e, vintage 2021–2022, acquired by MOEJ; JC5 issuance decision Dec 16, 2025: JCM <https://www.jcm.go.jp/jc/information/20251217/>; QC Intel <https://www.qcintel.com/carbon/article/japan-maldives-complete-itmo-transfer-under-jcm-55347.html>
     [^noitmosrc]: Norway-Switzerland CDR ITMO transfer (Jun 17, 2025 — first-ever A6.2 carbon removal transfer): ClimeFi <https://www.climefi.com/blog-posts-climefi-structures-a-historic-first-norway-switzerland-itmo-transfer-under-article-6-of-the-paris-agreement/>
     [^pyitmosrc]: Singapore-Paraguay RFP1 (Gran Chaco grassland, ~285,000t, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^ghsgitmosrc]: Singapore-Ghana RFP1 Kwahu Landscape Restoration ARR (~1,350,000t, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
@@ -202,8 +207,8 @@
     | Country | NBS | CA | ITMO Record | Overall |
     |---------|:---:|:--:|:-----------:|---------|
     | Ghana 🇬🇭 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Most advanced Africa — Switzerland + Singapore transactions |
-    | Thailand 🇹🇭 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | 2nd global ITMO transfer; dual SG + CH access |
-    | Peru 🇵🇪 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 1st global ITMO transfer; SG + CH dual access |
+    | Thailand 🇹🇭 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **World's first ITMO transfer (Dec 2023)** + first JCM ITMO (Nov 2025); CH + JP + SG triple access |
+    | Peru 🇵🇪 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | World's first A6.2 bilateral agreement (2020); Tuki Wasi authorized 2026 — no transfer yet; SG + CH dual access |
     | Rwanda 🇷🇼 | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | Strong governance; SG + Sweden dual |
     | Indonesia 🇮🇩 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | Perpres 110/2025 opened export; SG IA negotiating |
     | Papua New Guinea 🇵🇬 | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐ | World #3 tropical forest; governance gaps |
@@ -214,7 +219,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-05-16 | シンガポール炭素税S$45/t（2026年1月〜） | オマーンJCM MoC（2026年4月10日）パートナー国#31-32 | インドJCM MoC（2025年8月29日）#30 | マラウィAIR 2025年8月 | CBAMスタートQ1 2026 €75.36/t
+    > 最終更新: 2026-06-12 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（12件目） | ベトナムA6.2政令施行 2026年5月19日 | ペルー：Tuki Wasi授権 2026年3月20日（ITMO移転実績なし — 旧「ITMO 2023」表記を訂正） | タイ-スイス 49,717 ITMO 2026年4月2日
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -249,7 +254,7 @@
     | [インドネシア 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 IA交渉中 | — | — | — | 🔴 MOU(2024) |
     | [ベトナム 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
     | [フィリピン 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
-    | [タイ 🇹🇭](countries/thailand.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟢 **ITMO 2024年1月 + 2026年4月** | — | — | — |
+    | [タイ 🇹🇭](countries/thailand.md) | 🟢 JCM(2015) **ITMO 2025年11月** | 🟡 **IA(2025)** | 🟢 **ITMO 2023年12月 + 2026年4月** | — | — | — |
     | [マレーシア 🇲🇾](countries/malaysia.md) | — | 🔴 MOU | — | — | — | — |
     | [カンボジア 🇰🇭](countries/cambodia.md) | 🟡 JCM(2022) | 🔴 **MOU only**（IA交渉中） | — | — | — | — |
     | [ラオス 🇱🇦](countries/laos.md) | 🟡 JCM(2015) | — | — | — | — | — |
@@ -265,13 +270,13 @@
     | [カザフスタン 🇰🇿](countries/kazakhstan.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [ジョージア 🇬🇪](countries/georgia.md) | 🟡 JCM(2016) | — | 🟡 二国間(2022) | — | — | — |
     | [パラオ 🇵🇼](countries/palau.md) | 🟡 JCM(2014) | — | — | — | — | — |
-    | [モルディブ 🇲🇻](countries/maldives.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [モルディブ 🇲🇻](countries/maldives.md) | 🟢 JCM(2013) **ITMO 2025年12月** | — | — | — | — | — |
 
     ## 中南米
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [ペルー 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1落札 | 🟢 二国間(2020) **ITMO 2023** | — | — | — |
+    | [ペルー 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1落札 | 🟡 二国間(2020) **Tuki Wasi授権 2026年3月** | — | — | — |
     | [パラグアイ 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1落札 | — | — | — | — |
     | [チリ 🇨🇱](countries/chile.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟡 二国間 | — | — | — |
     | [コロンビア 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
@@ -335,26 +340,30 @@
 
     ## ITMO初発行タイムライン推定
 
-    > A6.2 ITMO移転が未確認のホスト国について、CA体制整備、初回モニタリングサイクル（IA署名後通常18〜24ヶ月）、バイヤー側パイプライン成熟度を踏まえたタイムライン推定。2025年半時点で、97以上の二国間IAが署名済みにもかかわらず、確認済みITMO移転は3〜4件のみ。[^itmostat]
+    > A6.2 ITMO移転が未確認のホスト国について、CA体制整備、初回モニタリングサイクル（IA署名後通常18〜24ヶ月）、バイヤー側パイプライン成熟度を踏まえたタイムライン推定。2026年6月時点で、106の二国間協定（53ホスト国）が形式化済みにもかかわらず、確認済みA6.2 ITMO移転は約5件のみ。[^itmostat]
 
     | ホスト国 | 最有力パートナー | 推定初ITMO | 根拠 |
     |---------|:--------------:|:----------:|------|
-    | **確認済み移転** | | | |
-    | ペルー 🇵🇪 | スイス 🇨🇭 | 🟢 **2023年** | 世界初A6.2 ITMO移転[^peitmosrc] |
-    | ガーナ 🇬🇭 | スイス 🇨🇭 | 🟢 **2024年1月** | アフリカ初（改良かまど＋REDD+）[^ghitmosrc] |
-    | タイ 🇹🇭 | スイス 🇨🇭 | 🟢 **2024年1月** | 1,916ユニット・世界2番目[^thitmosrc] |
-    | ジョージア 🇬🇪 | スイス 🇨🇭 | 🟢 **2024〜2025年** | 再エネ・森林ポートフォリオ[^geitmosrc] |
-    | ラオス 🇱🇦 | 日本JCM | 🟢 **2024年** | 300万クレジット授権（腸内メタン）—メコン初[^laitmosrc] |
+    | **確認済み移転**（詳細は[ITMO移転トラッカー](itmo_tracker.md)） | | | |
+    | タイ 🇹🇭 | スイス 🇨🇭 | 🟢 **2023年12月 + 2026年4月2日** | **世界初のA6.2 ITMO移転**（1,916ユニット・バンコクE-Bus）；2026年4月に+49,717ユニット[^thitmosrc] |
+    | ガーナ 🇬🇭 | スイス 🇨🇭 | 🟢 **2025年7月7日** | **11,733 ITMO** — アフリカ初のNDC用途A6.2 ITMO（改良かまど）[^ghitmosrc] |
     | **ノルウェー 🇳🇴**（ホスト） | スイス 🇨🇭 | 🟢 **2025年6月** | **歴史的：A6.2初の炭素除去（CDR）移転**[^noitmosrc] |
+    | タイ 🇹🇭 | 日本JCM | 🟢 **2025年11月11日** | **JCM史上初のITMO移転** — TH014浮体式太陽光、1,009t（2021ビンテージ）[^thjpitmosrc] |
+    | モルディブ 🇲🇻 | 日本JCM | 🟢 **2025年12月17日** | JCM2件目 — MV002アッドゥ市スマートミニグリッド、433t（2021〜22ビンテージ）[^mvjpitmosrc] |
+    | **授権済み・未移転** | | | |
+    | ペルー 🇵🇪 | スイス 🇨🇭 | 🟡 **2026〜2027年（推定）** | Tuki Wasi改良かまど**2026年3月20日授権**；RENAMI登録2026年2月 — 移転実績なし[^peitmosrc] |
+    | ジョージア 🇬🇪 | スイス 🇨🇭 | 🟡 **2026〜2027年（推定）** | 二国間協定(2022)；公共建築物省エネ改修が実施中 — 移転未確認[^geitmosrc] |
+    | ラオス 🇱🇦 | 日本JCM | 🟡 **2026〜2027年（推定）** | A6.2授権（腸内メタン）報道あり — 移転未確認（要確認）[^laitmosrc] |
     | **パイプライン — 近期（2026〜2027年）** | | | |
     | パラグアイ 🇵🇾 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1契約済（2025年9月）；初回モニタリングが必要[^pyitmosrc] |
-    | ガーナ 🇬🇭 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1×2契約（改良かまど約90万t＋REDD+約45万t）[^ghsgitmosrc] |
+    | ガーナ 🇬🇭 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1契約（**Kwahu景観再生ARR 約135万t**、2026〜2030年）[^ghsgitmosrc] |
     | ペルー 🇵🇪 | シンガポール 🇸🇬 | 🟡 **2026〜2027年** | RFP1契約（アマゾンREDD+約54万t）[^pesgitmosrc] |
     | **パイプライン — 中期（2027〜2028年）** | | | |
     | カンボジア 🇰🇭 | 日本JCM | 🟡 **2027〜2028年** | Prey Lang授権済（2023年12月）；JCM→ITMO移転処理中[^khitmosrc] |
     | ベトナム 🇻🇳 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年8月署名；通常18〜24ヶ月リードタイム[^vnitmosrc] |
     | チリ 🇨🇱 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年4月署名[^clitmosrc] |
     | モンゴル 🇲🇳 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年10月6日署名[^mnitmosrc] |
+    | フィリピン 🇵🇭 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | **IA署名 2026年4月30日**（SG12件目）；通常18〜24ヶ月リードタイム[^phsgitmosrc] |
     | フィリピン 🇵🇭 | 日本JCM | 🟡 **2027〜2028年** | JCM→A6.2；水田（2025年2月）・森林（2025年11月）方法論承認[^phitmosrc] |
     | **パイプライン — 長期（2028年以降）** | | | |
     | パプアニューギニア 🇵🇬 | シンガポール 🇸🇬 | 🔴 **2028年以降** | IA 2023年12月；「ロードテスト」段階が継続中[^pgitmosrc] |
@@ -366,8 +375,8 @@
     | 国 | NBS整備 | CA体制 | 輸出実績 | 総合評価 |
     |---|:---:|:---:|:---:|---|
     | ガーナ 🇬🇭 | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | アフリカ最先進 — スイス・SG取引済 |
-    | タイ 🇹🇭 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | 世界2番目のITMO移転；SG+CH双方アクセス |
-    | ペルー 🇵🇪 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 世界初ITMO移転；SG+CHデュアルアクセス |
+    | タイ 🇹🇭 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **世界初ITMO移転（2023年12月）**＋JCM初ITMO（2025年11月）；CH+JP+SGトリプルアクセス |
+    | ペルー 🇵🇪 | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐ | 世界初のA6.2二国間協定（2020年）；Tuki Wasi授権2026年 — 移転実績なし；SG+CHデュアル |
     | ルワンダ 🇷🇼 | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ガバナンス優秀；SG+スウェーデン双方 |
     | インドネシア 🇮🇩 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | Perpres 110/2025で輸出解禁；SG IA交渉中 |
     | カンボジア 🇰🇭 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐ | JCM+SGデュアル；JCM初NBS発行（Prey Lang） |

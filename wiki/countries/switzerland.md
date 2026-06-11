@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Switzerland is the **world's most active Article 6.2 acquiring country**, having completed the world's first Article 6.2 ITMO transfer (Peru, 2023) and now operating bilateral agreements with **16 countries**.[^chcount] Switzerland's CO2 Act legally requires up to 50% of its NDC reduction to come from international transfers — creating a structural, legally mandated procurement obligation.
+    Switzerland is the **world's most active Article 6.2 acquiring country**, having completed the **world's first Article 6.2 ITMO transfer (Thailand Bangkok E-Bus, December 2023)**, Africa's first (Ghana, July 2025), and the first CDR ITMO transfer (Norway, June 2025), while operating bilateral agreements with **16 countries**.[^chcount] Switzerland's CO2 Act legally requires up to 50% of its NDC reduction to come from international transfers — creating a structural, legally mandated procurement obligation.
 
     | Item | Detail |
     |------|--------|
@@ -32,15 +32,15 @@
 
     | Host Country | Year | Status | Sector Focus | Notes |
     |-------------|------|--------|--------------|-------|
-    | Peru 🇵🇪 | 2020 | ✅ **ITMO transferred 2023** | Energy eff., RE | **World's 1st A6.2 ITMO transfer** [^chperu] |
-    | Ghana 🇬🇭 | 2021 | ✅ Active | Cookstoves, REDD+ | Solar PV + energy efficient lighting |
+    | Peru 🇵🇪 | 2020 | 🟡 **World's 1st A6.2 bilateral agreement**; Tuki Wasi authorized Mar 2026 — no transfer yet | Cookstoves, energy eff. | [^chperu] |
+    | Ghana 🇬🇭 | 2021 | 🟢 **11,733 ITMOs issued Jul 7, 2025** | Cookstoves, REDD+ | **Africa's first A6.2 ITMO for NDC use** |
     | Dominica 🇩🇲 | 2021 | ✅ Active | Forest conservation | — |
     | Vanuatu 🇻🇺 | 2021 | ✅ Active | Mangroves | — |
     | Georgia 🇬🇪 | 2022 | ✅ Active | RE, forests | Landfill gas to energy |
     | Ukraine 🇺🇦 | 2022 | ✅ (partly suspended) | — | War impact |
     | Malawi 🇲🇼 | 2022 | ✅ Active | Clean cooking | — |
     | Senegal 🇸🇳 | 2023 | ✅ Active | Biogas, Great Green Wall | — |
-    | **Thailand 🇹🇭** | **2023** | ✅ **ITMO transferred Jan 2024** | — | 1,916 units transferred [^chth] |
+    | **Thailand 🇹🇭** | **2022** | 🟢 **ITMO transferred Dec 2023 (world's first) + Apr 2, 2026** | Transport (Bangkok E-Bus) | 1,916 + 49,717 units [^chth] |
     | Chile 🇨🇱 | ~2023 | ✅ Active | — | — |
     | Uruguay 🇺🇾 | ~2023 | ✅ Active | Climate smart agri | — |
     | Tunisia 🇹🇳 | ~2023 | ✅ Active | — | — |
@@ -64,7 +64,7 @@
 
     | Metric | Data |
     |--------|------|
-    | ITMO transfers completed | ≥2 confirmed: Peru (2023), Thailand (Jan 2024) [^chth] |
+    | ITMO transfers completed | **4 confirmed**: Thailand (Dec 2023, world's first), Norway CDR (Jun 2025), Ghana (Jul 2025), Thailand 2nd (Apr 2026) [^chth] |
     | Countries with active agreements | ~16 [^chcount] |
     | Annual procurement budget | ~CHF 100–200M/yr (estimated) |
     | Legal procurement obligation | Up to 50% of NDC = ~17.5 Mt CO₂e cumulative by 2030 |
@@ -74,8 +74,8 @@
 
     [^chcount]: A6 Implementation Partnership: <https://a6partnership.org/partners/switzerland>; FOEN bilateral agreements page: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     [^chfoen]: SQ Consult Switzerland bilateral analysis: <https://www.sqconsult.com/en/references/switzerlands-bilateral-agreement-with-ghana-peru-art62-193>
-    [^chperu]: World's first A6.2 ITMO transfer confirmed; source: FOEN and multiple carbon market press reports (2023)
-    [^chth]: Thailand ITMO transfer Jan 2024 (1,916 units); source: Swiss FOEN / carbon market reports
+    [^chperu]: Switzerland-Peru: world's first A6.2 bilateral **agreement** (Oct 2020); Tuki Wasi cookstoves authorized Mar 20, 2026 — **no ITMO transfer completed yet**: KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>
+    [^chth]: Thailand ITMO transfers: Dec 2023 (1,916 units — **world's first A6.2 ITMO transfer**, Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; Apr 2, 2026 (49,717 units): Energy Absolute / Swiss FOEN
     [^chbezero]: Carbon Herald, "BeZero to deliver risk assessments for Article 6.2 carbon credits for Switzerland": <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
 
     ## Eligible & Excluded Project Types (NBS Exclusion)
@@ -121,7 +121,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    スイスは世界で**最も積極的なA6.2調達国**。世界初のA6.2 ITMO移転（対ペルー、2023年）を実現し、現在**16カ国との二国間協定**[^chcount]を運用中。CO2法により、NDC削減目標の最大50%を国際移転で補完することが法的に義務付けられており、構造的な調達義務を持つ。
+    スイスは世界で**最も積極的なA6.2調達国**。**世界初のA6.2 ITMO移転（対タイ・バンコクE-Bus、2023年12月）**、アフリカ初（対ガーナ、2025年7月）、初のCDR ITMO移転（対ノルウェー、2025年6月）を実現し、現在**16カ国との二国間協定**[^chcount]を運用中。CO2法により、NDC削減目標の最大50%を国際移転で補完することが法的に義務付けられており、構造的な調達義務を持つ。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -137,15 +137,15 @@
 
     | ホスト国 | 年 | 状況 | 備考 |
     |---------|---|------|------|
-    | ペルー 🇵🇪 | 2020年 | ✅ **ITMO移転済み（2023）** | **世界初A6.2 ITMO移転** [^chperu] |
-    | ガーナ 🇬🇭 | 2021年 | ✅ 稼働中 | クックストーブ・REDD+ |
+    | ペルー 🇵🇪 | 2020年 | 🟡 **世界初のA6.2二国間協定**；Tuki Wasi授権 2026年3月 — 移転実績なし | [^chperu] |
+    | ガーナ 🇬🇭 | 2021年 | 🟢 **11,733 ITMO発行（2025年7月7日）** | **アフリカ初のNDC用途A6.2 ITMO**（改良かまど） |
     | ドミニカ 🇩🇲 | 2021年 | ✅ 稼働中 | 森林保全 |
     | バヌアツ 🇻🇺 | 2021年 | ✅ 稼働中 | マングローブ |
     | ジョージア 🇬🇪 | 2022年 | ✅ 稼働中 | 再エネ・森林 |
     | ウクライナ 🇺🇦 | 2022年 | ✅（一部停止） | 戦争影響 |
     | マラウイ 🇲🇼 | 2022年 | ✅ 稼働中 | クリーンクッキング |
     | セネガル 🇸🇳 | 2023年 | ✅ 稼働中 | バイオガス・大グリーンウォール |
-    | **タイ 🇹🇭** | **2023年** | ✅ **ITMO移転済み（2024年1月）** | 1,916ユニット移転 [^chth] |
+    | **タイ 🇹🇭** | **2022年** | 🟢 **ITMO移転済み（2023年12月・世界初＋2026年4月2日）** | 1,916＋49,717ユニット [^chth] |
     | チリ 🇨🇱 | 〜2023年 | ✅ 稼働中 | — |
     | ウルグアイ 🇺🇾 | 〜2023年 | ✅ 稼働中 | 農業炭素 |
     | チュニジア 🇹🇳 | 〜2023年 | ✅ 稼働中 | — |
@@ -163,7 +163,7 @@
 
     ## 調達実績・需要見通し
 
-    - 完了済みITMO移転：ペルー（2023年）、タイ（2024年1月）の最低2件 [^chth]
+    - 完了済みITMO移転：**4件** — タイ（2023年12月・世界初）、ノルウェーCDR（2025年6月）、ガーナ（2025年7月）、タイ第2回（2026年4月） [^chth]
     - 2030年目標：国際調達分だけで約1,750万t CO₂e必要（NDC50%を国際調達で補完）
     - 需要の硬直性：CO2法による法的義務のため、調達は義務的 → 価格交渉力は弱い
 
@@ -192,7 +192,9 @@
     スイスは**二元型制度**：化石燃料（暖房・産業用）向けCO₂レビー（CHF 120/t）と、大規模排出者向けETS（EU ETSリンク、価格≈€50〜70/t）。CO₂レビー収入は気候プログラム・建物改修補助に活用。国内炭素価格は世界最高水準だが、削減ポテンシャルが限られるため、国際クレジットへの強い需要がある。
 
     ## 関連ページ
-    - [ペルー](peru.md) — 世界初ITMO取引相手国
-    - [ガーナ](ghana.md) — ITMO実績
+    - [ITMO移転トラッカー](../itmo_tracker.md)
+    - [タイ](thailand.md) — 世界初ITMO移転相手国
+    - [ガーナ](ghana.md) — アフリカ初ITMO実績
+    - [ペルー](peru.md) — 世界初の二国間協定
     - [Corresponding Adjustment](../concepts/corresponding_adjustment.md)
     - [マトリクス](../matrix.md)

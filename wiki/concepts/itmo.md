@@ -41,14 +41,18 @@
     | NBS/REDD+ approval | Bilateral (active) | Pending A6.4SB methodology review |
     | Current status (2026) | Active — ITMOs already issued | Pipeline forming |
 
-    ## World's First ITMO Transfers (Confirmed)
+    ## Confirmed A6.2 ITMO Transfers — see [ITMO Transfer Tracker](../itmo_tracker.md)
 
     | Rank | Countries | Date | Volume | Sector |
     |------|-----------|------|--------|--------|
-    | 1st | Peru → Switzerland | 2023 | Undisclosed | Energy efficiency / RE |
-    | 2nd | Thailand → Switzerland | January 2024 | 1,916 units | Energy efficiency (industry) |
+    | 1st | Thailand → Switzerland | **December 2023** | 1,916 units | Bangkok E-Bus (transport) |
+    | 2nd | Norway → Switzerland | June 17, 2025 | Undisclosed | **First CDR (carbon removal) ITMO** |
+    | 3rd | Ghana → Switzerland | July 7, 2025 | 11,733 units | Cookstoves — Africa's first |
+    | 4th | Thailand → Japan (JCM) | **November 11, 2025** | 1,009 t | **First-ever JCM ITMO** (TH014 floating solar) |
+    | 5th | Maldives → Japan (JCM) | December 17, 2025 | 433 t | Smart mini-grid (MV002) |
+    | — | Thailand → Switzerland (2nd issuance) | April 2, 2026 | 49,717 units | Bangkok E-Bus |
 
-    > These are the only confirmed Article 6.2 ITMO transfers as of Q1 2026. Multiple others are in pipeline.
+    > These are the only confirmed Article 6.2 ITMO transfers as of June 2026 (Peru–Switzerland signed the world's first bilateral *agreement* in 2020, but has not yet completed a transfer). Multiple others are in pipeline.
 
     ## JCM Credits and ITMO Status
 
@@ -97,12 +101,18 @@
 
     > **重要**: VoluntaryクレジットはそのままではITMOにならない。政府授権+CAがあって初めてNDC充当に使えるITMOとなる。
 
-    ## 世界初の確認済みITMO移転
+    ## 確認済みA6.2 ITMO移転 — 詳細は[ITMO移転トラッカー](../itmo_tracker.md)
 
     | 順位 | 国 | 時期 | 量 | セクター |
     |-----|---|------|---|--------|
-    | 世界1位 | ペルー → スイス | 2023年 | 非公開 | 省エネ / 再エネ |
-    | 世界2位 | タイ → スイス | 2024年1月 | 1,916ユニット | 産業省エネ |
+    | 世界1位 | タイ → スイス | **2023年12月** | 1,916ユニット | バンコクE-Bus（運輸） |
+    | 2位 | ノルウェー → スイス | 2025年6月17日 | 非公開 | **初のCDR（炭素除去）ITMO** |
+    | 3位 | ガーナ → スイス | 2025年7月7日 | 11,733ユニット | 改良かまど — アフリカ初 |
+    | 4位 | タイ → 日本（JCM） | **2025年11月11日** | 1,009t | **JCM史上初のITMO**（TH014浮体式太陽光） |
+    | 5位 | モルディブ → 日本（JCM） | 2025年12月17日 | 433t | スマートミニグリッド（MV002） |
+    | — | タイ → スイス（第2回発行） | 2026年4月2日 | 49,717ユニット | バンコクE-Bus |
+
+    > 2026年6月時点で確認済みのA6.2 ITMO移転は上記のみ（ペルー-スイスは2020年に世界初の二国間*協定*を締結したが、移転はまだ完了していない）。
 
     ## JCMクレジットとITMOの関係
 
