@@ -55,11 +55,14 @@
     | Nov 2024 (COP29) | Full operationalization — complete rules package adopted by CMA |
     | Dec 2024 | CDM transition application window open |
     | 2025 | First PACM project registrations expected; A6.4SB begins methodology reviews |
-    | **Feb 26, 2026** | **HISTORIC: First-ever A6.4ERs issued** — Myanmar efficient cookstoves project: **58,428 tCO₂e** (South Korea acquiring country)[^firstpacm] |
-    | 2026 | UNFCCC registry operational (target); further methodology approvals |
+    | **Feb 26, 2026** | **HISTORIC: First-ever A6.4ERs issued** — Myanmar efficient cookstoves PoA 10471: **58,428 tCO₂e** issued (project shows ~603,368 t issuable; South Korea acquiring)[^firstpacm] |
+    | **Mar 2026** | **2nd issuance approval: PoA 10415** (joining Myanmar PoA 10471) — PACM issuance pipeline widening[^pacm2nd] |
+    | **2026** | 6-month deadline extension keeps PACM open to **~1 billion CDM transition credits**; integrity controversy over Myanmar junta links (Carbon Market Watch + Global Forest Coalition call for suspension/investigation)[^pacmcontroversy] |
     | 2027+ | Scale-up phase; CORSIA eligibility decision expected |
 
-    [^firstpacm]: First Article 6.4 credits (A6.4ERs) issued February 26, 2026 — Myanmar efficient cookstoves project, 58,428 tCO₂e; acquiring country: South Korea: UNFCCC A6.4SB registry; Carbon Pulse (Feb 26, 2026)
+    [^firstpacm]: First Article 6.4 credits (A6.4ERs) issued February 26, 2026 — Myanmar efficient cookstoves PoA 10471, 58,428 tCO₂e issued (≈603,368 t issuable; 648,783 t reductions for vintage Jan 2021–May 2022); acquiring country: South Korea: UNFCCC A6.4SB registry; S&P Global <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/022626-un-greenlights-first-credits-under-article-64-from-myanmar-cookstove-project>
+    [^pacm2nd]: Second PACM issuance approval: PoA 10415 (March 2026), following Myanmar PoA 10471: Fastmarkets <https://www.fastmarkets.com/insights/first-issuances-approved-under-pacm-from-myanmar-cookstove-project-with-loa/>
+    [^pacmcontroversy]: PACM granted a 6-month deadline extension keeping the door open to ~1bn CDM transition credits; the Myanmar cookstove project faces an integrity controversy (junta links; remote verification) with Carbon Market Watch and Global Forest Coalition calling for suspension and independent investigation: Fastmarkets <https://www.fastmarkets.com/insights/article-6-4-a-six-month-deadline-extension-keeps-pacms-doors-open-to-roughly-1bn-cdm-credits/>; Carbon Market Watch <https://carbonmarketwatch.org/2026/06/09/>; Global Forest Coalition <https://globalforestcoalition.org/first-un-paris-agreement-high-integrity-carbon-credits-linked-to-myanmar-junta-new-report-finds/>
 
     ## A6.4SB — Active Methodology Reviews (as of Q1 2026)
 
@@ -183,7 +186,9 @@
     | 2024年11月（COP29） | 完全運用化 — CMAで完全ルールパッケージ採択 |
     | 2024年12月 | CDM移行申請ウィンドウ開始 |
     | 2025年 | 初のPACMプロジェクト登録が見込まれる |
-    | **2026年2月26日** | **【歴史的】初のA6.4ERが発行** — ミャンマー省エネかまどプロジェクト、58,428 tCO₂e（韓国が調達）[^firstpacm] |
+    | **2026年2月26日** | **【歴史的】初のA6.4ERが発行** — ミャンマー省エネかまどPoA 10471、58,428 tCO₂e発行（韓国が調達）[^firstpacm] |
+    | **2026年3月** | **2件目の発行承認：PoA 10415**（ミャンマーPoA 10471に続く）[^pacm2nd] |
+    | **2026年** | 6ヶ月の期限延長で**約10億のCDM移行クレジット**にPACMの門戸が開く；ミャンマー軍政との関連で完全性に懸念（Carbon Market Watch等が停止・調査を要求）[^pacmcontroversy] |
     | 2026年 | UNFCCC登録簿稼働（目標）；方法論追加承認 |
     | 2027年以降 | スケールアップ、CORSIA適格性決定見込み |
 

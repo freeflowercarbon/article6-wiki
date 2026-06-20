@@ -99,6 +99,7 @@ nav:
     - CCP-Eligible NBS Methodologies | CCP適格NBS方法論: concepts/ccp_nbs_methodologies.md
   - Market Intelligence | 市場分析:
     - CBAM × Article 6.2: concepts/cbam_a62.md
+    - Host-Country ITMO Caps | ホスト国の移転上限: concepts/host_country_caps.md
   - Sources | 収集ソース: _sources.md
 
 plugins:

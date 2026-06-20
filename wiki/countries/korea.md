@@ -33,7 +33,7 @@
     |-------------|--------|------|-------|
     | Indonesia 🇮🇩 | 📋 MOU | Jun 2024 | Article 6 carbon project cooperation MOU; focus on industry projects[^krid] |
     | Cambodia 🇰🇭 | 💬 Project approval | Jul 2025 | First host-country authorization for Korean A6 project obtained[^krkh] |
-    | India 🇮🇳 | 🤝 Bilateral agreement | Apr 2026 | Signed during Korean presidential visit; ITMO cooperation framework[^krin] |
+    | India 🇮🇳 | 🤝 Bilateral agreement | Apr 24, 2026 | Signed during Korean presidential visit; ITMO cooperation framework[^krin] |
     | Vietnam 🇻🇳 | 💬 Interest expressed | — | ASEAN carbon market linkage discussions |
     | Thailand 🇹🇭 | 💬 Interest expressed | — | — |
     | Others | — | — | — |
@@ -120,7 +120,7 @@
     |---------|------|------|------|
     | インドネシア 🇮🇩 | 📋 MOU | 2024年6月 | Article 6炭素プロジェクト協力MOU；産業系案件中心[^krid] |
     | カンボジア 🇰🇭 | 💬 案件承認 | 2025年7月 | 韓国向け初のA6.2案件レベル授権取得[^krkh] |
-    | インド 🇮🇳 | 🤝 二国間協定 | 2026年4月 | 韓国大統領訪印時に締結；ITMO協力枠組み[^krin] |
+    | インド 🇮🇳 | 🤝 二国間協定 | 2026年4月24日 | 韓国大統領訪印時に締結；ITMO協力枠組み[^krin] |
     | ベトナム 🇻🇳 | 💬 関心表明 | — | ASEAN炭素市場連携の文脈 |
     | タイ 🇹🇭 | 💬 関心表明 | — | — |
     | その他 | — | — | — |

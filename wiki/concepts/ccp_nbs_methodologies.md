@@ -22,6 +22,10 @@
 
     ## Currently CCP-Approved NBS Methodologies (as of 2026)
 
+    > **Market-wide CCP status (mid-2026)**: ICVCM has now approved **30+ methodologies** across nature, methane, and removals, and the crediting **programs covering ~98% of market volume are CCP-Eligible**. VM0048 REDD+ has ~21 projects in development (~300M credits potential first crediting period) and the JNR Framework has ~5 projects. Note: a CCP-Eligible *program* does not mean every credit carries the CCP label — only credits issued under a CCP-*approved methodology* do.[^ccpmktwide]
+
+    [^ccpmktwide]: ICVCM CCP approvals and assessment status (mid-2026): 30+ methodologies approved; ~98% of market volume from CCP-Eligible programs; VM0048 ~21 projects/~300M credits, JNR ~5 projects: ICVCM <https://icvcm.org/integrity-council-approves-three-redd-methodologies/>; <https://icvcm.org/assessment-status/>
+
     ### ✅ REDD+ / Avoided Deforestation
 
     | Methodology | Standard | CCP Approval | Activity Type | Key Condition |

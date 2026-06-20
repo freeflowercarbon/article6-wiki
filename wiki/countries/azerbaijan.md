@@ -8,7 +8,8 @@
 
     | Item | Detail |
     |------|--------|
-    | NDC Target | 40% reduction vs. 1990 by 2030[^azndc] |
+    | NDC Target | Previously 40% vs. 1990 by 2030; **updated NDC removed the 2030 target altogether**[^azcat] |
+    | NDC Rating | 🔴 **"Critically Insufficient" (Climate Action Tracker)** — emissions projected +~20% through 2030; no net-zero commitment[^azcat] |
     | Carbon System | Under preparation (accelerated post-COP29)[^azcop29] |
     | Key Ministry | Ministry of Ecology and Natural Resources[^azmenr] |
     | JCM (Japan) | ✅ Since 2016[^azjcm] |
@@ -19,6 +20,9 @@
     [^azcop29]: COP29 (Baku, Nov 2024): Azerbaijan committed to accelerating domestic carbon market development; Baku Carbon Initiative launched: UNFCCC <https://unfccc.int/cop29>
     [^azmenr]: Azerbaijan Ministry of Ecology and Natural Resources: <https://eco.gov.az/>
     [^azjcm]: JCM Azerbaijan: GEC <https://gec.jp/jcm/projects/>; signed 2016; wind and energy efficiency projects
+    [^azcat]: Climate Action Tracker rates Azerbaijan "Critically Insufficient" — it weakened its updated NDC, removing the 2030 target altogether, pledged to increase fossil-fuel production, and projects emissions rising ~20% through 2030 with no net-zero target: Climate Action Tracker <https://climateactiontracker.org/countries/azerbaijan/>
+
+    > ⚠️ **Export-suitability caveat (Jun 2026)**: Azerbaijan's weakened NDC and rising-emissions trajectory undermine the "genuine surplus" basis for ITMO exports — a host country that cannot meet its own (now-vaguer) targets has questionable additionality headroom for authorizing transfers.
 
     ## Bilateral A6.2 Agreements
 
@@ -60,7 +64,8 @@
     ## 基本情報
     | 項目 | 内容 |
     |------|------|
-    | NDC目標 | 2030年に1990年比40%削減 |
+    | NDC目標 | 従来は2030年に1990年比40%削減；**更新NDCで2030年目標を撤廃**[^azcat] |
+    | NDC評価 | 🔴 **「危機的に不十分」（Climate Action Tracker）** — 2030年まで排出+約20%見込み・ネットゼロ目標なし[^azcat] |
     | 国内炭素制度 | 整備準備中（COP29後に加速） |
     | 主管省庁 | 環境省 |
     | JCM状況 | ✅ 日本（2016年） |

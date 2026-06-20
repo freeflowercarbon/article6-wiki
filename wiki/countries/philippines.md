@@ -4,21 +4,21 @@
 
     ## Overview
 
-    The Philippines is a Japan JCM partner (2017) with emerging NBS opportunities. The 2025 **DAO 2025-23** established the Voluntary Forest Carbon Market (VFCM) roadmap, recognizing carbon rights independently from land ownership. The **Singapore–Philippines Implementation Agreement was signed April 30, 2026**, making the Philippines the 4th ASEAN Singapore IA partner. JCM paddy methane and forestry methodologies approved in 2025 open significant new pipelines.
+    The Philippines is a Japan JCM partner (2017) with emerging NBS opportunities. The 2025 **DAO 2025-23** established the Voluntary Forest Carbon Market (VFCM) roadmap, recognizing carbon rights independently from land ownership. The **Singapore–Philippines Implementation Agreement was signed April 30, 2026** — Singapore's **11th IA** and its **3rd ASEAN IA partner** (after Thailand and Vietnam; Cambodia has an MOU only). JCM paddy methane and forestry methodologies approved in 2025 open significant new pipelines.
 
     | Item | Detail |
     |------|--------|
     | NDC Target | 75% conditional / 2.71% unconditional reduction vs. BAU by 2030[^phndc] |
     | Carbon System | VFCM framework (DAO 2025-23)[^phvfcm]; no ETS yet |
     | JCM (Japan) | ✅ Since 2017; paddy + forest guidelines approved 2025[^phjcm] |
-    | Singapore IA | ✅ **Signed April 30, 2026** — 4th ASEAN partner[^phsg] |
+    | Singapore IA | ✅ **Signed April 30, 2026** — 11th Singapore IA; 3rd ASEAN IA partner[^phsg] |
     | CA Framework | 🟡 Being established (post-IA) |
     | Key Ministry | DENR (Dept. of Environment and Natural Resources)[^phdenr] |
 
     [^phndc]: Philippines NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PHL>
     [^phvfcm]: DAO 2025-23 (Voluntary Forest Carbon Market rules): DENR <https://www.denr.gov.ph/>
     [^phjcm]: JCM Philippines: GEC <https://gec.jp/jcm/projects/>; paddy methane methodology Feb 2025: JIRCAS <https://www.jircas.go.jp/en/reports/2024/r20250204>; forest guidelines Nov 2025: MOEJ
-    [^phsg]: Singapore-Philippines Implementation Agreement signed **April 30, 2026** (4th ASEAN IA partner after Cambodia, Thailand, Vietnam): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>; secondary sources (Carbon Pulse, Saxon Renewables)
+    [^phsg]: Singapore-Philippines Implementation Agreement signed **April 30, 2026** — **11th Singapore IA**; 3rd ASEAN IA partner after Thailand and Vietnam (Cambodia has an MOU only, not an IA): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>; secondary sources (Carbon Pulse, Saxon Renewables)
     [^phdenr]: DENR (Philippines): <https://www.denr.gov.ph/>
 
     ## NDC Achievement Status
@@ -74,7 +74,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    フィリピンはArticle 6.2において**急速に整備が進むホスト国**。日本とのJCM協定（2017年）に加え、**シンガポールIA（2026年4月30日署名）**でASEAN第4号IA締結国となった。2025年のDAO 2025-23（VFCM枠組み）、水田メタン削減・森林JCM方法論承認により、NBS分野で新たなパイプラインが形成中。
+    フィリピンはArticle 6.2において**急速に整備が進むホスト国**。日本とのJCM協定（2017年）に加え、**シンガポールIA（2026年4月30日署名）**でシンガポールの第11号IA・ASEAN第3号IA締結国（タイ・ベトナムに次ぐ）となった（カンボジアはMOUのみ）。2025年のDAO 2025-23（VFCM枠組み）、水田メタン削減・森林JCM方法論承認により、NBS分野で新たなパイプラインが形成中。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -83,7 +83,7 @@
     | 国内炭素制度 | 未導入（VFCM枠組み整備中） |
     | 主管省庁 | DENR（環境天然資源省）、CCC |
     | JCM状況 | 日本（2017年）✅ |
-    | IA状況 | シンガポール ✅ **2026年4月30日署名**（ASEAN第4号） |
+    | IA状況 | シンガポール ✅ **2026年4月30日署名**（第11号IA・ASEAN第3号） |
 
     ## NDC達成見込み
 

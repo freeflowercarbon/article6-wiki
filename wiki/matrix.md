@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-12** | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (12th IA) | Vietnam A6.2 decree effective May 19, 2026 | Norway-Morocco BA May 5, 2026 | Peru: Tuki Wasi authorized Mar 20, 2026 (no ITMO transfer yet — prior "ITMO 2023" entry corrected) | Thailand-Switzerland 49,717 ITMOs Apr 2, 2026 | PACM first credits Feb 26, 2026 (Myanmar, 58,428t)
+    > Last updated: **2026-06-20** | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (**11th** IA — Cambodia is MOU only) | Kenya National Carbon Registry live Feb 2026 + ~10M ITMO trading cap 2026–2030 | Singapore-Verra-GS A6.2 Crediting Protocol final Nov 2025 | Vietnam Decree 112/2026 effective May 19, 2026 (transfer caps 90%/50%) | PACM 2nd issuance Mar 2026 (PoA 10415) | SB64 Bonn Jun 8–18, 2026
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -173,7 +173,7 @@
     | Vietnam 🇻🇳 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Aug 2025; ~18–24 month standard lead time[^vnitmosrc] |
     | Chile 🇨🇱 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Apr 2025[^clitmosrc] |
     | Mongolia 🇲🇳 | Singapore 🇸🇬 | 🟡 **2027–2028** | IA signed Oct 6, 2025[^mnitmosrc] |
-    | Philippines 🇵🇭 | Singapore 🇸🇬 | 🟡 **2027–2028** | **IA signed Apr 30, 2026** (12th Singapore IA); ~18–24 month first-ITMO lead time[^phsgitmosrc] |
+    | Philippines 🇵🇭 | Singapore 🇸🇬 | 🟡 **2027–2028** | **IA signed Apr 30, 2026** (11th Singapore IA); ~18–24 month first-ITMO lead time[^phsgitmosrc] |
     | Philippines 🇵🇭 | Japan JCM | 🟡 **2027–2028** | JCM→A6.2; paddy (Feb 2025) + forest (Nov 2025) methodologies approved[^phitmosrc] |
     | **Pipeline — Longer-term (2028+)** | | | |
     | Papua New Guinea 🇵🇬 | Singapore 🇸🇬 | 🔴 **2028+** | IA Dec 2023; cautious "road test" approach still in early stage[^pgitmosrc] |
@@ -191,7 +191,7 @@
     [^noitmosrc]: Norway-Switzerland CDR ITMO transfer (Jun 17, 2025 — first-ever A6.2 carbon removal transfer): ClimeFi <https://www.climefi.com/blog-posts-climefi-structures-a-historic-first-norway-switzerland-itmo-transfer-under-article-6-of-the-paris-agreement/>
     [^pyitmosrc]: Singapore-Paraguay RFP1 (Gran Chaco grassland, ~285,000t, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^ghsgitmosrc]: Singapore-Ghana RFP1 Kwahu Landscape Restoration ARR (~1,350,000t, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
-    [^phsgitmosrc]: Singapore-Philippines IA signed April 30, 2026 (12th Singapore IA): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
+    [^phsgitmosrc]: Singapore-Philippines IA signed April 30, 2026 — **11th Singapore IA** (NCCS lists 10 signed IAs as of Oct 2025; Cambodia is MOU only): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^pesgitmosrc]: Singapore-Peru RFP1 (Amazon REDD+, ~540,000t, 2026–2030): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^khitmosrc]: Cambodia Prey Lang A6.2 authorization (Dec 2023); JCM→ITMO conversion: Article 6 Partnership <https://a6partnership.org/a6-implementation-status/current-status-of-article-6-2-implementation>
     [^vnitmosrc]: Vietnam-Singapore IA (Aug 2025); 18–24 month standard first-ITMO lead time: Reccessary <https://www.reccessary.com/en/insight/asia-pushes-ahead-on-article-6>
@@ -219,7 +219,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-06-12 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（12件目） | ベトナムA6.2政令施行 2026年5月19日 | ペルー：Tuki Wasi授権 2026年3月20日（ITMO移転実績なし — 旧「ITMO 2023」表記を訂正） | タイ-スイス 49,717 ITMO 2026年4月2日
+    > 最終更新: 2026-06-20 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（**第11号**IA — カンボジアはMOUのみ） | ケニア国家炭素登録簿(KNCR)稼働 2026年2月＋ITMO取引上限約1,000万t（2026–2030） | シンガポール×Verra×GS A6.2クレジティング・プロトコル最終版 2025年11月 | ベトナムDecree 112/2026施行 2026年5月19日（移転上限90%/50%） | PACM2件目発行 2026年3月（PoA 10415） | SB64ボン会合 2026年6月8–18日
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -363,7 +363,7 @@
     | ベトナム 🇻🇳 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年8月署名；通常18〜24ヶ月リードタイム[^vnitmosrc] |
     | チリ 🇨🇱 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年4月署名[^clitmosrc] |
     | モンゴル 🇲🇳 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | IA 2025年10月6日署名[^mnitmosrc] |
-    | フィリピン 🇵🇭 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | **IA署名 2026年4月30日**（SG12件目）；通常18〜24ヶ月リードタイム[^phsgitmosrc] |
+    | フィリピン 🇵🇭 | シンガポール 🇸🇬 | 🟡 **2027〜2028年** | **IA署名 2026年4月30日**（SG第11号）；通常18〜24ヶ月リードタイム[^phsgitmosrc] |
     | フィリピン 🇵🇭 | 日本JCM | 🟡 **2027〜2028年** | JCM→A6.2；水田（2025年2月）・森林（2025年11月）方法論承認[^phitmosrc] |
     | **パイプライン — 長期（2028年以降）** | | | |
     | パプアニューギニア 🇵🇬 | シンガポール 🇸🇬 | 🔴 **2028年以降** | IA 2023年12月；「ロードテスト」段階が継続中[^pgitmosrc] |

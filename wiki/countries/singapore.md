@@ -31,28 +31,30 @@
 
     | Country | IA Signed | Status | Notes |
     |---------|-----------|--------|-------|
-    | Ghana 🇬🇭 | 2023 | ✅ Active | **RFP1 award: 2 projects** |
-    | Papua New Guinea 🇵🇬 | 2023 | ✅ Active | REDD+ focus |
+    | Papua New Guinea 🇵🇬 | 2023 | ✅ Active | REDD+ focus; Singapore's 1st IA (COP28) |
+    | Ghana 🇬🇭 | 2023 | ✅ Active | **RFP1 award: 1 project (Kwahu Landscape Restoration ARR)** |
     | Rwanda 🇷🇼 | 2023 | ✅ Active | Forest conservation |
     | Bhutan 🇧🇹 | 2024 | ✅ Active | Hydropower + NBS |
-    | Cambodia 🇰🇭 | 2024 | ✅ Active | NBS + JCM overlap |
-    | Peru 🇵🇪 | 2024 | ✅ Active | **RFP1 award: 1 project** |
-    | Paraguay 🇵🇾 | 2024 | ✅ Active | **RFP1 award: 1 project** |
+    | Peru 🇵🇪 | 2024 | ✅ Active | **RFP1 award: 2 projects (Kowen Antami + Together for Forests REDD+)** |
+    | Paraguay 🇵🇾 | 2024 | ✅ Active | **RFP1 award: 1 project (Boomitra grassland)** |
     | **Thailand 🇹🇭** | **2025** | ✅ **Active** | **IA signed Aug 2025** [^sgth] |
     | **Vietnam 🇻🇳** | **2025** | ✅ **Active** | **IA signed Sep 2025** [^sgvn] |
     | Chile 🇨🇱 | 2025 | ✅ Active | — |
-    | Mongolia 🇲🇳 | 2025 | ✅ Active | — |
-    | **Philippines 🇵🇭** | **2026** | ✅ **Active** | **IA signed April 30, 2026 — 12th Singapore IA** [^sgph] |
-    | Indonesia 🇮🇩 | — | 🔄 Negotiating | Post-Perpres 110/2025 |
+    | Mongolia 🇲🇳 | 2025 | ✅ Active | IA signed Oct 6, 2025 |
+    | **Philippines 🇵🇭** | **2026** | ✅ **Active** | **IA signed April 30, 2026 — 11th Singapore IA** [^sgph] |
+
+    > **Signed Implementation Agreements: 11** (10 listed by NCCS as of Oct 2025 — PNG, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay, Thailand, Vietnam, Mongolia — plus Philippines, signed April 30, 2026). **Cambodia and Indonesia have MOUs / broader-cooperation arrangements only — not signed IAs** (a prior version of this page wrongly counted Cambodia as an IA and labeled Philippines the "12th").[^sgIA]
 
     ### MOU / Letter of Intent Countries [^sgMOU]
 
     | Country | Status | Notes |
     |---------|--------|-------|
+    | Cambodia 🇰🇭 | 📋 MOU | Carbon collaboration MOU; IA not yet signed (JCM overlap) |
+    | Indonesia 🇮🇩 | 📋 MOU / negotiating | Broader carbon cooperation; IA negotiating post-Perpres 110/2025 |
     | Colombia 🇨🇴 | 📋 MOU | — |
     | Dominican Republic 🇩🇴 | 📋 MOU | — |
     | Fiji 🇫🇯 | 📋 MOU | — |
-    | Kenya 🇰🇪 | 📋 MOU | — |
+    | Kenya 🇰🇪 | 📋 MOU | Negotiating IA; KNCR registry live Feb 2026 |
     | Malaysia 🇲🇾 | 📋 MOU | — |
     | Morocco 🇲🇦 | 📋 MOU | — |
     | Brazil 🇧🇷 | 📋 MOU | MOU signed Dec 18, 2025 |
@@ -63,8 +65,23 @@
     [^sgIA]: Singapore MSE Implementation Agreements: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^sgth]: Thailand IA signed August 2025; source: Singapore MSE
     [^sgvn]: Vietnam IA signed September 2025; source: Singapore MSE
-    [^sgph]: Singapore-Philippines Implementation Agreement signed April 30, 2026 (12th Singapore IA; 4th ASEAN IA partner): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
+    [^sgph]: Singapore-Philippines Implementation Agreement signed April 30, 2026 — **11th Singapore IA** (3rd ASEAN IA partner, after Thailand and Vietnam). NCCS lists 10 signed IAs as of Oct 2025 (Cambodia is MOU only); Philippines is the 11th: NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^sgMOU]: Singapore MSE MOUs: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/sgs-article-6-cooperations/mous/>
+
+    ## Article 6.2 Crediting Protocol (Singapore × Verra × Gold Standard) [^sgprotocol]
+
+    On **November 12, 2025 (at COP30)**, Singapore's NCCS, **Gold Standard, and Verra published the final version of the Article 6.2 Crediting Protocol** — a voluntary framework letting governments use **existing independent crediting programmes (Verra VCS, Gold Standard)** to register mitigation activities and issue carbon credits under Article 6.2, instead of building a national crediting system from scratch.
+
+    | Aspect | Detail |
+    |--------|--------|
+    | Purpose | Standardised procedures for A6.2 issuance via independent registries; reduces market risk, improves integrity |
+    | History | Announced COP28 (Dec 2023) → recommendations COP29 (Nov 2024) → **final protocol COP30 (Nov 12, 2025)** |
+    | Rollout | Global pilots from 2025–2026 |
+    | Significance | Lowers the institutional barrier for host countries lacking national registries; bridges compliance + voluntary market infrastructure |
+
+    > This matters for host countries (e.g., those still building registries like Indonesia SRUK, Vietnam, Kenya KNCR): they can plug into Verra/GS rather than wait for bespoke national systems.
+
+    [^sgprotocol]: Singapore, Gold Standard and Verra publish Article 6.2 Crediting Protocol, Nov 12, 2025 (COP30): NCCS <https://www.nccs.gov.sg/singapore-gold-standard-and-verra-publish-crediting-protocol/>; Verra <https://verra.org/singapore-gold-standard-and-verra-publish-article-6-2-crediting-protocol/>; Carbon Pulse <https://carbon-pulse.com/455804/>
 
     ## Reversal Risk Policy (Singapore IA)
 
@@ -207,19 +224,25 @@
 
     | 国 | IA署名 | 状況 | 備考 |
     |---|---|---|---|
-    | ガーナ 🇬🇭 | 2023年 | ✅ 稼働中 | **RFP1落札：2プロジェクト** |
-    | パプアニューギニア 🇵🇬 | 2023年 | ✅ 稼働中 | REDD+中心 |
+    | パプアニューギニア 🇵🇬 | 2023年 | ✅ 稼働中 | REDD+中心；SG第1号IA（COP28） |
+    | ガーナ 🇬🇭 | 2023年 | ✅ 稼働中 | **RFP1落札：Kwahu景観再生ARR** |
     | ルワンダ 🇷🇼 | 2023年 | ✅ 稼働中 | 森林保全 |
     | ブータン 🇧🇹 | 2024年 | ✅ 稼働中 | 水力・NBS |
-    | カンボジア 🇰🇭 | 2024年 | ✅ 稼働中 | NBS＋JCM重複 |
     | **ペルー 🇵🇪** | **2024年** | ✅ **稼働中** | **RFP1落札：Kowen Antami + Together for Forests REDD+** |
     | **パラグアイ 🇵🇾** | **2024年** | ✅ **稼働中** | **RFP1落札：1プロジェクト（グランチャコ）** |
     | **タイ 🇹🇭** | **2025年** | ✅ **稼働中** | **IA署名 2025年8月** |
     | **ベトナム 🇻🇳** | **2025年** | ✅ **稼働中** | **IA署名 2025年9月** |
     | チリ 🇨🇱 | 2025年 | ✅ 稼働中 | — |
-    | モンゴル 🇲🇳 | 2025年 | ✅ 稼働中 | — |
-    | **フィリピン 🇵🇭** | **2026年** | ✅ **稼働中** | **IA署名 2026年4月30日（第12号IA）** |
-    | インドネシア 🇮🇩 | — | 🔄 交渉中 | Perpres 110/2025後 |
+    | モンゴル 🇲🇳 | 2025年 | ✅ 稼働中 | IA署名 2025年10月6日 |
+    | **フィリピン 🇵🇭** | **2026年** | ✅ **稼働中** | **IA署名 2026年4月30日（第11号IA）** |
+    | カンボジア 🇰🇭 | — | 🔄 MOUのみ | 炭素協力MOU；IA未署名（JCM重複） |
+    | インドネシア 🇮🇩 | — | 🔄 交渉中 | 広範な炭素協力MOU；Perpres 110/2025後にIA交渉中 |
+
+    > **署名済みIA：11件**（NCCSが2025年10月時点で列挙した10件 — PNG・ガーナ・ブータン・チリ・ペルー・ルワンダ・パラグアイ・タイ・ベトナム・モンゴル — ＋2026年4月30日署名のフィリピン）。**カンボジア・インドネシアはMOU／広範協力のみで署名済みIAではない**（旧版はカンボジアをIAと誤計上しフィリピンを「第12号」と表記していた）。
+
+    ## A6.2クレジティング・プロトコル（シンガポール×Verra×Gold Standard）
+
+    **2025年11月12日（COP30）**、NCCS・Gold Standard・Verraが**A6.2クレジティング・プロトコルの最終版を公表**。各国政府が独自の国家登録簿を一から構築せずに、**既存の独立クレジット制度（Verra VCS・Gold Standard）**を用いてA6.2の活動登録・クレジット発行を行える自主的枠組み。COP28（2023年）提唱→COP29（2024年）勧告→COP30最終版。登録簿整備途上のホスト国（インドネシアSRUK・ベトナム・ケニアKNCR等）にとって制度的障壁を下げる意義がある。
 
     ## リバーサルリスクに対するシンガポールIAの立場
 

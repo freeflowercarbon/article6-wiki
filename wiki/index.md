@@ -4,7 +4,7 @@
 
     Tracking policy developments under Paris Agreement Article 6.2 (international carbon markets).
 
-    Last updated: 2026-06-12
+    Last updated: 2026-06-20
 
     ---
 
@@ -26,7 +26,7 @@
     | Country | Carbon Price (Current) | Carbon Price (2027 est.) | Key Recent Development |
     |---------|----------------------|--------------------------|----------------------|
     | [🇯🇵 Japan](countries/japan.md) | GX-ETS JPY 1,700–4,300/t (≈US$11–27) | Higher (inflation+3%/yr) | **First JCM ITMO transfers: Thailand Nov 2025 + Maldives Dec 2025** |
-    | [🇸🇬 Singapore](countries/singapore.md) | S$45/t (≈US$33, 2026) | S$50–80/t (2028) | **12 IAs active** (Philippines Apr 2026); RFP Round 1 awarded 2.2 Mt |
+    | [🇸🇬 Singapore](countries/singapore.md) | S$45/t (≈US$33, 2026) | S$50–80/t (2028) | **11 IAs active** (Philippines 11th, Apr 2026); A6.2 Crediting Protocol w/ Verra+GS (Nov 2025); RFP1 2.2 Mt |
     | [🇨🇭 Switzerland](countries/switzerland.md) | CHF 120/t levy (≈US$133) | Maintained | **4 ITMO transfers** (Thailand ×2, Norway CDR, Ghana) — world leader |
     | [🇸🇪 Sweden](countries/sweden.md) | SEK 1,330/t (≈US$125) | Maintained | 6 active bilateral agreements; world's highest carbon tax |
     | [🇳🇴 Norway](countries/norway.md) | NOK 1,125/t (≈US$105) | NOK 2,000/t by 2030 | 7 NOGER bilaterals (Morocco May 2026, Jordan Mar 2026, Pakistan MoU Apr 2026) |
@@ -107,7 +107,7 @@
 
     パリ協定 Article 6.2（国際炭素市場）の政策状況をトラッキングするWikiです。
 
-    最終更新：2026-06-12
+    最終更新：2026-06-20
 
     ---
 
@@ -129,7 +129,7 @@
     | 国 | 炭素価格（現在） | 炭素価格（2027年予測） | 主な最新動向 |
     |---|---|---|---|
     | [🇯🇵 日本](countries/japan.md) | GX-ETS JPY 1,700〜4,300/t（≈US$11〜27） | インフレ+3%/年で上昇 | **JCM初のITMO移転：タイ 2025年11月＋モルディブ 2025年12月** |
-    | [🇸🇬 シンガポール](countries/singapore.md) | S$45/t（≈US$33、2026年〜） | S$50〜80/t（2028年） | **IA 12か国稼働**（フィリピン 2026年4月）・RFP第1回 220万t授与 |
+    | [🇸🇬 シンガポール](countries/singapore.md) | S$45/t（≈US$33、2026年〜） | S$50〜80/t（2028年） | **IA 11か国稼働**（フィリピン第11号・2026年4月）・A6.2クレジティング・プロトコル(Verra+GS, 2025年11月)・RFP第1回 220万t |
     | [🇨🇭 スイス](countries/switzerland.md) | CHF 120/tレビー（≈US$133） | 維持 | **ITMO移転4件**（タイ×2・ノルウェーCDR・ガーナ）— 世界首位 |
     | [🇸🇪 スウェーデン](countries/sweden.md) | SEK 1,330/t（≈US$125） | 維持 | 二国間協定6か国・世界最高炭素税 |
     | [🇳🇴 ノルウェー](countries/norway.md) | NOK 1,125/t（≈US$105） | NOK 2,000/t（2030年） | NOGER 7か国（モロッコ 2026年5月・ヨルダン 2026年3月・パキスタンMoU 2026年4月） |

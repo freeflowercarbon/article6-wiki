@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-12** — Single source of truth for **confirmed Article 6.2 ITMO transfers** worldwide. Status anywhere else in this wiki should match this page; if it doesn't, this page wins.
+    > Last updated: **2026-06-20** — Single source of truth for **confirmed Article 6.2 ITMO transfers** worldwide. Status anywhere else in this wiki should match this page; if it doesn't, this page wins.
 
     ## Confirmed A6.2 ITMO Transfers (all known, chronological)
 
@@ -44,7 +44,7 @@
     |----------|--------------------:|----------------:|-------|
     | Switzerland 🇨🇭 | **4** (TH ×2, NO, GH) | ~63,000+ units | World leader; legally mandated demand (CO2 Act) |
     | Japan 🇯🇵 | **2** (TH, MV) | 1,442 t | First JCM ITMOs Nov–Dec 2025; 32 JCM partners; more JC issuance decisions queued |
-    | Singapore 🇸🇬 | 0 | — | 12 IAs signed; RFP1 contracted; first delivery 2026–27 |
+    | Singapore 🇸🇬 | 0 | — | **11 IAs signed** (Philippines 11th, Apr 2026; Cambodia MOU only); RFP1 contracted; first delivery 2026–27 |
     | Sweden 🇸🇪 | 0 | — | Multiple bilaterals (Ghana, Rwanda, Kenya, Zambia, Dominica, Nepal) |
     | Norway 🇳🇴 | 0 (as acquirer) | — | 7 NOGER bilaterals; was *host* in the CDR transfer to Switzerland |
     | South Korea 🇰🇷 | 0 under A6.2 | — | Acquiring 58,428t A6.4ERs (Myanmar PACM, Feb 2026); India bilateral Apr 2026 |
@@ -66,7 +66,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-06-12** — 世界の**確認済みA6.2 ITMO移転**の一元管理ページ。本Wikiの他ページの記載と食い違う場合は本ページが正。
+    > 最終更新: **2026-06-20** — 世界の**確認済みA6.2 ITMO移転**の一元管理ページ。本Wikiの他ページの記載と食い違う場合は本ページが正。
 
     ## 確認済みA6.2 ITMO移転（全件・時系列）
 
@@ -108,7 +108,7 @@
     |--------|----------:|-------:|------|
     | スイス 🇨🇭 | **4件**（タイ×2、ノルウェー、ガーナ） | 約63,000+ユニット | 世界首位；CO2法による法的調達義務 |
     | 日本 🇯🇵 | **2件**（タイ、モルディブ） | 1,442t | 2025年末にJCM初ITMO実現；JCM32カ国；JC発行決定が後続 |
-    | シンガポール 🇸🇬 | 0件 | — | IA12件署名済み；RFP1契約済み；初回納入2026〜27年 |
+    | シンガポール 🇸🇬 | 0件 | — | **IA11件署名済み**（フィリピン第11号・2026年4月；カンボジアはMOUのみ）；RFP1契約済み；初回納入2026〜27年 |
     | スウェーデン 🇸🇪 | 0件 | — | 複数二国間（ガーナ・ルワンダ・ケニア・ザンビア・ドミニカ・ネパール） |
     | ノルウェー 🇳🇴 | 0件（調達側として） | — | NOGER 7カ国；対スイスCDR移転では*ホスト*側 |
     | 韓国 🇰🇷 | A6.2では0件 | — | A6.4ERを58,428t取得（ミャンマーPACM、2026年2月）；インド二国間 2026年4月 |

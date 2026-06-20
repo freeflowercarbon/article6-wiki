@@ -83,9 +83,9 @@
     | KLH (Ministry of Environment — post Perpres 139/2024) | Carbon market, A6.2, climate policy | <https://www.kemenlh.go.id/> |
     | Bappenas (National Planning Agency) | NDC coordination, climate finance | <https://www.bappenas.go.id/> |
     | IDXCarbon | Carbon exchange (as of May 2026: **1.9M+ tCO₂e** traded; 93.7B IDR; 10 projects; 155 participants) | <https://idxcarbon.co.id/> |
-    | SRUK registry | **In trial phase since April 2026; target full launch July 2026** (replaces SRN-PPI for A6.2 transactions under Perpres 110/2025)[^idsruk] | Contact via KLHK |
+    | SRUK registry | **~90% developed; target launch June/early-July 2026** (pilot-ready; carbon unit registry under Perpres 110/2025; interoperable with international registries)[^idsruk] | Contact via KLHK/KemenLH |
 
-    [^idsruk]: SRUK (Sistem Registrasi Usaha Kehutanan) carbon unit registry in trial phase April 2026; target operational July 2026. **Ministerial Regulation 6/2026** (forestry carbon, April 13, 2026) establishes additional governance rules for forest carbon transactions under SRUK: KLHK <https://www.kehutanan.go.id/>; Carbon Pulse (Apr 2026)
+    [^idsruk]: **SRUK = Sistem Registri Unit Karbon** (Carbon Unit Registry System) under Perpres 110/2025 — **~90% developed and pilot-ready as of mid-2026; target launch June/early-July 2026**. Must provide transparent, real-time, traceable records of issuance/transfer/retirement and be **interoperable with international registries**; A6.2/6.4 transfers require Minister of Environment authorization + Corresponding Adjustment. **Ministerial Regulation 6/2026** (forestry carbon, April 13, 2026) adds governance rules: KLHK <https://www.kehutanan.go.id/>; <https://ecobiz.asia/sruk-development-hits-90-indonesia-prepares-interoperable-carbon-registry-with-global-linkages/>; SSEK <https://ssek.com/blog/indonesia-introduces-new-carbon-trading-framework-under-presidential-regulation-no-110-of-2025/>
 
     ## Key Sources
     - Indonesia Enhanced NDC 2022: <https://unfccc.int/NDCREG>

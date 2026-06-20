@@ -37,12 +37,12 @@
 
     ## Bilateral A6.2 Agreements (as Acquiring Country)
 
-    Norway has significantly expanded its Article 6.2 bilateral portfolio through the **NOGER (Norwegian Green Emission Reductions)** mechanism — the government's primary acquisition vehicle for international carbon credits.[^noger]
+    Norway has significantly expanded its Article 6.2 bilateral portfolio through the **NOGER (Norwegian Global Emission Reduction Initiative)** — the government's primary acquisition vehicle for international carbon credits. NOGER has committed **NOK 15 billion (~US$1.56 billion) to purchase up to 15 million credits by 2030**, channeled via the **NACA (Norwegian Article 6 Climate Action) Fund** hosted under the **GGGI Carbon Transaction Facility (CTF)**.[^noger]
 
     | Host Country | Agreement Type | Date | Status | Notes |
     |-------------|---------------|------|--------|-------|
     | Benin 🇧🇯 | Bilateral Agreement | 2024 | ✅ Active | NOGER portfolio |
-    | Zambia 🇿🇲 | Bilateral Agreement | Nov 2024 | ✅ **Signed at COP30** | Forest / NBS focus [^noza] |
+    | Zambia 🇿🇲 | Bilateral Agreement | Nov 2024 | ✅ **Signed at COP29** | Via GGGI CTF [^noza] |
     | Jordan 🇯🇴 | Bilateral Agreement | Mar 3, 2026 | ✅ **Signed** | NOGER portfolio[^nojordan] |
     | Indonesia 🇮🇩 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
     | Senegal 🇸🇳 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
@@ -64,7 +64,7 @@
     | Host members | Peru, Chile, Mongolia, Ghana, Zambia |
     | Structure | OIMP — outcomes-based, no NDC credit counting for donor countries |
 
-    [^noger]: NOGER (Norwegian Green Emission Reductions) — Norway's government A6.2 procurement program: Norwegian Environment Agency (Miljødirektoratet)
+    [^noger]: **NOGER = Norwegian Global Emission Reduction Initiative** — Norway's government A6.2 procurement program. Committed **NOK 15 billion (~US$1.56bn) for up to 15 million credits by 2030** via the NACA (Norwegian Article 6 Climate Action) Fund, hosted under the GGGI Carbon Transaction Facility (CTF). CTF bilaterals: Benin, Indonesia, Jordan, Pakistan, Senegal, Zambia (+ Morocco): Norwegian government <https://www.regjeringen.no/en/topics/climate-and-environment/climate/norwegian-global-emission-reduction-initiative/id3074249/>; GGGI <https://gggi.org/>
     [^nojordan]: Norway-Jordan bilateral agreement signed March 3, 2026: GGGI press release / Norwegian government
     [^nopak]: Norway-Pakistan MoU on Article 6.2 cooperation signed April 1, 2026: Norwegian government
     [^nomorocco]: Norway-Morocco bilateral agreement signed May 5, 2026: GGGI / Norwegian government
@@ -133,10 +133,12 @@
 
     ## 二国間A6.2協定状況（NOGER）
 
+    > **NOGER（ノルウェー世界排出削減イニシアティブ）**は、**2030年までに最大1,500万クレジットを購入するためNOK 150億（≈US$15.6億）**を確保。GGGI炭素取引ファシリティ（CTF）下のNACAファンド経由で実施。
+
     | ホスト国 | 署名 | 状況 |
     |---------|------|------|
     | ベナン 🇧🇯 | 2024年 | ✅ 活動中 |
-    | ザンビア 🇿🇲 | 2025年11月（COP30） | ✅ 署名済み [^noza] |
+    | ザンビア 🇿🇲 | 2024年11月（COP29） | ✅ 署名済み [^noza] |
     | インドネシア 🇮🇩 | 2025年 | ✅ 活動中 |
     | セネガル 🇸🇳 | 2025年 | ✅ 活動中 |
     | ヨルダン 🇯🇴 | 2026年3月3日 | ✅ **署名済み** [^nojordan] |

@@ -25,6 +25,9 @@
 
     | Development | Date | Details |
     |-------------|------|---------|
+    | **First-ever JCM ITMO transfers** | **Nov–Dec 2025** | 🟢 **Thailand TH014 floating solar (Nov 11, 2025, 1,009t)** + **Maldives MV002 Addu City mini-grid (Dec 17, 2025, 433t)** — first completed JCM ITMO transfers, both acquired by MOEJ. See [ITMO Transfer Tracker](../itmo_tracker.md)[^jcmfirstitmo] |
+    | A6 authorization formalized in JCM Rules | 2025–2026 | Article 6 authorization process formally incorporated into JCM Rules of Implementation with **4 countries: Georgia, Mongolia, Sri Lanka, Tunisia** (more in progress)[^jcmauth] |
+    | "Early Mover Group" launched | COP30 (Nov 2025) | 11th JCM Partner Countries' Meeting Joint Statement established the **"Early Mover Group of Article 6.2 Bilateral Cooperative Approaches"**[^jcmearly] |
     | JCMA established | April 2025 | JCM Implementation Agency (JCMA) created as one-stop operational focal point: project registration, CA management, UNFCCC reporting under Article 6.2 |
     | New Application Criteria | December 2025 | MOEJ published updated criteria incorporating A6.2 sequencing requirements for new JCM project applications |
     | PIN adoption | January 2026 | 14 JCM partner countries have adopted Project Idea Note (PIN) process — standardized pre-registration framework |
@@ -32,6 +35,10 @@
     | Tanzania MoC | May 2025 | Tanzania became a new JCM partner |
     | India MoC | August 29, 2025 | India–Japan MoC signed; India became partner #30 |
     | JCM expansion proposals | 2025–2026 | Dual registration (JCM + VCS/Gold Standard) and methodology integration with existing voluntary standards under active policy discussion |
+
+    [^jcmfirstitmo]: First JCM ITMO transfers: Thailand TH014 (5MW floating solar, 1,009 tCO₂e, transfer Nov 11, 2025) — GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; Maldives MV002 (Addu City smart mini-grid, 433 tCO₂e, transfer Dec 17, 2025) — JCM <https://www.jcm.go.jp/jc/information/20251217/>
+    [^jcmauth]: Article 6 authorization process formalized in the JCM Rules of Implementation with Georgia, Mongolia, Sri Lanka and Tunisia (as of 2026): GEC/MOEJ; secondary sources
+    [^jcmearly]: 11th JCM Partner Countries' Meeting at COP30 — Joint Statement establishing the "Early Mover Group of Article 6.2 Bilateral Cooperative Approaches": MOEJ <https://www.env.go.jp/en/press/press_00824.html>
 
     > Source: IETA "Carbon Markets & Emissions Trading in Japan" (May 2026); OECC JCM partner analysis; UNFCCC Article 6.2 reporting database
 
@@ -200,6 +207,9 @@
 
     | 動向 | 時期 | 内容 |
     |------|------|------|
+    | **JCM史上初のITMO移転** | **2025年11–12月** | 🟢 **タイTH014浮体式太陽光（2025年11月11日、1,009t）＋モルディブMV002アッドゥ市ミニグリッド（2025年12月17日、433t）** — JCM初の移転完了、いずれも環境省取得。[ITMO移転トラッカー](../itmo_tracker.md)参照[^jcmfirstitmo] |
+    | JCMルールにA6授権を明文化 | 2025〜2026年 | Article 6授権手続をJCM実施規則に正式組込み — **ジョージア・モンゴル・スリランカ・チュニジアの4カ国**（他国も準備中）[^jcmauth] |
+    | 「Early Mover Group」発足 | COP30（2025年11月） | 第11回JCM締結国会合の共同声明で**「A6.2二国間協調アプローチ早期実施国グループ」**を設立[^jcmearly] |
     | JCMA設立 | 2025年4月 | JCM実施機関（JCMA）をワンストップの運営拠点として設立。プロジェクト登録・CA管理・UNFCCC報告を一元化 |
     | 新規申請基準改訂 | 2025年12月 | 環境省がA6.2の時系列要件（シーケンシング）を組み込んだ新規JCMプロジェクト申請基準を公表 |
     | PIN採用 | 2026年1月 | JCM締結国14か国がプロジェクトアイデアノート（PIN）プロセスを採用 — 標準化された事前登録フレームワーク |

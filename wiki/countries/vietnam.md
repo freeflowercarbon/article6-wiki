@@ -13,7 +13,7 @@
     | JCM (Japan) | ✅ Since 2013; 35+ projects; **15 approved methodologies** (3rd most of any JCM partner country); **JCM projects formally upgraded to Article 6.2 pathway May 2, 2026**[^vnjcm][^vnjcm_a62] |
     | Singapore IA | ✅ Signed Sep 2025[^vnsg] |
     | Switzerland | 🔄 Under negotiation[^vnch] |
-    | CA Framework | 🟡 **A6.2 authorization decree effective May 19, 2026**[^vndec2026] |
+    | CA Framework | 🟡 **Decree 112/2026/ND-CP effective May 19, 2026** — LOA process + transfer caps (90% List 1 / 50% List 2)[^vndec2026] |
     | Key Ministry | MONRE (Ministry of Natural Resources & Environment)[^vnmonre] |
 
     [^vnndc]: Vietnam NDC (2022 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=VNM>
@@ -24,7 +24,7 @@
     [^vnsg]: Singapore-Vietnam IA signed September 2025: Singapore MSE/carbonmarkets-cooperation.gov.sg <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^vnch]: Switzerland-Vietnam Article 6.2 bilateral negotiation: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     [^vndec6]: Vietnam Decree 06/2022/ND-CP (carbon market legal framework): <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
-    [^vndec2026]: Vietnam A6.2 authorization decree effective **May 19, 2026** — establishes formal legal basis for ITMO authorizations and corresponding adjustments under the Singapore IA (Sep 2025); enables first formal A6.2 credit transfers: MONRE <https://www.monre.gov.vn/>; secondary sources (Carbon Pulse)
+    [^vndec2026]: Vietnam **Decree 112/2026/ND-CP** issued April 1, 2026, effective **May 19, 2026** — establishes the legal basis for international transfers of mitigation outcomes/carbon credits under Article 6.2 and 6.4: a government **Letter of Authorization (LOA)** process plus corresponding adjustments, and **maximum transfer ratios of up to 90% (List 1 priority programs) / up to 50% (List 2)**. Enables first formal A6.2 transfers under the Singapore IA (Sep 2025): luatvietnam <https://english.luatvietnam.vn/decree-no-112-2026-nd-cp-dated-april-01-2026-of-the-government-on-the-international-transfer-of-greenhouse-gas-emission-mitigation-outcomes-and-carb-430687-doc1.html>; Lexology <https://www.lexology.com/library/detail.aspx?g=174bd55f-a758-4f1c-af0d-a7e11a41fad2>
     [^vnmonre]: Vietnam MONRE: <https://www.monre.gov.vn/>
 
     ## NDC Achievement Status
@@ -96,7 +96,7 @@
     | 主管省庁 | MONRE（天然資源環境省） |
     | JCM状況 | 日本（2013年）✅ 35件以上；**JCM案件のA6.2移行 2026年5月2日**[^vnjcm_a62] |
     | IA状況 | シンガポール ✅ 2025年9月署名 |
-    | CA体制 | 🟡 **A6.2授権政令が2026年5月19日施行**[^vndec2026] |
+    | CA体制 | 🟡 **Decree 112/2026施行 2026年5月19日** — LOA手続＋移転上限（List1最大90%／List2最大50%）[^vndec2026] |
 
     ## NDC達成見込み
 

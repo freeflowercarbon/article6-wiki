@@ -9,17 +9,20 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 32% conditional reduction vs. BAU by 2030[^kendc] |
-    | Carbon System | Kenya Carbon Markets Policy (2023)[^kecmp]; **National Carbon Registry launched 2026**[^kencr]; Carbon Credits Act (in preparation) |
-    | Key Ministry | Ministry of Environment and Climate Change[^kemoe]; EPRA |
+    | Carbon System | Kenya Carbon Markets Policy (2023)[^kecmp]; **Kenya National Carbon Registry (KNCR) live Feb 2026**[^kencr]; draft Carbon Registry Regulations 2025 (trading cap)[^kecap] |
+    | **ITMO trading cap** | 🆕 Draft regs set a "carbon budget for trading" per UN period; **~10 million ITMOs capped for 2026–2030** (Carbon Pulse); govt may withhold ITMOs at authorization[^kecap] |
+    | Key Ministry | Ministry of Environment, Climate Change & Forestry[^kemoe]; NEMA (registry operator); EPRA |
     | JCM (Japan) | ✅ Since 2013[^kejcm] |
-    | Sweden | 🤝 Bilateral agreement active[^keswe] |
-    | Singapore IA | 📋 MOU signed[^kesg] |
+    | Sweden | 🟡 Bilateral / MoU active[^keswe] |
+    | Singapore IA | 📋 MOU signed; IA negotiating[^kesg] |
+    | South Korea | 📋 Negotiating[^kecap] |
     | CA Framework | 🟡 In development (policy framework established 2023)[^kecmp] |
     | NBS Maturity | ⭐⭐⭐ |
 
     [^kendc]: Kenya NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KEN>
     [^kecmp]: Kenya Carbon Markets Policy (2023): Kenya Ministry of Environment <https://environment.go.ke/>; Carbon Markets Policy framework
-    [^kencr]: Kenya National Carbon Registry formally launched (2026) — enables formal ITMO tracking and A6.2 authorization; significant milestone for host country readiness: Ministry of Environment <https://environment.go.ke/>; secondary sources (Carbon Pulse)
+    [^kencr]: Kenya National Carbon Registry (KNCR) formally launched **February 2026** — central digital platform (operated by NEMA) for project registration, A6.2 authorization, and ITMO issuance/tracking under the Climate Change (Carbon Markets) Regulations 2024: Ministry of Environment <https://environment.go.ke/>; <https://africasustainabilitymatters.com/kenya-launches-national-carbon-registry-to-anchor-article-6-climate-trading/>
+    [^kecap]: Kenya draft Carbon Registry Regulations 2025 establish a "carbon budget for trading" per UN target-setting period and empower the government to **withhold A6 ITMOs at authorization**; Carbon Pulse reports a cap of **~10 million ITMOs for 2026–2030** (figure per Carbon Pulse, pending official confirmation). Kenya is also negotiating bilaterals with Singapore and South Korea: Carbon Pulse <https://carbon-pulse.com/365327/>; Climate Change (Carbon Markets) Regulations 2024 <https://new.kenyalaw.org/akn/ke/act/ln/2024/84/eng@2024-06-07>
     [^kemoe]: Kenya Ministry of Environment and Climate Change: <https://environment.go.ke/>
     [^kejcm]: JCM Kenya: GEC <https://gec.jp/jcm/projects/>; signed 2013
     [^keswe]: Sweden-Kenya bilateral agreement: Energimyndigheten <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
@@ -88,11 +91,13 @@
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年にBAU比32%削減（条件付き） |
-    | 国内炭素制度 | Carbon Markets Policy（2023年）、**National Carbon Registry 正式稼働（2026年）**[^kencr]、Carbon Credits Act 準備中 |
-    | 主管省庁 | 環境気候変動省、Energy and Petroleum Regulatory Authority |
+    | 国内炭素制度 | Carbon Markets Policy（2023年）、**ケニア国家炭素登録簿（KNCR）稼働 2026年2月**[^kencr]、登録簿規則案2025（取引上限）[^kecap] |
+    | **ITMO取引上限** | 🆕 規則案でUN期間ごとの「取引用カーボンバジェット」を設定；**2026–2030年で約1,000万ITMO上限**（Carbon Pulse）；授権時にITMOを留保可能[^kecap] |
+    | 主管省庁 | 環境・気候変動・林業省、NEMA（登録簿運営）、EPRA |
     | JCM状況 | ✅ 日本（2013年） |
-    | スウェーデン | ✅ 二国間協定稼働中 |
-    | シンガポールIA | ⚪ なし |
+    | スウェーデン | 🟡 二国間／MoU稼働中 |
+    | シンガポールIA | 📋 MOU署名；IA交渉中 |
+    | 韓国 | 📋 交渉中 |
     | CA体制 | 🟡 整備中（政策枠組み確定） |
     | NBS成熟度 | ⭐⭐⭐ |
 
