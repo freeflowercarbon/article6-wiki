@@ -4,7 +4,9 @@
 
     ## Overview
 
-    **CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)** is ICAO's global market-based measure for international aviation CO₂ emissions. Airlines must offset growth in emissions above the 2019 baseline by purchasing CORSIA Eligible Units (CEUs). CORSIA represents a major demand driver for carbon credits globally — but does **NOT currently accept Article 6.2 ITMOs directly**.
+    **CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)** is ICAO's global market-based measure for international aviation CO₂ emissions. Airlines must offset growth in emissions above the 2019 baseline by purchasing CORSIA Eligible Emissions Units (EEUs). CORSIA represents a major demand driver for carbon credits globally — and, crucially, **CORSIA EEUs from 2021+ vintages now require an Article 6 Letter of Authorisation (LoA) with a corresponding adjustment** from the host country to avoid double counting. In that sense CORSIA is **already an Article 6 demand channel** (it consumes authorized, CA-backed credits), even though it does not transact "ITMOs" as a named unit. Phase 1 (2024–2026) supply has been extremely tight — **Guyana's jurisdictional REDD+ (ART TREES) remains effectively the only available EEU source**.[^corsia6]
+
+    [^corsia6]: CORSIA EEU eligibility requires (1) ICAO-approved programme, (2) approved project type/vintage/methodology, and (3) an Article 6 LoA confirming a corresponding adjustment. Phase 1 (2024–2026): Guyana ART102 jurisdictional REDD+ authorized 15.84M EEUs (Feb 2024), sold ~US$21.70/t — still effectively the sole supply. In Oct 2024 ICAO approved 4 more programmes (Gold Standard, Verra, Climate Action Reserve, Global Carbon Council) joining ACR and ART: ICAO <https://www.icao.int/CORSIA/corsia-eligible-emissions-units>; IATA <https://www.iata.org/en/pressroom/2025-releases/2025-01-22-01/>
 
     ## Key Parameters
 
@@ -20,7 +22,8 @@
     | Current CEU Price | US$5–20/t (varies by type, vintage) |
     | 2027–2030 Price Estimate | US$10–40/t |
     | Total Demand 2024–2035 | ~2–5 billion t CO₂e (wide range) |
-    | A6.2 ITMO Acceptance | ❌ Not currently accepted |
+    | Article 6 LoA requirement | ✅ **Required** for EEUs of 2021+ vintage (host-country LoA + corresponding adjustment) |
+    | Phase 1 (2024–26) supply | ⚠️ Very tight — Guyana ART TREES (15.84M EEUs, ~US$21.70/t) effectively the only source |
     | A6.4 PACM Unit Acceptance | 🔄 Under ICAO-UNFCCC discussion |
 
     ## CORSIA-Eligible Carbon Programs (CEU Sources)
@@ -89,8 +92,11 @@
     | 適格ユニット（CEU）価格 | US$5〜20/t（種別・ヴィンテージによる） |
     | 2027〜2030年予測価格 | US$10〜40/t |
     | 総需要（2024〜2035年） | 約20〜50億t CO₂e（推定幅大） |
-    | A6.2 ITMO受入 | ❌ 現時点で不可 |
+    | Article 6 LoA要件 | ✅ **必須**（2021年以降ヴィンテージのEEUはホスト国LoA＋CAが必要） |
+    | フェーズ1(2024–26)供給 | ⚠️ 極めて逼迫 — ガイアナART TREES（1,584万EEU・約US$21.70/t）が実質唯一の供給源 |
     | A6.4 PACMユニット受入 | 🔄 ICAO-UNFCCC協議中 |
+
+    > **重要更新（2026年）**: CORSIAのEEU（2021年以降ヴィンテージ）は、二重計上回避のため**Article 6のLoA（授権書）＋Corresponding Adjustment**が必須となった。つまりCORSIAは「ITMO」という名称では取引しないが、実質的に**Article 6の需要チャネル**（授権・CA付きクレジットを消費）として機能する。フェーズ1供給は逼迫し、ガイアナの管轄型REDD+（ART TREES）が事実上唯一の供給源。
 
     ## Article 6.2との関係上の重大問題
 

@@ -162,7 +162,9 @@
     | J-Credit 2024 annual issuance | ~1.7 Mt (record; forest management: ~770,000 t = ~45%) |
     | J-Credit JPX price (March 2026) | ~¥4,300–5,000/t (converging near GX-ETS upper limit) |
 
-    **Demand outlook**: Japan's GX-ETS launched in April 2026 covering 300–400 large emitters (>100,000 t/yr). JCM A6.2 credits (ITMOs) are eligible for GX-ETS compliance up to 10% of obligations. The gap between the 100 Mt JCM target and current 817,247 tCO₂e (~0.8%) implies procurement must accelerate >100× in 4 years.
+    **Demand outlook**: Japan's GX-ETS launched in April 2026 covering 300–400 large emitters (>100,000 t/yr). JCM A6.2 credits (ITMOs) are eligible for GX-ETS compliance up to 10% of obligations. The gap between the 100 Mt JCM target and current 817,247 tCO₂e (~0.8%) implies procurement must accelerate >100× in 4 years. Japan's JCM pipeline now exceeds **298 active projects**, with a longer-horizon ambition of up to **200 Mt CO₂ by 2040**.[^jcmpipeline]
+
+    > 🟢 **Bullish signal for JCM/domestic credits**: Japan is reportedly moving to **bar non-Article 6 international VCM credits from GX-ETS compliance** — i.e., only J-Credits and authorized JCM A6.2 ITMOs would qualify. This would concentrate compliance demand onto the JCM A6.2 pipeline and domestic J-Credits, supporting their price.[^jpvcmbar]
 
     > ⚠️ **H1 2026 demand muted**: Near-term GX-ETS credit demand is weaker than expected due to **allocation uncertainty** — initial free allowance allocations have not been finalized, leaving companies uncertain about their actual compliance gap. Cap publication deferred to autumn 2026. Banking into FY2027 likely. The structural demand remains high but near-term trading volumes are subdued.[^jcmh1muted]
 
@@ -182,6 +184,8 @@
     [^jcmnbs]: MSCI Japan NBS blog: <https://www.msci.com/research-and-insights/blog-post/japan-goes-for-growth-to-support-nature-based-projects>
     [^jcmdemand]: IGES JCM Database: <https://www.iges.or.jp/en/pub/iges-joint-crediting-mechanism-jcm-database/en>
     [^jcmh1muted]: GX-ETS H1 2026 demand muted due to allocation uncertainty; cap publication deferred to autumn 2026; banking into FY2027 anticipated: Carbon Pulse / IETA Japan Report (May 2026)
+    [^jcmpipeline]: JCM pipeline 298+ active projects; longer-horizon ambition up to 200 Mt CO₂ by 2040: Offset8 Capital JCM guide <https://offset8capital.com/articles/japan-carbon-credit-market-gx-ets-guide/>; JCMA
+    [^jpvcmbar]: Japan reportedly mulling barring international voluntary (non-Article 6) carbon credits from GX-ETS compliance ahead of/around the mandatory launch — bullish for domestic J-Credits and authorized JCM A6.2 ITMOs: S&P Global <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/070725-japan-mulls-barring-international-vcm-credits-before-gx-ets-launch-move-to-be-bullish-for-domestic-credits>
     [^jpitmo]: Japan's first JCM ITMO transfers: (1) Thailand TH014 (5MW floating solar), 1,009 tCO₂e vintage 2021, transfer completed Nov 11, 2025 — first-ever JCM ITMO transfer: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; (2) Maldives MV002 (Addu City smart mini-grid), 433 tCO₂e vintage 2021–22, transfer completed Dec 17, 2025: JCM <https://www.jcm.go.jp/jc/information/20251217/>
 
     ## GX-ETS Design Parameters (FY2026)

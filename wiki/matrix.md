@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-20** | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (**11th** IA — Cambodia is MOU only) | Kenya National Carbon Registry live Feb 2026 + ~10M ITMO trading cap 2026–2030 | Singapore-Verra-GS A6.2 Crediting Protocol final Nov 2025 | Vietnam Decree 112/2026 effective May 19, 2026 (transfer caps 90%/50%) | PACM 2nd issuance Mar 2026 (PoA 10415) | SB64 Bonn Jun 8–18, 2026
+    > Last updated: **2026-06-21** | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (**11th** IA — Cambodia is MOU only) | **COP30: CDM to close end-2026; no formal Article 6 negotiations until 2028** | India CCTS compliance live FY2025–26 (~490 entities) | Kenya National Carbon Registry live Feb 2026 + ~10M ITMO trading cap 2026–2030 | Singapore-Verra-GS A6.2 Crediting Protocol final Nov 2025 | Vietnam Decree 112/2026 (transfer caps 90%/50%) | CORSIA Phase 1 EEUs now require Article 6 LoA
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -107,7 +107,7 @@
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | India 🇮🇳 | 🟡 **JCM(Aug 29, 2025)** | — | — | — | — | 🟡 **A6.2 bilateral(Apr 2026)** |
+    | [India 🇮🇳](countries/india.md) | 🟡 **JCM(Aug 29, 2025)** | — | — | — | — | 🟡 **A6.2 bilateral(Apr 24, 2026)** |
     | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | — | — | — | — | — |
     | [Tunisia 🇹🇳](countries/tunisia.md) | 🟡 JCM(2015) | — | 🟡 bilateral | — | — | — |
     | [Moldova 🇲🇩](countries/moldova.md) | 🟡 JCM(2016) | — | — | — | — | — |
@@ -219,7 +219,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-06-20 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（**第11号**IA — カンボジアはMOUのみ） | ケニア国家炭素登録簿(KNCR)稼働 2026年2月＋ITMO取引上限約1,000万t（2026–2030） | シンガポール×Verra×GS A6.2クレジティング・プロトコル最終版 2025年11月 | ベトナムDecree 112/2026施行 2026年5月19日（移転上限90%/50%） | PACM2件目発行 2026年3月（PoA 10415） | SB64ボン会合 2026年6月8–18日
+    > 最終更新: 2026-06-21 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（**第11号**IA — カンボジアはMOUのみ） | **COP30：CDMは2026年末閉鎖；Article 6正式交渉は2028年まで予定なし** | インドCCTSコンプライアンス発効 FY2025–26（約490事業者） | ケニア国家炭素登録簿(KNCR)稼働 2026年2月＋ITMO取引上限約1,000万t | シンガポール×Verra×GS A6.2クレジティング・プロトコル最終版 2025年11月 | ベトナムDecree 112/2026（移転上限90%/50%） | CORSIAフェーズ1 EEUにArticle 6 LoA必須
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -306,7 +306,7 @@
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | インド 🇮🇳 | 🟡 **JCM(2025年8月)** | — | — | — | — | 🟡 **A6.2二国間協定(2026年4月)** |
+    | [インド 🇮🇳](countries/india.md) | 🟡 **JCM(2025年8月)** | — | — | — | — | 🟡 **A6.2二国間協定(2026年4月24日)** |
     | [バングラデシュ 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | — | — | — | — | — |
     | [チュニジア 🇹🇳](countries/tunisia.md) | 🟡 JCM(2015) | — | 🟡 二国間 | — | — | — |
     | [モルドバ 🇲🇩](countries/moldova.md) | 🟡 JCM(2016) | — | — | — | — | — |

@@ -44,6 +44,22 @@
 
     > **Note**: Article 6.2 rules (bilateral ITMO trading) were separately finalized at COP29 — giving both tracks a complete rulebook for the first time since Paris 2015.[^cop29art6]
 
+    ## COP30 Outcomes (Belém, November 2025)
+
+    COP30 was an implementation COP for Article 6 — no major reopening of rules. Key results:[^cop30art6]
+
+    | Decision | Detail |
+    |----------|--------|
+    | A6.4 standards | Baselines and additionality standards adopted; PACM further operationalized |
+    | CDM → A6.4 funding | CDM Trust Fund to transfer **US$26.8M to A6.4** (+ up to US$5M for developing-country capacity building) |
+    | **CDM shutdown** | Parties agreed the **CDM will cease operations by end-2026** (≈2.5bn credits issued since 2001) — sharpening the ~1bn-credit transition question |
+    | A6.2 reporting | Further technical guidance on initial reports + structured review/feedback for cooperative approaches |
+    | **Next negotiations** | ⚠️ **No formal Article 6 negotiations are scheduled until 2028** — the rulebook is now considered settled; focus shifts to implementation |
+
+    > For Article 6.2 practitioners: the "no negotiations until 2028" status means the operating rules are stable through the current procurement wave — predictability for bilateral deals, but also no near-term fixes to known gaps (e.g., revocation/reversal handling).
+
+    [^cop30art6]: COP30 (Belém, Nov 2025) Article 6 outcomes: A6.4 baselines/additionality adopted; CDM Trust Fund → A6.4 (US$26.8M + up to US$5M capacity); CDM to close end-2026; no formal Article 6 negotiations until 2028: Morgan Lewis <https://www.morganlewis.com/pubs/2025/12/cop30-key-outcomes-for-carbon-markets>; Carbon Herald <https://carbonherald.com/cop30-article-6-wraps-up-with-progress-in-hand-and-challenges-ahead/>; Smith School (Oxford) <https://www.smithschool.ox.ac.uk/news/article-6-focus-outcomes-cop30>. SB64 (Bonn, Jun 2026) made little tangible progress ("gridlock"); A6.2 discussion focused on infrastructure operation/maintenance funding: Carbon Brief <https://www.carbonbrief.org/bonn-climate-talks-key-outcomes-from-the-june-2026-un-climate-conference/>
+
     ## Key Milestones (Full Timeline)
 
     | Date | Milestone |
@@ -174,6 +190,20 @@
     | 方法論審査 | 複数の申請がA6.4SBで審査中（2026年Q1時点） |
 
     > Article 6.2ルール（二国間ITMO取引）もCOP29で別途確定。パリ2015年以来初の完全ルールブックが完成。[^cop29art6]
+
+    ## COP30成果（ベレン、2025年11月）
+
+    COP30はArticle 6の「実装COP」でルールの再交渉はなし。主な結果：[^cop30art6]
+
+    | 決定事項 | 内容 |
+    |---------|------|
+    | A6.4基準 | ベースライン・追加性基準を採択；PACMをさらに運用化 |
+    | CDM→A6.4資金 | CDM信託基金から**A6.4へUS$2,680万**移転（＋途上国能力構築に最大US$500万） |
+    | **CDM閉鎖** | **CDMは2026年末までに運用停止**で合意（2001年以来約25億クレジット発行）— 約10億の移行問題が先鋭化 |
+    | A6.2報告 | 協調アプローチの初期報告・構造的レビュー/フィードバックの技術ガイダンス追加 |
+    | **次回交渉** | ⚠️ **Article 6の正式交渉は2028年まで予定なし** — ルールブックは確定、焦点は実装へ |
+
+    > A6.2実務者にとって「2028年まで交渉なし」は、現在の調達局面を通じて運用ルールが安定することを意味する（二国間案件の予見可能性は高まるが、既知の課題＝取消・リバーサル処理等の早期是正もない）。
 
     ## 主要マイルストーン（全体時系列）
 
