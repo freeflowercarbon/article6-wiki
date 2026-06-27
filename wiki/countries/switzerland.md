@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Switzerland is the **world's most active Article 6.2 acquiring country**, having completed the **world's first Article 6.2 ITMO transfer (Thailand Bangkok E-Bus, December 2023)**, Africa's first (Ghana, July 2025), and the first CDR ITMO transfer (Norway, June 2025), while operating bilateral agreements with **16 countries**.[^chcount] Switzerland's CO2 Act legally requires up to 50% of its NDC reduction to come from international transfers — creating a structural, legally mandated procurement obligation.
+    Switzerland is the **world's most active Article 6.2 acquiring country**, having completed the **world's first Article 6.2 ITMO transfer (Thailand Bangkok E-Bus, December 2023)**, Africa's first (Ghana, July 2025), and the first CDR ITMO transfer (Norway, June 2025), while operating bilateral agreements with **16 countries**.[^chcount] In May 2026, Switzerland also **acted as a CDR host country** for the first time — two Swedish buyers received negative-emission ITMOs via a pilot transaction.[^chswse] Switzerland's CO2 Act legally requires up to 50% of its NDC reduction to come from international transfers — creating a structural, legally mandated procurement obligation.
 
     | Item | Detail |
     |------|--------|
@@ -44,10 +44,13 @@
     | Chile 🇨🇱 | ~2023 | ✅ Active | — | — |
     | Uruguay 🇺🇾 | ~2023 | ✅ Active | Climate smart agri | — |
     | Tunisia 🇹🇳 | ~2023 | ✅ Active | — | — |
+    | **Kenya 🇰🇪** | **May 2, 2025** | ✅ Active | — | — |
+    | **Zambia 🇿🇲** | **Nov 20, 2025** | ✅ Active | — | — |
+    | **Mongolia 🇲🇳** | **Nov 21, 2025** | ✅ Active | — | — |
     | Morocco 🇲🇦 | — | 🔄 Negotiating | RE | — |
     | Vietnam 🇻🇳 | — | 🔄 Negotiating | — | — |
 
-    > Additional bilateral partners bring total to ~16; check FOEN for current list: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    > Total bilateral agreements: **16** (as of Nov 2025, adding Kenya, Zambia, Mongolia). Check FOEN for current list: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
 
     ## Methodology Approach (FOEN)
 
@@ -64,7 +67,8 @@
 
     | Metric | Data |
     |--------|------|
-    | ITMO transfers completed | **4 confirmed**: Thailand (Dec 2023, world's first), Norway CDR (Jun 2025), Ghana (Jul 2025), Thailand 2nd (Apr 2026) [^chth] |
+    | ITMO transfers completed (as acquirer) | **4 confirmed**: Thailand (Dec 2023, world's first), Norway CDR (Jun 2025), Ghana (Jul 2025), Thailand 2nd (Apr 2026) [^chth] |
+    | ITMO transfers as host | **1**: Sweden CDR pilot (May 6, 2026) — two Swedish buyers received negative-emission ITMOs[^chswse] |
     | Countries with active agreements | ~16 [^chcount] |
     | Annual procurement budget | ~CHF 100–200M/yr (estimated) |
     | Legal procurement obligation | Up to 50% of NDC = ~17.5 Mt CO₂e cumulative by 2030 |
@@ -77,6 +81,7 @@
     [^chperu]: Switzerland-Peru: world's first A6.2 bilateral **agreement** (Oct 2020); Tuki Wasi cookstoves authorized Mar 20, 2026 — **no ITMO transfer completed yet**: KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>
     [^chth]: Thailand ITMO transfers: Dec 2023 (1,916 units — **world's first A6.2 ITMO transfer**, Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; Apr 2, 2026 (49,717 units): Energy Absolute / Swiss FOEN
     [^chbezero]: Carbon Herald, "BeZero to deliver risk assessments for Article 6.2 carbon credits for Switzerland": <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
+    [^chswse]: Switzerland–Sweden CDR pilot ITMO transfer (May 6, 2026): two Swedish buyers received negative-emission credits from Switzerland in a pilot A6.2 transaction — source: crawl_A 2026-06-21
 
     ## Eligible & Excluded Project Types (NBS Exclusion)
 
@@ -149,6 +154,9 @@
     | チリ 🇨🇱 | 〜2023年 | ✅ 稼働中 | — |
     | ウルグアイ 🇺🇾 | 〜2023年 | ✅ 稼働中 | 農業炭素 |
     | チュニジア 🇹🇳 | 〜2023年 | ✅ 稼働中 | — |
+    | **ケニア 🇰🇪** | **2025年5月2日** | ✅ 稼働中 | — |
+    | **ザンビア 🇿🇲** | **2025年11月20日** | ✅ 稼働中 | — |
+    | **モンゴル 🇲🇳** | **2025年11月21日** | ✅ 稼働中 | — |
     | モロッコ 🇲🇦 | — | 🔄 交渉中 | 再エネ |
     | ベトナム 🇻🇳 | — | 🔄 交渉中 | — |
 
@@ -163,7 +171,8 @@
 
     ## 調達実績・需要見通し
 
-    - 完了済みITMO移転：**4件** — タイ（2023年12月・世界初）、ノルウェーCDR（2025年6月）、ガーナ（2025年7月）、タイ第2回（2026年4月） [^chth]
+    - 完了済みITMO移転（調達側）：**4件** — タイ（2023年12月・世界初）、ノルウェーCDR（2025年6月）、ガーナ（2025年7月）、タイ第2回（2026年4月） [^chth]
+    - ホスト側としての移転：**1件** — スウェーデンCDRパイロット（2026年5月6日）[^chswse]
     - 2030年目標：国際調達分だけで約1,750万t CO₂e必要（NDC50%を国際調達で補完）
     - 需要の硬直性：CO2法による法的義務のため、調達は義務的 → 価格交渉力は弱い
 

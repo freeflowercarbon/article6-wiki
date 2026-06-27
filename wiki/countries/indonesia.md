@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Indonesia is the **most complex and highest-potential host country** in Southeast Asia. It holds massive NBS resources (Kalimantan, Sumatra tropical forests, peatlands) and is a Japan JCM partner since 2013. Following **Perpres 110/2025** (Oct 2025), international carbon credit exports are now legally permitted — a major policy reversal from the 2023 moratorium. Singapore IA negotiations are ongoing.
+    Indonesia is the **most complex and highest-potential host country** in Southeast Asia. It holds massive NBS resources (Kalimantan, Sumatra tropical forests, peatlands) and is a Japan JCM partner since 2013. Following **Perpres 110/2025** (Oct 2025), international carbon credit exports are now legally permitted — a major policy reversal from the 2023 moratorium. **Permenhut 6/2026** (Ministerial Regulation on forestry carbon trading, April 13, 2026) implements Perpres 110/2025 for the forestry sector with an October 2026 compliance deadline. Singapore IA negotiations are ongoing.
 
     | Item | Detail |
     |------|--------|

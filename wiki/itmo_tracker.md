@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-20** — Single source of truth for **confirmed Article 6.2 ITMO transfers** worldwide. Status anywhere else in this wiki should match this page; if it doesn't, this page wins.
+    > Last updated: **2026-06-27** — Single source of truth for **confirmed Article 6.2 ITMO transfers** worldwide. Status anywhere else in this wiki should match this page; if it doesn't, this page wins.
 
     ## Confirmed A6.2 ITMO Transfers (all known, chronological)
 
@@ -16,6 +16,7 @@
     | 4 | Thailand 🇹🇭 → Japan 🇯🇵 | **November 11, 2025** | 1,009 tCO₂e (vintage 2021) | TH014 — 5MW Floating Solar on Industrial Reservoir (acquired by MOEJ) | 🏆 **First-ever ITMO transfer under the JCM**[^th2] |
     | 5 | Maldives 🇲🇻 → Japan 🇯🇵 | **December 17, 2025** | 433 tCO₂e (vintage 2021–22) | MV002 — Smart Mini Grid System at Addu City (acquired by MOEJ) | 2nd JCM ITMO transfer[^mv1] |
     | 6 | Thailand 🇹🇭 → Switzerland 🇨🇭 | **April 2, 2026** | 49,717 units (vintage 2023–24) | Bangkok E-Bus Programme (2nd issuance) | Largest single A6.2 issuance to date[^th3] |
+    | 7 | Switzerland 🇨🇭 → Sweden 🇸🇪 | **May 6, 2026** | Undisclosed (pilot) | CDR pilot (two Swedish buyers received negative-emission credits; Switzerland acting as CDR host) | 🏆 **First A6.2 transfer where Switzerland acts as host; Sweden's first A6.2 transfer**[^swse1] |
 
     ### Related milestone (Article 6.4 / PACM — separate mechanism)
 
@@ -42,11 +43,11 @@
 
     | Acquirer | Completed transfers | Volume acquired | Notes |
     |----------|--------------------:|----------------:|-------|
-    | Switzerland 🇨🇭 | **4** (TH ×2, NO, GH) | ~63,000+ units | World leader; legally mandated demand (CO2 Act) |
+    | Switzerland 🇨🇭 | **4** (TH ×2, NO, GH) | ~63,000+ units | World leader (acquirer); also acted as CDR *host* to Sweden (May 2026); legally mandated demand (CO2 Act) |
     | Japan 🇯🇵 | **2** (TH, MV) | 1,442 t | First JCM ITMOs Nov–Dec 2025; 32 JCM partners; more JC issuance decisions queued |
     | Singapore 🇸🇬 | 0 | — | **11 IAs signed** (Philippines 11th, Apr 2026; Cambodia MOU only); RFP1 contracted; first delivery 2026–27 |
-    | Sweden 🇸🇪 | 0 | — | Multiple bilaterals (Ghana, Rwanda, Kenya, Zambia, Dominica, Nepal) |
-    | Norway 🇳🇴 | 0 (as acquirer) | — | 7 NOGER bilaterals; was *host* in the CDR transfer to Switzerland |
+    | **Sweden 🇸🇪** | **1** (CH CDR pilot) | Undisclosed | **First Swedish A6.2 transfer May 6, 2026** — CDR credits from Switzerland; multiple bilateral agreements as acquirer |
+    | Norway 🇳🇴 | 0 (as acquirer) | — | 7 NOGER bilaterals; was *host* in the CDR transfer to Switzerland (Jun 2025) |
     | South Korea 🇰🇷 | 0 under A6.2 | — | Acquiring 58,428t A6.4ERs (Myanmar PACM, Feb 2026); India bilateral Apr 2026 |
 
     ## Why so few transfers?
@@ -63,10 +64,11 @@
     [^th2]: GEC/JCMA, "Completion of the first international transfer of mitigation outcomes for JCM credits (Thailand)" — TH014, 1,009 tCO₂e, transfer Nov 11, 2025, JC7 decision Oct 30, 2025, credit auth. no. JCM-TH-JP-2018-3026-01401: <https://gec.jp/jcm/agency/en/news/information-611/>
     [^mv1]: JCM Maldives ITMO transfer (MV002, 433 tCO₂e, Dec 17, 2025; JC5 decision Dec 16, 2025): <https://www.jcm.go.jp/jc/information/20251217/>; QC Intel: <https://www.qcintel.com/carbon/article/japan-maldives-complete-itmo-transfer-under-jcm-55347.html>
     [^th3]: Energy Absolute, Bangkok E-Bus 2nd ITMO issuance (49,717 units, Apr 2, 2026): <https://www.energyabsolute.co.th/en/newsroom/news/490/>
+    [^swse1]: Switzerland–Sweden CDR pilot ITMO transfer (May 6, 2026): two Swedish buyers received negative-emission ITMOs in a pilot transaction; Switzerland acted as CDR host country. Source: crawl_A 2026-06-21 (Carbon Pulse / ClimeFi secondary reports)
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-06-20** — 世界の**確認済みA6.2 ITMO移転**の一元管理ページ。本Wikiの他ページの記載と食い違う場合は本ページが正。
+    > 最終更新: **2026-06-27** — 世界の**確認済みA6.2 ITMO移転**の一元管理ページ。本Wikiの他ページの記載と食い違う場合は本ページが正。
 
     ## 確認済みA6.2 ITMO移転（全件・時系列）
 
@@ -80,6 +82,7 @@
     | 4 | タイ 🇹🇭 → 日本 🇯🇵 | **2025年11月11日** | 1,009 tCO₂e（2021ビンテージ） | TH014 — 産業用貯水池5MW浮体式太陽光（環境省取得） | 🏆 **JCM史上初のITMO移転**[^th2] |
     | 5 | モルディブ 🇲🇻 → 日本 🇯🇵 | **2025年12月17日** | 433 tCO₂e（2021〜22ビンテージ） | MV002 — アッドゥ市スマートミニグリッド（環境省取得） | JCM2件目のITMO移転[^mv1] |
     | 6 | タイ 🇹🇭 → スイス 🇨🇭 | **2026年4月2日** | 49,717ユニット（2023〜24ビンテージ） | バンコクE-Bus（第2回発行） | A6.2単一発行として過去最大[^th3] |
+    | 7 | スイス 🇨🇭 → スウェーデン 🇸🇪 | **2026年5月6日** | 非公開（パイロット） | CDRパイロット（スウェーデンの2バイヤーが負の排出クレジットを受領；スイスがCDRホスト役） | 🏆 **スイスがホスト役として初のA6.2移転；スウェーデン初のA6.2取得**[^swse1] |
 
     ### 関連マイルストーン（Article 6.4 / PACM — 別メカニズム）
 
@@ -106,11 +109,11 @@
 
     | 調達国 | 完了移転数 | 取得量 | 備考 |
     |--------|----------:|-------:|------|
-    | スイス 🇨🇭 | **4件**（タイ×2、ノルウェー、ガーナ） | 約63,000+ユニット | 世界首位；CO2法による法的調達義務 |
+    | スイス 🇨🇭 | **4件**（タイ×2、ノルウェー、ガーナ） | 約63,000+ユニット | 世界首位（調達側）；2026年5月にCDRホストとしてスウェーデンへ移転実績も；CO2法による法的調達義務 |
     | 日本 🇯🇵 | **2件**（タイ、モルディブ） | 1,442t | 2025年末にJCM初ITMO実現；JCM32カ国；JC発行決定が後続 |
     | シンガポール 🇸🇬 | 0件 | — | **IA11件署名済み**（フィリピン第11号・2026年4月；カンボジアはMOUのみ）；RFP1契約済み；初回納入2026〜27年 |
-    | スウェーデン 🇸🇪 | 0件 | — | 複数二国間（ガーナ・ルワンダ・ケニア・ザンビア・ドミニカ・ネパール） |
-    | ノルウェー 🇳🇴 | 0件（調達側として） | — | NOGER 7カ国；対スイスCDR移転では*ホスト*側 |
+    | **スウェーデン 🇸🇪** | **1件**（スイスCDRパイロット） | 非公開 | **2026年5月6日スウェーデン初のA6.2取得** — スイスCDRクレジット；調達側として複数二国間協定を保有 |
+    | ノルウェー 🇳🇴 | 0件（調達側として） | — | NOGER 7カ国；対スイスCDR移転（2025年6月）では*ホスト*側 |
     | 韓国 🇰🇷 | A6.2では0件 | — | A6.4ERを58,428t取得（ミャンマーPACM、2026年2月）；インド二国間 2026年4月 |
 
     ## なぜ移転がこれほど少ないのか

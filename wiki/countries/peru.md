@@ -13,7 +13,7 @@
     | JCM (Japan) | — Not a JCM partner |
     | Singapore IA | ✅ Signed April 1, 2025; **entered into force October 18, 2025**; **RFP1 contract: 2 projects (Kowen Antami REDD+ + Together for Forests REDD+), 2026–2030**[^pesg] |
     | Switzerland | 🟡 Signed Oct 2020 — **world's first A6.2 bilateral agreement**; Tuki Wasi authorized Mar 20, 2026; **no ITMO transfer yet**[^pech] |
-    | CA Framework | ✅ Operational — most mature in Latin America; **RENAMI registry launched February 2026**[^perenami]; **CARP AIR submitted June 1, 2026**[^peair] |
+    | CA Framework | ✅ Operational — most mature in Latin America; **RENAMI registry launched February 2026**[^perenami]; **CARP AIR submitted June 1, 2026**[^peair]; **first Latin American country to register a cooperative approach on the UNFCCC Art 6 platform (June 2026)**[^peunfccc] |
     | Key Ministry | MINAM (Ministry of Environment)[^peminam] |
 
     [^pendc]: Peru NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
@@ -24,6 +24,7 @@
     [^perenami]: RENAMI (Registro Nacional de Medidas de Mitigación) — Peru's national mitigation measures registry; launched February 2026 under MINAM: <https://www.gob.pe/minam>
     [^peair]: Peru CARP Article 6.2 Initial Report (AIR) submitted June 1, 2026 to UNFCCC (total AIR count: 23 parties): UNFCCC CARP portal <https://unfccc.int/process/transparency-and-reporting/reporting-and-review-under-the-paris-agreement/article-6>
     [^petukiref]: Tuki Wasi cookstoves project (Amazon communities, Switzerland/KliK) authorized March 20, 2026; registered in RENAMI (Feb 2026): CARP / Carbon Pulse
+    [^peunfccc]: Peru first cooperative approach registered on UNFCCC Article 6 platform in Latin America (June 2026); clean cookstoves project expected to deliver 726,000+ ITMOs to Switzerland by 2030: Carbon Pulse ~June 2026 (<https://carbon-pulse.com/517822/>)
 
     ## NDC Achievement Status
 
@@ -45,7 +46,7 @@
 
     | Project | Partner | Status | Volume | Notes |
     |---------|---------|--------|--------|-------|
-    | **Tuki Wasi (efficient cookstoves, Amazon communities)** | Switzerland / KliK | 🟡 **A6.2 Authorized March 20, 2026** — first ITMO transfer expected 2026–27 | TBD | RENAMI-registered; first South American ICS program under A6.2[^petukiref] |
+    | **Tuki Wasi (efficient cookstoves, Amazon communities)** | Switzerland / KliK | 🟡 **A6.2 Authorized March 20, 2026** — first ITMO transfer expected 2026–27 | **~726,000+ ITMOs by 2030** | RENAMI-registered; first South American ICS program under A6.2; **first cooperative approach registered on UNFCCC Art 6 platform in Latin America (June 2026)**[^petukiref][^peunfccc] |
     | Kowen Antami REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | Together for Forests REDD+ | Singapore | ✅ **RFP1 contract awarded Sept 2025** | part of 2,175,000 t total (2026–2030) | S$19–41/t range |
     | REDD+ expansion | Switzerland (ongoing) | 🟡 Pipeline | TBD | — |

@@ -128,7 +128,8 @@
     | Country | Project Type | Status |
     |---------|-------------|--------|
     | Papua New Guinea | Tropical forest REDD+ | 🟡 Development stage |
-    | Rwanda | Forest conservation | 🟡 Development stage |
+    | Rwanda | Forest conservation | 🟡 Development stage — **project application call issued Jan 30, 2026** |
+    | **Thailand** | TBD | 🟡 **Project application call issued March 31, 2026** |
     | Cambodia | NBS + clean energy | 🟡 Early stage |
     | Bhutan | Hydropower / NBS | 🟡 Early stage |
 

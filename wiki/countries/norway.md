@@ -44,7 +44,7 @@
     | Benin 🇧🇯 | Bilateral Agreement | 2024 | ✅ Active | NOGER portfolio |
     | Zambia 🇿🇲 | Bilateral Agreement | Nov 2024 | ✅ **Signed at COP29** | Via GGGI CTF [^noza] |
     | Jordan 🇯🇴 | Bilateral Agreement | Mar 3, 2026 | ✅ **Signed** | NOGER portfolio[^nojordan] |
-    | Indonesia 🇮🇩 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
+    | Indonesia 🇮🇩 | Bilateral Agreement | **Jun 26, 2025** | ✅ Active | NOGER portfolio; signed with GGGI support[^noidgg] |
     | Senegal 🇸🇳 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
     | Pakistan 🇵🇰 | MoU | Apr 1, 2026 | ✅ **Signed** | Article 6.2 cooperation[^nopak] |
     | Morocco 🇲🇦 | Bilateral Agreement | May 5, 2026 | ✅ **Signed** | NOGER portfolio[^nomorocco] |
@@ -64,6 +64,7 @@
     | Host members | Peru, Chile, Mongolia, Ghana, Zambia |
     | Structure | OIMP — outcomes-based, no NDC credit counting for donor countries |
 
+    [^noidgg]: Indonesia-Norway bilateral Article 6 agreement signed June 26, 2025 with GGGI support: GGGI <https://gggi.org/indonesia-and-norway-sign-bilateral-agreement-under-article-6-to-advance-climate-cooperation-with-gggi-support/>
     [^noger]: **NOGER = Norwegian Global Emission Reduction Initiative** — Norway's government A6.2 procurement program. Committed **NOK 15 billion (~US$1.56bn) for up to 15 million credits by 2030** via the NACA (Norwegian Article 6 Climate Action) Fund, hosted under the GGGI Carbon Transaction Facility (CTF). CTF bilaterals: Benin, Indonesia, Jordan, Pakistan, Senegal, Zambia (+ Morocco): Norwegian government <https://www.regjeringen.no/en/topics/climate-and-environment/climate/norwegian-global-emission-reduction-initiative/id3074249/>; GGGI <https://gggi.org/>
     [^nojordan]: Norway-Jordan bilateral agreement signed March 3, 2026: GGGI press release / Norwegian government
     [^nopak]: Norway-Pakistan MoU on Article 6.2 cooperation signed April 1, 2026: Norwegian government
@@ -139,7 +140,7 @@
     |---------|------|------|
     | ベナン 🇧🇯 | 2024年 | ✅ 活動中 |
     | ザンビア 🇿🇲 | 2024年11月（COP29） | ✅ 署名済み [^noza] |
-    | インドネシア 🇮🇩 | 2025年 | ✅ 活動中 |
+    | インドネシア 🇮🇩 | **2025年6月26日** | ✅ 活動中（GGGI支援） [^noidgg] |
     | セネガル 🇸🇳 | 2025年 | ✅ 活動中 |
     | ヨルダン 🇯🇴 | 2026年3月3日 | ✅ **署名済み** [^nojordan] |
     | パキスタン 🇵🇰 | 2026年4月1日（MoU） | ✅ **署名済み** [^nopak] |

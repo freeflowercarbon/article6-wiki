@@ -50,6 +50,7 @@
     | Papua New Guinea | 2014 | 🟡 IA also with Singapore | Dual access |
     | **Oman 🇴🇲** | **2026** | 🟡 MoC signed | **MoC signed April 10, 2026** — partner #31 or #32[^jpoman] |
     | **Kyrgyz Republic 🇰🇬** | — | 🟡 JC governance milestone | **JC governance arrangement finalized May 25, 2026**[^jpkyrgyz] |
+    | **India 🇮🇳** | **2025** | 🟡 Rules of implementation adopted | **JCM Rules of Implementation adopted June 8, 2026** (MoC signed Aug 29, 2025)[^jpindia] |
     | All 32 partners | — | [→ full matrix](../matrix.md) | — |
 
     ## Reversal Risk Policy (JCM)
@@ -144,6 +145,7 @@
     [^phphnbs]: Philippines JCM Phase 4 Forest-specific Guidelines approved Nov 2025 by Japan-Philippines Joint Committee; source: GEC Philippines <https://gec.jp/jcm/projects/>
     [^jpoman]: Oman JCM MoC signed April 10, 2026: JCMA news <https://gec.jp/jcm/agency/en/news/>
     [^jpkyrgyz]: Japan-Kyrgyz Republic JCM Joint Committee governance arrangement finalized May 25, 2026: JCMA / MOEJ announcement
+    [^jpindia]: India-Japan JCM Rules of Implementation adopted June 8, 2026 (MoC originally signed August 29, 2025); operationalizing bilateral JCM under Article 6 — Japan now authorized with 32 JCM partner countries: GEC/JCMA announcement; crawl_A 2026-06-21
     [^khnbs]: Cambodia Prey Lang NBS-JCM authorized December 2023; source: GEC Cambodia / MOEJ announcement
 
     ## Procurement Track Record & Demand

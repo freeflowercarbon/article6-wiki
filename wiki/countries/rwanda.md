@@ -13,7 +13,8 @@
     | Key Ministry | REMA (Rwanda Environment Management Authority)[^rwrema] |
     | JCM (Japan) | — Not a JCM partner |
     | Singapore IA | ✅ Signed 2023; projects in development[^rwsg] |
-    | CA Framework | 🟡 Under development |
+    | **Kuwait bilateral** | ✅ **Article 6.2 cooperation agreement signed (date TBC)**[^rwkw] |
+    | CA Framework | 🟡 Under development; **Letters of Authorization issued** for carbon projects[^rwloa] |
 
     [^rwndc]: Rwanda NDC (2020 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=RWA>
     [^rwrema]: REMA (Rwanda Environment Management Authority): <https://www.rema.gov.rw/>
@@ -38,6 +39,8 @@
     | Smallholder clean cooking | Singapore (prospective) | 🟡 Scoping | — |
 
     [^rwcall]: Singapore-Rwanda IA project application call issued January 30, 2026: Singapore MSE / NCCS announcement
+    [^rwkw]: Rwanda-Kuwait Article 6.2 cooperation agreement — Rwanda has bilateral Article 6 agreements with both Singapore and Kuwait as of 2026: crawl_C 2026-06-20 (secondary source — exact date and terms TBC)
+    [^rwloa]: Rwanda has issued unilateral Letters of Authorization for carbon projects — confirming Rwanda's CA framework is operationally active: crawl_C 2026-06-20
 
     > Singapore IA: <https://www.nea.gov.sg/our-services/climate-change-energy-efficiency/singapore-s-international-climate-change-cooperation/international-cooperation-on-climate-change>
 
@@ -74,7 +77,8 @@
     | NDC目標 | 2030年にBAU比38%削減（無条件：16%） |
     | 主管省庁 | REMA（ルワンダ環境管理局） |
     | シンガポールIA | ✅ 2023年署名（開発段階） |
-    | CA体制 | 🟡 整備中 |
+    | **クウェート二国間** | ✅ **Article 6.2協力協定署名済み（日程TBC）**[^rwkw] |
+    | CA体制 | 🟡 整備中；**炭素プロジェクト向け授権書（Letter of Authorization）発行済み**[^rwloa] |
 
     ## NDC達成見込み
 
