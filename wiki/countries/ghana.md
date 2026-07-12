@@ -14,9 +14,11 @@
     | Singapore IA | 🤝 Signed 2023; **RFP1: 2 contracts awarded**[^ghsg] |
     | Switzerland | ✅ Signed 2021; **ITMOs transferred**[^ghch] |
     | CA Framework | ✅ Operational — most mature in sub-Saharan Africa[^ghgcmo] |
+    | GCMO pipeline (as of Jul 2, 2026) | **48 activities** registered under Article 6.2; **3 authorized**; **~5.9M tCO₂e** of authorized credits[^ghtally] |
 
     [^ghndc]: Ghana NDC (2021 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=GHA>
     [^ghgcmo]: GCMO (Ghana Carbon Market Office) — carbon registry and CA operations: MESTI <https://www.mesti.gov.gh/>
+    [^ghtally]: Ghana GCMO pipeline figures cited in a July 2, 2026 parliamentary statement by Minority Chief Whip Frank Annoh-Dompreh calling for stronger carbon-market governance: gbcghanaonline.com <https://www.gbcghanaonline.com/general/minority-calls-for-stronger-governance-of-ghanas-emerging-carbon-credit-market/2026/>（secondary source — political statement, not a GCMO primary release）
     [^ghsg]: Singapore-Ghana IA (2023) + RFP Round 1 contract: **Kwahu Landscape Restoration (ARR, Eastern Region)** — ~1,350,000 t, 2026–2030 (earlier incorrect descriptions cited "cookstoves + REDD+"; correct project is Kwahu ARR): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>; Singapore MSE IA network <https://www.carbonmarkets-cooperation.gov.sg/>
     [^ghch]: Switzerland-Ghana bilateral (2021) + **11,733 ITMOs issued July 7, 2025** (cookstoves project — Africa's first A6.2 ITMO transfer for NDC use): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; Carbon Pulse (Jul 2025)
 
@@ -87,6 +89,7 @@
     | シンガポールIA | ✅ 2023年署名（初取引進行中） |
     | スイス二国間 | 🟢 2021年署名；**11,733 ITMO発行（2025年7月7日・アフリカ初）** |
     | CA体制 | ✅ 稼働中（アフリカ最成熟） |
+    | GCMOパイプライン（2026年7月2日時点） | Article 6.2登録**48件**；**3件授権済み**；授権クレジット**約590万tCO₂e**（議会答弁より、二次情報源） |
 
     ## NDC達成見込み
 

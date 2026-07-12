@@ -5,22 +5,26 @@
 
     ## Overview
 
-    The EU Carbon Border Adjustment Mechanism (CBAM) entered its **definitive phase on January 1, 2026** (Q1 2026 certificate price: **€75.36/t**[^cbamq1]). CBAM creates a new structural demand layer for Article 6.2 credits through a two-tier carbon price deduction framework — but the interaction with Article 6 credits is indirect, capped, and not yet fully settled in EU law.
+    The EU Carbon Border Adjustment Mechanism (CBAM) entered its **definitive phase on January 1, 2026** (Q1 2026 certificate price: **€75.36/t**[^cbamq1]; Q2 2026 price published July 6, 2026: **€75.28/t** — a slight decrease[^cbamq2]). CBAM creates a new structural demand layer for Article 6.2 credits through a two-tier carbon price deduction framework — but the interaction with Article 6 credits is indirect, capped, and not yet fully settled in EU law. A separate CBAM implementing regulation on "carbon price paid abroad" (published May 13, 2026, consultation closed Jun 10, 2026) clarifies that only **mandatory/legally-required** carbon costs — not voluntary Article 6 ITMO purchases — can offset CBAM certificate obligations.[^cbamcpa]
 
     | Item | Detail |
     |------|--------|
     | CBAM definitive phase | January 1, 2026 |
     | Q1 2026 certificate price | **€75.36/t CO₂e** (linked to EU ETS quarterly average)[^cbamq1] |
+    | Q2 2026 certificate price | **€75.28/t CO₂e** (published Jul 6, 2026)[^cbamq2] |
     | Covered sectors (Phase 1) | Steel, aluminium, cement, fertilisers, hydrogen |
     | Phase 2 expansion | 2028: 180 downstream products (steel/aluminium-intensive)[^cbamiext] |
     | Aug 2025 | Call for evidence — CBAM emissions methodology & carbon pricing rules[^cbamcfe] |
     | Oct 2025 | Amended CBAM Regulation (simplification) published in Official Journal[^cbamamd] |
     | Dec 2025 | Commission proposal — strengthened anti-circumvention provisions[^cbamcirc] |
     | May 13 – Jun 10, 2026 | Public consultation on **Implementing Act for third-country carbon price recognition** (Tier 1 + Tier 2 Article 6 credits)[^cbamcons] |
+    | May 13, 2026 | "Carbon price paid abroad" implementing regulation: only mandatory carbon costs offset CBAM — voluntary A6 purchases excluded[^cbamcpa] |
     | Article 6 credits (Tier 2) | **Accepted up to 10% of reported embedded emissions** per Implementing Act draft[^tfg] |
     | Key uncertainty | "Transitivity" — whether Singapore's carbon tax (which allows 5% A6 offset) is automatically CBAM-recognised as Tier 1 |
 
     [^cbamq1]: S&P Global (Apr 7, 2026): <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/040726-brussels-confirms-first-cbam-certificate-price-for-q1-2026-at-eur7536mtco2e>
+    [^cbamq2]: EU Commission Q2 2026 CBAM certificate price published July 6, 2026: €75.28/tCO₂e; Q3 2026 price expected early October 2026 (weekly pricing starts 2027)（要確認 — 一次資料への直接アクセス未確認、二次情報源）
+    [^cbamcpa]: CBAM "carbon price paid abroad" implementing regulation (published May 13, 2026, consultation closed Jun 10, 2026): clarifies only mandatory/legally-required carbon costs (not voluntary Article 6 ITMO purchases) may offset CBAM certificate obligations: European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
     [^cbamiext]: EU CBAM 2028 extension: European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
     [^tfg]: Trade Finance Global (May 2026): <https://www.tradefinanceglobal.com/posts/new-eu-draft-carbon-credits-cbam-requirements/>
     [^cbamcfe]: EU CBAM call for evidence (Aug 2025): European Commission <https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en>
@@ -93,7 +97,7 @@
 
     ## 概要
 
-    EU CBAM（炭素国境調整メカニズム）は2026年1月1日に定常フェーズへ移行（Q1 2026証書価格：**€75.36/t**）。CBAMはArticle 6.2クレジットへの新たな需要層を生み出すが、その相互作用は間接的・上限付きであり、EU法としての最終確定はまだ行われていない。
+    EU CBAM（炭素国境調整メカニズム）は2026年1月1日に定常フェーズへ移行（Q1 2026証書価格：**€75.36/t**；Q2 2026証書価格は2026年7月6日公表：**€75.28/t**とわずかに下落）。CBAMはArticle 6.2クレジットへの新たな需要層を生み出すが、その相互作用は間接的・上限付きであり、EU法としての最終確定はまだ行われていない。別途、「海外で支払われた炭素価格」実施規則（2026年5月13日公表、意見公募2026年6月10日締切）により、CBAM証書義務を相殺できるのは**義務的・法定の**炭素コストのみで、任意のArticle 6 ITMO購入は対象外であることが明確化された。
 
     ## 2層控除構造
 

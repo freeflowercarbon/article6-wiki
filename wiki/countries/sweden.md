@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Sweden is an **active Article 6.2 acquiring country** with bilateral agreements signed across Africa and Asia. Through the Swedish Energy Agency (Energimyndigheten), Sweden has established bilateral partnerships under the Paris Agreement with **Dominican Republic, Ghana, Zambia, Rwanda, Kenya, and Nepal**.[^swepart] Sweden's world-highest domestic carbon tax (SEK 1,330/t ≈ US$125) creates strong demand for cost-efficient international reductions.
+    Sweden is an **active Article 6.2 acquiring country** with bilateral agreements signed across Africa and Asia. Through the Swedish Energy Agency (Energimyndigheten), Sweden has established bilateral partnerships under the Paris Agreement with **Dominican Republic, Ghana, Zambia, Rwanda, Kenya, and Nepal**.[^swepart] Sweden's world-highest domestic carbon tax (SEK 1,330/t ≈ US$125) creates strong demand for cost-efficient international reductions. Sweden completed its **first-ever A6.2 ITMO transfer on May 6, 2026** — a 2-tonne CDR (carbon dioxide removal) pilot, with negative-emission credits supplied by Switzerland (Swiss Climate Cent Foundation) to two Swedish buyers (Max Burgers AB and ZeroMission AB), announced at Zurich Climate Week. See [ITMO Transfer Tracker](../itmo_tracker.md).[^swech]
 
     | Item | Detail |
     |------|--------|
@@ -67,6 +67,7 @@
 
     [^swepart]: Energimyndigheten Partnerships under the Paris Agreement: <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>; UNEP-CCC Article 6 Pipeline: <https://unepccc.org/article-6-pipeline/>
     [^swemrv]: Sweden-Ghana MRV compatibility exploration; source: Energimyndigheten
+    [^swech]: Sweden's first A6.2 ITMO transfer — 2-tonne CDR pilot from Switzerland, May 6, 2026, announced at Zurich Climate Week; builds on a 2023 COP28 MOU: Energimyndigheten (official) <https://www.energimyndigheten.se/en/news/2026/cooperation-with-switzerland-on-global-emissions-trading-with-negative-emissions/>
 
     ## Key Sources
     - Sweden NDC: <https://unfccc.int/NDCREG>
@@ -76,7 +77,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    スウェーデンはスウェーデンエネルギー庁（Energimyndigheten）を通じて、アフリカ・アジアで**6カ国との二国間A6.2協定を締結済みの調達国**。[^swepart] 世界最高水準の炭素税（SEK 1,330/t≈US$125）を国内で運用しつつ、コスト効率的な国際削減を追求する。
+    スウェーデンはスウェーデンエネルギー庁（Energimyndigheten）を通じて、アフリカ・アジアで**6カ国との二国間A6.2協定を締結済みの調達国**。[^swepart] 世界最高水準の炭素税（SEK 1,330/t≈US$125）を国内で運用しつつ、コスト効率的な国際削減を追求する。**2026年5月6日、スウェーデン初のA6.2 ITMO移転が完了**——スイス（Swiss Climate Cent Foundation）から2社（Max Burgers AB・ZeroMission AB）への2トンのCDR（炭素除去）パイロット移転、チューリッヒ気候週間で発表。[ITMO移転トラッカー](../itmo_tracker.md)参照。[^swech]
 
     ## 基本情報
     | 項目 | 内容 |

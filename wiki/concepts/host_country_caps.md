@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-20** — An emerging structural theme for Article 6.2 investors: host countries are increasingly **capping, gating, or taxing** the ITMOs they will authorize for export, to protect their own NDC achievement. "Authorized" volume ≠ "available for export" volume.
+    > Last updated: **2026-07-13** — An emerging structural theme for Article 6.2 investors: host countries are increasingly **capping, gating, or taxing** the ITMOs they will authorize for export, to protect their own NDC achievement. "Authorized" volume ≠ "available for export" volume.
 
     ## Why this matters
 
@@ -12,7 +12,7 @@
 
     | Mechanism | What it does | Example |
     |-----------|--------------|---------|
-    | **Quantitative trading cap** | National ceiling on total ITMOs exportable in a period | **Kenya**: draft Carbon Registry Regulations 2025 set a "carbon budget for trading"; Carbon Pulse reports **~10M ITMOs for 2026–2030** |
+    | **Quantitative trading cap** | National ceiling on total ITMOs exportable in a period | **Kenya**: draft Carbon Registry Regulations 2025 set a "carbon budget for trading"; Carbon Pulse reports **~10M ITMOs for 2026–2030**. **Brazil**: draft resolution (public consultation opened Jul 7, 2026) would cap international ITMO transfers at **up to 50 MtCO₂e** against a domestic reduction target of 100 MtCO₂e for 2031–35, via two modalities — Future Transfer Agreements and Public Calls[^bcap] |
     | **Share-of-proceeds / retention** | Host keeps a % of every project's ITMOs | **Thailand**: retains **10% of total ITMOs** (NDC Action Plan, Dec 2024) |
     | **Transfer ratio by project tier** | Caps the % of a project's output that may leave | **Vietnam** (Decree 112/2026): **up to 90% (List 1) / 50% (List 2)** |
     | **Discretionary withholding at authorization** | Government can refuse/limit authorization case-by-case | **Kenya**: govt may withhold ITMOs at authorization; **Indonesia/Vietnam**: Minister authorization + CA required before any transfer |
@@ -25,8 +25,9 @@
     | Kenya 🇰🇪 | ~10M ITMO cap (2026–2030) + withholding | 🆕 Draft regs 2025; KNCR live Feb 2026 | Surprised market; pressures low VCM prices[^kcap] |
     | Vietnam 🇻🇳 | 90% / 50% transfer ratios | ✅ Decree 112/2026 effective May 19, 2026 | LOA process + CA[^vcap] |
     | Thailand 🇹🇭 | 10% SoP retention | ✅ NDC Action Plan Dec 2024 | Premium T-VER aligns to A6[^tcap] |
-    | Indonesia 🇮🇩 | Minister authorization + CA; SRUK gating | 🟡 SRUK ~90% built, launch mid-2026 | Perpres 110/2025[^icap] |
+    | Indonesia 🇮🇩 | Minister authorization + CA; SRUK gating | ✅ SRUK officially launched Jul 9, 2026 | Perpres 110/2025[^icap] |
     | Peru 🇵🇪 | RENAMI registration + authorization | 🟡 RENAMI live Feb 2026 | First authorization Mar 2026 (Tuki Wasi)[^pcap] |
+    | Brazil 🇧🇷 | Quantitative cap: up to 50 MtCO₂e of a 100 MtCO₂e domestic target (2031–35) | 🆕 Draft resolution; public consultation Jul 7–Aug 6, 2026 | CIM (Interministerial Committee on Climate Change)[^bcap] |
 
     ## Investor implications
 
@@ -40,10 +41,11 @@
     [^tcap]: Thailand NDC Action Plan (Dec 2024) — 10% ITMO retention: TGO; Carbon Pulse
     [^icap]: Indonesia Perpres 110/2025 — Minister authorization + CA; SRUK registry: SSEK <https://ssek.com/blog/indonesia-introduces-new-carbon-trading-framework-under-presidential-regulation-no-110-of-2025/>
     [^pcap]: Peru RENAMI registry (Feb 2026) + Tuki Wasi authorization (Mar 20, 2026): KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>
+    [^bcap]: Brazil CIM draft resolution on ITMO operationalization — public consultation opened July 7, 2026, closes August 6, 2026; caps international transfers at up to 50 MtCO₂e against a 100 MtCO₂e domestic reduction target (2031–35), via Future Transfer Agreements + Public Calls modalities: Mayer Brown legal alert <https://www.mayerbrown.com/en/insights/publications/2026/07/article-62-of-the-paris-agreement-public-consultation-opened-on-the-operationalization-of-itmos>（要確認 — 一次資料未確認、法律事務所解説を情報源とする）
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-06-20** — A6.2投資家にとって重要性が増す構造的テーマ：ホスト国は自国NDC達成を守るため、輸出向けに授権するITMOを**上限設定・ゲート化・課税**する動きを強めている。「授権された量」≠「輸出可能な量」。
+    > 最終更新: **2026-07-13** — A6.2投資家にとって重要性が増す構造的テーマ：ホスト国は自国NDC達成を守るため、輸出向けに授権するITMOを**上限設定・ゲート化・課税**する動きを強めている。「授権された量」≠「輸出可能な量」。
 
     ## なぜ重要か
 
@@ -53,7 +55,7 @@
 
     | 仕組み | 内容 | 例 |
     |--------|------|----|
-    | **数量取引上限** | 期間内の総輸出ITMOに国家上限 | **ケニア**：登録簿規則案2025で「取引用カーボンバジェット」；CP報道で**2026–2030年に約1,000万ITMO** |
+    | **数量取引上限** | 期間内の総輸出ITMOに国家上限 | **ケニア**：登録簿規則案2025で「取引用カーボンバジェット」；CP報道で**2026–2030年に約1,000万ITMO**。**ブラジル**：決議案（意見公募2026年7月7日開始）は2031–35年の国内削減目標100Mt tCO₂eのうち国際ITMO移転を**最大50Mt tCO₂eまで**に制限（Future Transfer Agreements・Public Callsの2方式）[^bcap]|
     | **収益分配・保留** | 各案件のITMOの一定%を国が保留 | **タイ**：総ITMOの**10%を保留**（NDCアクションプラン2024年12月） |
     | **案件区分別の移転比率** | 案件産出の輸出可能%を制限 | **ベトナム**（Decree 112/2026）：**最大90%（List1）／50%（List2）** |
     | **授権時の裁量的留保** | 政府が個別に授権を拒否・制限可能 | **ケニア**：授権時にITMO留保可；**インドネシア／ベトナム**：移転前に大臣授権＋CAが必須 |
@@ -66,8 +68,9 @@
     | ケニア 🇰🇪 | 約1,000万ITMO上限（2026–2030）＋留保 | 🆕 規則案2025；KNCR稼働2026年2月 | 市場に衝撃；低迷するVCM価格を圧迫[^kcap] |
     | ベトナム 🇻🇳 | 移転比率90%／50% | ✅ Decree 112/2026施行2026年5月19日 | LOA手続＋CA[^vcap] |
     | タイ 🇹🇭 | 10%保留 | ✅ NDCアクションプラン2024年12月 | Premium T-VERがA6対応[^tcap] |
-    | インドネシア 🇮🇩 | 大臣授権＋CA；SRUKゲート | 🟡 SRUK約90%完成・2026年央稼働 | Perpres 110/2025[^icap] |
+    | インドネシア 🇮🇩 | 大臣授権＋CA；SRUKゲート | ✅ SRUK正式稼働開始2026年7月9日 | Perpres 110/2025[^icap] |
     | ペルー 🇵🇪 | RENAMI登録＋授権 | 🟡 RENAMI稼働2026年2月 | 初授権2026年3月（Tuki Wasi）[^pcap] |
+    | ブラジル 🇧🇷 | 数量上限：国内目標100Mt tCO₂eのうち最大50Mt tCO₂e（2031–35年） | 🆕 決議案；意見公募2026年7月7日〜8月6日 | CIM（気候変動省庁間委員会）[^bcap] |
 
     ## 投資家への含意
 

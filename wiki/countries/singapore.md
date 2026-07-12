@@ -50,7 +50,7 @@
     | Country | Status | Notes |
     |---------|--------|-------|
     | Cambodia 🇰🇭 | 📋 MOU | Carbon collaboration MOU; IA not yet signed (JCM overlap) |
-    | Indonesia 🇮🇩 | 📋 MOU / negotiating | Broader carbon cooperation; IA negotiating post-Perpres 110/2025 |
+    | Indonesia 🇮🇩 | 📋 MOU signed **Jul 6, 2026** | Carbon-credit collaboration MOU (Jakarta Leaders' Retreat); precursor to IA — both sides to identify projects and negotiate a full IA next[^sgid] |
     | Colombia 🇨🇴 | 📋 MOU | — |
     | Dominican Republic 🇩🇴 | 📋 MOU | — |
     | Fiji 🇫🇯 | 📋 MOU | — |
@@ -67,6 +67,7 @@
     [^sgvn]: Vietnam IA signed September 2025; source: Singapore MSE
     [^sgph]: Singapore-Philippines Implementation Agreement signed April 30, 2026 — **11th Singapore IA** (3rd ASEAN IA partner, after Thailand and Vietnam). NCCS lists 10 signed IAs as of Oct 2025 (Cambodia is MOU only); Philippines is the 11th: NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^sgMOU]: Singapore MSE MOUs: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/sgs-article-6-cooperations/mous/>
+    [^sgid]: Singapore-Indonesia carbon-credit cooperation MOU signed July 6, 2026 at the Jakarta Leaders' Retreat: Singapore MTI <https://www.mti.gov.sg/newsroom/singapore-and-indonesia-sign-memorandum-of-understanding-on-carbon-credits-collaboration/>
 
     ## Article 6.2 Crediting Protocol (Singapore × Verra × Gold Standard) [^sgprotocol]
 
@@ -237,7 +238,7 @@
     | モンゴル 🇲🇳 | 2025年 | ✅ 稼働中 | IA署名 2025年10月6日 |
     | **フィリピン 🇵🇭** | **2026年** | ✅ **稼働中** | **IA署名 2026年4月30日（第11号IA）** |
     | カンボジア 🇰🇭 | — | 🔄 MOUのみ | 炭素協力MOU；IA未署名（JCM重複） |
-    | インドネシア 🇮🇩 | — | 🔄 交渉中 | 広範な炭素協力MOU；Perpres 110/2025後にIA交渉中 |
+    | インドネシア 🇮🇩 | — | 📋 **MOU署名 2026年7月6日** | ジャカルタ首脳リトリートで炭素クレジット協力MOU署名；IA交渉は今後[^sgid] |
 
     > **署名済みIA：11件**（NCCSが2025年10月時点で列挙した10件 — PNG・ガーナ・ブータン・チリ・ペルー・ルワンダ・パラグアイ・タイ・ベトナム・モンゴル — ＋2026年4月30日署名のフィリピン）。**カンボジア・インドネシアはMOU／広範協力のみで署名済みIAではない**（旧版はカンボジアをIAと誤計上しフィリピンを「第12号」と表記していた）。
 

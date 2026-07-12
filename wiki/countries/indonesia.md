@@ -4,14 +4,14 @@
 
     ## Overview
 
-    Indonesia is the **most complex and highest-potential host country** in Southeast Asia. It holds massive NBS resources (Kalimantan, Sumatra tropical forests, peatlands) and is a Japan JCM partner since 2013. Following **Perpres 110/2025** (Oct 2025), international carbon credit exports are now legally permitted — a major policy reversal from the 2023 moratorium. **Permenhut 6/2026** (Ministerial Regulation on forestry carbon trading, April 13, 2026) implements Perpres 110/2025 for the forestry sector with an October 2026 compliance deadline. Singapore IA negotiations are ongoing.
+    Indonesia is the **most complex and highest-potential host country** in Southeast Asia. It holds massive NBS resources (Kalimantan, Sumatra tropical forests, peatlands) and is a Japan JCM partner since 2013. Following **Perpres 110/2025** (Oct 2025), international carbon credit exports are now legally permitted — a major policy reversal from the 2023 moratorium. **Permenhut 6/2026** (Ministerial Regulation on forestry carbon trading, April 13, 2026) implements Perpres 110/2025 for the forestry sector with an October 2026 compliance deadline. Indonesia and Singapore signed a carbon-credit cooperation **MOU on July 6, 2026** (Jakarta Leaders' Retreat) — a precursor step, not yet a signed Implementation Agreement; both sides committed to identifying projects and negotiating a full IA. Indonesia's national carbon unit registry, **SRUK, officially launched July 9, 2026**, with first trading permits issued to 4 Forest Utilization Business Permit (PBPH) holders.
 
     | Item | Detail |
     |------|--------|
     | NDC Target | 29% unconditional / 41% conditional reduction vs. BAU by 2030[^idndc] |
     | Carbon System | IDXCarbon (voluntary exchange, 2023–)[^idxcarbon]; PTBAE-PU ETS pilot[^idets] |
     | JCM (Japan) | 🤝 Since 2013; 50+ projects; **29 approved methodologies** (most of any JCM partner country)[^idjcm] |
-    | Singapore IA | 🔄 Under negotiation (post-Perpres 110/2025)[^idsg] |
+    | Singapore | 📋 **MOU signed Jul 6, 2026**; IA negotiation to follow[^idsg] |
     | CA Framework | 🟡 Under development; Perpres 110/2025 provides legal basis[^idperpres] |
     | Key Ministry | KLHK (Ministry of Forestry & Environment) + KLH (Ministry of Environment — climate)[^idklhk] |
 
@@ -19,7 +19,7 @@
     [^idxcarbon]: IDXCarbon launched August 2023; Indonesia Stock Exchange (IDX): <https://idxcarbon.co.id/>
     [^idets]: PTBAE-PU ETS pilot (Sistem Perdagangan Emisi): KLHK regulation; see: <https://www.menlhk.go.id/>
     [^idjcm]: JCM Indonesia projects: GEC <https://gec.jp/jcm/projects/>; MOEJ portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
-    [^idsg]: Singapore-Indonesia IA negotiations: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>; Carbon Pulse coverage (post-Perpres 110)
+    [^idsg]: Singapore-Indonesia carbon-credit cooperation MOU signed July 6, 2026 at the Jakarta Leaders' Retreat (Indonesia Minister of Environment Mohammad Jumhur Hidayat; Singapore DPM/Minister for Trade & Industry Gan Kim Yong) — a precursor to a future Implementation Agreement, not an IA itself: Singapore MTI <https://www.mti.gov.sg/newsroom/singapore-and-indonesia-sign-memorandum-of-understanding-on-carbon-credits-collaboration/>; Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
     [^idperpres]: Presidential Regulation Perpres 110/2025 (October 2025) permits international carbon credit exports: BPKRI <https://peraturan.bpk.go.id/>
     [^idklhk]: **Perpres 139/2024** split the former single KLHK into two ministries: **KLHK** (Kementerian Lingkungan Hidup dan Kehutanan — Forestry) retains REDD+ and forest carbon at <https://www.kehutanan.go.id/>; **KLH** (Kementerian Lingkungan Hidup — Environment & Climate) handles A6.2 carbon market coordination at <https://www.kemenlh.go.id/>. Note: old menlhk.go.id now redirects to a restructuring notice.
 
@@ -83,9 +83,9 @@
     | KLH (Ministry of Environment — post Perpres 139/2024) | Carbon market, A6.2, climate policy | <https://www.kemenlh.go.id/> |
     | Bappenas (National Planning Agency) | NDC coordination, climate finance | <https://www.bappenas.go.id/> |
     | IDXCarbon | Carbon exchange (as of May 2026: **1.9M+ tCO₂e** traded; 93.7B IDR; 10 projects; 155 participants) | <https://idxcarbon.co.id/> |
-    | SRUK registry | **~90% developed; target launch June/early-July 2026** (pilot-ready; carbon unit registry under Perpres 110/2025; interoperable with international registries)[^idsruk] | Contact via KLHK/KemenLH |
+    | SRUK registry | ✅ **Officially launched July 9, 2026** (Jakarta; inaugurated by the Forestry Minister, Environment Minister, and OJK chair); first trading permits issued to **4 Forest Utilization Business Permit (PBPH) holders** starting July 6, 2026 (carbon unit registry under Perpres 110/2025; interoperable with international registries)[^idsruk] | Contact via KLHK/KemenLH |
 
-    [^idsruk]: **SRUK = Sistem Registri Unit Karbon** (Carbon Unit Registry System) under Perpres 110/2025 — **~90% developed and pilot-ready as of mid-2026; target launch June/early-July 2026**. Must provide transparent, real-time, traceable records of issuance/transfer/retirement and be **interoperable with international registries**; A6.2/6.4 transfers require Minister of Environment authorization + Corresponding Adjustment. **Ministerial Regulation 6/2026** (forestry carbon, April 13, 2026) adds governance rules: KLHK <https://www.kehutanan.go.id/>; <https://ecobiz.asia/sruk-development-hits-90-indonesia-prepares-interoperable-carbon-registry-with-global-linkages/>; SSEK <https://ssek.com/blog/indonesia-introduces-new-carbon-trading-framework-under-presidential-regulation-no-110-of-2025/>
+    [^idsruk]: **SRUK = Sistem Registri Unit Karbon** (Carbon Unit Registry System) under Perpres 110/2025 — **officially launched July 9, 2026**, with first trading permits issued to 4 PBPH holders from July 6, 2026. Must provide transparent, real-time, traceable records of issuance/transfer/retirement and be **interoperable with international registries**; A6.2/6.4 transfers require Minister of Environment authorization + Corresponding Adjustment. **Ministerial Regulation 6/2026** (forestry carbon, April 13, 2026) adds governance rules: ANTARA News <https://en.antaranews.com/news/422063/indonesia-launches-carbon-registry-to-accelerate-carbon-trading>; KLHK <https://www.kehutanan.go.id/>; SSEK <https://ssek.com/blog/indonesia-introduces-new-carbon-trading-framework-under-presidential-regulation-no-110-of-2025/>
 
     ## Key Sources
     - Indonesia Enhanced NDC 2022: <https://unfccc.int/NDCREG>
@@ -97,7 +97,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    インドネシアはArticle 6.2において**最も複雑な売国候補**。膨大な森林資産（REDD+）と再エネポテンシャルを持つが、国内NDC達成優先の政策姿勢から輸出に慎重だった。**Perpres 110/2025（2025年10月）**により国際VCM輸出モラトリアムが解除され、JCMのA6.2化が現実的になった。
+    インドネシアはArticle 6.2において**最も複雑な売国候補**。膨大な森林資産（REDD+）と再エネポテンシャルを持つが、国内NDC達成優先の政策姿勢から輸出に慎重だった。**Perpres 110/2025（2025年10月）**により国際VCM輸出モラトリアムが解除され、JCMのA6.2化が現実的になった。インドネシアとシンガポールは**2026年7月6日にカーボンクレジット協力MOUに署名**（正式IAではなく前段階）。国家炭素登録簿**SRUKは2026年7月9日に正式稼働開始**。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -106,7 +106,7 @@
     | 国内炭素価格制度 | IDXCarbon（2023年〜）、PTBAE-PU（ETS試行中） |
     | 主管省庁 | **KLHK**（林業環境省）＋**KLH**（環境省・気候担当）[^idklhk]、Bappenas |
     | JCM状況 | 日本（2013年）✅ 50件以上；**承認方法論29件**（JCM締結国中最多）[^idjcm] |
-    | IA状況 | シンガポール 🔄 交渉中 |
+    | シンガポール | 📋 **MOU署名 2026年7月6日**（ジャカルタ首脳リトリート）；IA交渉は今後 |
 
     ## NDC達成見込み・グローバルストックテイク
 
@@ -148,6 +148,7 @@
     | KLHK（環境林業省） | 炭素市場・REDD+・A6.2 | <https://www.menlhk.go.id/> |
     | Bappenas | NDC調整・気候ファイナンス | <https://www.bappenas.go.id/> |
     | IDXCarbon | 炭素取引所 | <https://idxcarbon.co.id/> |
+    | SRUK登録簿 | ✅ **2026年7月9日正式稼働開始**（ジャカルタ；林業相・環境相・OJK議長が開所式）。7月6日より森林利用事業許可（PBPH）保有者4者に初の取引許可を発行 | KLHK/KemenLH経由 |
 
     ## 関連ページ
     - [日本-インドネシア協定](../agreements/japan-indonesia.md)

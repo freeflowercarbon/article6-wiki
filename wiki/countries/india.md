@@ -4,13 +4,13 @@
 
     ## Overview
 
-    India occupies an unusual dual position in the Article 6 landscape: it is building **one of the world's largest mandatory compliance carbon markets** (the Carbon Credit Trading Scheme, CCTS) while simultaneously becoming an Article 6.2 **host** through a Japan JCM Memorandum of Cooperation (Aug 29, 2025) and a Korea A6.2 bilateral (Apr 24, 2026). India has historically been **cautious about authorizing credit exports**, prioritizing its own NDC — so its "host" potential is real but gated.[^inndc]
+    India occupies an unusual dual position in the Article 6 landscape: it is building **one of the world's largest mandatory compliance carbon markets** (the Carbon Credit Trading Scheme, CCTS) while simultaneously becoming an Article 6.2 **host** through a Japan JCM Memorandum of Cooperation (Aug 29, 2025) and a Korea A6.2 bilateral (Apr 24, 2026). India has historically been **cautious about authorizing credit exports**, prioritizing its own NDC — so its "host" potential is real but gated.[^inndc] India and Japan adopted **JCM Rules of Implementation on June 8, 2026**, operationalizing the 2025 MoC — establishing the Joint Committee, project approval/registration procedures, validation/verification requirements, and national registry provisions for India-Japan JCM projects.[^injcmroi]
 
     | Item | Detail |
     |------|--------|
     | NDC Target | 45% emissions-intensity reduction vs. 2005 by 2030; 50% non-fossil electric capacity; net-zero 2070[^inndc] |
     | Carbon System | **CCTS (Carbon Credit Trading Scheme)** — mandatory ETS; compliance obligations in force FY2025–26[^inccts] |
-    | JCM (Japan) | ✅ MoC signed **Aug 29, 2025** — JCM's 30th partner[^injcm] |
+    | JCM (Japan) | ✅ MoC signed **Aug 29, 2025**; **Rules of Implementation adopted Jun 8, 2026** — JCM's 30th partner[^injcm][^injcmroi] |
     | Korea | 🤝 **A6.2 bilateral signed Apr 24, 2026** (cross-border carbon market)[^inkr] |
     | Export stance | ⚠️ Cautious — India restricted carbon-credit exports (2022–23) to protect NDC; A6.2 authorizations selective[^inexport] |
     | Key Ministry | Ministry of Environment, Forest & Climate Change (MoEFCC); Bureau of Energy Efficiency (BEE); Ministry of Power |
@@ -18,6 +18,7 @@
     [^inndc]: India NDC (2022 update): UNFCCC NDC Registry <https://unfccc.int/NDCREG>; 45% emissions intensity cut vs. 2005 by 2030; net-zero 2070
     [^inccts]: India Carbon Credit Trading Scheme (CCTS) — gazetted June 28, 2023 under the Energy Conservation (Amendment) Act 2022; mandatory compliance market: ICAP <https://icapcarbonaction.com/en/ets/indian-carbon-credit-trading-scheme>
     [^injcm]: India-Japan JCM MoC signed August 29, 2025 — India is JCM's 30th partner country: GEC <https://gec.jp/jcm/>; Carbon Pulse
+    [^injcmroi]: India-Japan JCM Rules of Implementation adopted June 8, 2026, operationalizing the 2025 MoC: Akashvani/All India Radio (govt) <https://newsonair.gov.in/india-japan-adopt-rules-of-implementation-for-joint-crediting-mechanism-under-paris-agreement/>; ETV Bharat <https://www.etvbharat.com/en/bharat/india-and-japan-adopt-rules-of-implementation-for-joint-crediting-mechanism-under-article-6-dot-2-of-paris-agreement-enn26061604123>
     [^inkr]: India-Korea Article 6.2 bilateral agreement signed April 24, 2026 during the Korean presidential visit: Carbon Pulse <https://carbon-pulse.com/504576/>
     [^inexport]: India amended the Energy Conservation Act and signaled restrictions on carbon-credit exports (2022–2023) to prioritize domestic NDC achievement; A6.2 authorizations expected to be selective: secondary sources (Carbon Pulse, S&P Global)
 
@@ -44,7 +45,7 @@
 
     | Partner | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
-    | Japan 🇯🇵 | JCM | ✅ MoC Aug 29, 2025 | India = JCM's 30th partner; project pipeline forming |
+    | Japan 🇯🇵 | JCM | ✅ MoC Aug 29, 2025; **Rules of Implementation Jun 8, 2026** | India = JCM's 30th partner; Joint Committee + project approval procedures now established |
     | Korea 🇰🇷 | A6.2 bilateral | 🤝 Apr 24, 2026 | Cross-border carbon market cooperation framework |
     | Others | — | ⚪ | India cautious on broad export authorization |
 
@@ -58,14 +59,14 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    インドはArticle 6で特異な二重の立場にある。**世界最大級の義務的コンプライアンス炭素市場（CCTS：炭素クレジット取引スキーム）**を構築中で、同時に日本JCM（MoC 2025年8月29日）・韓国A6.2二国間（2026年4月24日）を通じてA6.2**ホスト国**にもなりつつある。ただしインドは歴史的に自国NDCを優先し**クレジット輸出の授権に慎重**で、ホスト国ポテンシャルは大きいがゲートがかかっている。[^inndc]
+    インドはArticle 6で特異な二重の立場にある。**世界最大級の義務的コンプライアンス炭素市場（CCTS：炭素クレジット取引スキーム）**を構築中で、同時に日本JCM（MoC 2025年8月29日）・韓国A6.2二国間（2026年4月24日）を通じてA6.2**ホスト国**にもなりつつある。ただしインドは歴史的に自国NDCを優先し**クレジット輸出の授権に慎重**で、ホスト国ポテンシャルは大きいがゲートがかかっている。[^inndc] 2026年6月8日、日印はJCM**実施規則（Rules of Implementation）を採択**し、2025年MoCを運用化——合同委員会・案件承認登録手続・検証要件・国内登録簿規定を整備。[^injcmroi]
 
     ## 基本情報
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年に2005年比で排出原単位45%削減、非化石電源50%、ネットゼロ2070年[^inndc] |
     | 国内炭素制度 | **CCTS（炭素クレジット取引スキーム）** — 義務的ETS；FY2025–26にコンプライアンス義務発効[^inccts] |
-    | JCM状況 | ✅ MoC **2025年8月29日**署名 — JCM第30番目の締結国[^injcm] |
+    | JCM状況 | ✅ MoC **2025年8月29日**署名；**実施規則2026年6月8日採択** — JCM第30番目の締結国[^injcm][^injcmroi] |
     | 韓国 | 🤝 **A6.2二国間 2026年4月24日署名**[^inkr] |
     | 輸出姿勢 | ⚠️ 慎重 — NDC優先のため炭素クレジット輸出を制限（2022–23）；A6.2授権は選択的[^inexport] |
     | 主管省庁 | 環境森林気候変動省（MoEFCC）、エネルギー効率局（BEE）、電力省 |

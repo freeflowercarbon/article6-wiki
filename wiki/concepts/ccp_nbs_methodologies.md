@@ -48,6 +48,9 @@
     !!! info "VM0051 (Verra AWD)"
         Verra's VM0051 AWD methodology is **under ICVCM assessment** as of 2026. CCP approval expected but not yet confirmed. JCM PH_AM004 (Philippines, Feb 2025) is a JCM-specific methodology and is not subject to the ICVCM CCP process.
 
+    !!! warning "Gold Standard Paris-Agreement-alignment deadline (Jun 30, 2026)"
+        Gold Standard now requires methodologies **submitted for review after June 30, 2026** to use a Paris-Agreement-aligned (PA-aligned) methodology version; non-PA-aligned versions are being retired, and PA-aligned methodologies are required for all vintage-2026 issuances. Relevant to any Gold Standard-certified NBS/agriculture project targeting A6.2 authorization going forward.（要確認 — 二次情報源、GS公式文書での直接確認は未実施）
+
     ### ✅ Blue Carbon / Mangrove Restoration
 
     | Methodology | Standard | CCP Approval | Activity Type | Key Condition |

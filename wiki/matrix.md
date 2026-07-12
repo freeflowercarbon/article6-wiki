@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-06-21** | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (**11th** IA — Cambodia is MOU only) | **COP30: CDM to close end-2026; no formal Article 6 negotiations until 2028** | India CCTS compliance live FY2025–26 (~490 entities) | Kenya National Carbon Registry live Feb 2026 + ~10M ITMO trading cap 2026–2030 | Singapore-Verra-GS A6.2 Crediting Protocol final Nov 2025 | Vietnam Decree 112/2026 (transfer caps 90%/50%) | CORSIA Phase 1 EEUs now require Article 6 LoA
+    > Last updated: **2026-07-13** | Indonesia-Singapore carbon-credit MOU signed Jul 6, 2026 (precursor to IA) + Indonesia's **SRUK registry officially launched Jul 9, 2026** | Brazil opened public consultation Jul 7, 2026 on a draft ITMO transfer cap (**≤50 Mt of a 100 Mt domestic target, 2031–35**) | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (**11th** IA — Cambodia is MOU only) | **COP30: CDM to close end-2026; no formal Article 6 negotiations until 2028** | India CCTS compliance live FY2025–26 (~490 entities); India-Japan JCM Rules of Implementation adopted Jun 8, 2026 | Kenya National Carbon Registry live Feb 2026 + ~10M ITMO trading cap 2026–2030 | Singapore-Verra-GS A6.2 Crediting Protocol final Nov 2025 | Vietnam Decree 112/2026 (transfer caps 90%/50%) | CORSIA Phase 1 EEUs now require Article 6 LoA | A6.4 Supervisory Body 22nd meeting scheduled Jul 27–30, 2026, Bonn
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -51,7 +51,7 @@
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Indonesia 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 IA negotiating | — | — | — | 🔴 MOU(2024) |
+    | [Indonesia 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 **MOU(Jul 6, 2026)** | — | — | — | 🔴 MOU(2024) |
     | [Vietnam 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
     | [Philippines 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
     | [Thailand 🇹🇭](countries/thailand.md) | 🟢 JCM(2015) **ITMO Nov 2025** | 🟡 **IA(2025)** | 🟢 **ITMO Dec 2023 + Apr 2026** | — | — | — |
@@ -219,7 +219,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-06-21 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（**第11号**IA — カンボジアはMOUのみ） | **COP30：CDMは2026年末閉鎖；Article 6正式交渉は2028年まで予定なし** | インドCCTSコンプライアンス発効 FY2025–26（約490事業者） | ケニア国家炭素登録簿(KNCR)稼働 2026年2月＋ITMO取引上限約1,000万t | シンガポール×Verra×GS A6.2クレジティング・プロトコル最終版 2025年11月 | ベトナムDecree 112/2026（移転上限90%/50%） | CORSIAフェーズ1 EEUにArticle 6 LoA必須
+    > 最終更新: 2026-07-13 | インドネシア・シンガポール炭素クレジットMOU署名 2026年7月6日（IA前段階）＋インドネシア**SRUK登録簿が2026年7月9日正式稼働** | ブラジルが2026年7月7日にITMO移転上限案（2031–35年国内目標100Mtのうち**上限50Mt**）の意見公募を開始 | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（**第11号**IA — カンボジアはMOUのみ） | **COP30：CDMは2026年末閉鎖；Article 6正式交渉は2028年まで予定なし** | インドCCTSコンプライアンス発効 FY2025–26（約490事業者）；日印JCM実施規則 2026年6月8日採択 | ケニア国家炭素登録簿(KNCR)稼働 2026年2月＋ITMO取引上限約1,000万t | シンガポール×Verra×GS A6.2クレジティング・プロトコル最終版 2025年11月 | ベトナムDecree 112/2026（移転上限90%/50%） | CORSIAフェーズ1 EEUにArticle 6 LoA必須 | A6.4監督機関第22回会合 2026年7月27〜30日ボン開催予定
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -251,7 +251,7 @@
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [インドネシア 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 IA交渉中 | — | — | — | 🔴 MOU(2024) |
+    | [インドネシア 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 **MOU(2026年7月6日)** | — | — | — | 🔴 MOU(2024) |
     | [ベトナム 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
     | [フィリピン 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
     | [タイ 🇹🇭](countries/thailand.md) | 🟢 JCM(2015) **ITMO 2025年11月** | 🟡 **IA(2025)** | 🟢 **ITMO 2023年12月 + 2026年4月** | — | — | — |
