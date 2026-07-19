@@ -8,6 +8,10 @@
 
     [^corsia6]: CORSIA EEU eligibility requires (1) ICAO-approved programme, (2) approved project type/vintage/methodology, and (3) an Article 6 LoA confirming a corresponding adjustment. Phase 1 (2024–2026): Guyana ART102 jurisdictional REDD+ authorized 15.84M EEUs (Feb 2024), sold ~US$21.70/t — still effectively the sole supply. In Oct 2024 ICAO approved 4 more programmes (Gold Standard, Verra, Climate Action Reserve, Global Carbon Council) joining ACR and ART: ICAO <https://www.icao.int/CORSIA/corsia-eligible-emissions-units>; IATA <https://www.iata.org/en/pressroom/2025-releases/2025-01-22-01/>
 
+    > 🆕 **EU regulatory update (Jul 2026)**: The European Commission is proposing to **drop the additional, stricter quality criteria** it had planned for CORSIA Phase 1 (2024–2026) eligible units — criteria that would have excluded HFLD/REDD+ and cookstove-type credits — while **keeping the stricter criteria for Phase 2 (2027–2035)**. Disclosed via a revised draft implementing regulation at a Climate Change Committee meeting (Jun 15, 2026); reported as "a constructive gesture of goodwill" to secure a positive autumn 2026 vote on the draft act. Given the already-tight Phase 1 supply (effectively just Guyana ART TREES), this would broaden eligible supply for airlines' near-term compliance. No direct European Commission primary-source document located — sourced from reputable trade press.[^corsiaeu]
+
+    [^corsiaeu]: EU Climate Change Committee meeting (Jun 15, 2026) revised draft implementing regulation dropping additional CORSIA Phase 1 quality criteria: Carbon Herald (Jul 16, 2026) <https://carbonherald.com/eu-drops-stricter-carbon-credit-rules-for-corsia-phase-1-but-maintains-tougher-standards-for-phase-2/>; Fastmarkets <https://www.fastmarkets.com/insights/eu-proposes-removing-additional-corsia-credit-quality-criteria-for-phase-1/>; Argus Media <https://www.argusmedia.com/en/news-and-insights/latest-market-news/2817156-eu-eyes-rules-excluding-existing-corsia-phase-1-supply>（secondary source — no primary EC document found）
+
     ## Key Parameters
 
     | Item | Detail |
@@ -97,6 +101,8 @@
     | A6.4 PACMユニット受入 | 🔄 ICAO-UNFCCC協議中 |
 
     > **重要更新（2026年）**: CORSIAのEEU（2021年以降ヴィンテージ）は、二重計上回避のため**Article 6のLoA（授権書）＋Corresponding Adjustment**が必須となった。つまりCORSIAは「ITMO」という名称では取引しないが、実質的に**Article 6の需要チャネル**（授権・CA付きクレジットを消費）として機能する。フェーズ1供給は逼迫し、ガイアナの管轄型REDD+（ART TREES）が事実上唯一の供給源。
+
+    > 🆕 **EU規制動向（2026年7月）**: 欧州委員会は、CORSIAフェーズ1（2024–2026年）適格ユニットに予定していた**追加の厳格な品質基準（HFLD/REDD+・クックストーブ型クレジットを除外する内容）の撤回**を提案。**フェーズ2（2027–2035年）向けの厳格基準は維持**。2026年6月15日の気候変動委員会会合で改訂草案規則として開示、2026年7月16日に報道（"善意の歩み寄り"として、秋の正式採決での可決を狙うもの）。フェーズ1供給が逼迫している中（実質ガイアナART TREESのみ）、航空会社の短期コンプライアンス向け供給が広がる可能性。欧州委員会の一次資料は未確認、大手業界誌の報道に基づく（要確認）。[^corsiaeu]
 
     ## Article 6.2との関係上の重大問題
 

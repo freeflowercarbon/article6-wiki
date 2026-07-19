@@ -48,6 +48,7 @@
     | Senegal 🇸🇳 | Bilateral Agreement | 2025 | ✅ Active | NOGER portfolio |
     | Pakistan 🇵🇰 | MoU | Apr 1, 2026 | ✅ **Signed** | Article 6.2 cooperation[^nopak] |
     | Morocco 🇲🇦 | Bilateral Agreement | May 5, 2026 | ✅ **Signed** | NOGER portfolio[^nomorocco] |
+    | Kenya 🇰🇪 | Statement of Intent | Jun 9, 2026 | 📋 **Signed** (pre-agreement stage) | Not yet a bilateral A6.2 agreement or IA — lays groundwork for future ITMO cooperation[^nokenya] |
 
     > ⚠️ **NOGER exclusion**: Norway's NOGER framework **excludes direct forestry ITMO purchase** (NBS excluded from eligible credit types, similar to Switzerland's CO2 Act constraint). Host countries with primarily NBS/REDD+ pipelines may need to target other buyers.
 
@@ -69,6 +70,7 @@
     [^nojordan]: Norway-Jordan bilateral agreement signed March 3, 2026: GGGI press release / Norwegian government
     [^nopak]: Norway-Pakistan MoU on Article 6.2 cooperation signed April 1, 2026: Norwegian government
     [^nomorocco]: Norway-Morocco bilateral agreement signed May 5, 2026: GGGI / Norwegian government
+    [^nokenya]: Norway-Kenya Statement of Intent on Article 6 of the Paris Agreement, signed June 9, 2026 — groundwork for a future bilateral A6.2/ITMO agreement, not itself an agreement or authorization: Norwegian government <https://www.regjeringen.no/en/whats-new/norway-and-kenya-sign-a-statement-of-intent-on-the-paris-agreements-article-6/id3164865/>; TechReview Africa <https://techreviewafrica.com/news/5893/kenya-and-norway-sign-statement-of-intent-to-advance-carbon-market-agreement-under-paris-framework>（要確認 — 一次資料本文未取得、タイトル・二次資料で日付確認）
     [^noaaa6]: Article 6 Ambition Alliance (AAA6) launched COP30, November 21, 2025: <https://www.carbon-markets.gov.sg/article6-ambition-alliance>
 
     [^nocdrhost]: Norway-Switzerland CDR ITMO transfer June 17, 2025 — world's first A6.2 transfer in the CDR category: Carbon Pulse <https://carbon-pulse.com/>; FOEN Switzerland <https://www.bafu.admin.ch/>
@@ -145,6 +147,7 @@
     | ヨルダン 🇯🇴 | 2026年3月3日 | ✅ **署名済み** [^nojordan] |
     | パキスタン 🇵🇰 | 2026年4月1日（MoU） | ✅ **署名済み** [^nopak] |
     | モロッコ 🇲🇦 | 2026年5月5日 | ✅ **署名済み** [^nomorocco] |
+    | ケニア 🇰🇪 | 2026年6月9日（意図表明書） | 📋 **署名済み**（協定前段階、正式な二国間A6.2協定・IAではない）[^nokenya] |
 
     > ⚠️ **NOGER除外事項**: 直接的な林業ITMOの購入は対象外（NBS除外、スイスCO2法の制約と類似）。
 

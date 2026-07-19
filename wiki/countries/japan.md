@@ -77,6 +77,8 @@
     > JCM project database: <https://gec.jp/jcm/projects/>
     > MOEJ JCM Portal: <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
 
+    > 🆕 **JCM Facility Introduction Subsidy — new selections (Jul 14, 2026)**: MOE selected new projects for its JCM Facility Introduction Subsidy program: a biomass project in Cambodia (10th round) and an onshore wind project in Tunisia (11th round). This is a subsidy/facility-selection step (pre-authorization), not an ITMO transfer or authorization.[^jpjcmsub]
+
     ## CCP-Eligible Projects in JCM Portfolio
 
     ICVCM CCP certification applies to voluntary market credits. JCM credits are government-issued and not CCP-certified per se, but quality standards overlap:
@@ -189,6 +191,7 @@
     [^jcmpipeline]: JCM pipeline 298+ active projects; longer-horizon ambition up to 200 Mt CO₂ by 2040: Offset8 Capital JCM guide <https://offset8capital.com/articles/japan-carbon-credit-market-gx-ets-guide/>; JCMA
     [^jpvcmbar]: Japan reportedly mulling barring international voluntary (non-Article 6) carbon credits from GX-ETS compliance ahead of/around the mandatory launch — bullish for domestic J-Credits and authorized JCM A6.2 ITMOs: S&P Global <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/070725-japan-mulls-barring-international-vcm-credits-before-gx-ets-launch-move-to-be-bullish-for-domestic-credits>
     [^jpitmo]: Japan's first JCM ITMO transfers: (1) Thailand TH014 (5MW floating solar), 1,009 tCO₂e vintage 2021, transfer completed Nov 11, 2025 — first-ever JCM ITMO transfer: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; (2) Maldives MV002 (Addu City smart mini-grid), 433 tCO₂e vintage 2021–22, transfer completed Dec 17, 2025: JCM <https://www.jcm.go.jp/jc/information/20251217/>
+    [^jpjcmsub]: MOE JCM Facility Introduction Subsidy — 10th round selection: biomass project, Cambodia; 11th round: onshore wind project, Tunisia. Announced Jul 14, 2026: Ministry of Environment <https://www.env.go.jp/en/press/press_02376.html>
 
     ## GX-ETS Design Parameters (FY2026)
 
@@ -298,6 +301,8 @@
     | ラオス | エネルギー・腸内メタン | 6件 | ✅ 初認証済み |
 
     > JCMプロジェクトDB: <https://gec.jp/jcm/projects/>
+
+    > 🆕 **JCM設備補助金 — 新規採択（2026年7月14日）**: 環境省がJCM設備補助金事業の新規案件を採択。第10回：カンボジアのバイオマス案件、第11回：チュニジアの陸上風力案件。補助金・設備採択段階であり、ITMO移転・授権ではない。[^jpjcmsub]
 
     ## JCM 森林NBS — 方法論分野別ステップ
 

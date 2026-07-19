@@ -16,6 +16,7 @@
     | Sweden | 🟡 Bilateral / MoU active[^keswe] |
     | Singapore IA | 📋 MOU signed; IA negotiating[^kesg] |
     | South Korea | 📋 Negotiating[^kecap] |
+    | Norway | 📋 Statement of Intent signed **Jun 9, 2026** (pre-agreement stage, not yet a bilateral A6.2 agreement)[^kenor] |
     | CA Framework | 🟡 In development (policy framework established 2023)[^kecmp] |
     | NBS Maturity | ⭐⭐⭐ |
 
@@ -27,6 +28,7 @@
     [^kejcm]: JCM Kenya: GEC <https://gec.jp/jcm/projects/>; signed 2013
     [^keswe]: Sweden-Kenya bilateral agreement: Energimyndigheten <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
     [^kesg]: Singapore-Kenya MOU on Article 6.2 cooperation: Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
+    [^kenor]: Norway-Kenya Statement of Intent on Article 6 of the Paris Agreement, signed June 9, 2026: Norwegian government <https://www.regjeringen.no/en/whats-new/norway-and-kenya-sign-a-statement-of-intent-on-the-paris-agreements-article-6/id3164865/>; TechReview Africa <https://techreviewafrica.com/news/5893/kenya-and-norway-sign-statement-of-intent-to-advance-carbon-market-agreement-under-paris-framework>（要確認 — 一次資料本文未取得）
 
     ## NDC Achievement Status
 
@@ -98,6 +100,7 @@
     | スウェーデン | 🟡 二国間／MoU稼働中 |
     | シンガポールIA | 📋 MOU署名；IA交渉中 |
     | 韓国 | 📋 交渉中 |
+    | ノルウェー | 📋 意図表明書署名 **2026年6月9日**（協定前段階、正式な二国間A6.2協定ではない）[^kenor] |
     | CA体制 | 🟡 整備中（政策枠組み確定） |
     | NBS成熟度 | ⭐⭐⭐ |
 

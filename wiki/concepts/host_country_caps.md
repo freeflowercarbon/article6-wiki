@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-07-13** — An emerging structural theme for Article 6.2 investors: host countries are increasingly **capping, gating, or taxing** the ITMOs they will authorize for export, to protect their own NDC achievement. "Authorized" volume ≠ "available for export" volume.
+    > Last updated: **2026-07-19** — An emerging structural theme for Article 6.2 investors: host countries are increasingly **capping, gating, or taxing** the ITMOs they will authorize for export, to protect their own NDC achievement. "Authorized" volume ≠ "available for export" volume.
 
     ## Why this matters
 
@@ -27,7 +27,7 @@
     | Thailand 🇹🇭 | 10% SoP retention | ✅ NDC Action Plan Dec 2024 | Premium T-VER aligns to A6[^tcap] |
     | Indonesia 🇮🇩 | Minister authorization + CA; SRUK gating | ✅ SRUK officially launched Jul 9, 2026 | Perpres 110/2025[^icap] |
     | Peru 🇵🇪 | RENAMI registration + authorization | 🟡 RENAMI live Feb 2026 | First authorization Mar 2026 (Tuki Wasi)[^pcap] |
-    | Brazil 🇧🇷 | Quantitative cap: up to 50 MtCO₂e of a 100 MtCO₂e domestic target (2031–35) | 🆕 Draft resolution; public consultation Jul 7–Aug 6, 2026 | CIM (Interministerial Committee on Climate Change)[^bcap] |
+    | Brazil 🇧🇷 | Quantitative cap: up to 50 MtCO₂e of a 100 MtCO₂e domestic target (2031–35) | 🆕 Draft resolution; public consultation Jul 7–Aug 6, 2026; carbon industry reaction (welcomed cap concept, criticized timeline/volume limits) reported Jul 17, 2026 (secondary/paywalled)[^bcapreax] | CIM (Interministerial Committee on Climate Change)[^bcap] |
 
     ## Investor implications
 
@@ -42,10 +42,11 @@
     [^icap]: Indonesia Perpres 110/2025 — Minister authorization + CA; SRUK registry: SSEK <https://ssek.com/blog/indonesia-introduces-new-carbon-trading-framework-under-presidential-regulation-no-110-of-2025/>
     [^pcap]: Peru RENAMI registry (Feb 2026) + Tuki Wasi authorization (Mar 20, 2026): KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>
     [^bcap]: Brazil CIM draft resolution on ITMO operationalization — public consultation opened July 7, 2026, closes August 6, 2026; caps international transfers at up to 50 MtCO₂e against a 100 MtCO₂e domestic reduction target (2031–35), via Future Transfer Agreements + Public Calls modalities: Mayer Brown legal alert <https://www.mayerbrown.com/en/insights/publications/2026/07/article-62-of-the-paris-agreement-public-consultation-opened-on-the-operationalization-of-itmos>（要確認 — 一次資料未確認、法律事務所解説を情報源とする）
+    [^bcapreax]: Carbon industry reaction to Brazil's draft ITMO framework — welcomed the cap concept but criticized the proposed timeline and volume limits: Carbon Pulse (Jul 17, 2026), headline/title only (paywalled, secondary source)（要確認）
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-07-13** — A6.2投資家にとって重要性が増す構造的テーマ：ホスト国は自国NDC達成を守るため、輸出向けに授権するITMOを**上限設定・ゲート化・課税**する動きを強めている。「授権された量」≠「輸出可能な量」。
+    > 最終更新: **2026-07-19** — A6.2投資家にとって重要性が増す構造的テーマ：ホスト国は自国NDC達成を守るため、輸出向けに授権するITMOを**上限設定・ゲート化・課税**する動きを強めている。「授権された量」≠「輸出可能な量」。
 
     ## なぜ重要か
 
@@ -70,7 +71,7 @@
     | タイ 🇹🇭 | 10%保留 | ✅ NDCアクションプラン2024年12月 | Premium T-VERがA6対応[^tcap] |
     | インドネシア 🇮🇩 | 大臣授権＋CA；SRUKゲート | ✅ SRUK正式稼働開始2026年7月9日 | Perpres 110/2025[^icap] |
     | ペルー 🇵🇪 | RENAMI登録＋授権 | 🟡 RENAMI稼働2026年2月 | 初授権2026年3月（Tuki Wasi）[^pcap] |
-    | ブラジル 🇧🇷 | 数量上限：国内目標100Mt tCO₂eのうち最大50Mt tCO₂e（2031–35年） | 🆕 決議案；意見公募2026年7月7日〜8月6日 | CIM（気候変動省庁間委員会）[^bcap] |
+    | ブラジル 🇧🇷 | 数量上限：国内目標100Mt tCO₂eのうち最大50Mt tCO₂e（2031–35年） | 🆕 決議案；意見公募2026年7月7日〜8月6日；炭素業界の反応（上限の概念自体は歓迎、タイムライン・数量制限には批判）が2026年7月17日に報道（二次情報源・要確認）[^bcapreax] | CIM（気候変動省庁間委員会）[^bcap] |
 
     ## 投資家への含意
 
