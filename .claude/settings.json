@@ -1,10 +1,14 @@
 {
   "permissions": {
+    "defaultMode": "acceptEdits",
     "allow": [
       "Bash(*)",
+      "PowerShell(*)",
       "WebFetch",
       "WebSearch",
-      "Write(C:/Users/freef/OneDrive/デスクトップ/claude/article6-wiki/outputs/*)"
+      "Write(C:/Users/freef/OneDrive/デスクトップ/claude/article6-wiki/outputs/*)",
+      "Write(C:/Users/freef/OneDrive/デスクトップ/claude/article6-wiki/**)",
+      "Edit(C:/Users/freef/OneDrive/デスクトップ/claude/article6-wiki/**)"
     ]
   }
 }
