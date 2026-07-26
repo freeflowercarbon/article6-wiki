@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-07-19** | Norway-Kenya Statement of Intent on Article 6 signed Jun 9, 2026 (pre-agreement stage, not a bilateral A6.2 deal yet) | EU proposing to drop stricter CORSIA Phase 1 (2024-26) credit-quality criteria while keeping them for Phase 2 (2027-35) — reported Jul 16, 2026 | Japan MOE JCM Facility Subsidy new selections: Cambodia biomass (10th round) + Tunisia onshore wind (11th round), Jul 14, 2026 | Indonesia-Singapore carbon-credit MOU signed Jul 6, 2026 (precursor to IA) + Indonesia's **SRUK registry officially launched Jul 9, 2026** | Brazil ITMO transfer cap consultation (Jul 7-Aug 6, 2026): industry welcomed the cap concept but criticized timeline/volume limits (Jul 17, 2026, secondary source) | **First JCM ITMO transfers: Japan-Thailand Nov 11, 2025 (1,009t) + Japan-Maldives Dec 17, 2025 (433t)** | Philippines Singapore IA signed Apr 30, 2026 (**11th** IA — Cambodia is MOU only) | **COP30: CDM to close end-2026; no formal Article 6 negotiations until 2028** | India CCTS compliance live FY2025–26 (~490 entities); India-Japan JCM Rules of Implementation adopted Jun 8, 2026 | Kenya National Carbon Registry live Feb 2026 + ~10M ITMO trading cap 2026–2030 | Singapore-Verra-GS A6.2 Crediting Protocol final Nov 2025 | Vietnam Decree 112/2026 (transfer caps 90%/50%) | CORSIA Phase 1 EEUs now require Article 6 LoA | A6.4 Supervisory Body 22nd meeting scheduled Jul 27–30, 2026, Bonn (no agenda/documents published yet as of Jul 19)
+    > Last updated: **2026-07-26** | **Japan-Mongolia first JCM ITMO transfer completed Jul 6, 2026 — 86,564 tCO₂e across 4 projects (MN003/004/006/007), Mongolia's first-ever JCM transfer** — see [itmo_tracker.md](itmo_tracker.md) | **PACM/CDM transition: Jun 30, 2026 host-country-approval deadline passed — only 415 of 1,512 CDM activities (27%, ~617M t) secured approval to transition; China blocked 527 projects (~251M t), India approved 0 of 460 (~182M t); new PDD deadline Dec 31, 2026, non-transitioned CDM credits face cancellation Jul 1, 2027** | A6.4 Supervisory Body 22nd meeting underway Bonn Jul 27–30, 2026 (outcomes not yet available as of this crawl) | Singapore joins GGGI Carbon Transaction Facility as 5th contributor + launches own Singapore Article 6 Carbon Facility (S$19.2M total, May 19, 2026) | Indonesia OJK POJK 10/2026 (Jul 6, 2026) mandates SRUK registration for exchange-traded carbon units | Vietnam Decree 180/2026/ND-CP (issued May 21, effective Jul 15, 2026) — domestic forest-carbon legal framework | Philippines DENR AO 2026-30 (signed Jun 29, 2026) — first national Nature-based Solutions policy + catalogue | Malaysia Forest Carbon Offset Programme launched Jun 2026 (Malaysia Forest Fund) | Malawi-Singapore MOU on Article 6 signed Nov 20, 2025 (previously missing from wiki) | Kenya-Switzerland bilateral reported signed May 2, 2025（要確認, primary FOEN confirmation pending） | CORSIA: IATA "Supporting Alliance for EEU Supply" reached 50 members by Jun 23, 2026; 10 countries now supplying EEUs via LoA (Apr 2026) | Peru RENAMI registry recognized 4 additional standards + 7 methodologies, Jul 15, 2026 | Tunisia (+ Rwanda, Malawi, Cambodia, Mongolia, Maldives, Palau, Sri Lanka) flagged for transparency gaps in UN Article 6.2 technical expert review, Jun 2026
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -65,7 +65,7 @@
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
     | [Papua New Guinea 🇵🇬](countries/papua_new_guinea.md) | 🟡 JCM(2014) | 🟡 IA(2023) | — | — | — | — |
-    | [Mongolia 🇲🇳](countries/mongolia.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | — | — | — | — |
+    | [Mongolia 🇲🇳](countries/mongolia.md) | 🟢 JCM(2013) **ITMO Jul 2026** | 🟡 **IA(2025)** | — | — | — | — |
     | [Uzbekistan 🇺🇿](countries/uzbekistan.md) | 🟡 JCM(2016) | — | — | — | — | — |
     | [Kazakhstan 🇰🇿](countries/kazakhstan.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [Georgia 🇬🇪](countries/georgia.md) | 🟡 JCM(2016) | — | 🟡 bilateral(2022) | — | — | — |
@@ -89,14 +89,14 @@
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
     | [Ghana 🇬🇭](countries/ghana.md) | — | 🟡 IA(2023) **RFP1:Kwahu ARR** | 🟢 bilateral(2021) **11,733 ITMO Jul 2025** | 🟡 bilateral | — | — |
     | [Rwanda 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) | — | 🟡 bilateral | — | — |
-    | [Kenya 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | — | 🟡 bilateral | — | — |
+    | [Kenya 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | 🟡 **bilateral(May 2025)（要確認）** | 🟡 bilateral | — | — |
     | [Senegal 🇸🇳](countries/senegal.md) | 🟡 JCM(2015) | — | 🟡 bilateral(2023) | — | 🟡 bilateral | — |
     | [Ethiopia 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
     | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
     | Tanzania 🇹🇿 | 🟡 **JCM(May 2025)** | — | — | — | — | — |
     | [Morocco 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **bilateral(May 2026)** | — |
     | Zambia 🇿🇲 | — | 🔴 MOU | — | 🟡 bilateral | 🟡 **bilateral(COP30 2025)** | — |
-    | [Malawi 🇲🇼](countries/malawi.md) | — | — | 🟡 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
+    | [Malawi 🇲🇼](countries/malawi.md) | — | 🔴 **MOU(Nov 20, 2025)** | 🟡 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
     | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🟡 bilateral(COP30 2025) | — | — | — |
     | Dominica 🇩🇲 | — | — | 🟡 bilateral(2021) | 🟡 bilateral | — | — |
     | Benin 🇧🇯 | — | — | — | — | 🟡 bilateral | — |
@@ -219,7 +219,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-07-19 | ノルウェー・ケニアがArticle 6意図表明書に署名 2026年6月9日（協定前段階、正式なA6.2二国間協定ではない） | EUがCORSIAフェーズ1（2024–26年）の追加品質基準撤回を提案、フェーズ2（2027–35年）は維持 — 2026年7月16日報道 | 日本環境省JCM設備補助金の新規採択：カンボジア・バイオマス（第10回）＋チュニジア・陸上風力（第11回）、2026年7月14日 | インドネシア・シンガポール炭素クレジットMOU署名 2026年7月6日（IA前段階）＋インドネシア**SRUK登録簿が2026年7月9日正式稼働** | ブラジルITMO移転上限案の意見公募（2026年7月7日〜8月6日）：業界は上限の概念自体は歓迎、タイムライン・数量制限には批判（2026年7月17日、二次情報源） | **JCM初のITMO移転：日本-タイ 2025年11月11日（1,009t）＋日本-モルディブ 2025年12月17日（433t）** | フィリピン・シンガポールIA署名 2026年4月30日（**第11号**IA — カンボジアはMOUのみ） | **COP30：CDMは2026年末閉鎖；Article 6正式交渉は2028年まで予定なし** | インドCCTSコンプライアンス発効 FY2025–26（約490事業者）；日印JCM実施規則 2026年6月8日採択 | ケニア国家炭素登録簿(KNCR)稼働 2026年2月＋ITMO取引上限約1,000万t | シンガポール×Verra×GS A6.2クレジティング・プロトコル最終版 2025年11月 | ベトナムDecree 112/2026（移転上限90%/50%） | CORSIAフェーズ1 EEUにArticle 6 LoA必須 | A6.4監督機関第22回会合 2026年7月27〜30日ボン開催予定（7月19日時点で議題・資料は未公開）
+    > 最終更新: **2026-07-26** | **日本-モンゴル初のJCM ITMO移転が完了 2026年7月6日 — 4プロジェクト（MN003/004/006/007）合計86,564 tCO₂e、モンゴル史上初のJCM移転** — [itmo_tracker.md](itmo_tracker.md)参照 | **PACM/CDM移行：2026年6月30日のホスト国承認期限が到来 — CDM1,512件中415件（27%、約6.17億t）のみ移行承認取得；中国は527件（約2.51億t）を承認拒否、インドは460件中0件承認；新PDD提出期限2026年12月31日、未移行CDMクレジットは2027年7月1日に失効** | A6.4監督機関第22回会合がボンで開催中 2026年7月27〜30日（本クロール時点で結果未公表） | シンガポールがGGGI Carbon Transaction Facilityの5番目の拠出国に加入＋自国のSingapore Article 6 Carbon Facilityを立ち上げ（合計S$1,920万、2026年5月19日） | インドネシアOJK規則POJK 10/2026（2026年7月6日）— 取引所炭素ユニットのSRUK登録を義務化 | ベトナムDecree 180/2026/ND-CP（2026年5月21日発出、7月15日施行）— 国内森林炭素の法的枠組み | フィリピンDENR Administrative Order 2026-30（2026年6月29日署名）— 初の国家NBS政策＋カタログ | マレーシア森林炭素オフセット・プログラム（Forest Carbon Offset Programme）2026年6月開始（Malaysia Forest Fund） | マラウィ・シンガポールArticle 6 MOU 2025年11月20日署名（従来Wiki未記載） | ケニア・スイス二国間協定 2025年5月2日署名との報道（要確認、FOEN一次資料での確認待ち） | CORSIA：IATA「EEU供給支援連合」が2026年6月23日までに50メンバーに拡大；10カ国がLoA経由でEEUを供給中（2026年4月時点） | ペルーRENAMI登録簿が新たに4規格・7方法論を承認 2026年7月15日 | チュニジア（およびルワンダ・マラウィ・カンボジア・モンゴル・モルディブ・パラオ・スリランカ）がUN Article 6.2技術専門家レビューで透明性の課題を指摘される 2026年6月
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -265,7 +265,7 @@
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
     | [パプアニューギニア 🇵🇬](countries/papua_new_guinea.md) | 🟡 JCM(2014) | 🟡 IA(2023) | — | — | — | — |
-    | [モンゴル 🇲🇳](countries/mongolia.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | — | — | — | — |
+    | [モンゴル 🇲🇳](countries/mongolia.md) | 🟢 JCM(2013) **ITMO 2026年7月** | 🟡 **IA(2025)** | — | — | — | — |
     | [ウズベキスタン 🇺🇿](countries/uzbekistan.md) | 🟡 JCM(2016) | — | — | — | — | — |
     | [カザフスタン 🇰🇿](countries/kazakhstan.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [ジョージア 🇬🇪](countries/georgia.md) | 🟡 JCM(2016) | — | 🟡 二国間(2022) | — | — | — |
@@ -289,13 +289,13 @@
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
     | [ガーナ 🇬🇭](countries/ghana.md) | — | 🟡 IA(2023) **RFP1:Kwahu ARR** | 🟢 二国間(2021) **11,733 ITMO 2025年7月** | 🟡 二国間 | — | — |
     | [ルワンダ 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) | — | 🟡 二国間 | — | — |
-    | [ケニア 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | — | 🟡 二国間 | — | — |
+    | [ケニア 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | 🟡 **二国間(2025年5月)（要確認）** | 🟡 二国間 | — | — |
     | [セネガル 🇸🇳](countries/senegal.md) | 🟡 JCM(2015) | — | 🟡 二国間(2023) | — | 🟡 二国間 | — |
     | [エチオピア 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
     | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
     | [モロッコ 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **二国間(2026年5月)** | — |
     | ザンビア 🇿🇲 | — | 🔴 MOU | — | 🟡 二国間 | 🟡 **二国間(COP30 2025)** | — |
-    | [マラウィ 🇲🇼](countries/malawi.md) | — | — | 🟡 二国間；**AIR 2025年8月；乳牛バイオガス授権 2026年4月** | — | — | — |
+    | [マラウィ 🇲🇼](countries/malawi.md) | — | 🔴 **MOU(2025年11月20日)** | 🟡 二国間；**AIR 2025年8月；乳牛バイオガス授権 2026年4月** | — | — | — |
     | [ウガンダ 🇺🇬](countries/uganda.md) | — | — | 🟡 二国間(COP30 2025) | — | — | — |
     | ドミニカ 🇩🇲 | — | — | 🟡 二国間(2021) | 🟡 二国間 | — | — |
     | ベナン 🇧🇯 | — | — | — | — | 🟡 二国間 | — |

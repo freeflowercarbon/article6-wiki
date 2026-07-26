@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Japan is an **acquiring country** under Article 6.2, primarily through the **Joint Crediting Mechanism (JCM)** — bilateral carbon credit agreements with 32 countries (as of April 2026). In March 2025, Japan formally recognized JCM as Article 6.2-compatible, and **completed its first JCM ITMO transfers in late 2025: Thailand (Nov 11, 2025 — first-ever JCM ITMO, 1,009t) and Maldives (Dec 17, 2025, 433t)**.[^jpitmo] Japan's NDC target is a **46% reduction from 2013 by 2030** (updated 2025 NDC: **60% by FY2035 vs. FY2013**), supplemented by JCM credits.
+    Japan is an **acquiring country** under Article 6.2, primarily through the **Joint Crediting Mechanism (JCM)** — bilateral carbon credit agreements with 32 countries (as of April 2026). In March 2025, Japan formally recognized JCM as Article 6.2-compatible, and **completed its first JCM ITMO transfers starting late 2025: Thailand (Nov 11, 2025 — first-ever JCM ITMO, 1,009t), Maldives (Dec 17, 2025, 433t), and Mongolia (Jul 6, 2026 — Mongolia's first-ever JCM transfer, 86,564t across 4 projects)**.[^jpitmo] Japan's NDC target is a **46% reduction from 2013 by 2030** (updated 2025 NDC: **60% by FY2035 vs. FY2013**), supplemented by JCM credits.
 
     | Item | Detail |
     |------|--------|
@@ -154,7 +154,7 @@
 
     | Metric | Data |
     |--------|------|
-    | **Completed ITMO transfers (acquired)** | ✅ **2**: Thailand TH014 floating solar (**Nov 11, 2025** — first-ever JCM ITMO, 1,009t) + Maldives MV002 Addu City mini-grid (**Dec 17, 2025**, 433t); both acquired by MOEJ[^jpitmo] |
+    | **Completed ITMO transfers (acquired)** | ✅ **3**: Thailand TH014 floating solar (**Nov 11, 2025** — first-ever JCM ITMO, 1,009t) + Maldives MV002 Addu City mini-grid (**Dec 17, 2025**, 433t) + Mongolia MN003/004/006/007 solar+storage (**Jul 6, 2026** — Mongolia's first JCM transfer, 86,564t); all acquired by MOEJ[^jpitmo] |
     | Cumulative JCM credits issued (March 2026) | **817,247 tCO₂e** [^jcmstat] |
     | Registered projects (March 2026) | **94** [^jcmstat] |
     | Funded projects (registered + pipeline) | 264 [^jcmstat] |
@@ -190,7 +190,7 @@
     [^jcmh1muted]: GX-ETS H1 2026 demand muted due to allocation uncertainty; cap publication deferred to autumn 2026; banking into FY2027 anticipated: Carbon Pulse / IETA Japan Report (May 2026)
     [^jcmpipeline]: JCM pipeline 298+ active projects; longer-horizon ambition up to 200 Mt CO₂ by 2040: Offset8 Capital JCM guide <https://offset8capital.com/articles/japan-carbon-credit-market-gx-ets-guide/>; JCMA
     [^jpvcmbar]: Japan reportedly mulling barring international voluntary (non-Article 6) carbon credits from GX-ETS compliance ahead of/around the mandatory launch — bullish for domestic J-Credits and authorized JCM A6.2 ITMOs: S&P Global <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/070725-japan-mulls-barring-international-vcm-credits-before-gx-ets-launch-move-to-be-bullish-for-domestic-credits>
-    [^jpitmo]: Japan's first JCM ITMO transfers: (1) Thailand TH014 (5MW floating solar), 1,009 tCO₂e vintage 2021, transfer completed Nov 11, 2025 — first-ever JCM ITMO transfer: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; (2) Maldives MV002 (Addu City smart mini-grid), 433 tCO₂e vintage 2021–22, transfer completed Dec 17, 2025: JCM <https://www.jcm.go.jp/jc/information/20251217/>
+    [^jpitmo]: Japan's JCM ITMO transfers: (1) Thailand TH014 (5MW floating solar), 1,009 tCO₂e vintage 2021, transfer completed Nov 11, 2025 — first-ever JCM ITMO transfer: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; (2) Maldives MV002 (Addu City smart mini-grid), 433 tCO₂e vintage 2021–22, transfer completed Dec 17, 2025: JCM <https://www.jcm.go.jp/jc/information/20251217/>; (3) Mongolia MN003/MN004/MN006/MN007 (solar + battery-storage), 86,564 tCO₂e, JC decision Jun 30, 2026, transfer completed Jul 6, 2026 — Mongolia's first-ever JCM ITMO transfer: GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-20260706/>
     [^jpjcmsub]: MOE JCM Facility Introduction Subsidy — 10th round selection: biomass project, Cambodia; 11th round: onshore wind project, Tunisia. Announced Jul 14, 2026: Ministry of Environment <https://www.env.go.jp/en/press/press_02376.html>
 
     ## GX-ETS Design Parameters (FY2026)
@@ -239,7 +239,7 @@
 
     ## サマリー
 
-    日本はArticle 6.2において**調達国（ITMOの取得側）**として位置付けられる。JCM（二国間クレジット制度）を32カ国と締結（2026年4月時点）、2025年3月にJCMをArticle 6.2適合と正式認定。**2025年末にJCM初のITMO移転を実現：タイ（2025年11月11日、TH014浮体式太陽光、1,009t — JCM史上初）およびモルディブ（2025年12月17日、MV002、433t）**[^jpitmo]。NDC目標は**2030年にFY2013比46%削減**（2025年提出NDC更新版：**FY2035に60%削減**）。
+    日本はArticle 6.2において**調達国（ITMOの取得側）**として位置付けられる。JCM（二国間クレジット制度）を32カ国と締結（2026年4月時点）、2025年3月にJCMをArticle 6.2適合と正式認定。**2025年末以降、JCMのITMO移転を実現：タイ（2025年11月11日、TH014浮体式太陽光、1,009t — JCM史上初）、モルディブ（2025年12月17日、MV002、433t）、モンゴル（2026年7月6日、4プロジェクト合計86,564t — モンゴル史上初のJCM移転）**[^jpitmo]。NDC目標は**2030年にFY2013比46%削減**（2025年提出NDC更新版：**FY2035に60%削減**）。
 
     ## 基本情報
     | 項目 | 内容 |

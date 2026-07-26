@@ -17,7 +17,7 @@
     | Established | COP26, Glasgow, November 2021 |
     | Methodological framework adopted | A6.4SB 10th Meeting, October 2024 |
     | Full operationalization | COP29, Baku, November 2024 |
-    | Registry | UNFCCC centralized registry (in development; launch targeted 2026) |
+    | Registry | UNFCCC centralized registry — **"Article 6 Pipeline" platform (joint UNEP CCC/UNFCCC) launched March 2026**; reported "on track for year-end 2026 launch" (secondary source, not independently confirmed)[^pacmregistry] |
     | Unit Name | Article 6.4 Emission Reduction (A6.4ER) |
 
     ## Two Types of A6.4 Units
@@ -74,13 +74,19 @@
     | **Feb 26, 2026** | **HISTORIC: First-ever A6.4ERs issued** — Myanmar efficient cookstoves PoA 10471: **58,428 tCO₂e** issued (project shows ~603,368 t issuable; South Korea acquiring)[^firstpacm] |
     | **Mar 2026** | **2nd issuance approval: PoA 10415** (joining Myanmar PoA 10471) — PACM issuance pipeline widening[^pacm2nd] |
     | **2026** | 6-month deadline extension keeps PACM open to **~1 billion CDM transition credits**; integrity controversy over Myanmar junta links (Carbon Market Watch + Global Forest Coalition call for suspension/investigation)[^pacmcontroversy] |
-    | 2027+ | Scale-up phase; CORSIA eligibility decision expected |
+    | **Jun 30, 2026** | **Host-country approval deadline passed — pipeline sharply narrowed**: only **415 of 1,512 CDM project activities (27%)** secured host-country approval to transition, representing up to **617M tCO₂e** (well below the earlier ~1bn framing). **China blocked 527 projects (~251M t)**; **India approved 0 of 460 projects (~182M t)**. New deadlines: **PDD documentation due Dec 31, 2026** (Brazil leads the backlog with 92 pending); non-transitioned CDM credits face **administrative cancellation Jul 1, 2027**[^pacmjun2026] |
+    | **Jul 10, 2026** | **65% of countries (129 of 198) have appointed Designated National Authorities for PACM**; the joint UNEP Copenhagen Climate Centre / UNFCCC Secretariat **"Article 6 Pipeline" platform launched March 2026**[^pacmregistry] |
+    | **Jul 27–30, 2026** | A6.4 Supervisory Body 22nd meeting, Bonn — underway as of this update; outcomes not yet available[^a64sb22] |
+    | 2027+ | Scale-up phase; CORSIA eligibility decision expected; next A6.4SB meeting (SBM 23) Oct 5–9, 2026 |
 
     [^firstpacm]: First Article 6.4 credits (A6.4ERs) issued February 26, 2026 — Myanmar efficient cookstoves PoA 10471, 58,428 tCO₂e issued (≈603,368 t issuable; 648,783 t reductions for vintage Jan 2021–May 2022); acquiring country: South Korea: UNFCCC A6.4SB registry; S&P Global <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/022626-un-greenlights-first-credits-under-article-64-from-myanmar-cookstove-project>
     [^pacm2nd]: Second PACM issuance approval: PoA 10415 (March 2026), following Myanmar PoA 10471: Fastmarkets <https://www.fastmarkets.com/insights/first-issuances-approved-under-pacm-from-myanmar-cookstove-project-with-loa/>
     [^pacmcontroversy]: PACM granted a 6-month deadline extension keeping the door open to ~1bn CDM transition credits; the Myanmar cookstove project faces an integrity controversy (junta links; remote verification) with Carbon Market Watch and Global Forest Coalition calling for suspension and independent investigation: Fastmarkets <https://www.fastmarkets.com/insights/article-6-4-a-six-month-deadline-extension-keeps-pacms-doors-open-to-roughly-1bn-cdm-credits/>; Carbon Market Watch <https://carbonmarketwatch.org/2026/06/09/>; Global Forest Coalition <https://globalforestcoalition.org/first-un-paris-agreement-high-integrity-carbon-credits-linked-to-myanmar-junta-new-report-finds/>
+    [^pacmjun2026]: Host-country approval deadline (Jun 30, 2026): only 415 of 1,512 CDM project activities (27%, up to 617M tCO₂e) secured approval to transition to PACM; China blocked 527 projects (~251M t), India approved 0 of 460 (~182M t); new PDD documentation deadline Dec 31, 2026 (Brazil leads backlog, 92 pending); non-transitioned CDM credits face administrative cancellation Jul 1, 2027: Fastmarkets <https://www.fastmarkets.com/insights/host-country-approvals-narrow-pacm-pipeline-as-backlog-and-methodology-rollout-weigh-on-supply/> (paywalled beyond summary); corroborated by H2 Bulletin (Jul 10, 2026) citing UNEP Copenhagen Climate Centre "Article 6 Pipeline" data <https://h2bulletin.com/two-thirds-of-countries-now-have-article-6-crediting-authorities-un-data-shows/>
+    [^pacmregistry]: 129 of 198 countries (65%) had appointed Designated National Authorities for PACM as of Jul 10, 2026; joint UNEP Copenhagen Climate Centre/UNFCCC Secretariat "Article 6 Pipeline" platform launched March 2026: H2 Bulletin <https://h2bulletin.com/two-thirds-of-countries-now-have-article-6-crediting-authorities-un-data-shows/>; UNFCCC international registry "on track for year-end 2026 launch" per Carbon Pulse <https://carbon-pulse.com/529597/> (headline-level, paywalled, secondary — not independently confirmed against a primary UNFCCC document as of this crawl)
+    [^a64sb22]: A6.4 Supervisory Body 22nd meeting, Bonn, Jul 27–30, 2026: UN Indico event page <https://indico.un.org/event/1024170/>; outcomes not yet available as of this crawl (Jul 26, 2026)
 
-    ## A6.4SB — Active Methodology Reviews (as of Q1 2026)
+    ## A6.4SB — Active Methodology Reviews (updated Jul 2026)
 
     | Sector | Status | Notes |
     |--------|--------|-------|
@@ -88,8 +94,10 @@
     | Efficient cookstoves | 🟡 Under review | AMS-II.G adaptation |
     | Avoided deforestation (REDD+) | 🔴 Not yet approved | Complex permanence/leakage rules |
     | Carbon removal (reforestation) | 🟡 Under review | New removal activity standards apply |
-    | Landfill gas / waste | 🟡 Under review | AMS-III.G adaptation |
+    | **Landfill gas flaring/utilization** | 🟢 **Approved (Oct 2025)** | First A6.4-native methodology approved[^pacmmethods] |
+    | **N2O abatement (nitric acid production)** | 🟢 **Approved (May 2026)** | Second A6.4-native methodology approved[^pacmmethods] |
 
+    > Only **64 of the 415** approved-transition projects are using Article 6.4-native methodologies as of Jul 2026 — the remaining **351 remain on legacy CDM methodologies** pending further A6.4SB approvals.[^pacmmethods]
     > A6.4SB methodology registry: <https://unfccc.int/sb-a64>
 
     ## Comparison: PACM vs. CDM vs. Article 6.2
@@ -102,16 +110,16 @@
     | CA requirement | No | Yes (Type B only) | Yes |
     | Registry | CDM registry (winding down) | UNFCCC central registry | Host country + bilateral |
     | Speed to registration | 18–36 months | Uncertain (target <18 months) | Faster (bilateral) |
-    | Status (Q2 2026) | Wind-down; new registrations closed | **First credits issued Feb 26, 2026** (Myanmar, 58,428 t) | Active; ITMOs issued |
+    | Status (Jul 2026) | Wind-down; only 415/1,512 activities (27%) approved to transition as of Jun 30, 2026 deadline | **First credits issued Feb 26, 2026** (Myanmar, 58,428 t); 2 native methodologies approved | Active; ITMOs issued |
     | NBS / REDD+ | Widely used (but no CA) | Under methodology review | Used bilaterally (JCM, SG IA) |
 
     ## CDM to PACM Transition
 
-    - CDM projects may apply to transition to PACM by the specified deadline (extended to Dec 2025)
+    - CDM projects may apply to transition to PACM by the specified deadline (extended to Dec 2025 for application; **host-country approval deadline was Jun 30, 2026**)
     - Transition requirements: updated baseline (typically 10-year refresh), enhanced additionality, host country re-authorization, A6.4SB approval
     - **Most legacy CDM projects face barriers**: newer additionality standards disqualify older fossil-fuel efficiency projects; many large REDD+ projects cannot easily adapt to PACM's permanence requirements
     - CDM credits already issued: some are CORSIA-eligible (vintage 2016+) but do NOT automatically transfer to PACM — they remain as CDM credits
-    - Estimate: ~10–20% of active CDM projects may successfully transition to PACM [^cdmtrans]
+    - **Actual result (Jun 30, 2026 deadline)**: only **415 of 1,512 CDM activities (27%)** secured host-country approval — far below earlier ~10–20%-of-active-projects estimates in absolute terms once host-country blocking is factored in. **China blocked 527 projects; India approved 0 of 460.** Remaining PDD documentation is due **Dec 31, 2026**; non-transitioned CDM credits face administrative cancellation **Jul 1, 2027**[^pacmjun2026]
 
     ## PACM and CORSIA Interface
 
@@ -140,7 +148,8 @@
 
     [^cop29a64]: UNFCCC COP29 Article 6 outcomes: <https://unfccc.int/cop29>; Carbon Pulse COP29 A6 summary: <https://carbon-pulse.com>
     [^cop29art6]: Article 6.2 rules also finalized at COP29 — first complete rulebook since Paris 2015: <https://unfccc.int/process/conferences/cop29>
-    [^cdmtrans]: CDM transition estimate based on OECD/IGES analysis; actual numbers pending A6.4SB determinations
+    [^cdmtrans]: CDM transition estimate based on OECD/IGES analysis; actual numbers pending A6.4SB determinations — see [^pacmjun2026] for the actual Jun 30, 2026 deadline outcome
+    [^pacmmethods]: A6.4-native methodologies approved: landfill gas flaring/utilization (Oct 2025), N2O abatement in nitric acid production (May 2026); only 64 of the 415 approved-transition projects use A6.4-native methodologies as of Jul 2026, the remaining 351 still on legacy CDM methodologies: Fastmarkets <https://www.fastmarkets.com/insights/host-country-approvals-narrow-pacm-pipeline-as-backlog-and-methodology-rollout-weigh-on-supply/>; H2 Bulletin <https://h2bulletin.com/two-thirds-of-countries-now-have-article-6-crediting-authorities-un-data-shows/>
 
     ## Key Sources
     - UNFCCC Article 6.4 Supervisory Body: <https://unfccc.int/sb-a64>
@@ -165,7 +174,7 @@
     | 設立 | COP26（グラスゴー、2021年11月） |
     | 方法論フレームワーク採択 | A6.4SB第10回会合（2024年10月） |
     | 本格運用化 | COP29（バクー、2024年11月） |
-    | 登録簿 | UNFCCC中央登録簿（整備中、2026年稼働目標） |
+    | 登録簿 | UNFCCC中央登録簿 — **「Article 6 Pipeline」プラットフォーム（UNEP CCC/UNFCCC共同）2026年3月稼働開始**；2026年末稼働見込みとの報道あり（二次情報源、未確認）[^pacmregistry] |
     | ユニット名称 | Article 6.4排出削減量（A6.4ER） |
 
     ## 2種類のA6.4ユニット
@@ -219,15 +228,30 @@
     | **2026年2月26日** | **【歴史的】初のA6.4ERが発行** — ミャンマー省エネかまどPoA 10471、58,428 tCO₂e発行（韓国が調達）[^firstpacm] |
     | **2026年3月** | **2件目の発行承認：PoA 10415**（ミャンマーPoA 10471に続く）[^pacm2nd] |
     | **2026年** | 6ヶ月の期限延長で**約10億のCDM移行クレジット**にPACMの門戸が開く；ミャンマー軍政との関連で完全性に懸念（Carbon Market Watch等が停止・調査を要求）[^pacmcontroversy] |
-    | 2026年 | UNFCCC登録簿稼働（目標）；方法論追加承認 |
-    | 2027年以降 | スケールアップ、CORSIA適格性決定見込み |
+    | **2026年6月30日** | **ホスト国承認期限が到来 — パイプラインが大幅に縮小**：CDM1,512件中**415件（27%）**のみが移行承認を取得、最大**6.17億tCO₂e**相当（従来の約10億t想定を大きく下回る）。**中国は527件（約2.51億t）を承認拒否**、**インドは460件中0件を承認**。新PDD提出期限は**2026年12月31日**（ブラジルが92件で最大の未提出案件を抱える）；未移行のCDMクレジットは**2027年7月1日に失効**[^pacmjun2026] |
+    | **2026年7月10日** | **198カ国中129カ国（65%）がPACM向け国家指定機関（DNA）を任命済み**；UNEP Copenhagen Climate Centre/UNFCCC事務局共同の**「Article 6 Pipeline」プラットフォームが2026年3月に稼働開始**[^pacmregistry] |
+    | **2026年7月27〜30日** | A6.4監督機関第22回会合、ボン — 本更新時点で開催中、結果未公表[^a64sb22] |
+    | 2027年以降 | スケールアップ、CORSIA適格性決定見込み；次回A6.4SB会合（SBM23）2026年10月5〜9日 |
 
     ## CDMからPACMへの移行
 
-    - CDMプロジェクトは期限までにPACM移行申請が可能（2025年12月まで延長）
+    - CDMプロジェクトは期限までにPACM移行申請が可能（申請自体は2025年12月まで延長；**ホスト国承認期限は2026年6月30日**）
     - 移行条件：ベースライン更新（通常10年更新）、追加性の強化、ホスト国再授権、A6.4SB承認
     - **ほとんどのCDMプロジェクトは移行困難**：古い化石燃料効率化プロジェクトは新追加性基準をクリアできず。REDD+は恒久性要件への対応が難しい
-    - 移行成功見込み：稼働中CDMプロジェクトの約10〜20%と推定[^cdmtrans]
+    - **実際の結果（2026年6月30日期限）**：CDM1,512件中**415件（27%）のみ**が移行承認を取得 — ホスト国による承認拒否を織り込むと従来の10〜20%推定を絶対数では下回る。**中国は527件を拒否、インドは460件中0件を承認**。残るPDD提出期限は**2026年12月31日**、未移行CDMクレジットは**2027年7月1日に失効**[^pacmjun2026]
+
+    ## A6.4SB — 方法論審査の最新状況（2026年7月更新）
+
+    | 分野 | 状況 | 備考 |
+    |------|------|------|
+    | 再エネ（太陽光・風力） | 🟡 審査中 | CDM ACM0002の応用検討中 |
+    | 効率的かまど | 🟡 審査中 | AMS-II.G応用 |
+    | 森林減少回避（REDD+） | 🔴 未承認 | 恒久性・漏洩ルールが複雑 |
+    | 炭素除去（植林） | 🟡 審査中 | 新除去活動基準を適用 |
+    | **埋立地ガスフレアリング/利用** | 🟢 **承認済み（2025年10月）** | A6.4固有方法論として初承認[^pacmmethods] |
+    | **硝酸製造でのN2O削減** | 🟢 **承認済み（2026年5月）** | A6.4固有方法論として2件目[^pacmmethods] |
+
+    > 移行承認済み415件のうち、A6.4固有方法論を使用しているのは**わずか64件**（2026年7月時点）。残る**351件は旧CDM方法論のまま**、A6.4SBの追加承認待ち。[^pacmmethods]
 
     ## PACMとCORSIAの連携
 

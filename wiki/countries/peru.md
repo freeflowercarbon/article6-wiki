@@ -13,7 +13,7 @@
     | JCM (Japan) | — Not a JCM partner |
     | Singapore IA | ✅ Signed April 1, 2025; **entered into force October 18, 2025**; **RFP1 contract: 2 projects (Kowen Antami REDD+ + Together for Forests REDD+), 2026–2030**[^pesg] |
     | Switzerland | 🟡 Signed Oct 2020 — **world's first A6.2 bilateral agreement**; Tuki Wasi authorized Mar 20, 2026; **no ITMO transfer yet**[^pech] |
-    | CA Framework | ✅ Operational — most mature in Latin America; **RENAMI registry launched February 2026**[^perenami]; **CARP AIR submitted June 1, 2026**[^peair]; **first Latin American country to register a cooperative approach on the UNFCCC Art 6 platform (June 2026)**[^peunfccc] |
+    | CA Framework | ✅ Operational — most mature in Latin America; **RENAMI registry launched February 2026**[^perenami]; **RENAMI expanded Jul 15, 2026 to recognize 4 additional crediting standards + 7 methodologies** (incl. ART TREES and Cercarbono)[^perenamiexp]; **CARP AIR submitted June 1, 2026**[^peair]; **first Latin American country to register a cooperative approach on the UNFCCC Art 6 platform (June 2026)**[^peunfccc] |
     | Key Ministry | MINAM (Ministry of Environment)[^peminam] |
 
     [^pendc]: Peru NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PER>
@@ -25,6 +25,7 @@
     [^peair]: Peru CARP Article 6.2 Initial Report (AIR) submitted June 1, 2026 to UNFCCC (total AIR count: 23 parties): UNFCCC CARP portal <https://unfccc.int/process/transparency-and-reporting/reporting-and-review-under-the-paris-agreement/article-6>
     [^petukiref]: Tuki Wasi cookstoves project (Amazon communities, Switzerland/KliK) authorized March 20, 2026; registered in RENAMI (Feb 2026): CARP / Carbon Pulse
     [^peunfccc]: Peru first cooperative approach registered on UNFCCC Article 6 platform in Latin America (June 2026); clean cookstoves project expected to deliver 726,000+ ITMOs to Switzerland by 2030: Carbon Pulse ~June 2026 (<https://carbon-pulse.com/517822/>)
+    [^perenamiexp]: Peru's RENAMI registry recognized 4 additional carbon-crediting standards and 7 methodologies (reporting references ART TREES and Cercarbono among the new standards), broadening Article 6.2-eligible activity types — Jul 15, 2026: Sendeco2/Carbon Pulse <https://www.sendeco2.com/es/noticias/2026/07/15/peru-significantly-expands-enabled-carbon-accounting-frameworks-under-national-registry> (secondary source)
 
     ## NDC Achievement Status
 
@@ -93,7 +94,7 @@
     | 主管省庁 | MINAM（環境省） |
     | シンガポールIA | ✅ **2025年4月1日署名**・**2025年10月18日発効**・**RFP1落札**（Kowen Antami REDD+ + Together for Forests REDD+） |
     | スイス二国間 | 🟡 2020年10月署名（**世界初のA6.2二国間協定**）；Tuki Wasi授権 2026年3月20日 — **ITMO移転実績なし** |
-    | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟）；**RENAMI 2026年2月開設**；**CARP AIR 2026年6月1日提出** |
+    | CA体制 | ✅ 稼働中（ラテンアメリカ最成熟）；**RENAMI 2026年2月開設**；**RENAMIが2026年7月15日に新たな4規格・7方法論を承認**（ART TREES・Cercarbono含む）[^perenamiexp]；**CARP AIR 2026年6月1日提出** |
 
     ## NDC達成見込み
 

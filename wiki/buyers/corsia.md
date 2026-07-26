@@ -12,6 +12,10 @@
 
     [^corsiaeu]: EU Climate Change Committee meeting (Jun 15, 2026) revised draft implementing regulation dropping additional CORSIA Phase 1 quality criteria: Carbon Herald (Jul 16, 2026) <https://carbonherald.com/eu-drops-stricter-carbon-credit-rules-for-corsia-phase-1-but-maintains-tougher-standards-for-phase-2/>; Fastmarkets <https://www.fastmarkets.com/insights/eu-proposes-removing-additional-corsia-credit-quality-criteria-for-phase-1/>; Argus Media <https://www.argusmedia.com/en/news-and-insights/latest-market-news/2817156-eu-eyes-rules-excluding-existing-corsia-phase-1-supply>（secondary source — no primary EC document found）
 
+    > 🆕 **EEU supply expansion (Jun 2026)**: IATA launched a **"Supporting Alliance for CORSIA EEU Supply"** on Jun 6, 2026, reaching **50 members by Jun 23, 2026**; governments of **Guyana, Madagascar, UK, Zambia, and Zimbabwe** signed the Aviation Carbon Market Compact (Peru has expressed interest). Target: boost supply to **225–250M EEUs by spring 2027**. Current EEU supply is reported near **40Mt vs. ~200Mt Phase 1 demand**, and **10 countries were supplying EEUs via LoA as of April 2026** — broadening beyond the earlier framing of Guyana ART TREES as effectively the only source (see updated Key Parameters table below).[^corsiaalliance]
+
+    [^corsiaalliance]: IATA "Supporting Alliance for CORSIA EEU Supply" launched Jun 6, 2026, 50 members by Jun 23, 2026; Guyana/Madagascar/UK/Zambia/Zimbabwe governments signed the Aviation Carbon Market Compact; target 225–250M EEUs by spring 2027; ~40Mt current EEU supply vs. ~200Mt Phase 1 demand; 10 countries supplying via LoA as of Apr 2026: IATA <https://www.iata.org/en/pressroom/2026-releases/06-06-iata-launches-supporting-alliance-corsia-eeu-supply/>; <https://www.iata.org/en/pressroom/2026-releases/06-23-states-supporting-partners-join-iata-alliance-expand-corsia-carbon-credit-supply/>
+
     ## Key Parameters
 
     | Item | Detail |
@@ -27,7 +31,7 @@
     | 2027–2030 Price Estimate | US$10–40/t |
     | Total Demand 2024–2035 | ~2–5 billion t CO₂e (wide range) |
     | Article 6 LoA requirement | ✅ **Required** for EEUs of 2021+ vintage (host-country LoA + corresponding adjustment) |
-    | Phase 1 (2024–26) supply | ⚠️ Very tight — Guyana ART TREES (15.84M EEUs, ~US$21.70/t) effectively the only source |
+    | Phase 1 (2024–26) supply | ⚠️ Tight but broadening — Guyana ART TREES remains the anchor source, but **10 countries now supplying via LoA (Apr 2026)**; IATA-led alliance targeting 225–250M EEUs by spring 2027 (~40Mt current supply vs. ~200Mt Phase 1 demand)[^corsiaalliance] |
     | A6.4 PACM Unit Acceptance | 🔄 Under ICAO-UNFCCC discussion |
 
     ## CORSIA-Eligible Carbon Programs (CEU Sources)
@@ -82,7 +86,9 @@
 
     ## 概要
 
-    **CORSIA（国際航空炭素相殺・削減スキーム）**はICAO（国際民間航空機関）が定める国際航空CO₂排出の市場型規制。航空会社は2019年比で増加した排出量をCORSIA適格ユニット（CEU）で相殺する義務を負う。炭素クレジット需要の主要ドライバーだが、**Article 6.2 ITMOを現時点で直接受け入れていない**。
+    **CORSIA（国際航空炭素相殺・削減スキーム）**はICAO（国際民間航空機関）が定める国際航空CO₂排出の市場型規制。航空会社は2019年比で増加した排出量をCORSIA適格ユニット（CEU）で相殺する義務を負う。重要な点として、**2021年以降ヴィンテージのCORSIA EEUはホスト国のArticle 6 授権書（LoA）＋対応調整（CA）を必須**としており、この意味でCORSIAは**既にArticle 6の需要チャネルとして機能している**（「ITMO」という名称のユニットは使わないが、授権・CA済みクレジットを消費する）。フェーズ1（2024〜2026年）の供給は極めて逼迫しており、**ガイアナの管轄型REDD+（ART TREES）が実質唯一の供給源**だったが、2026年6月以降は供給多様化の動きが進む。
+
+    > 🆕 **EEU供給拡大（2026年6月）**：IATAが2026年6月6日に**「CORSIA EEU供給支援連合（Supporting Alliance for CORSIA EEU Supply）」**を発足、2026年6月23日までに**50メンバーに拡大**。ガイアナ・マダガスカル・英国・ザンビア・ジンバブエ各国政府が「Aviation Carbon Market Compact」に署名（ペルーも関心表明）。目標は**2027年春までにEEU供給を2億2,500万〜2億5,000万に拡大**すること。現在の供給量は約4,000万tでフェーズ1需要（約2億t）に対し逼迫しているが、**2026年4月時点で10カ国がLoA経由でEEUを供給**しており、従来の「ガイアナART TREESが実質唯一の供給源」という構図は変わりつつある。
 
     ## 主要パラメータ
 
@@ -97,7 +103,7 @@
     | 2027〜2030年予測価格 | US$10〜40/t |
     | 総需要（2024〜2035年） | 約20〜50億t CO₂e（推定幅大） |
     | Article 6 LoA要件 | ✅ **必須**（2021年以降ヴィンテージのEEUはホスト国LoA＋CAが必要） |
-    | フェーズ1(2024–26)供給 | ⚠️ 極めて逼迫 — ガイアナART TREES（1,584万EEU・約US$21.70/t）が実質唯一の供給源 |
+    | フェーズ1(2024–26)供給 | ⚠️ 逼迫するが多様化中 — ガイアナART TREESが依然中核だが、**2026年4月時点で10カ国がLoA経由供給**；IATA主導連合が2027年春までに2.25〜2.5億EEU供給を目標（現状供給約4,000万t、フェーズ1需要約2億t） |
     | A6.4 PACMユニット受入 | 🔄 ICAO-UNFCCC協議中 |
 
     > **重要更新（2026年）**: CORSIAのEEU（2021年以降ヴィンテージ）は、二重計上回避のため**Article 6のLoA（授権書）＋Corresponding Adjustment**が必須となった。つまりCORSIAは「ITMO」という名称では取引しないが、実質的に**Article 6の需要チャネル**（授権・CA付きクレジットを消費）として機能する。フェーズ1供給は逼迫し、ガイアナの管轄型REDD+（ART TREES）が事実上唯一の供給源。

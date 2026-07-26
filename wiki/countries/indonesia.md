@@ -58,7 +58,7 @@
     | Project | Verra ID | Standard / Method | Type | Annual Volume | CCP Status | A6.2 Status |
     |---------|----------|------------------|------|--------------|-----------|-------------|
     | Rimba Raya (Central Kalimantan) | VCS 674, 727 | Verra VCS **VM0007** (REDD-MF)[^rrmethod] | Forest REDD+ | ~1–2 Mt/yr[^rrvol] | 🔴 Not CCP (VM0007 REDD+ not yet approved) | 🟡 No A6.2 authorization yet; Perpres 110 path open |
-    | Katingan Mentaya (Central Kalimantan) | VCS 1477 | Verra VCS **VM0009** (Avoided Ecosystem Conversion)[^katmethod] | Peatland REDD+ | ~7.5 Mt/yr[^katvol] | 🔴 Not CCP (VM0009 peatland not yet approved) | 🟡 No A6.2 authorization yet |
+    | Katingan Mentaya (Central Kalimantan) | VCS 1477 | Verra VCS **VM0009** (Avoided Ecosystem Conversion)[^katmethod] | Peatland REDD+ | ~7.5 Mt/yr[^katvol]; **~20M credits (vintage 2021–23) verified, 17.3M approved for issuance — Jul 6, 2026 ceremony, first major post-freeze issuance under the reformed carbon rules**[^katreissue] | 🔴 Not CCP (VM0009 peatland not yet approved) | 🟡 No A6.2 authorization yet — this is a **domestic/VCM issuance, not an ITMO transfer** |
     | Karya Agung (Sumatra) | VCS (various) | Verra VCS | REDD+ | — | 🟡 Under review | 🟡 Authorization pending |
     | REDD+ jurisdictional (ART TREES) | — | ART TREES | Jurisdictional | Large (gov program) | 🟡 ART TREES approved by ICVCM[^artccp] | 🟡 Gov-level IA required |
 
@@ -70,6 +70,7 @@
     [^rrvol]: Rimba Raya cumulative issuance 33.6 Mt since 2013; recent annual pace reduced due to integrity scrutiny
     [^katmethod]: Katingan Mentaya (VCS 1477) methodology: VM0009 Methodology for Avoided Ecosystem Conversion — source: Verra Registry: <https://registry.verra.org/app/projectDetail/VCS/1477>; Permian Global: <https://permianglobal.com/projects/katingan-mentaya-project/>
     [^katvol]: Katingan annual issuance ~7.5 Mt/yr; source: Permian Global project data
+    [^katreissue]: Katingan Mentaya re-enters market with ~20M Verra-verified credits (17.3M approved for issuance), vintages 2021–2023, AA-rated by BeZero/Sylvera; ceremony Jul 6, 2026, Jakarta (Ministry of Forestry) — first major REDD+ issuance under Indonesia's reformed carbon rules; **domestic/VCM credit issuance, not an Article 6.2 ITMO transfer or authorization**: Permian Global press release; Verra <https://verra.org/verra-to-issue-first-credits-under-indonesias-new-carbon-market-regulations/>
     [^artccp]: ART TREES CCP approval: <https://icvcm.org/assessment-process/>
 
     > Verra registry: <https://registry.verra.org/>
@@ -84,8 +85,10 @@
     | Bappenas (National Planning Agency) | NDC coordination, climate finance | <https://www.bappenas.go.id/> |
     | IDXCarbon | Carbon exchange (as of May 2026: **1.9M+ tCO₂e** traded; 93.7B IDR; 10 projects; 155 participants) | <https://idxcarbon.co.id/> |
     | SRUK registry | ✅ **Officially launched July 9, 2026** (Jakarta; inaugurated by the Forestry Minister, Environment Minister, and OJK chair); first trading permits issued to **4 Forest Utilization Business Permit (PBPH) holders** starting July 6, 2026 (carbon unit registry under Perpres 110/2025; interoperable with international registries)[^idsruk] | Contact via KLHK/KemenLH |
+    | OJK carbon exchange rules | **POJK No. 10/2026** (issued Jul 6, 2026) amends the 2023 carbon exchange regulation (POJK 14/2023) to align with Perpres 110/2025 — all exchange-traded carbon units must register in SRUK (replacing the old SRN PPI link); adds rules for trading foreign carbon units not yet SRUK-registered; ≤3-month transition window[^idpojk] | OJK (Financial Services Authority) |
 
     [^idsruk]: **SRUK = Sistem Registri Unit Karbon** (Carbon Unit Registry System) under Perpres 110/2025 — **officially launched July 9, 2026**, with first trading permits issued to 4 PBPH holders from July 6, 2026. Must provide transparent, real-time, traceable records of issuance/transfer/retirement and be **interoperable with international registries**; A6.2/6.4 transfers require Minister of Environment authorization + Corresponding Adjustment. **Ministerial Regulation 6/2026** (forestry carbon, April 13, 2026) adds governance rules: ANTARA News <https://en.antaranews.com/news/422063/indonesia-launches-carbon-registry-to-accelerate-carbon-trading>; KLHK <https://www.kehutanan.go.id/>; SSEK <https://ssek.com/blog/indonesia-introduces-new-carbon-trading-framework-under-presidential-regulation-no-110-of-2025/>
+    [^idpojk]: OJK Regulation POJK No. 10/2026 (issued Jul 6, 2026), amending POJK 14/2023 on carbon exchanges to align with Perpres 110/2025 — mandates SRUK registration for exchange-traded units: OJK official announcement <https://x.com/ojkindonesia/status/2075126496583438744>; secondary: ecobiz.asia, business-indonesia.org
 
     ## Key Sources
     - Indonesia Enhanced NDC 2022: <https://unfccc.int/NDCREG>
@@ -134,7 +137,7 @@
     | プロジェクト | Verra ID | 方法論 | 種別 | 年間発行量 | CCP状況 | A6.2状況 |
     |------------|----------|--------|------|-----------|---------|---------|
     | Rimba Raya（中カリマンタン） | VCS 674, 727 | **VM0007**（REDD-MF）[^rrmethod] | 森林REDD+ | 〜1〜2 Mt/yr[^rrvol] | 🔴 未承認 | 🟡 Perpres 110経路は開通 |
-    | Katingan Mentaya（中カリマンタン） | VCS 1477 | **VM0009**（Avoided Ecosystem Conversion）[^katmethod] | 泥炭地REDD+ | 〜7.5 Mt/yr[^katvol] | 🔴 未承認 | 🟡 A6.2授権なし |
+    | Katingan Mentaya（中カリマンタン） | VCS 1477 | **VM0009**（Avoided Ecosystem Conversion）[^katmethod] | 泥炭地REDD+ | 〜7.5 Mt/yr[^katvol]；**約2,000万クレジット（2021〜23ビンテージ）検証済み、うち1,730万発行承認 — 2026年7月6日発行式典、改正炭素規則下で初の大規模発行**[^katreissue] | 🔴 未承認 | 🟡 A6.2授権なし（**国内／VCM発行であり、ITMO移転ではない**） |
     | ART TREES（国家管轄REDD+） | — | ART TREES | 管轄型 | 大規模（政府プログラム） | 🟡 ICVCM承認済み[^artccp] | 🟡 政府間IA必要 |
 
     **方法論修正ノート**: Rimba RayaはVM0007（森林保全向けREDD方法論フレームワーク）、KatinganはVM0009（泥炭地生態系転換回避専用）。以前の記載VM0009(Rimba Raya)・VM0016(Katingan)はいずれも誤記。VM0016（生態系回復モニタリング）はREDD+とは全く異なる用途。
@@ -149,6 +152,7 @@
     | Bappenas | NDC調整・気候ファイナンス | <https://www.bappenas.go.id/> |
     | IDXCarbon | 炭素取引所 | <https://idxcarbon.co.id/> |
     | SRUK登録簿 | ✅ **2026年7月9日正式稼働開始**（ジャカルタ；林業相・環境相・OJK議長が開所式）。7月6日より森林利用事業許可（PBPH）保有者4者に初の取引許可を発行 | KLHK/KemenLH経由 |
+    | OJK炭素取引所規則 | **POJK第10/2026号**（2026年7月6日発出）：2023年制定の炭素取引所規則（POJK 14/2023）をPerpres 110/2025に整合させる改正 — 取引所で取引される全炭素ユニットにSRUK登録を義務化（旧SRN PPI連携を代替）；SRUK未登録の海外炭素ユニット取引ルールも新設；移行期間3ヶ月以内 | OJK（金融サービス庁） |
 
     ## 関連ページ
     - [日本-インドネシア協定](../agreements/japan-indonesia.md)

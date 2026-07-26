@@ -14,11 +14,15 @@
     | JCM (Japan) | — Not a JCM partner |
     | Singapore IA | ✅ Signed 2024; **RFP Round 1 award** (Gran Chaco forest)[^pysg] |
     | Switzerland | — No agreement |
+    | Other MOUs | 🔴 UAE and Taiwan MOUs on Article 6 cooperation; New Zealand/Norway/Sweden reported "exploring" agreements（要確認）[^pymou] |
+    | Domestic Pipeline | 🆕 **National Cadastre of Mitigation Projects launched** (Mar–May 2026) + call for expressions of interest; officials state intent to transact Paraguay's **first ITMOs in 2026** — a target/pledge, not a confirmed transfer（要確認）[^pycadastre] |
     | CA Framework | 🟡 Being built — activated by Singapore RFP1 contract[^pysg] |
 
     [^pyndc]: Paraguay NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRY>
     [^pymades]: MADES (Ministerio del Ambiente y Desarrollo Sostenible): <https://www.mades.gov.py/>
     [^pysg]: Singapore-Paraguay IA (2024) + RFP Round 1 award (Gran Chaco forest, ~285,000 tCO₂e, 2026–2030, S$19–41/t): NCCS <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
+    [^pymou]: Paraguay MOUs with UAE and Taiwan on Article 6 cooperation; New Zealand, Norway, Sweden reported "exploring" agreements（要確認, secondary source）: Carbon Pulse <https://carbon-pulse.com/497302/>, <https://carbon-pulse.com/500669/>, <https://carbon-pulse.com/496875/>, <https://carbon-pulse.com/480936/> (Mar–May 2026)
+    [^pycadastre]: Paraguay launched a National Cadastre of Mitigation Projects and a call for expressions of interest to build a pipeline; government officials stated intent to transact Paraguay's first ITMOs in 2026 — treat as a pledge/target, not a confirmed transfer per the authorization≠transfer rule（要確認）: Carbon Pulse <https://carbon-pulse.com/497302/> (secondary source, Mar–May 2026)
 
     ## NDC Achievement Status
 
@@ -74,6 +78,8 @@
     | 国内炭素制度 | ETS未導入；MADES（環境省）が主管 |
     | 主管省庁 | MADES（環境省） |
     | シンガポールIA | ✅ 2024年署名・**RFP1落札**（グランチャコ森林） |
+    | その他MOU | 🔴 UAE・台湾とArticle 6協力MOU；NZ・ノルウェー・スウェーデンは「協議中」と報道（要確認） |
+    | 国内パイプライン | 🆕 **緩和策プロジェクト国家台帳を開設**（2026年3〜5月）＋関心表明募集；政府は**2026年中の初回ITMO取引**を目標として表明 — あくまで目標であり移転確定ではない（要確認） |
     | CA体制 | 🟡 整備中（シンガポール契約を機に加速） |
 
     ## NDC達成見込み

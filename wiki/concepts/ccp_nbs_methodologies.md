@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-05-13  
+    > Last updated: 2026-07-26  
     > Sources: [ICVCM](https://icvcm.org/), [Verra](https://verra.org/), [Gold Standard](https://www.goldstandard.org/), [NEA Eligibility List](https://www.carbonmarkets-cooperation.gov.sg/environmental-integrity/eligibility-criteria/)
 
     ## What is the CCP Label?
@@ -173,6 +173,20 @@
 
     ---
 
+    ## Methodology Consultations & Watchlist (Jul 2026)
+
+    | Methodology | Standard | Status | Relevance |
+    |------------|---------|--------|-----------|
+    | **VM0050** (Energy Efficiency and Fuel-Switch Measures in Cooking Devices, v1.0→v2.0) | Verra | 🟡 Public consultation **Jul 9 – Aug 10, 2026** — major cookstove methodology overhaul | Relevant to existing cookstove ITMO deals (Ghana, Peru Tuki Wasi)[^ccpwatchlist] |
+    | **VM0044** (Biochar, v2.0 major revision) | Verra | 🟡 Public consultation **Jul 15 – Aug 17, 2026** | Growing removals category; watch for A6.2 relevance[^ccpwatchlist] |
+    | First biochar-specific methodology + 2026 Standards Setting Workplan (5 consultations: removals, land use, agriculture, energy access) | Gold Standard | 🟢 Launched (~Jul 2026); biochar methodology is durable-CDR-only, excludes avoided emissions | Broadens GS's removals-category offering[^ccpwatchlist] |
+
+    > These are **procedural/consultation-stage updates**, not new CCP approvals — included here as a forward-looking watchlist for methodology developers and NBS investors.
+
+    [^ccpwatchlist]: VM0050 cookstove overhaul consultation (Jul 9–Aug 10, 2026): Carbon Herald <https://carbonherald.com/verra-opens-consultation-on-major-cookstove-methodology-overhaul/>; Carbon Pulse <https://carbon-pulse.com/530435/> (secondary/paywalled). VM0044 Biochar v2.0 consultation (Jul 15–Aug 17, 2026): Carbon Herald <https://carbonherald.com/verra-looking-for-feedback-on-a-major-revision-to-its-vm0044-biochar-methodology/>; QC Intel <https://www.qcintel.com/carbon/article/verra-plans-biochar-methodology-update-new-version-in-2026-50655.html>. Gold Standard biochar methodology + 2026 workplan: Carbon Herald <https://carbonherald.com/gold-standard-launches-new-methodologies-including-first-biochar-standard/> (exact date not independently confirmed beyond "recent" as of this crawl)
+
+    ---
+
     ## Related Pages
     - [NBS × A6.2 Eligibility Guide](nbs_a62_eligibility.md) — Full activity-type eligibility matrix
     - [JCM Concept Page](jcm.md) — JCM type classification (Conventional vs. A6.2)
@@ -181,7 +195,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-05-13
+    > 最終更新: 2026-07-26
 
     ## CCPラベルとは
 
@@ -328,6 +342,20 @@
     |------------|--------|------------|------|
     | カリマンタンREDD+ | VM0048+VMD0055 | 🔴 未 — Band 6 | VMD0055未対応；2027年以降 |
     | 泥炭地保全 | 新規泥炭地方法論必要 | 🔴 経路なし | VM0009除外済み |
+
+    ---
+
+    ## 方法論の協議・ウォッチリスト（2026年7月）
+
+    | 方法論 | 規格 | 状況 | 関連性 |
+    |------|------|------|--------|
+    | **VM0050**（調理機器の省エネ・燃料転換、v1.0→v2.0） | Verra | 🟡 意見公募 **2026年7月9日〜8月10日**（かまど方法論の大規模改訂） | 既存のかまどITMO案件（ガーナ・ペルーTuki Wasi）に関連[^ccpwatchlist] |
+    | **VM0044**（バイオ炭、v2.0大幅改訂） | Verra | 🟡 意見公募 **2026年7月15日〜8月17日** | 除去系カテゴリの拡大；A6.2適格性は要注視[^ccpwatchlist] |
+    | 初のバイオ炭専用方法論＋2026年基準策定ワークプラン（除去・土地利用・農業・エネルギーアクセス等5件の協議） | Gold Standard | 🟢 発表済み（2026年7月頃）；バイオ炭方法論は除去専用（回避排出は対象外） | GSの除去カテゴリを拡充[^ccpwatchlist] |
+
+    > これらは**手続き・協議段階の更新**であり、新規CCP承認ではない — 方法論開発者・NBS投資家向けの先行ウォッチリストとして掲載。
+
+    [^ccpwatchlist]: VM0050かまど方法論改訂協議（2026年7月9日〜8月10日）：Carbon Herald <https://carbonherald.com/verra-opens-consultation-on-major-cookstove-methodology-overhaul/>；Carbon Pulse <https://carbon-pulse.com/530435/>（二次情報源・有料）。VM0044バイオ炭v2.0協議（2026年7月15日〜8月17日）：Carbon Herald <https://carbonherald.com/verra-looking-for-feedback-on-a-major-revision-to-its-vm0044-biochar-methodology/>；QC Intel。Gold Standardバイオ炭方法論＋2026年ワークプラン：Carbon Herald <https://carbonherald.com/gold-standard-launches-new-methodologies-including-first-biochar-standard/>（正確な日付は「最近」以上の確認取れず）
 
     ---
 

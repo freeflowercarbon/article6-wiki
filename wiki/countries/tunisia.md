@@ -15,11 +15,13 @@
     | Switzerland | ✅ Bilateral active[^tnch] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐ (arid / semi-arid country) |
+    | UN Review | ⚠️ A **UNFCCC technical expert review (Jun 2026)** found "significant" inconsistencies and transparency gaps in Tunisia's Article 6.2 reporting — covering its planned national registry and its stated intent to trade credits with Japan; the same review batch flagged Maldives, Palau, Sri Lanka, Mongolia, Cambodia, Rwanda, and Malawi[^tnreview] |
 
     [^tnndc]: Tunisia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=TUN>
     [^tnme]: Tunisia Ministry of Environment: <https://www.environnement.gov.tn/>
     [^tnjcm]: JCM Tunisia: GEC <https://gec.jp/jcm/projects/>; signed 2015; solar and energy efficiency projects
-    [^tnch]: Switzerland-Tunisia bilateral: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; RE projects
+    [^tnch]: Switzerland-Tunisia bilateral: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^tnreview]: UNFCCC technical expert review (~Jun 2026) found significant inconsistencies/transparency gaps in Tunisia's Article 6.2 reporting (planned national registry; stated intent to trade with Japan); same review batch covered Maldives, Palau, Sri Lanka, Mongolia, Cambodia, Rwanda, and Malawi — reviewers found integrity issues in every report evaluated: Carbon Pulse <https://carbon-pulse.com/519478/> (secondary reporting; primary UNFCCC review document not yet located); RE projects
 
     ## Bilateral A6.2 Agreements
 
@@ -55,6 +57,7 @@
     | スイス二国間 | ✅ 稼働中 |
     | CA体制 | 🔴 未整備 |
     | NBS成熟度 | ⭐（乾燥・半乾燥国） |
+    | UNレビュー | ⚠️ **UNFCCC技術専門家レビュー（2026年6月）**で、国家登録簿計画・対日クレジット取引意図等について「重大な」不整合・透明性の課題が指摘された。同バッチでモルディブ・パラオ・スリランカ・モンゴル・カンボジア・ルワンダ・マラウィも指摘対象[^tnreview] |
 
     ## 調達国との合意状況
 

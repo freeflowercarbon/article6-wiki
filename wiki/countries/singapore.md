@@ -173,6 +173,12 @@
     [^sgRFP1]: S&P Global RFP1 results: <https://www.spglobal.com/commodity-insights/en/news-research/latest-news/energy-transition/022525-singapore-article-6-carbon-credit-tender-attracts-19-41mtco2e-price-offers>; NCCS: <https://www.nccs.gov.sg/singapore-will-contract-high-quality-nature-based-carbon-credits-from-four-projects/>
     [^sgdemand]: MTI Singapore RFP2 announcement: <https://www.mti.gov.sg/newsroom/singapore-launches-second-request-for-proposals-for-high-quality-carbon-credits/>
 
+    ## Multilateral Financing
+
+    On **May 19, 2026**, Singapore committed **US$15M (S$19.2M)** to GGGI's **Carbon Transaction Facility (CTF)**, becoming the CTF's **5th contributor** alongside New Zealand, Norway, Sweden, and the UK — the first Asian country to support the facility. Of this, **S$15M** funds Article 6 readiness support across CTF member/partner countries, and **S$10M** seeds a new **Singapore Article 6 Carbon Facility (SACF)** to originate Singapore-linked projects.[^sgctf]
+
+    [^sgctf]: Singapore joins GGGI Carbon Transaction Facility + launches Singapore Article 6 Carbon Facility (May 19, 2026): MTI Singapore <https://www.mti.gov.sg/newsroom/singapore-enhances-article-6-carbon-markets-by-committing-us-15-million-to-gggi-s-carbon-transaction-facility-and-establishes-singapore-article-6-carbon-facility/>
+
     ## CCP (ICVCM Core Carbon Principles) Alignment
 
     Singapore's NEA Eligibility Criteria closely parallel ICVCM's CCP in many respects:
@@ -245,6 +251,12 @@
     ## A6.2クレジティング・プロトコル（シンガポール×Verra×Gold Standard）
 
     **2025年11月12日（COP30）**、NCCS・Gold Standard・Verraが**A6.2クレジティング・プロトコルの最終版を公表**。各国政府が独自の国家登録簿を一から構築せずに、**既存の独立クレジット制度（Verra VCS・Gold Standard）**を用いてA6.2の活動登録・クレジット発行を行える自主的枠組み。COP28（2023年）提唱→COP29（2024年）勧告→COP30最終版。登録簿整備途上のホスト国（インドネシアSRUK・ベトナム・ケニアKNCR等）にとって制度的障壁を下げる意義がある。
+
+    ## 多国間ファイナンス
+
+    **2026年5月19日**、シンガポールはGGGIの**Carbon Transaction Facility（CTF）**に**米ドル1,500万（S$1,920万）**を拠出し、ニュージーランド・ノルウェー・スウェーデン・英国に続く**5番目の拠出国**となった（アジア初）。うち**S$1,500万**はCTF加盟・パートナー国全体のArticle 6準備支援に、**S$1,000万**はシンガポール関連プロジェクトを組成する新設の**Singapore Article 6 Carbon Facility（SACF）**の種銭として充当される。[^sgctf]
+
+    [^sgctf]: シンガポールのGGGI Carbon Transaction Facility参加＋Singapore Article 6 Carbon Facility設立（2026年5月19日）：MTI Singapore <https://www.mti.gov.sg/newsroom/singapore-enhances-article-6-carbon-markets-by-committing-us-15-million-to-gggi-s-carbon-transaction-facility-and-establishes-singapore-article-6-carbon-facility/>
 
     ## リバーサルリスクに対するシンガポールIAの立場
 

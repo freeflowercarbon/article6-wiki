@@ -15,10 +15,12 @@
     | Singapore IA | ✅ Signed 2023; projects in development[^rwsg] |
     | **Kuwait bilateral** | ✅ **Article 6.2 cooperation agreement signed (date TBC)**[^rwkw] |
     | CA Framework | 🟡 Under development; **Letters of Authorization issued** for carbon projects[^rwloa] |
+    | UN Review | （要確認）Named in a Jun 2026 UNFCCC technical expert review batch (with Tunisia, Malawi, Cambodia, Mongolia, Maldives, Palau, Sri Lanka) flagged for integrity/transparency issues; Rwanda-specific findings not yet detailed[^rwreview] |
 
     [^rwndc]: Rwanda NDC (2020 update): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=RWA>
     [^rwrema]: REMA (Rwanda Environment Management Authority): <https://www.rema.gov.rw/>
     [^rwsg]: Singapore-Rwanda Implementation Agreement (2023): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^rwreview]: UNFCCC technical expert review (~Jun 2026) named Rwanda in a batch flagged for integrity issues (with Tunisia, Malawi, Cambodia, Mongolia, Maldives, Palau, Sri Lanka); Rwanda-specific findings not yet publicly detailed（要確認）: Carbon Pulse <https://carbon-pulse.com/519478/> (secondary reporting)
 
     ## NDC Achievement Status
 
@@ -79,6 +81,7 @@
     | シンガポールIA | ✅ 2023年署名（開発段階） |
     | **クウェート二国間** | ✅ **Article 6.2協力協定署名済み（日程TBC）**[^rwkw] |
     | CA体制 | 🟡 整備中；**炭素プロジェクト向け授権書（Letter of Authorization）発行済み**[^rwloa] |
+    | UNレビュー | （要確認）2026年6月のUNFCCC技術専門家レビュー（チュニジア・マラウィ・カンボジア・モンゴル・モルディブ・パラオ・スリランカと同バッチ）で透明性の課題を指摘されたと報道；ルワンダ固有の詳細は未公表[^rwreview] |
 
     ## NDC達成見込み
 

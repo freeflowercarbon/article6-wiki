@@ -11,10 +11,11 @@
     | NDC Target | 6% unconditional / 51% conditional vs. BAU by 2040[^mwndc] |
     | Carbon System | Carbon Market Office established under DNA; national registry under development[^mwcmo] |
     | JCM (Japan) | — Not a JCM partner |
-    | Singapore IA | — Not yet |
+    | Singapore | 🔴 **MOU signed Nov 20, 2025** (COP30) — collaboration toward a future binding A6.2 Implementation Agreement[^mwsg] |
     | Switzerland | ✅ Bilateral signed; **AIR submitted August 2025** (1M+ ITMO planned); **Dairy Biogas Program authorized April 6, 2026**[^mwch][^mwdairy] |
     | CA Framework | 🟡 In progress — AIR submitted; CA procedures under development[^mwair] |
     | Key Ministry | Ministry of Forestry and Natural Resources (MFNR)[^mwmfnr] |
+    | UN Review | （要確認）Flagged in a Jun 2026 UNFCCC technical expert review (same batch as Tunisia, Rwanda, Cambodia, Mongolia, Maldives, Palau, Sri Lanka) for areas needing improvement in its Article 6.2 reporting[^mwreview] |
 
     [^mwndc]: Malawi Updated NDC (2021): UNFCCC NDC Registry <https://unfccc.int/sites/default/files/NDC/2022-06/Malawi%20Updated%20NDC%20July%202021%20submitted.pdf>
     [^mwcmo]: Malawi Carbon Market Office and DNA (Designated National Authority): NDC Partnership <https://ndcpartnership.org/country/mwi>
@@ -22,6 +23,8 @@
     [^mwair]: Malawi Article 6.2 Initial Report (AIR) submitted August 2025 (Hestian CF / Chitetezo Mbaula project, 1M+ ITMOs planned): UNFCCC CARP <https://www4.unfccc.int/sites/SubmissionsStaging/Documents/202508131039---Initial%20report_Hestian%20CF_Government%20of%20Malawi_12_08_2025.pdf>
     [^mwdairy]: **Dairy Biogas Program authorized April 6, 2026** — Malawi's first Article 6.2 authorization for a biogas/agri project; implementing entities: Sistema.bio, ACT Group, EcoGen; compliance framework: KliK (Swiss obligation): Carbon Pulse / UNFCCC CARP
     [^mwmfnr]: Ministry of Forestry and Natural Resources: <https://www.forestry.gov.mw/>
+    [^mwsg]: Singapore-Malawi MOU on Article 6, signed Nov 20, 2025 (COP30) — collaboration toward a legally binding A6.2 Implementation Agreement: MTI Singapore <https://www.mti.gov.sg/newsroom/singapore-and-malawi-sign-memorandum-of-understanding-to-collaborate-on-article-6-to-accelerate-climate-action>; Argus; Carbon Pulse <https://carbon-pulse.com/459784/>
+    [^mwreview]: UN Article 6.2 technical expert review (Jun 2026) flagged transparency/integrity gaps across a batch of countries including Malawi, Tunisia, Rwanda, Cambodia, Mongolia, Maldives, Palau, and Sri Lanka; Malawi-specific findings not yet publicly detailed（要確認）: QC Intel <https://www.qcintel.com/carbon/article/un-highlights-areas-of-improvement-for-malawi-under-article-6-2-66474.html> (secondary, paywalled body)
 
     ## NDC Achievement Status
 
@@ -86,9 +89,10 @@
     | 国内炭素制度 | 炭素市場オフィス設立；国家登録簿整備中 |
     | 主管省庁 | 林業・天然資源省（MFNR） |
     | JCM状況 | — JCMパートナー国ではない |
-    | シンガポールIA | — 未締結 |
+    | シンガポール | 🔴 **MOU署名 2025年11月20日**（COP30）— 将来の拘束力あるA6.2 IA締結に向けた協力[^mwsg] |
     | スイス二国間 | ✅ 締結済み；**AIR 2025年8月提出**（100万t超ITMO計画） |
     | CA体制 | 🟡 整備中（AIR提出済み） |
+    | UNレビュー | （要確認）2026年6月のUNFCCC技術専門家レビュー（チュニジア・ルワンダ・カンボジア・モンゴル・モルディブ・パラオ・スリランカと同バッチ）でArticle 6.2報告の改善点を指摘された[^mwreview] |
 
     ## NDC達成見込み
 

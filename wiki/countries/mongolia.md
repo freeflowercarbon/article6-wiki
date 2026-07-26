@@ -4,14 +4,14 @@
 
     ## Overview
 
-    Mongolia is one of Japan's **earliest JCM partners** (2013) with multiple active projects in energy efficiency (coal boiler upgrades, district heating) and renewable energy in Ulaanbaatar. Mongolia also signed a **Singapore Implementation Agreement in 2025**, giving it dual acquiring-country access. Grassland and forest carbon NBS potential is under exploration, though desertification poses significant uncertainty for NBS permanence.
+    Mongolia is one of Japan's **earliest JCM partners** (2013) with multiple active projects in energy efficiency (coal boiler upgrades, district heating) and renewable energy in Ulaanbaatar. On **July 6, 2026, Mongolia completed its first-ever JCM ITMO transfer** to Japan — 86,564 tCO₂e across four solar and battery-storage projects (MN003, MN004, MN006, MN007).[^mnitmo] Mongolia also signed a **Singapore Implementation Agreement in 2025**, giving it dual acquiring-country access. Grassland and forest carbon NBS potential is under exploration, though desertification poses significant uncertainty for NBS permanence.
 
     | Item | Detail |
     |------|--------|
     | NDC Target | 22.7% reduction vs. 2010 by 2030 (conditional 27.2%)[^mnndc] |
     | Carbon System | In preparation (voluntary emission reduction program) |
     | Key Ministry | Ministry of Environment and Climate Change[^mnmoecc] |
-    | JCM (Japan) | ✅ Since 2013; multiple active projects[^mnjcm] |
+    | JCM (Japan) | 🟢 Since 2013; **first ITMO transfer Jul 6, 2026** (86,564t, 4 projects)[^mnitmo] |
     | Singapore IA | ✅ Signed 2025[^mnsg] |
     | CA Framework | 🟡 In development |
     | NBS Maturity | ⭐⭐ |
@@ -20,6 +20,7 @@
     [^mnmoecc]: Mongolia Ministry of Environment and Climate Change: <https://www.mne.mn/>
     [^mnjcm]: JCM Mongolia: GEC <https://gec.jp/jcm/projects/>; signed 2013; district heating, building efficiency, solar projects active
     [^mnsg]: Singapore-Mongolia Implementation Agreement (2025): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
+    [^mnitmo]: Japan-Mongolia first JCM ITMO transfer (MN003, MN004, MN006, MN007; solar + battery storage; 86,564 tCO₂e; JC decision Jun 30, 2026; transfer completed Jul 6, 2026): GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-20260706/>
 
     ## NDC Achievement Status
 
@@ -34,7 +35,7 @@
 
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
-    | Japan 🇯🇵 | JCM | ✅ 2013; multiple active | District heating, buildings, RE |
+    | Japan 🇯🇵 | JCM | 🟢 2013; **ITMO transferred Jul 6, 2026** (86,564t) | District heating, buildings, RE, solar+storage |
     | Singapore 🇸🇬 | IA | ✅ 2025 | NBS and clean energy pipeline |
     | Switzerland 🇨🇭 | Bilateral | ⚪ | — |
 
@@ -62,7 +63,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    日本JCMの初期パートナー国（2013年）。ウランバートルを中心とした石炭暖房の省エネ化・効率化プロジェクトが多数稼働。**2025年にシンガポールIAも署名**し、デュアルアクセス国となった。草地・森林のNBS可能性も注目されているが、砂漠化の進行が恒久性リスクを高めている。
+    日本JCMの初期パートナー国（2013年）。ウランバートルを中心とした石炭暖房の省エネ化・効率化プロジェクトが多数稼働。**2026年7月6日、モンゴル史上初のJCM ITMO移転が完了**（太陽光・蓄電池4プロジェクト＝MN003・MN004・MN006・MN007、合計86,564 tCO₂e、日本へ移転）[^mnitmo]。**2025年にシンガポールIAも署名**し、デュアルアクセス国となった。草地・森林のNBS可能性も注目されているが、砂漠化の進行が恒久性リスクを高めている。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -70,16 +71,18 @@
     | NDC目標 | 2030年に2010年比22.7%削減（条件付き27.2%） |
     | 国内炭素制度 | 準備中（自主的排出削減プログラム） |
     | 主管省庁 | 環境気候変動省 |
-    | JCM状況 | ✅ 日本（2013年）複数稼働 |
+    | JCM状況 | 🟢 日本（2013年）**ITMO移転完了 2026年7月6日**（86,564t） |
     | シンガポールIA | ✅ 2025年署名 |
     | CA体制 | 🟡 整備中 |
     | NBS成熟度 | ⭐⭐ |
+
+    [^mnitmo]: 日本・モンゴル初のJCM ITMO移転（MN003・MN004・MN006・MN007；太陽光＋蓄電池；86,564 tCO₂e；JC決定2026年6月30日；移転完了2026年7月6日）：GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-20260706/>
 
     ## 調達国との合意状況
 
     | 調達国 | 制度 | 状況 |
     |--------|------|------|
-    | 日本 🇯🇵 | JCM | ✅ 2013年署名・複数稼働 |
+    | 日本 🇯🇵 | JCM | 🟢 **ITMO移転完了 2026年7月6日**（86,564t） |
     | シンガポール 🇸🇬 | IA | ✅ 2025年署名 |
     | スイス 🇨🇭 | — | ⚪ |
 

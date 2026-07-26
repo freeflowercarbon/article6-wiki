@@ -25,7 +25,7 @@
 
     | Development | Date | Details |
     |-------------|------|---------|
-    | **First-ever JCM ITMO transfers** | **Nov–Dec 2025** | 🟢 **Thailand TH014 floating solar (Nov 11, 2025, 1,009t)** + **Maldives MV002 Addu City mini-grid (Dec 17, 2025, 433t)** — first completed JCM ITMO transfers, both acquired by MOEJ. See [ITMO Transfer Tracker](../itmo_tracker.md)[^jcmfirstitmo] |
+    | **First-ever JCM ITMO transfers** | **Nov 2025–Jul 2026** | 🟢 **Thailand TH014 floating solar (Nov 11, 2025, 1,009t)** + **Maldives MV002 Addu City mini-grid (Dec 17, 2025, 433t)** + **Mongolia MN003/004/006/007 solar+storage (Jul 6, 2026, 86,564t — Mongolia's first JCM transfer)** — all acquired by MOEJ. See [ITMO Transfer Tracker](../itmo_tracker.md)[^jcmfirstitmo] |
     | A6 authorization formalized in JCM Rules | 2025–2026 | Article 6 authorization process formally incorporated into JCM Rules of Implementation with **4 countries: Georgia, Mongolia, Sri Lanka, Tunisia** (more in progress)[^jcmauth] |
     | "Early Mover Group" launched | COP30 (Nov 2025) | 11th JCM Partner Countries' Meeting Joint Statement established the **"Early Mover Group of Article 6.2 Bilateral Cooperative Approaches"**[^jcmearly] |
     | JCMA established | April 2025 | JCM Implementation Agency (JCMA) created as one-stop operational focal point: project registration, CA management, UNFCCC reporting under Article 6.2 |
@@ -36,7 +36,7 @@
     | India MoC | August 29, 2025 | India–Japan MoC signed; India became partner #30 |
     | JCM expansion proposals | 2025–2026 | Dual registration (JCM + VCS/Gold Standard) and methodology integration with existing voluntary standards under active policy discussion |
 
-    [^jcmfirstitmo]: First JCM ITMO transfers: Thailand TH014 (5MW floating solar, 1,009 tCO₂e, transfer Nov 11, 2025) — GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; Maldives MV002 (Addu City smart mini-grid, 433 tCO₂e, transfer Dec 17, 2025) — JCM <https://www.jcm.go.jp/jc/information/20251217/>
+    [^jcmfirstitmo]: JCM ITMO transfers: Thailand TH014 (5MW floating solar, 1,009 tCO₂e, transfer Nov 11, 2025) — GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-611/>; Maldives MV002 (Addu City smart mini-grid, 433 tCO₂e, transfer Dec 17, 2025) — JCM <https://www.jcm.go.jp/jc/information/20251217/>; Mongolia MN003/MN004/MN006/MN007 (solar + battery storage, 86,564 tCO₂e, transfer Jul 6, 2026 — Mongolia's first-ever JCM transfer) — GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-20260706/>
     [^jcmauth]: Article 6 authorization process formalized in the JCM Rules of Implementation with Georgia, Mongolia, Sri Lanka and Tunisia (as of 2026): GEC/MOEJ; secondary sources
     [^jcmearly]: 11th JCM Partner Countries' Meeting at COP30 — Joint Statement establishing the "Early Mover Group of Article 6.2 Bilateral Cooperative Approaches": MOEJ <https://www.env.go.jp/en/press/press_00824.html>
 
@@ -207,7 +207,7 @@
 
     | 動向 | 時期 | 内容 |
     |------|------|------|
-    | **JCM史上初のITMO移転** | **2025年11–12月** | 🟢 **タイTH014浮体式太陽光（2025年11月11日、1,009t）＋モルディブMV002アッドゥ市ミニグリッド（2025年12月17日、433t）** — JCM初の移転完了、いずれも環境省取得。[ITMO移転トラッカー](../itmo_tracker.md)参照[^jcmfirstitmo] |
+    | **JCM史上初のITMO移転** | **2025年11月〜2026年7月** | 🟢 **タイTH014浮体式太陽光（2025年11月11日、1,009t）＋モルディブMV002アッドゥ市ミニグリッド（2025年12月17日、433t）＋モンゴルMN003/004/006/007太陽光＋蓄電池（2026年7月6日、86,564t — モンゴル史上初のJCM移転）** — いずれも環境省取得。[ITMO移転トラッカー](../itmo_tracker.md)参照[^jcmfirstitmo] |
     | JCMルールにA6授権を明文化 | 2025〜2026年 | Article 6授権手続をJCM実施規則に正式組込み — **ジョージア・モンゴル・スリランカ・チュニジアの4カ国**（他国も準備中）[^jcmauth] |
     | 「Early Mover Group」発足 | COP30（2025年11月） | 第11回JCM締結国会合の共同声明で**「A6.2二国間協調アプローチ早期実施国グループ」**を設立[^jcmearly] |
     | JCMA設立 | 2025年4月 | JCM実施機関（JCMA）をワンストップの運営拠点として設立。プロジェクト登録・CA管理・UNFCCC報告を一元化 |

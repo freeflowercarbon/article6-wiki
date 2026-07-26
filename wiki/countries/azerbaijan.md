@@ -12,7 +12,7 @@
     | NDC Rating | 🔴 **"Critically Insufficient" (Climate Action Tracker)** — emissions projected +~20% through 2030; no net-zero commitment[^azcat] |
     | Carbon System | Under preparation (accelerated post-COP29)[^azcop29] |
     | Key Ministry | Ministry of Ecology and Natural Resources[^azmenr] |
-    | JCM (Japan) | ✅ Since 2016[^azjcm] |
+    | JCM (Japan) | ✅ Since 2016[^azjcm]; foreign ministers agreed **Jun 10, 2026** (Tokyo) to pursue decarbonization cooperation via the existing JCM MoC track and hold the first JCM Joint Committee meeting (date TBC) — no separate/special A6.2 bilateral has been signed[^azjcm2026] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
 
@@ -21,6 +21,7 @@
     [^azmenr]: Azerbaijan Ministry of Ecology and Natural Resources: <https://eco.gov.az/>
     [^azjcm]: JCM Azerbaijan: GEC <https://gec.jp/jcm/projects/>; signed 2016; wind and energy efficiency projects
     [^azcat]: Climate Action Tracker rates Azerbaijan "Critically Insufficient" — it weakened its updated NDC, removing the 2030 target altogether, pledged to increase fossil-fuel production, and projects emissions rising ~20% through 2030 with no net-zero target: Climate Action Tracker <https://climateactiontracker.org/countries/azerbaijan/>
+    [^azjcm2026]: Azerbaijan-Japan foreign ministers meeting (Tokyo, Jun 10, 2026) agreed to use the existing JCM Memorandum of Cooperation (signed 2022) for decarbonization cooperation and to hold the first JCM Joint Committee meeting at an early, unscheduled date — this is a step within the standard JCM track, not confirmation of a separate special A6.2 bilateral deal（要確認, pending primary MOE/JCM announcement）: secondary sources compiled Jul 2026 crawl
 
     > ⚠️ **Export-suitability caveat (Jun 2026)**: Azerbaijan's weakened NDC and rising-emissions trajectory undermine the "genuine surplus" basis for ITMO exports — a host country that cannot meet its own (now-vaguer) targets has questionable additionality headroom for authorizing transfers.
 
@@ -68,7 +69,7 @@
     | NDC評価 | 🔴 **「危機的に不十分」（Climate Action Tracker）** — 2030年まで排出+約20%見込み・ネットゼロ目標なし[^azcat] |
     | 国内炭素制度 | 整備準備中（COP29後に加速） |
     | 主管省庁 | 環境省 |
-    | JCM状況 | ✅ 日本（2016年） |
+    | JCM状況 | ✅ 日本（2016年）；**2026年6月10日**東京での外相会談で既存JCM覚書の枠組みでの脱炭素協力継続とJCM合同委員会初回会合開催（日程未定）を確認 — A6.2特別二国間協定の署名ではない（要確認） |
     | CA体制 | 🔴 未整備 |
     | NBS成熟度 | ⭐⭐ |
 

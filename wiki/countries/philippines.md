@@ -9,7 +9,7 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 75% conditional / 2.71% unconditional reduction vs. BAU by 2030[^phndc] |
-    | Carbon System | VFCM framework (DAO 2025-23)[^phvfcm]; no ETS yet |
+    | Carbon System | VFCM framework (DAO 2025-23)[^phvfcm]; **DAO 2026-30 (signed Jun 29, 2026) — first national Nature-based Solutions (NbS) Policy + NbS Catalogue (21 example projects), incorporating the IUCN Global Standard for NbS**[^phnbs]; no ETS yet |
     | JCM (Japan) | ✅ Since 2017; paddy + forest guidelines approved 2025[^phjcm] |
     | Singapore IA | ✅ **Signed April 30, 2026** — 11th Singapore IA; 3rd ASEAN IA partner[^phsg] |
     | CA Framework | 🟡 Being established (post-IA) |
@@ -20,6 +20,7 @@
     [^phjcm]: JCM Philippines: GEC <https://gec.jp/jcm/projects/>; paddy methane methodology Feb 2025: JIRCAS <https://www.jircas.go.jp/en/reports/2024/r20250204>; forest guidelines Nov 2025: MOEJ
     [^phsg]: Singapore-Philippines Implementation Agreement signed **April 30, 2026** — **11th Singapore IA**; 3rd ASEAN IA partner after Thailand and Vietnam (Cambodia has an MOU only, not an IA): NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>; secondary sources (Carbon Pulse, Saxon Renewables)
     [^phdenr]: DENR (Philippines): <https://www.denr.gov.ph/>
+    [^phnbs]: DENR Administrative Order 2026-30, signed Jun 29, 2026, launched early Jul 2026 — first national NbS Policy + NbS Catalogue (21 example projects), incorporating the IUCN Global Standard for NbS; backed by UNDP + Canadian embassy funding; establishes a technical working group and national NbS project registry (new instrument alongside DAO 2025-23/VFCM, not a replacement): BusinessWorld <https://www.bworldonline.com/the-nation/2026/07/02/760694/>; Manila Times; QC Intel
 
     ## NDC Achievement Status
 
@@ -80,7 +81,7 @@
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年にBAU比75%削減（無条件：2.71%のみ） |
-    | 国内炭素制度 | 未導入（VFCM枠組み整備中） |
+    | 国内炭素制度 | 未導入（VFCM枠組み整備中）；**DAO 2026-30（2026年6月29日署名）— 初の国家NBS政策＋NBSカタログ（事例21件）、IUCN NBS国際基準を採用**[^phnbs] |
     | 主管省庁 | DENR（環境天然資源省）、CCC |
     | JCM状況 | 日本（2017年）✅ |
     | IA状況 | シンガポール ✅ **2026年4月30日署名**（第11号IA・ASEAN第3号） |

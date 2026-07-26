@@ -10,6 +10,7 @@
     |------|--------|
     | NDC Target | 43.5% conditional / 15.8% unconditional reduction vs. BAU by 2030[^vnndc] |
     | Carbon System | ETS pilot 2025–2028 (500+ MRV-obligated facilities)[^vnets]; VVCS domestic standard[^vnvvcs] |
+    | Forest Carbon Framework | 🆕 **Decree 180/2026/ND-CP** (issued May 21, 2026; effective Jul 15, 2026) — domestic legal framework for forest carbon sequestration/storage services (4 chapters/20 articles/6 appendices: project docs, emissions-reduction-target allocation, contract templates, financial management); draft National Standard for Forest Carbon Credits presented alongside. Complements Decree 112/2026 (international transfer caps) as the domestic forest-carbon supply side[^vndec180] |
     | JCM (Japan) | ✅ Since 2013; 35+ projects; **15 approved methodologies** (3rd most of any JCM partner country); **JCM projects formally upgraded to Article 6.2 pathway May 2, 2026**[^vnjcm][^vnjcm_a62] |
     | Singapore IA | ✅ Signed Sep 2025[^vnsg] |
     | Switzerland | 🔄 Under negotiation[^vnch] |
@@ -26,6 +27,7 @@
     [^vndec6]: Vietnam Decree 06/2022/ND-CP (carbon market legal framework): <https://thuvienphapluat.vn/van-ban/Tai-nguyen-Moi-truong/Nghi-dinh-06-2022-ND-CP-giam-nhe-phat-thai-khi-nha-kinh-bao-ve-tang-ozon-495623.aspx>
     [^vndec2026]: Vietnam **Decree 112/2026/ND-CP** issued April 1, 2026, effective **May 19, 2026** — establishes the legal basis for international transfers of mitigation outcomes/carbon credits under Article 6.2 and 6.4: a government **Letter of Authorization (LOA)** process plus corresponding adjustments, and **maximum transfer ratios of up to 90% (List 1 priority programs) / up to 50% (List 2)**. Enables first formal A6.2 transfers under the Singapore IA (Sep 2025): luatvietnam <https://english.luatvietnam.vn/decree-no-112-2026-nd-cp-dated-april-01-2026-of-the-government-on-the-international-transfer-of-greenhouse-gas-emission-mitigation-outcomes-and-carb-430687-doc1.html>; Lexology <https://www.lexology.com/library/detail.aspx?g=174bd55f-a758-4f1c-af0d-a7e11a41fad2>
     [^vnmonre]: Vietnam MONRE: <https://www.monre.gov.vn/>
+    [^vndec180]: Vietnam **Decree 180/2026/ND-CP** on forest carbon sequestration and storage services, issued May 21, 2026, effective Jul 15, 2026 — domestic legal/contractual framework distinct from Decree 112/2026 (international LOA/transfer caps): Vietnam News <https://vietnamnews.vn/environment/1784683/>; VietnamPlus; Nhan Dan Online
 
     ## NDC Achievement Status
 
@@ -93,6 +95,7 @@
     |------|------|
     | NDC目標 | 2030年にBAU比43.5%削減（条件付き）／15.8%（無条件） |
     | 国内炭素制度 | ETS試験運用（2025〜2028年、500施設以上）、VVCS国内基準 |
+    | 森林炭素枠組み | 🆕 **Decree 180/2026/ND-CP**（2026年5月21日発出、7月15日施行）— 森林炭素の吸収・貯留サービスに関する国内法的枠組み（プロジェクト文書・削減目標配分・契約ひな型・財務管理を規定）；森林炭素クレジット国家標準案も同時提示。Decree 112/2026（国際移転上限）と対をなす国内側の枠組み[^vndec180] |
     | 主管省庁 | MONRE（天然資源環境省） |
     | JCM状況 | 日本（2013年）✅ 35件以上；**JCM案件のA6.2移行 2026年5月2日**[^vnjcm_a62] |
     | IA状況 | シンガポール ✅ 2025年9月署名 |
