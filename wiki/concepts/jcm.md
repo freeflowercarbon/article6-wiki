@@ -26,7 +26,7 @@
     | Development | Date | Details |
     |-------------|------|---------|
     | **MOEJ addresses the "year-limit problem"** | **Jul 3, 2026** | Official positions: 2030-NDC cancellation deadline = **before BTR5 (UNFCCC deadline Dec 31, 2032; submission ~Oct 2032)**; vintage basis confirmed (reduction year FY2021–30, not issuance year); GX-ETS 2031+ external-credit rules **undecided**; voluntary cancellation request to private-JCM holders (written intent under consideration); **JCM credit trading market to be established**. See [JCM 2030 Problem](jcm_2030_problem.md) |
-    | **First-ever JCM ITMO transfers** | **Nov 2025–Jul 2026** | 🟢 **Thailand TH014 floating solar (Nov 11, 2025, 1,009t)** + **Maldives MV002 Addu City mini-grid (Dec 17, 2025, 433t)** + **Mongolia MN003/004/006/007 solar+storage (Jul 6, 2026, 86,564t — Mongolia's first JCM transfer)** — all acquired by MOEJ. See [ITMO Transfer Tracker](../itmo_tracker.md)[^jcmfirstitmo] |
+    | **First-ever JCM ITMO transfers** | **Nov 2025–Jul 2026** | 🟢 **Thailand TH014 floating solar (Nov 11, 2025, 1,009t)** + **Maldives MV002 Addu City mini-grid (Dec 17, 2025, 433t)** + **Palau PW001–004 island solar (Jun 2, 2026, 194t — Pacific SIDS' first JCM transfer; backfilled 2026-08-02)** + **Mongolia MN003/004/006/007 solar+storage (Jul 6, 2026, 86,564t — Mongolia's first JCM transfer)** — all acquired by MOEJ. See [ITMO Transfer Tracker](../itmo_tracker.md)[^jcmfirstitmo] |
     | A6 authorization formalized in JCM Rules | 2025–2026 | Article 6 authorization process formally incorporated into JCM Rules of Implementation with **4 countries: Georgia, Mongolia, Sri Lanka, Tunisia** (more in progress)[^jcmauth] |
     | "Early Mover Group" launched | COP30 (Nov 2025) | 11th JCM Partner Countries' Meeting Joint Statement established the **"Early Mover Group of Article 6.2 Bilateral Cooperative Approaches"**[^jcmearly] |
     | JCMA established | April 2025 | JCM Implementation Agency (JCMA) created as one-stop operational focal point: project registration, CA management, UNFCCC reporting under Article 6.2 |
@@ -209,7 +209,7 @@
     | 動向 | 時期 | 内容 |
     |------|------|------|
     | **環境省が「年限問題」に公式見解** | **2026年7月3日** | 2030年NDC計上の無効化期限＝**BTR5前（UNFCCC期限2032年12月31日・提出想定2032年10月）**；ビンテージ基準確認（発行年でなく削減実現年FY2021〜30）；GX-ETS 2031年以降の外部クレジットルールは**未定**；民間JCM保有者へ無効化を任意要請（意向書面の提出を検討）；**JCMクレジット取引市場の早期整備**を表明。詳細は[JCM 2030年問題](jcm_2030_problem.md) |
-    | **JCM史上初のITMO移転** | **2025年11月〜2026年7月** | 🟢 **タイTH014浮体式太陽光（2025年11月11日、1,009t）＋モルディブMV002アッドゥ市ミニグリッド（2025年12月17日、433t）＋モンゴルMN003/004/006/007太陽光＋蓄電池（2026年7月6日、86,564t — モンゴル史上初のJCM移転）** — いずれも環境省取得。[ITMO移転トラッカー](../itmo_tracker.md)参照[^jcmfirstitmo] |
+    | **JCM史上初のITMO移転** | **2025年11月〜2026年7月** | 🟢 **タイTH014浮体式太陽光（2025年11月11日、1,009t）＋モルディブMV002アッドゥ市ミニグリッド（2025年12月17日、433t）＋パラオPW001〜004島嶼太陽光（2026年6月2日、194t — 太平洋SIDS初のJCM移転；記載漏れを2026-08-02に補完）＋モンゴルMN003/004/006/007太陽光＋蓄電池（2026年7月6日、86,564t — モンゴル史上初のJCM移転）** — いずれも環境省取得。[ITMO移転トラッカー](../itmo_tracker.md)参照[^jcmfirstitmo] |
     | JCMルールにA6授権を明文化 | 2025〜2026年 | Article 6授権手続をJCM実施規則に正式組込み — **ジョージア・モンゴル・スリランカ・チュニジアの4カ国**（他国も準備中）[^jcmauth] |
     | 「Early Mover Group」発足 | COP30（2025年11月） | 第11回JCM締結国会合の共同声明で**「A6.2二国間協調アプローチ早期実施国グループ」**を設立[^jcmearly] |
     | JCMA設立 | 2025年4月 | JCM実施機関（JCMA）をワンストップの運営拠点として設立。プロジェクト登録・CA管理・UNFCCC報告を一元化 |

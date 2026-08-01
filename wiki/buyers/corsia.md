@@ -16,6 +16,10 @@
 
     [^corsiaalliance]: IATA "Supporting Alliance for CORSIA EEU Supply" launched Jun 6, 2026, 50 members by Jun 23, 2026; Guyana/Madagascar/UK/Zambia/Zimbabwe governments signed the Aviation Carbon Market Compact; target 225–250M EEUs by spring 2027; ~40Mt current EEU supply vs. ~200Mt Phase 1 demand; 10 countries supplying via LoA as of Apr 2026: IATA <https://www.iata.org/en/pressroom/2026-releases/06-06-iata-launches-supporting-alliance-corsia-eeu-supply/>; <https://www.iata.org/en/pressroom/2026-releases/06-23-states-supporting-partners-join-iata-alliance-expand-corsia-carbon-credit-supply/>
 
+    > 🆕 **Rwanda cookstove credits cleared for trade (late Jul 2026, 要確認)**: Verra reportedly recorded corresponding adjustments for **5M+ credits** from Rwanda cookstove projects (DelAgua-linked), clearing them for international Article 6 and CORSIA trade — a further diversification of EEU supply beyond Guyana ART TREES. Source is a paywalled Carbon Pulse headline only; exact date, registry confirmation, and whether any units have actually transacted are unverified. This is a CA-recording/eligibility event, **not** a confirmed ITMO transfer — does not change [itmo_tracker.md](../itmo_tracker.md).[^corsiarwanda]
+
+    [^corsiarwanda]: Carbon Pulse, "Rwandan cookstove carbon credits cleared for Article 6, CORSIA trade" (headline only, paywalled, exact date unconfirmed, ~late Jul 2026): <https://carbon-pulse.com/536733/> — low/medium confidence, secondary source only
+
     ## Key Parameters
 
     | Item | Detail |
@@ -89,6 +93,8 @@
     **CORSIA（国際航空炭素相殺・削減スキーム）**はICAO（国際民間航空機関）が定める国際航空CO₂排出の市場型規制。航空会社は2019年比で増加した排出量をCORSIA適格ユニット（CEU）で相殺する義務を負う。重要な点として、**2021年以降ヴィンテージのCORSIA EEUはホスト国のArticle 6 授権書（LoA）＋対応調整（CA）を必須**としており、この意味でCORSIAは**既にArticle 6の需要チャネルとして機能している**（「ITMO」という名称のユニットは使わないが、授権・CA済みクレジットを消費する）。フェーズ1（2024〜2026年）の供給は極めて逼迫しており、**ガイアナの管轄型REDD+（ART TREES）が実質唯一の供給源**だったが、2026年6月以降は供給多様化の動きが進む。
 
     > 🆕 **EEU供給拡大（2026年6月）**：IATAが2026年6月6日に**「CORSIA EEU供給支援連合（Supporting Alliance for CORSIA EEU Supply）」**を発足、2026年6月23日までに**50メンバーに拡大**。ガイアナ・マダガスカル・英国・ザンビア・ジンバブエ各国政府が「Aviation Carbon Market Compact」に署名（ペルーも関心表明）。目標は**2027年春までにEEU供給を2億2,500万〜2億5,000万に拡大**すること。現在の供給量は約4,000万tでフェーズ1需要（約2億t）に対し逼迫しているが、**2026年4月時点で10カ国がLoA経由でEEUを供給**しており、従来の「ガイアナART TREESが実質唯一の供給源」という構図は変わりつつある。
+
+    > 🆕 **ルワンダかまどクレジットが取引可能に（2026年7月下旬、要確認）**：Verraがルワンダのかまどプロジェクト（DelAgua関連）由来の**500万t超のクレジット**について対応調整（CA）を記録したと報じられ、国際的なArticle 6・CORSIA取引の対象となった模様。ガイアナART TREES以外へのEEU供給源多様化がさらに進んだ形。ただし出典はCarbon Pulseの有料記事見出しのみで、正確な日付・登録簿での確認・実際の取引成立の有無は未確認。CA記録・適格化イベントであり、**ITMO移転が確定したわけではない** — [itmo_tracker.md](../itmo_tracker.md)には反映しない。[^corsiarwanda]
 
     ## 主要パラメータ
 

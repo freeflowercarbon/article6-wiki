@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Japan is an **acquiring country** under Article 6.2, primarily through the **Joint Crediting Mechanism (JCM)** — bilateral carbon credit agreements with 32 countries (as of April 2026). In March 2025, Japan formally recognized JCM as Article 6.2-compatible, and **completed its first JCM ITMO transfers starting late 2025: Thailand (Nov 11, 2025 — first-ever JCM ITMO, 1,009t), Maldives (Dec 17, 2025, 433t), and Mongolia (Jul 6, 2026 — Mongolia's first-ever JCM transfer, 86,564t across 4 projects)**.[^jpitmo] Japan's NDC target is a **46% reduction from 2013 by 2030** (updated 2025 NDC: **60% by FY2035 vs. FY2013**), supplemented by JCM credits.
+    Japan is an **acquiring country** under Article 6.2, primarily through the **Joint Crediting Mechanism (JCM)** — bilateral carbon credit agreements with 32 countries (as of April 2026). In March 2025, Japan formally recognized JCM as Article 6.2-compatible, and **completed its first JCM ITMO transfers starting late 2025: Thailand (Nov 11, 2025 — first-ever JCM ITMO, 1,009t), Maldives (Dec 17, 2025, 433t), Palau (Jun 2, 2026 — Pacific SIDS' first JCM transfer, 194t; backfilled 2026-08-02), and Mongolia (Jul 6, 2026 — Mongolia's first-ever JCM transfer, 86,564t across 4 projects)**.[^jpitmo] Japan's NDC target is a **46% reduction from 2013 by 2030** (updated 2025 NDC: **60% by FY2035 vs. FY2013**), supplemented by JCM credits.
 
     | Item | Detail |
     |------|--------|
@@ -154,7 +154,7 @@
 
     | Metric | Data |
     |--------|------|
-    | **Completed ITMO transfers (acquired)** | ✅ **3**: Thailand TH014 floating solar (**Nov 11, 2025** — first-ever JCM ITMO, 1,009t) + Maldives MV002 Addu City mini-grid (**Dec 17, 2025**, 433t) + Mongolia MN003/004/006/007 solar+storage (**Jul 6, 2026** — Mongolia's first JCM transfer, 86,564t); all acquired by MOEJ[^jpitmo] |
+    | **Completed ITMO transfers (acquired)** | ✅ **4**: Thailand TH014 floating solar (**Nov 11, 2025** — first-ever JCM ITMO, 1,009t) + Maldives MV002 Addu City mini-grid (**Dec 17, 2025**, 433t) + Palau PW001–004 island solar (**Jun 2, 2026** — 194t; previously missing from this page, backfilled 2026-08-02) + Mongolia MN003/004/006/007 solar+storage (**Jul 6, 2026** — Mongolia's first JCM transfer, 86,564t); all acquired by MOEJ[^jpitmo] |
     | Cumulative JCM credits issued (March 2026) | **817,247 tCO₂e** [^jcmstat] |
     | Registered projects (March 2026) | **94** [^jcmstat] |
     | Funded projects (registered + pipeline) | 264 [^jcmstat] |
@@ -239,7 +239,7 @@
 
     ## サマリー
 
-    日本はArticle 6.2において**調達国（ITMOの取得側）**として位置付けられる。JCM（二国間クレジット制度）を32カ国と締結（2026年4月時点）、2025年3月にJCMをArticle 6.2適合と正式認定。**2025年末以降、JCMのITMO移転を実現：タイ（2025年11月11日、TH014浮体式太陽光、1,009t — JCM史上初）、モルディブ（2025年12月17日、MV002、433t）、モンゴル（2026年7月6日、4プロジェクト合計86,564t — モンゴル史上初のJCM移転）**[^jpitmo]。NDC目標は**2030年にFY2013比46%削減**（2025年提出NDC更新版：**FY2035に60%削減**）。
+    日本はArticle 6.2において**調達国（ITMOの取得側）**として位置付けられる。JCM（二国間クレジット制度）を32カ国と締結（2026年4月時点）、2025年3月にJCMをArticle 6.2適合と正式認定。**2025年末以降、JCMのITMO移転を実現：タイ（2025年11月11日、TH014浮体式太陽光、1,009t — JCM史上初）、モルディブ（2025年12月17日、MV002、433t）、パラオ（2026年6月2日、PW001〜004、194t — 太平洋SIDS初のJCM移転；記載漏れを2026-08-02に補完）、モンゴル（2026年7月6日、4プロジェクト合計86,564t — モンゴル史上初のJCM移転）**[^jpitmo]。NDC目標は**2030年にFY2013比46%削減**（2025年提出NDC更新版：**FY2035に60%削減**）。
 
     ## 基本情報
     | 項目 | 内容 |
