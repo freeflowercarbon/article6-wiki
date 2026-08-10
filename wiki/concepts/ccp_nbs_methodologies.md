@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-07-26  
+    > Last updated: 2026-08-11  
     > Sources: [ICVCM](https://icvcm.org/), [Verra](https://verra.org/), [Gold Standard](https://www.goldstandard.org/), [NEA Eligibility List](https://www.carbonmarkets-cooperation.gov.sg/environmental-integrity/eligibility-criteria/)
 
     ## What is the CCP Label?
@@ -25,6 +25,10 @@
     > **Market-wide CCP status (mid-2026)**: ICVCM has now approved **30+ methodologies** across nature, methane, and removals, and the crediting **programs covering ~98% of market volume are CCP-Eligible**. VM0048 REDD+ has ~21 projects in development (~300M credits potential first crediting period) and the JNR Framework has ~5 projects. Note: a CCP-Eligible *program* does not mean every credit carries the CCP label — only credits issued under a CCP-*approved methodology* do.[^ccpmktwide]
 
     [^ccpmktwide]: ICVCM CCP approvals and assessment status (mid-2026): 30+ methodologies approved; ~98% of market volume from CCP-Eligible programs; VM0048 ~21 projects/~300M credits, JNR ~5 projects: ICVCM <https://icvcm.org/integrity-council-approves-three-redd-methodologies/>; <https://icvcm.org/assessment-status/>
+
+    🆕 **Aug 4, 2026 — three more crediting programs approved as CCP-Eligible**: BioCarbon Standard, Cercarbono, and Plan Vivo, bringing the cumulative total to 13 programs approved as CCP-Eligible since March 2024 (secondary reporting cites ~95% of cumulative VCM issuance now CCP-Eligible-program-covered — this is a *program*-level coverage claim, distinct from the methodology-level "30+ methodologies / ~98% of market volume" figure above; not reconciled against a primary ICVCM source)[^ccpaug2026]
+
+    [^ccpaug2026]: ICVCM approved BioCarbon Standard, Cercarbono, and Plan Vivo as CCP-Eligible crediting programs on Aug 4, 2026 (13 programs total since Mar 2024; 41/66 methodologies approved overall per this source): Carbon Herald <https://carbonherald.com/icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95/>（要確認 — secondary reporting on ICVCM's decision; recommend cross-check at icvcm.org/assessment-status）
 
     ### ✅ REDD+ / Avoided Deforestation
 
@@ -195,7 +199,11 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-07-26
+    > 最終更新: 2026-08-11
+
+    🆕 **2026年8月4日 — 新たに3件のクレジット制度がCCP-Eligibleに承認**：BioCarbon Standard、Cercarbono、Plan Vivo。2024年3月以降の累計承認プログラム数は13件（二次情報源によれば累計VCM発行量の約95%がCCP-Eligibleプログラムでカバーされるとの報道 — これは上記の方法論レベルの「30以上の方法論／市場ボリューム約98%」とは異なるプログラムレベルの指標であり、一次資料での突合は未実施）[^ccpaug2026]
+
+    [^ccpaug2026]: ICVCMが2026年8月4日、BioCarbon Standard・Cercarbono・Plan VivoをCCP-Eligibleクレジット制度として承認（2024年3月以降累計13制度；本情報源によれば方法論ベースで41/66件承認）：Carbon Herald <https://carbonherald.com/icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95/>（要確認 — ICVCM決定に関する二次報道；icvcm.org/assessment-statusでの一次確認を推奨）
 
     ## CCPラベルとは
 

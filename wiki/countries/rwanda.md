@@ -39,8 +39,11 @@
     |---------|---------|--------|-------|
     | Forest conservation (Gishwati area) | Singapore | 🟡 Development stage | Singapore IA 2023; **project application call issued January 30, 2026**[^rwcall] |
     | Smallholder clean cooking | Singapore (prospective) | 🟡 Scoping | — |
+    | 🆕 Improved Cookstove Project (Verra) | Two authorizations, Aug 2026 | 🟡 CORSIA-eligible marketing authorized | Econetix authorized Aug 6, 2026 to market credits from crediting period Sep 2022–Aug 2027[^rwcookstove1]; a separate "global carbon asset manager" authorized Aug 5, 2026 for up to 1.8M CORSIA-eligible credits[^rwcookstove2] — **authorizations to market, not confirmed ITMO transfers**; possible overlap between the two reports（要確認） |
 
     [^rwcall]: Singapore-Rwanda IA project application call issued January 30, 2026: Singapore MSE / NCCS announcement
+    [^rwcookstove1]: Econetix authorized Aug 6, 2026 to market CORSIA-eligible credits from Rwanda's Verra-certified Improved Cookstove Project (crediting period Sep 2022–Aug 2027): Carbon Herald <https://carbonherald.com/econetix-gains-rwanda-authorization-to-market-for-corsia-eligible-carbon-credits/>
+    [^rwcookstove2]: An unnamed "global carbon asset manager" authorized Aug 5, 2026 for up to 1.8 million CORSIA-eligible credits from a Verra Improved Cookstove Project in Rwanda: Carbon Pulse <https://carbon-pulse.com/538810/>（要確認 — may describe the same underlying deal as Econetix's Aug 6 authorization）
     [^rwkw]: Rwanda-Kuwait Article 6.2 cooperation agreement — Rwanda has bilateral Article 6 agreements with both Singapore and Kuwait as of 2026: crawl_C 2026-06-20 (secondary source — exact date and terms TBC)
     [^rwloa]: Rwanda has issued unilateral Letters of Authorization for carbon projects — confirming Rwanda's CA framework is operationally active: crawl_C 2026-06-20
 
@@ -97,6 +100,10 @@
     |------------|------|------|
     | 森林保全（Gishwati地域） | シンガポール | 🟡 開発段階（**プロジェクト公募 2026年1月30日**） |
     | 小規模農家クリーンクッキング | シンガポール（予定） | 🟡 スコーピング中 |
+    | 🆕 改良かまどプロジェクト（Verra） | 2026年8月に2件の授権 | 🟡 CORSIA適格クレジットの販売授権 | Econetixが2026年8月6日授権（クレジット期間2022年9月〜2027年8月）[^rwcookstove1]；別途「グローバル炭素アセットマネージャー」が2026年8月5日に最大180万CORSIA適格クレジットの授権取得[^rwcookstove2] — **販売授権であり確定したITMO移転ではない**；両報道が同一案件の可能性あり（要確認） |
+
+    [^rwcookstove1]: Econetixが2026年8月6日、ルワンダのVerra認証改良かまどプロジェクト（クレジット期間2022年9月〜2027年8月）のCORSIA適格クレジット販売授権を取得：Carbon Herald <https://carbonherald.com/econetix-gains-rwanda-authorization-to-market-for-corsia-eligible-carbon-credits/>
+    [^rwcookstove2]: 匿名の「グローバル炭素アセットマネージャー」が2026年8月5日、ルワンダのVerra改良かまどプロジェクトから最大180万CORSIA適格クレジットの授権を取得：Carbon Pulse <https://carbon-pulse.com/538810/>（要確認 — Econetixの8月6日授権と同一案件の可能性）
 
     ## 主要コンタクトポイント
 

@@ -9,7 +9,7 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 22.7% reduction vs. 2010 by 2030 (conditional 27.2%)[^mnndc] |
-    | Carbon System | In preparation (voluntary emission reduction program) |
+    | Carbon System | 🆕 **Climate Change Law adopted Jul 2, 2026** (Mongolia's first, 9 chapters/32 articles) provides an explicit statutory basis for GHG inventory/reporting transparency, climate finance, and **carbon markets**[^mnlaw]; registry/implementation infrastructure still in preparation (UN-agency-supported registry study started ~Mar 2026, 6-month timeline) |
     | Key Ministry | Ministry of Environment and Climate Change[^mnmoecc] |
     | JCM (Japan) | 🟢 Since 2013; **first ITMO transfer Jul 6, 2026** (86,564t, 4 projects)[^mnitmo] |
     | Singapore IA | ✅ Signed 2025[^mnsg] |
@@ -21,6 +21,7 @@
     [^mnjcm]: JCM Mongolia: GEC <https://gec.jp/jcm/projects/>; signed 2013; district heating, building efficiency, solar projects active
     [^mnsg]: Singapore-Mongolia Implementation Agreement (2025): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^mnitmo]: Japan-Mongolia first JCM ITMO transfer (MN003, MN004, MN006, MN007; solar + battery storage; 86,564 tCO₂e; JC decision Jun 30, 2026; transfer completed Jul 6, 2026): GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-20260706/>
+    [^mnlaw]: Mongolia's Climate Change Law, adopted by Parliament Jul 2, 2026 (9 chapters, 32 articles) — establishes a legal basis for GHG inventory/transparency, climate finance, and carbon markets. Legislative trail: draft submitted May 21, 2026 (Parliament) <https://www.parliament.mn/nn/77345/>; Cabinet endorsement, Ministry of Environment and Climate Change (MECC) <https://mecc.gov.mn/posts/uur-amsgalyn-oorcloltiin-tuxai-xuuliin-tosliig-zasgiin-gazryn-xuraldaanaar-xelelcen-demzlee>; corroborated by Xinhua <https://english.news.cn/asiapacific/20260703/7a5d3ab4f6c341fbb9a585d1b035a08d/c.html> and QC Intel（要確認 — enacted law text not yet independently located on legalinfo.mn）
 
     ## NDC Achievement Status
 
@@ -70,6 +71,7 @@
     |------|------|
     | NDC目標 | 2030年に2010年比22.7%削減（条件付き27.2%） |
     | 国内炭素制度 | 準備中（自主的排出削減プログラム） |
+    | 国内炭素制度 | 🆕 **気候変動法が2026年7月2日に国会採択**（モンゴル史上初、9章32条）：GHGインベントリ・透明性、気候ファイナンス、**炭素市場**の法的基盤を規定[^mnlaw]；登録簿等の実装インフラは引き続き準備中（国連機関支援の登録簿調査が2026年3月頃開始、6ヶ月計画） |
     | 主管省庁 | 環境気候変動省 |
     | JCM状況 | 🟢 日本（2013年）**ITMO移転完了 2026年7月6日**（86,564t） |
     | シンガポールIA | ✅ 2025年署名 |
@@ -77,6 +79,7 @@
     | NBS成熟度 | ⭐⭐ |
 
     [^mnitmo]: 日本・モンゴル初のJCM ITMO移転（MN003・MN004・MN006・MN007；太陽光＋蓄電池；86,564 tCO₂e；JC決定2026年6月30日；移転完了2026年7月6日）：GEC/JCMA <https://gec.jp/jcm/agency/en/news/information-20260706/>
+    [^mnlaw]: モンゴル気候変動法（2026年7月2日国会採択、9章32条）— GHGインベントリ・透明性、気候ファイナンス、炭素市場の法的基盤を規定。立法過程：法案提出2026年5月21日（国会）<https://www.parliament.mn/nn/77345/>；閣議承認、環境気候変動省（MECC）<https://mecc.gov.mn/posts/uur-amsgalyn-oorcloltiin-tuxai-xuuliin-tosliig-zasgiin-gazryn-xuraldaanaar-xelelcen-demzlee>；Xinhua <https://english.news.cn/asiapacific/20260703/7a5d3ab4f6c341fbb9a585d1b035a08d/c.html>およびQC Intelが裏付け（要確認 — 制定法本文はlegalinfo.mnで未確認）
 
     ## 調達国との合意状況
 

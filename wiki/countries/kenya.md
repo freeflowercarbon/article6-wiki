@@ -10,7 +10,7 @@
     |------|--------|
     | NDC Target | 32% conditional reduction vs. BAU by 2030[^kendc] |
     | Carbon System | Kenya Carbon Markets Policy (2023)[^kecmp]; **Kenya National Carbon Registry (KNCR) live Feb 2026**[^kencr]; draft Carbon Registry Regulations 2025 (trading cap)[^kecap]; **domestic/regional carbon exchange planned within ~12 months, targeting 2027 launch and ~US$5B investment by 2028**[^kexchange] |
-    | **ITMO trading cap** | 🆕 Draft regs set a "carbon budget for trading" per UN period; **~10 million ITMOs capped for 2026–2030** (Carbon Pulse); govt may withhold ITMOs at authorization[^kecap] |
+    | **ITMO trading cap** | 🟢 **Confirmed Aug 4, 2026**: official "Guide for Strategic Engagement in Carbon Markets 2026" caps Article 6 international credit exports at **10 million tCO₂e cumulative through 2030** (~1.67M t/yr avg across energy, transport, IPPU, waste); supersedes the earlier draft-regulation figure[^kecap2026]; govt may withhold ITMOs at authorization[^kecap] |
     | Key Ministry | Ministry of Environment, Climate Change & Forestry[^kemoe]; NEMA (registry operator); EPRA |
     | JCM (Japan) | ✅ Since 2013[^kejcm] |
     | Sweden | 🟡 Bilateral / MoU active[^keswe] |
@@ -32,6 +32,7 @@
     [^kenor]: Norway-Kenya Statement of Intent on Article 6 of the Paris Agreement, signed June 9, 2026: Norwegian government <https://www.regjeringen.no/en/whats-new/norway-and-kenya-sign-a-statement-of-intent-on-the-paris-agreements-article-6/id3164865/>; TechReview Africa <https://techreviewafrica.com/news/5893/kenya-and-norway-sign-statement-of-intent-to-advance-carbon-market-agreement-under-paris-framework>（要確認 — 一次資料本文未取得）
     [^kech]: Switzerland-Kenya bilateral reported signed May 2, 2025（要確認 — not yet independently confirmed against a primary FOEN bilateral-agreements listing）: Carbon Pulse <https://carbon-pulse.com/393806/>; QC Intel progression coverage
     [^kexchange]: Kenya plans to launch a domestic/regional carbon exchange within ~12 months, targeting 2027, positioning itself as East Africa's carbon-trading hub and aiming to attract ~US$5 billion in investment by 2028 (Jul 10, 2026): Bloomberg <https://www.bloomberg.com/news/articles/2026-07-10/top-east-african-economy-kenya-plans-carbon-exchange-by-2027>; Carbon Pulse
+    [^kecap2026]: Kenya published its official "Guide for Strategic Engagement in Carbon Markets 2026" (Aug 4, 2026), confirming a cap of 10 million tCO₂e on cumulative Article 6 international credit exports through 2030 (avg ~1.67M t/yr across energy, transport, IPPU, waste sectors) — this formalizes the figure previously reported only from draft regulations: Carbon Pulse <https://carbon-pulse.com/538382/>; Washington Post <https://www.washingtonpost.com/world/2026/08/04/carbon-credits-caps-kenya-paris-agreement/052c9c60-902b-11f1-9fdc-0a725c989a7b_story.html>
 
     ## NDC Achievement Status
 
@@ -97,7 +98,7 @@
     |------|------|
     | NDC目標 | 2030年にBAU比32%削減（条件付き） |
     | 国内炭素制度 | Carbon Markets Policy（2023年）、**ケニア国家炭素登録簿（KNCR）稼働 2026年2月**[^kencr]、登録簿規則案2025（取引上限）[^kecap]；**国内・地域炭素取引所を約12ヶ月以内に開設予定（2027年目標、2028年までに約50億米ドルの投資誘致を目指す）**[^kexchange] |
-    | **ITMO取引上限** | 🆕 規則案でUN期間ごとの「取引用カーボンバジェット」を設定；**2026–2030年で約1,000万ITMO上限**（Carbon Pulse）；授権時にITMOを留保可能[^kecap] |
+    | **ITMO取引上限** | 🟢 **2026年8月4日に確定**：政府公式「Guide for Strategic Engagement in Carbon Markets 2026」により、2030年までの累計Article 6輸出上限を**1,000万tCO₂e**（年平均約167万t、エネルギー・運輸・IPPU・廃棄物セクター対象）と確認；規則案時点の数値を正式に上書き[^kecap2026]；授権時にITMOを留保可能[^kecap] |
     | 主管省庁 | 環境・気候変動・林業省、NEMA（登録簿運営）、EPRA |
     | JCM状況 | ✅ 日本（2013年） |
     | スウェーデン | 🟡 二国間／MoU稼働中 |

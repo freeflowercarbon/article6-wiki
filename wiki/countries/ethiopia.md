@@ -9,7 +9,7 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 68.8% reduction vs. 2010 by 2030 (conditional — very ambitious)[^etndc] |
-    | Carbon System | Ethiopia Climate Change Commission; framework in early development |
+    | Carbon System | 🆕 **Carbon market law ratified by Parliament ~Aug 10, 2026**[^etlaw] — Ethiopia's first dedicated carbon-market legislation; Ethiopia Climate Change Commission continues to lead implementation, still early-stage |
     | Key Ministry | Environment, Forest and Climate Change Commission (EFCCC)[^etefccc] |
     | JCM (Japan) | ✅ Since 2013[^etjcm] |
     | CA Framework | 🔴 Not yet established |
@@ -18,6 +18,7 @@
     [^etndc]: Ethiopia NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=ETH>
     [^etefccc]: Ethiopia EFCCC (Environment, Forest and Climate Change Commission): <https://www.efccc.gov.et/>
     [^etjcm]: JCM Ethiopia: GEC <https://gec.jp/jcm/projects/>; signed 2013; RE and energy efficiency projects
+    [^etlaw]: Ethiopia's Parliament ratified a new carbon market law ~Aug 10, 2026 — the country's first dedicated carbon-market legislation, out-of-scope Group C bonus finding, detail (registry, A6.2 authorization mechanics) not yet reviewed against primary source: Carbon Pulse <https://carbon-pulse.com/538991/>（要確認 — headline-level source only）
 
     ## NDC Achievement Status
 
@@ -63,7 +64,7 @@
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年に2010年比68.8%削減（条件付き。極めて野心的） |
-    | 国内炭素制度 | 整備中（Ethiopia Climate Change Commission） |
+    | 国内炭素制度 | 🆕 **炭素市場法が2026年8月10日頃に国会で批准**[^etlaw] — エチオピア初の専用炭素市場立法；引き続きEthiopia Climate Change Commissionが実施主導、初期段階 |
     | 主管省庁 | 環境・森林・気候変動委員会（EFCCC） |
     | JCM状況 | ✅ 日本（2013年） |
     | CA体制 | 🔴 未整備 |

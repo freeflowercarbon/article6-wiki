@@ -9,15 +9,18 @@
     | Item | Detail |
     |------|--------|
     | NDC Target | 22% reduction vs. 2011 by 2030 (conditional 43%)[^bdndc] |
-    | Carbon System | None |
+    | Carbon System | 🟡 Domestic carbon market framework pre-launched at COP30 (Nov 2025, Positive List unveiled); still not operational as of Aug 2026 (PM meeting Jul 5, 2026; ministerial remarks late Jul 2026)[^bdframework] |
     | Key Ministry | Ministry of Environment, Forest and Climate Change[^bdmoefcc] |
     | JCM (Japan) | ✅ Since 2013[^bdjcm] |
+    | Japan MoC (Feb 2026) | 🟡 Broad environmental-cooperation MoC signed Feb 7, 2026 (mitigation/adaptation, pollution, waste, biodiversity) — **not a JCM-specific instrument**; no dedicated JCM MoC beyond the 2013 framework confirmed[^bdmoc] |
     | CA Framework | 🔴 Not yet established |
     | NBS Maturity | ⭐⭐ |
 
     [^bdndc]: Bangladesh NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=BGD>
     [^bdmoefcc]: Bangladesh Ministry of Environment, Forest and Climate Change: <https://www.moef.gov.bd/>
     [^bdjcm]: JCM Bangladesh: GEC <https://gec.jp/jcm/projects/>; signed 2013; energy efficiency and RE projects
+    [^bdframework]: Bangladesh pre-launched a domestic carbon-market framework (Positive List) at COP30 (Nov 2025); as of a Jul 5, 2026 PM meeting and late-Jul 2026 ministerial remarks, the framework remains in pre-launch/draft stage, not yet operational: bssnews.net <https://www.bssnews.net/news/358816>（要確認）
+    [^bdmoc]: Bangladesh-Japan MoC signed Tokyo, Feb 7, 2026 (Amb. Md. Daud Ali / Vice Minister Kentaro Doi) — a broad environmental-cooperation MoC (mitigation, adaptation, pollution control, waste management, biodiversity), not a JCM-specific instrument; Bangladesh's only confirmed JCM framework remains the 2013 agreement (4 projects): bssnews.net <https://www.bssnews.net/news/358816>
 
     ## Bilateral A6.2 Agreements
 
@@ -52,11 +55,15 @@
     | 項目 | 内容 |
     |------|------|
     | NDC目標 | 2030年に2011年比22%削減（条件付き43%） |
-    | 国内炭素制度 | なし |
+    | 国内炭素制度 | 🟡 COP30（2025年11月）でPositive List公表・国内炭素市場枠組みを先行発表。2026年8月時点でも未稼働（2026年7月5日首相会合、7月下旬閣僚発言）[^bdframework] |
     | 主管省庁 | 環境森林気候変動省 |
     | JCM状況 | ✅ 日本（2013年） |
+    | 日本MoC（2026年2月） | 🟡 2026年2月7日署名、広範な環境協力MoC（緩和・適応・汚染・廃棄物・生物多様性）— **JCM専用の枠組みではない**；2013年協定を超える専用JCM MoCは未確認[^bdmoc] |
     | CA体制 | 🔴 未整備 |
     | NBS成熟度 | ⭐⭐ |
+
+    [^bdframework]: バングラデシュはCOP30（2025年11月）でPositive Listを含む国内炭素市場枠組みを先行発表。2026年7月5日の首相会合・7月下旬の閣僚発言時点でも依然として発表前・草案段階で未稼働：bssnews.net <https://www.bssnews.net/news/358816>（要確認）
+    [^bdmoc]: バングラデシュ・日本MoC（2026年2月7日、東京、Daud Ali大使／堂故茂副大臣）— 緩和・適応・汚染対策・廃棄物管理・生物多様性を含む広範な環境協力MoCであり、JCM専用の文書ではない。バングラデシュの確認済みJCM枠組みは2013年協定（4プロジェクト）のみ：bssnews.net <https://www.bssnews.net/news/358816>
 
     ## NBS状況
 

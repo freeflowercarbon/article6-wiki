@@ -13,12 +13,14 @@
     | Key Ministry | Ministry of Ecology and Natural Resources[^kzmenr] |
     | JCM (Japan) | ✅ Since 2014[^kzjcm] |
     | CA Framework | 🟡 In development (ETS-linked) |
+    | 🆕 Forest-climate MOU | 🟡 Article 6.2 forest-climate MOU targeting **~1.2 million CDR credits** signed with a German state-linked partner（要確認 — exact date and counterparty unconfirmed）[^kzforest] |
     | NBS Maturity | ⭐⭐ |
 
     [^kzndc]: Kazakhstan NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=KAZ>
     [^kzets]: Kazakhstan ETS (KZ-ETS): ICAP <https://icapcarbonaction.com/en/ets/kazakhstan-emissions-trading-scheme>; operational since 2013
     [^kzmenr]: Kazakhstan Ministry of Ecology and Natural Resources: <https://www.gov.kz/memleket/entities/ecolog>
     [^kzjcm]: JCM Kazakhstan: GEC <https://gec.jp/jcm/projects/>; signed 2014; industry, flaring, RE projects
+    [^kzforest]: Kazakhstan signed an Article 6.2 forest-climate MOU targeting ~1.2 million CDR (afforestation/forestry) credits, reportedly with a German state-linked forestry partner; exact signing date unconfirmed (inferred ~Q2 2026 from adjacent article IDs)（要確認）: Carbon Pulse <https://carbon-pulse.com/507594/>
 
     ## Bilateral A6.2 Agreements
 
@@ -61,7 +63,10 @@
     | 主管省庁 | 生態・天然資源省 |
     | JCM状況 | ✅ 日本（2014年） |
     | CA体制 | 🟡 整備中（ETS連動） |
+    | 🆕 森林気候MOU | 🟡 ドイツ国営系パートナーとArticle 6.2森林気候MOU締結、**約120万CDRクレジット**目標（要確認 — 締結日・相手方未確認）[^kzforest] |
     | NBS成熟度 | ⭐⭐ |
+
+    [^kzforest]: カザフスタンがArticle 6.2森林気候MOUを締結（約120万CDR（植林・森林）クレジット目標）、報道ではドイツ国営系の森林パートナーとされる；正確な締結日は未確認（隣接記事IDから2026年第2四半期頃と推定）（要確認）：Carbon Pulse <https://carbon-pulse.com/507594/>
 
     ## 関連ページ
     - [マトリクス](../matrix.md)

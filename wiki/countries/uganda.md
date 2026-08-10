@@ -58,6 +58,9 @@
     | Renewable energy | Switzerland (potential) | 🔴 Not yet authorized | TBD |
     | REDD+ / forest (Trees for Global Benefit) | Sweden / Singapore (potential) | 🔴 Not yet authorized | Large pipeline |
     | Afforestation/reforestation | Japan JCM / other (potential) | 🔴 Not yet authorized | TBD |
+    | 🆕 Cookstove project (CORSIA-eligible) | Unnamed global carbon asset firm | 🟡 Authorized ~Aug 10, 2026 | Up to 10M tCO₂e[^ugcookstove] |
+
+    [^ugcookstove]: A global carbon asset firm secured Article 6/CORSIA authorization ~Aug 10, 2026 for up to 10 million tCO₂e from a Uganda cookstove project — an authorization to market/transfer, not a confirmed ITMO transfer: Carbon Pulse <https://carbon-pulse.com/540057/>（要確認 — headline-level source only, paywalled detail）
 
     > Trees for Global Benefit (afforestation, REDD+): <https://www.ecotrust.or.ug/tgb/>
 
@@ -127,6 +130,12 @@
     | 水・環境省（MWE） | 炭素市場監督・Article 6 DNA | <https://www.mwe.go.ug/> |
     | 国家環境管理局（NEMA） | 環境コンプライアンス | <https://www.nema.go.ug/> |
     | 国家林業局（NFA） | REDD+・植林 | <https://www.nfa.go.ug/> |
+
+    ## 最新動向
+
+    🆕 匿名のグローバル炭素アセット企業が2026年8月10日頃、ウガンダのかまどプロジェクトから最大1,000万tCO₂eのArticle 6/CORSIA授権を取得（要確認 — 見出しレベルの情報源のみ）[^ugcookstove]
+
+    [^ugcookstove]: グローバル炭素アセット企業が2026年8月10日頃、ウガンダのかまどプロジェクトから最大1,000万tCO₂eのArticle 6/CORSIA授権を取得 — 販売・移転の授権であり確定したITMO移転ではない：Carbon Pulse <https://carbon-pulse.com/540057/>（要確認 — 見出しのみ、詳細は有料記事）
 
     ## 関連ページ
     - [スイス](switzerland.md)

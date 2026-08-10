@@ -13,6 +13,7 @@
     | JCM (Japan) | 🤝 Since 2013; 50+ projects; **29 approved methodologies** (most of any JCM partner country)[^idjcm] |
     | Singapore | 📋 **MOU signed Jul 6, 2026**; IA negotiation to follow[^idsg] |
     | CA Framework | 🟡 Under development; Perpres 110/2025 provides legal basis[^idperpres] |
+    | 🆕 Nesting framework | 🟡 Indonesia reportedly plans a scientific methodology panel + national REDD+ "nesting" framework (jurisdictional/project double-counting prevention), 12–18 month rollout target, reported Aug 6, 2026[^idnesting]（要確認 — may overlap with already-cited Permenhut 6/2026 forestry-carbon regulation; not independently distinguished） |
     | Key Ministry | KLHK (Ministry of Forestry & Environment) + KLH (Ministry of Environment — climate)[^idklhk] |
 
     [^idndc]: Indonesia Enhanced NDC (2022): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=IDN>
@@ -21,6 +22,7 @@
     [^idjcm]: JCM Indonesia projects: GEC <https://gec.jp/jcm/projects/>; MOEJ portal <https://www.env.go.jp/earth/ondanka/jcm_platform.html>
     [^idsg]: Singapore-Indonesia carbon-credit cooperation MOU signed July 6, 2026 at the Jakarta Leaders' Retreat (Indonesia Minister of Environment Mohammad Jumhur Hidayat; Singapore DPM/Minister for Trade & Industry Gan Kim Yong) — a precursor to a future Implementation Agreement, not an IA itself: Singapore MTI <https://www.mti.gov.sg/newsroom/singapore-and-indonesia-sign-memorandum-of-understanding-on-carbon-credits-collaboration/>; Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/>
     [^idperpres]: Presidential Regulation Perpres 110/2025 (October 2025) permits international carbon credit exports: BPKRI <https://peraturan.bpk.go.id/>
+    [^idnesting]: Indonesia reportedly plans to establish an Article 6 scientific methodology panel and formalize a national forest-carbon "nesting" framework (preventing double-counting between jurisdictional REDD+ programs and individual projects) under MOF Regulation No. 6/2026, targeting a 12–18 month rollout, reported Aug 6, 2026: Carbon Pulse <https://carbon-pulse.com/539226/>（要確認 — headline-level, paywalled source only; "MOF Regulation No. 6/2026" may be the same instrument as the already-cited Permenhut 6/2026 forestry-carbon regulation — not independently confirmed as distinct）
     [^idklhk]: **Perpres 139/2024** split the former single KLHK into two ministries: **KLHK** (Kementerian Lingkungan Hidup dan Kehutanan — Forestry) retains REDD+ and forest carbon at <https://www.kehutanan.go.id/>; **KLH** (Kementerian Lingkungan Hidup — Environment & Climate) handles A6.2 carbon market coordination at <https://www.kemenlh.go.id/>. Note: old menlhk.go.id now redirects to a restructuring notice.
 
     ## NDC Achievement Status
@@ -110,6 +112,7 @@
     | 主管省庁 | **KLHK**（林業環境省）＋**KLH**（環境省・気候担当）[^idklhk]、Bappenas |
     | JCM状況 | 日本（2013年）✅ 50件以上；**承認方法論29件**（JCM締結国中最多）[^idjcm] |
     | シンガポール | 📋 **MOU署名 2026年7月6日**（ジャカルタ首脳リトリート）；IA交渉は今後 |
+    | 🆕 ネスティング枠組み | 🟡 科学的方法論パネル＋国家REDD+「ネスティング」枠組み（管轄型・プロジェクト型の二重計上防止）を計画中との報道、12〜18ヶ月での展開目標、2026年8月6日報道[^idnesting]（要確認 — 既出のPermenhut 6/2026林業炭素規則と同一の可能性、未確認） |
 
     ## NDC達成見込み・グローバルストックテイク
 
