@@ -58,9 +58,9 @@
     | Renewable energy | Switzerland (potential) | 🔴 Not yet authorized | TBD |
     | REDD+ / forest (Trees for Global Benefit) | Sweden / Singapore (potential) | 🔴 Not yet authorized | Large pipeline |
     | Afforestation/reforestation | Japan JCM / other (potential) | 🔴 Not yet authorized | TBD |
-    | 🆕 Cookstove project (CORSIA-eligible) | Unnamed global carbon asset firm | 🟡 Authorized ~Aug 10, 2026 | Up to 10M tCO₂e[^ugcookstove] |
+    | 🆕 Cookstove project (CORSIA-eligible) | Econetix | 🟡 Authorized Jul 27, 2026 (Kampala) | Up to 10M tCO₂e[^ugcookstove] |
 
-    [^ugcookstove]: A global carbon asset firm secured Article 6/CORSIA authorization ~Aug 10, 2026 for up to 10 million tCO₂e from a Uganda cookstove project — an authorization to market/transfer, not a confirmed ITMO transfer: Carbon Pulse <https://carbon-pulse.com/540057/>（要確認 — headline-level source only, paywalled detail）
+    [^ugcookstove]: Econetix secured Article 6/CORSIA authorization for up to 10 million tCO₂e from a Uganda cookstove project — Letter of Authorization signed **July 27, 2026 in Kampala** by Uganda's Minister of Water and Environment (Uganda's Article 6 DNA), publicly reported Aug 10, 2026. Signatory and date now confirmed via independent corroboration (Carbon Pulse, Carbon Herald, QC Intel); still an authorization to market/transfer, **not** a confirmed ITMO transfer: Carbon Pulse <https://carbon-pulse.com/540057/>（要確認 — issuance/transfer status still pending）
 
     > Trees for Global Benefit (afforestation, REDD+): <https://www.ecotrust.or.ug/tgb/>
 
@@ -133,9 +133,9 @@
 
     ## 最新動向
 
-    🆕 匿名のグローバル炭素アセット企業が2026年8月10日頃、ウガンダのかまどプロジェクトから最大1,000万tCO₂eのArticle 6/CORSIA授権を取得（要確認 — 見出しレベルの情報源のみ）[^ugcookstove]
+    🆕 Econetixが2026年7月27日、カンパラにてウガンダ水・環境大臣（Article 6 DNA）と最大1,000万tCO₂eのArticle 6/CORSIA授権（Letter of Authorization）に署名（2026年8月10日に公表）。署名者・日付は複数の独立ソースで確認済み（要確認 — 発行・移転の確定状況は未確認）[^ugcookstove]
 
-    [^ugcookstove]: グローバル炭素アセット企業が2026年8月10日頃、ウガンダのかまどプロジェクトから最大1,000万tCO₂eのArticle 6/CORSIA授権を取得 — 販売・移転の授権であり確定したITMO移転ではない：Carbon Pulse <https://carbon-pulse.com/540057/>（要確認 — 見出しのみ、詳細は有料記事）
+    [^ugcookstove]: Econetixが2026年7月27日カンパラにて、ウガンダ水・環境大臣（Article 6 DNA）と最大1,000万tCO₂eのウガンダかまどプロジェクトに関するArticle 6/CORSIA Letter of Authorizationに署名、2026年8月10日に公表。署名者・日付はCarbon Pulse、Carbon Herald、QC Intelの複数独立ソースで確認済み — 販売・移転の授権であり確定したITMO移転ではない：Carbon Pulse <https://carbon-pulse.com/540057/>（要確認 — 発行・移転状況は未確認）
 
     ## 関連ページ
     - [スイス](switzerland.md)

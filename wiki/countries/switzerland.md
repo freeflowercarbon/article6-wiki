@@ -45,7 +45,7 @@
     | Uruguay 🇺🇾 | ~2023 | ✅ Active | Climate smart agri | — |
     | Tunisia 🇹🇳 | ~2023 | ✅ Active | — | — |
     | **Kenya 🇰🇪** | **May 2, 2025** | ✅ Active | — | — |
-    | **Zambia 🇿🇲** | **Nov 20, 2025** | ✅ Active | — | — |
+    | **Zambia 🇿🇲** | **Nov 20, 2025** | 🟡 Active — cookstove authorization | Cookstoves | BioLite Improved Cookstoves Activity authorized Aug 17, 2026 (163,500 stoves, 2026–27); not yet an ITMO transfer[^chzm] |
     | **Mongolia 🇲🇳** | **Nov 21, 2025** | ✅ Active | — | — |
     | Morocco 🇲🇦 | — | 🔄 Negotiating | RE | — |
     | Vietnam 🇻🇳 | — | 🔄 Negotiating | — | — |
@@ -82,6 +82,7 @@
     [^chth]: Thailand ITMO transfers: Dec 2023 (1,916 units — **world's first A6.2 ITMO transfer**, Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; Apr 2, 2026 (49,717 units): Energy Absolute / Swiss FOEN
     [^chbezero]: Carbon Herald, "BeZero to deliver risk assessments for Article 6.2 carbon credits for Switzerland": <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
     [^chswse]: Switzerland–Sweden CDR pilot ITMO transfer (May 6, 2026): two Swedish buyers received negative-emission credits from Switzerland in a pilot A6.2 transaction — source: crawl_A 2026-06-21
+    [^chzm]: Switzerland-Zambia BioLite Improved Cookstoves Activity authorized Aug 17, 2026 (163,500 stoves planned 2026–27; joint Swiss/Zambian government sign-off) — an authorization, **not** a confirmed ITMO transfer: KliK <https://www.klik.ch/en/news/news-article/biolite-improved-cookstoves-activity-zambia-authorised/>
 
     ## Eligible & Excluded Project Types (NBS Exclusion)
 
@@ -104,6 +105,7 @@
     **Confirmed cases**:
     - WAHU e-bikes Ghana A6.2 authorization (May 2025) — e-mobility, eligible ✅
     - Norway-Switzerland CDR ITMO transfer (Jun 2025) — geological CDR, eligible ✅
+    - BioLite Improved Cookstoves Zambia A6.2 authorization (Aug 17, 2026) — clean cooking, eligible ✅[^chzm]
     - Ghana bilateral table lists "REDD+" as a label, but **REDD+ projects under that bilateral are not authorized as ITMOs** — only non-NBS project types (cookstoves, solar PV, lighting) are transferred[^chnbs]
 
     **Implication for bilateral partners**: Countries whose primary carbon asset is REDD+ or forest conservation (Uganda, Malawi, Dominica, Vanuatu) will not be able to export NBS credits to Switzerland under A6.2 — the bilateral will focus on cookstoves, RE, or other eligible sectors. NBS project developers must target other acquiring countries (Singapore, Japan JCM, Sweden, Norway via LEAF/ART — noting Norway's NOGER also excludes direct ITMO purchase of forestry projects).
@@ -155,7 +157,7 @@
     | ウルグアイ 🇺🇾 | 〜2023年 | ✅ 稼働中 | 農業炭素 |
     | チュニジア 🇹🇳 | 〜2023年 | ✅ 稼働中 | — |
     | **ケニア 🇰🇪** | **2025年5月2日** | ✅ 稼働中 | — |
-    | **ザンビア 🇿🇲** | **2025年11月20日** | ✅ 稼働中 | — |
+    | **ザンビア 🇿🇲** | **2025年11月20日** | 🟡 稼働中 — クッキングストーブ授権 | BioLite改良かまど事業、2026年8月17日授権（163,500台、2026〜27年）；ITMO移転はまだ未実施[^chzm] |
     | **モンゴル 🇲🇳** | **2025年11月21日** | ✅ 稼働中 | — |
     | モロッコ 🇲🇦 | — | 🔄 交渉中 | 再エネ |
     | ベトナム 🇻🇳 | — | 🔄 交渉中 | — |

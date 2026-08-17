@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-08-11** | No new confirmed bilateral agreements or ITMO transfers found across Groups A–C (acquirers, SE Asia/Pacific, Africa/LatAm/Central Asia) this week — a moderate week for *domestic policy* developments instead: **Kenya confirmed its Article 6 export cap** via an official "Guide for Strategic Engagement in Carbon Markets 2026" (Aug 4, 2026) — 10M tCO₂e cumulative through 2030, formalizing the earlier draft-regulation figure — see [Kenya](countries/kenya.md) | **Mongolia adopted its first-ever Climate Change Law** (Jul 2, 2026), providing an explicit statutory basis for carbon markets — see [Mongolia](countries/mongolia.md) | **Ethiopia's Parliament ratified a new carbon market law** (~Aug 10, 2026)（要確認）— see [Ethiopia](countries/ethiopia.md) | **PNG's GCF REDD+ results-based payment (US$63.4M) confirmed disbursed Mar 13, 2026** — first SIDS globally to receive one — see [PNG](countries/papua_new_guinea.md) | Multiple **cookstove-project CORSIA authorizations** reported this week (not confirmed ITMO transfers): Rwanda (Econetix + one other, up to 1.8M credits)（要確認）, Uganda (up to 10M tCO₂e)（要確認）— see [Rwanda](countries/rwanda.md), [Uganda](countries/uganda.md) | **ICVCM approved 3 more crediting programs as CCP-Eligible** (BioCarbon Standard, Cercarbono, Plan Vivo; Aug 4, 2026) — see [CCP Methodologies](concepts/ccp_nbs_methodologies.md) | Backfill: **Kazakhstan Article 6.2 forest-climate MOU** (~1.2M CDR credits target)（要確認）— see [Kazakhstan](countries/kazakhstan.md) | Indonesia reportedly planning an Article 6 methodology panel + national REDD+ nesting framework, reported Aug 6, 2026（要確認）— see [Indonesia](countries/indonesia.md)
+    > Last updated: **2026-08-17** | Quiet week (Aug 11–17): only one new dated item found across all four crawl groups — **Switzerland authorized a new cookstove activity in Zambia** (BioLite Improved Cookstoves Activity, 163,500 stoves planned 2026–27; joint Swiss/Zambian sign-off, Aug 17, 2026) — an **authorization, not a confirmed ITMO transfer** — see [Switzerland](countries/switzerland.md). Also: the **Uganda cookstove CORSIA authorization** flagged last week now has confirmed sourcing — Econetix, Letter of Authorization signed **Jul 27, 2026 in Kampala** by the Minister of Water and Environment, up to 10M tCO₂e（要確認 for issuance/transfer status）— see [Uganda](countries/uganda.md). No confirmed ITMO transfers this week; itmo_tracker.md unchanged. Two Verra methodology consultations (VM0044 biochar, VM0050 cookstove) closed this window with outcomes not yet published — worth rechecking next cycle.
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -95,7 +95,7 @@
     | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
     | Tanzania 🇹🇿 | 🟡 **JCM(May 2025)** | — | — | — | — | — |
     | [Morocco 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **bilateral(May 2026)** | — |
-    | Zambia 🇿🇲 | — | 🔴 MOU | — | 🟡 bilateral | 🟡 **bilateral(COP30 2025)** | — |
+    | Zambia 🇿🇲 | — | 🔴 MOU | 🟡 **bilateral(Nov 2025) — cookstove authorized Aug 17, 2026** | 🟡 bilateral | 🟡 **bilateral(COP30 2025)** | — |
     | [Malawi 🇲🇼](countries/malawi.md) | — | 🔴 **MOU(Nov 20, 2025)** | 🟡 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
     | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🟡 bilateral(COP30 2025) | — | — | — |
     | Dominica 🇩🇲 | — | — | 🟡 bilateral(2021) | 🟡 bilateral | — | — |
@@ -219,7 +219,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-08-11** | 今週はGループA〜C（調達国、東南アジア・太平洋、アフリカ・中南米・中央アジア）で新規二国間協定・ITMO移転の確認なし — その代わり**国内政策の動きが中程度**：**ケニアがArticle 6輸出上限を正式確定**（政府公式「Guide for Strategic Engagement in Carbon Markets 2026」、2026年8月4日）— 2030年までの累計1,000万tCO₂e、規則案時点の数値を正式化 — [ケニア](countries/kenya.md)参照 | **モンゴル史上初の気候変動法を採択**（2026年7月2日）— 炭素市場の法的基盤を明記 — [モンゴル](countries/mongolia.md)参照 | **エチオピア議会が新炭素市場法を批准**（2026年8月10日頃）（要確認）— [エチオピア](countries/ethiopia.md)参照 | **PNGのGCF REDD+成果払い（6,340万米ドル）が2026年3月13日に支払完了と確認** — 世界初のSIDS受領国 — [PNG](countries/papua_new_guinea.md)参照 | 今週複数の**かまどプロジェクトCORSIA授権**が報道（確定したITMO移転ではない）：ルワンダ（Econetix＋別1件、最大180万クレジット）（要確認）、ウガンダ（最大1,000万tCO₂e）（要確認）— [ルワンダ](countries/rwanda.md)、[ウガンダ](countries/uganda.md)参照 | **ICVCMが新たに3制度をCCP-Eligibleに承認**（BioCarbon Standard、Cercarbono、Plan Vivo；2026年8月4日）— [CCP方法論](concepts/ccp_nbs_methodologies.md)参照 | バックフィル：**カザフスタンのArticle 6.2森林気候MOU**（約120万CDRクレジット目標）（要確認）— [カザフスタン](countries/kazakhstan.md)参照 | インドネシアがArticle 6方法論パネル＋国家REDD+ネスティング枠組みを計画中との報道、2026年8月6日（要確認）— [インドネシア](countries/indonesia.md)参照
+    > 最終更新: **2026-08-17** | 静かな週（8月11〜17日）：4クロールグループ全体で新規の日付確認事項は1件のみ — **スイスがザンビアで新たなクッキングストーブ活動を授権**（BioLite改良かまど事業、163,500台計画、2026〜27年；スイス・ザンビア両政府による共同署名、2026年8月17日）— **授権であり確定したITMO移転ではない** — [スイス](countries/switzerland.md)参照。また先週フラグ済みの**ウガンダかまどCORSIA授権**について確定情報を確認 — Econetix、Letter of Authorizationは**2026年7月27日カンパラにて**水・環境大臣が署名、最大1,000万tCO₂e（要確認 — 発行・移転状況は未確認）— [ウガンダ](countries/uganda.md)参照。今週確定したITMO移転なし — itmo_tracker.mdの変更なし。Verraの方法論協議2件（VM0044バイオ炭、VM0050かまど）が本期間中に締め切られたが結果未公表 — 次回要フォロー。
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -294,7 +294,7 @@
     | [エチオピア 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
     | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
     | [モロッコ 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **二国間(2026年5月)** | — |
-    | ザンビア 🇿🇲 | — | 🔴 MOU | — | 🟡 二国間 | 🟡 **二国間(COP30 2025)** | — |
+    | ザンビア 🇿🇲 | — | 🔴 MOU | 🟡 **二国間(2025年11月) — かまど授権 2026年8月17日** | 🟡 二国間 | 🟡 **二国間(COP30 2025)** | — |
     | [マラウィ 🇲🇼](countries/malawi.md) | — | 🔴 **MOU(2025年11月20日)** | 🟡 二国間；**AIR 2025年8月；乳牛バイオガス授権 2026年4月** | — | — | — |
     | [ウガンダ 🇺🇬](countries/uganda.md) | — | — | 🟡 二国間(COP30 2025) | — | — | — |
     | ドミニカ 🇩🇲 | — | — | 🟡 二国間(2021) | 🟡 二国間 | — | — |
