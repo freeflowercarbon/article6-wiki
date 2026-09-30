@@ -42,8 +42,9 @@
     | Chile 🇨🇱 | 2025 | ✅ Active | — |
     | Mongolia 🇲🇳 | 2025 | ✅ Active | IA signed Oct 6, 2025 |
     | **Philippines 🇵🇭** | **2026** | ✅ **Active** | **IA signed April 30, 2026 — 11th Singapore IA** [^sgph] |
+    | **Laos 🇱🇦** | **2026** | ✅ **Active** | **Full IA signed Sept 4, 2026 — 12th Singapore IA**; 5% adaptation proceeds, 2% mandatory cancellation[^sgla] |
 
-    > **Signed Implementation Agreements: 11** (10 listed by NCCS as of Oct 2025 — PNG, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay, Thailand, Vietnam, Mongolia — plus Philippines, signed April 30, 2026). **Cambodia and Indonesia have MOUs / broader-cooperation arrangements only — not signed IAs** (a prior version of this page wrongly counted Cambodia as an IA and labeled Philippines the "12th").[^sgIA]
+    > **Signed Implementation Agreements: 12** (10 listed by NCCS as of Oct 2025 — PNG, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay, Thailand, Vietnam, Mongolia — plus Philippines, signed April 30, 2026, and Laos, signed Sept 4, 2026). **Cambodia and Indonesia have MOUs / broader-cooperation arrangements only — not signed IAs** (a prior version of this page wrongly counted Cambodia as an IA and labeled Philippines the "12th").[^sgIA]
 
     ### MOU / Letter of Intent Countries [^sgMOU]
 
@@ -68,6 +69,7 @@
     [^sgph]: Singapore-Philippines Implementation Agreement signed April 30, 2026 — **11th Singapore IA** (3rd ASEAN IA partner, after Thailand and Vietnam). NCCS lists 10 signed IAs as of Oct 2025 (Cambodia is MOU only); Philippines is the 11th: NCCS <https://www.nccs.gov.sg/singapores-climate-action/mitigation-efforts/internationalcollaboration/>
     [^sgMOU]: Singapore MSE MOUs: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/sgs-article-6-cooperations/mous/>
     [^sgid]: Singapore-Indonesia carbon-credit cooperation MOU signed July 6, 2026 at the Jakarta Leaders' Retreat: Singapore MTI <https://www.mti.gov.sg/newsroom/singapore-and-indonesia-sign-memorandum-of-understanding-on-carbon-credits-collaboration/>
+    [^sgla]: Singapore-Laos full Article 6 Implementation Agreement signed Sept 4, 2026 (virtually, by Minister Grace Fu and Laos Minister Dr. Linkham Douangsavanh) — 12th Singapore IA; 5% of proceeds to Laos adaptation, 2% mandatory cancellation of CA credits at issuance: The Star <https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/laos-singapore-sign-carbon-credits-agreement>; CarbonCredits.com; GGGI
 
     ## Article 6.2 Crediting Protocol (Singapore × Verra × Gold Standard) [^sgprotocol]
 
@@ -243,10 +245,11 @@
     | チリ 🇨🇱 | 2025年 | ✅ 稼働中 | — |
     | モンゴル 🇲🇳 | 2025年 | ✅ 稼働中 | IA署名 2025年10月6日 |
     | **フィリピン 🇵🇭** | **2026年** | ✅ **稼働中** | **IA署名 2026年4月30日（第11号IA）** |
+    | **ラオス 🇱🇦** | **2026年** | ✅ **稼働中** | **本格IA署名 2026年9月4日（第12号IA）**；適応拠出5%・強制キャンセル2%[^sgla] |
     | カンボジア 🇰🇭 | — | 🔄 MOUのみ | 炭素協力MOU；IA未署名（JCM重複） |
     | インドネシア 🇮🇩 | — | 📋 **MOU署名 2026年7月6日** | ジャカルタ首脳リトリートで炭素クレジット協力MOU署名；IA交渉は今後[^sgid] |
 
-    > **署名済みIA：11件**（NCCSが2025年10月時点で列挙した10件 — PNG・ガーナ・ブータン・チリ・ペルー・ルワンダ・パラグアイ・タイ・ベトナム・モンゴル — ＋2026年4月30日署名のフィリピン）。**カンボジア・インドネシアはMOU／広範協力のみで署名済みIAではない**（旧版はカンボジアをIAと誤計上しフィリピンを「第12号」と表記していた）。
+    > **署名済みIA：12件**（NCCSが2025年10月時点で列挙した10件 — PNG・ガーナ・ブータン・チリ・ペルー・ルワンダ・パラグアイ・タイ・ベトナム・モンゴル — ＋2026年4月30日署名のフィリピン、＋2026年9月4日署名のラオス）。**カンボジア・インドネシアはMOU／広範協力のみで署名済みIAではない**（旧版はカンボジアをIAと誤計上しフィリピンを「第12号」と表記していた）。
 
     ## A6.2クレジティング・プロトコル（シンガポール×Verra×Gold Standard）
 

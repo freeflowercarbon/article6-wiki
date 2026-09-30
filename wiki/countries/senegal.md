@@ -12,7 +12,7 @@
     | Carbon System | MRV framework under development |
     | Key Ministry | Ministry of Environment and Sustainable Development (MEDD)[^snmedd] |
     | JCM (Japan) | ✅ Since 2015[^snjcm] |
-    | Switzerland | ✅ Bilateral agreement 2023 (biogas, Great Green Wall)[^snch] |
+    | Switzerland | 🟡 Bilateral agreement 2023 (biogas, Great Green Wall); **EV taxi replacement activity in Dakar jointly authorized Sept 25, 2026** — not yet an ITMO transfer[^snch] |
     | Norway | 🟡 Bilateral agreement reported (COP30, Nov 2025)（要確認 — page previously missing this despite matrix.md tracking it）[^snno] |
     | CA Framework | 🟡 In development |
     | NBS Maturity | ⭐⭐ |
@@ -20,7 +20,7 @@
     [^snndc]: Senegal NDC (2021): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=SEN>
     [^snmedd]: Senegal MEDD (Ministère de l'Environnement et du Développement Durable): <https://www.environnement.gouv.sn/>
     [^snjcm]: JCM Senegal: GEC <https://gec.jp/jcm/projects/>; signed 2015; solar and energy efficiency focus
-    [^snch]: Switzerland-Senegal bilateral (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; biogas and Great Green Wall projects
+    [^snch]: Switzerland-Senegal bilateral (2023): FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>; biogas and Great Green Wall projects. EV taxi replacement activity (fossil-fuel taxis → EVs, Dakar) jointly authorized Sept 25, 2026 — an authorization, not a confirmed ITMO transfer: Carbon Pulse <https://carbon-pulse.com/554441/>
     [^snno]: Norway-Senegal bilateral agreement reported signed at COP30 (Nov 2025)（要確認 — primary regjeringen.no confirmation not yet located; already tracked in matrix.md's Africa table）: secondary sources compiled Jul 2026 crawl
 
     ## Bilateral A6.2 Agreements
@@ -28,7 +28,7 @@
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
     | Japan 🇯🇵 | JCM | ✅ 2015 | Solar, energy efficiency |
-    | Switzerland 🇨🇭 | Bilateral | ✅ 2023 | Biogas, Great Green Wall |
+    | Switzerland 🇨🇭 | Bilateral | 🟡 2023 | Biogas, Great Green Wall, e-mobility; Dakar EV taxi activity authorized Sept 25, 2026 |
     | Singapore 🇸🇬 | IA | ⚪ | — |
 
     ## NBS Resources
@@ -69,7 +69,7 @@
     | 調達国 | 制度 | 状況 | 備考 |
     |--------|------|------|------|
     | 日本 🇯🇵 | JCM | ✅ 2015年署名 | 太陽光・省エネ |
-    | スイス 🇨🇭 | バイラテラル | ✅ 2023年署名 | GGW・クリーンクッキング・バイオガス |
+    | スイス 🇨🇭 | バイラテラル | 🟡 2023年署名 | GGW・クリーンクッキング・バイオガス・Eモビリティ（ダカールEVタクシー転換事業、2026年9月25日授権；ITMO移転はまだ） |
     | ノルウェー 🇳🇴 | バイラテラル | 🟡（要確認） | COP30（2025年11月）署名との報道 |
     | シンガポール 🇸🇬 | IA | ⚪ | — |
 

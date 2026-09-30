@@ -4,7 +4,7 @@
 
     ## Overview
 
-    Laos has made **significant institutional advances** in 2025: the Carbon Credit Decree (May 2025) and Article 6-aligned legal framework (June 2025) provide the legal basis for carbon trading. Notably, Laos has already issued the **first Article 6.2 Authorization in the Mekong region** — 3 million credits for an enteric methane reduction project. Investor outlook has been upgraded from "5–10 years away" to "possible within 2–3 years."
+    Laos has made **significant institutional advances** in 2025–2026: the Carbon Credit Decree (May 2025) and Article 6-aligned legal framework (June 2025) provide the legal basis for carbon trading. Notably, Laos has already issued the **first Article 6.2 Authorization in the Mekong region** — 3 million credits for an enteric methane reduction project. On **September 4, 2026, Laos and Singapore signed a full Article 6 Implementation Agreement** (virtually, by Singapore Minister Grace Fu and Laos Minister Dr. Linkham Douangsavanh) — Laos's first IA with an acquiring country beyond Japan JCM, with 5% of proceeds directed to Laos adaptation and 2% mandatory cancellation of corresponding-adjusted credits at issuance.[^lasgia] This is a **bilateral framework agreement, not yet a project authorization or ITMO transfer**. Investor outlook has been upgraded from "5–10 years away" to "possible within 2–3 years."
 
     | Item | Detail |
     |------|--------|
@@ -12,7 +12,7 @@
     | Carbon System | Carbon Credit Decree (May 2025)[^laccd]; no ETS yet |
     | Key Ministry | MONRE (Ministry of Natural Resources and Environment)[^lamonre] |
     | JCM (Japan) | ✅ Since 2015; 6 projects[^lajcm] |
-    | Singapore IA | ⚪ Not yet |
+    | Singapore IA | 🟡 **Full Implementation Agreement signed Sept 4, 2026**[^lasgia] |
     | CA Framework | 🟡 First authorization done (enteric methane, 3M credits)[^lacauth] |
 
     [^landc]: Laos NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=LAO>
@@ -20,6 +20,7 @@
     [^lamonre]: Laos MONRE: <https://www.monre.gov.la/>
     [^lajcm]: JCM Laos: GEC <https://gec.jp/jcm/projects/>; signed 2015
     [^lacauth]: First A6.2 Authorization in Mekong region (enteric methane, up to 3M credits): Carbon Pulse <https://carbon-pulse.com/453295/>
+    [^lasgia]: Singapore-Laos full Article 6 Implementation Agreement signed Sept 4, 2026 (virtually, by Singapore Minister Grace Fu and Laos Minister Dr. Linkham Douangsavanh); terms include 5% of proceeds to Laos adaptation and 2% mandatory cancellation of CA credits at issuance — a bilateral framework agreement, not yet a project authorization or transfer: The Star <https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/laos-singapore-sign-carbon-credits-agreement>; CarbonCredits.com; GGGI
 
     ## NDC Achievement Status
 
@@ -39,6 +40,7 @@
     |---------|------|---------|--------|-------|
     | Enteric methane reduction | NBS/Agriculture | Japan JCM | ✅ **3M credits authorized** | First A6.2 Authorization in Mekong |
     | JCM projects (5 remaining) | Energy, efficiency | Japan | 🟡 Pipeline | Processing toward A6.2 |
+    | Full Implementation Agreement | Framework | Singapore | 🟡 **Signed Sept 4, 2026** | 5% adaptation proceeds; 2% mandatory cancellation; no project authorized yet[^lasgia] |
 
     > Carbon Pulse report: <https://carbon-pulse.com/453295/>
     > UNFCCC A6 portal: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
@@ -69,7 +71,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    ラオスはArticle 6.2において**潜在的なホスト国**で、2025年の制度整備により状況が急変。炭素クレジット令（2025年5月）とArticle 6準拠法的フレームワーク（2025年6月）が法的根拠を確立。腸内メタン削減プロジェクトへの**メコン地域初のA6.2授権（最大300万クレジット）**を実現。
+    ラオスはArticle 6.2において**潜在的なホスト国**で、2025年の制度整備により状況が急変。炭素クレジット令（2025年5月）とArticle 6準拠法的フレームワーク（2025年6月）が法的根拠を確立。腸内メタン削減プロジェクトへの**メコン地域初のA6.2授権（最大300万クレジット）**を実現。さらに**2026年9月4日、ラオスとシンガポールが本格的なArticle 6実施協定（IA）に署名**（オンライン署名、シンガポール側グレース・フー大臣とラオス側リンカム・ドゥアンサヴァン大臣）— 日本JCM以外では初の調達国IA。適応拠出5%・発行時CA済みクレジットの強制キャンセル2%が条件。案件授権・ITMO移転はまだ実現していない**協定段階**にとどまる。[^lasgia]
 
     ## 基本情報
     | 項目 | 内容 |
@@ -78,6 +80,7 @@
     | 国内炭素制度 | 炭素クレジット令（2025年5月）・ETS未導入 |
     | 主管省庁 | MONRE（自然資源環境省） |
     | JCM状況 | 日本（2015年）✅ 6件 |
+    | シンガポールIA | 🟡 **実施協定を2026年9月4日署名**[^lasgia] |
     | CA実績 | ✅ 腸内メタン削減で最大300万クレジット授権 |
 
     ## NDC達成見込み
@@ -94,6 +97,7 @@
     |------------|------|------|------|
     | 腸内メタン削減 | NBS/農業 | 日本JCM | ✅ **300万クレジット授権済み**（メコン初） |
     | その他JCMプロジェクト（5件） | エネルギー等 | 日本 | 🟡 A6.2移行パイプライン |
+    | 実施協定（IA） | 枠組み | シンガポール | 🟡 **2026年9月4日署名**（適応拠出5%・強制キャンセル2%；案件授権はまだ） |
 
     ## CCP認証候補ボランタリープロジェクト
 

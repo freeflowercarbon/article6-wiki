@@ -39,13 +39,13 @@
     | Georgia 🇬🇪 | 2022 | ✅ Active | RE, forests | Landfill gas to energy |
     | Ukraine 🇺🇦 | 2022 | ✅ (partly suspended) | — | War impact |
     | Malawi 🇲🇼 | 2022 | ✅ Active | Clean cooking | — |
-    | Senegal 🇸🇳 | 2023 | ✅ Active | Biogas, Great Green Wall | — |
-    | **Thailand 🇹🇭** | **2022** | 🟢 **ITMO transferred Dec 2023 (world's first) + Apr 2, 2026** | Transport (Bangkok E-Bus) | 1,916 + 49,717 units [^chth] |
+    | Senegal 🇸🇳 | 2023 | 🟡 Active — EV taxi authorization | Biogas, Great Green Wall, e-mobility | Fossil-fuel taxi replacement (Dakar EVs) jointly authorized Sept 25, 2026; not yet an ITMO transfer[^chsn] |
+    | **Thailand 🇹🇭** | **2022** | 🟢 **ITMO transferred Dec 2023 (world's first) + Apr 2, 2026 + Sept 8, 2026** | Transport (Bangkok E-Bus) | 1,916 + 49,717 + 57,327 units = 108,960 total [^chth] |
     | Chile 🇨🇱 | ~2023 | ✅ Active | — | — |
     | Uruguay 🇺🇾 | ~2023 | ✅ Active | Climate smart agri | — |
     | Tunisia 🇹🇳 | ~2023 | ✅ Active | — | — |
     | **Kenya 🇰🇪** | **May 2, 2025** | ✅ Active | — | — |
-    | **Zambia 🇿🇲** | **Nov 20, 2025** | 🟡 Active — cookstove authorization | Cookstoves | BioLite Improved Cookstoves Activity authorized Aug 17, 2026 (163,500 stoves, 2026–27); not yet an ITMO transfer[^chzm] |
+    | **Zambia 🇿🇲** | **Nov 20, 2025** | 🟡 Active — two cookstove authorizations | Cookstoves | BioLite Improved Cookstoves Activity authorized Aug 17, 2026 (163,500 stoves, 2026–27)[^chzm]; second activity "Modern Energy Cooking Zambia" authorized Aug 31, 2026 (biomass pellets replacing charcoal, ~200,000 stoves, 4 provinces)[^chzm2]; neither is yet an ITMO transfer |
     | **Mongolia 🇲🇳** | **Nov 21, 2025** | ✅ Active | — | — |
     | Morocco 🇲🇦 | — | 🔄 Negotiating | RE | — |
     | Vietnam 🇻🇳 | — | 🔄 Negotiating | — | — |
@@ -67,7 +67,7 @@
 
     | Metric | Data |
     |--------|------|
-    | ITMO transfers completed (as acquirer) | **4 confirmed**: Thailand (Dec 2023, world's first), Norway CDR (Jun 2025), Ghana (Jul 2025), Thailand 2nd (Apr 2026) [^chth] |
+    | ITMO transfers completed (as acquirer) | **5 confirmed**: Thailand ×3 (Dec 2023 — world's first, Apr 2026, Sept 2026), Norway CDR (Jun 2025), Ghana (Jul 2025) [^chth] |
     | ITMO transfers as host | **1**: Sweden CDR pilot (May 6, 2026) — two Swedish buyers received negative-emission ITMOs[^chswse] |
     | Countries with active agreements | ~16 [^chcount] |
     | Annual procurement budget | ~CHF 100–200M/yr (estimated) |
@@ -79,10 +79,12 @@
     [^chcount]: A6 Implementation Partnership: <https://a6partnership.org/partners/switzerland>; FOEN bilateral agreements page: <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
     [^chfoen]: SQ Consult Switzerland bilateral analysis: <https://www.sqconsult.com/en/references/switzerlands-bilateral-agreement-with-ghana-peru-art62-193>
     [^chperu]: Switzerland-Peru: world's first A6.2 bilateral **agreement** (Oct 2020); Tuki Wasi cookstoves authorized Mar 20, 2026 — **no ITMO transfer completed yet**: KliK <https://www.klik.ch/en/news/news-article/tuki-wasi-improved-cookstoves-activity-authorised>
-    [^chth]: Thailand ITMO transfers: Dec 2023 (1,916 units — **world's first A6.2 ITMO transfer**, Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; Apr 2, 2026 (49,717 units): Energy Absolute / Swiss FOEN
+    [^chth]: Thailand ITMO transfers: Dec 2023 (1,916 units — **world's first A6.2 ITMO transfer**, Bangkok E-Bus): KliK <https://www.klik.ch/en/news/news-article/first-ever-itmos-for-ndc-use>; Apr 2, 2026 (49,717 units): Energy Absolute / Swiss FOEN; Sept 8, 2026 (57,327 units, 2025 vintage, cumulative 108,960): KliK <https://www.klik.ch/en/news/news-article/itmo-issuance-bangkok-e-bus-programme-for-2025/>
     [^chbezero]: Carbon Herald, "BeZero to deliver risk assessments for Article 6.2 carbon credits for Switzerland": <https://carbonherald.com/bezero-to-deliver-risk-assessments-for-article-6-2-carbon-credits-for-swizterland/>
     [^chswse]: Switzerland–Sweden CDR pilot ITMO transfer (May 6, 2026): two Swedish buyers received negative-emission credits from Switzerland in a pilot A6.2 transaction — source: crawl_A 2026-06-21
     [^chzm]: Switzerland-Zambia BioLite Improved Cookstoves Activity authorized Aug 17, 2026 (163,500 stoves planned 2026–27; joint Swiss/Zambian government sign-off) — an authorization, **not** a confirmed ITMO transfer: KliK <https://www.klik.ch/en/news/news-article/biolite-improved-cookstoves-activity-zambia-authorised/>
+    [^chzm2]: Switzerland-Zambia second cookstove authorization, "Modern Energy Cooking Zambia" (biomass pellets replacing charcoal, ~200,000 cookstoves across 4 provinces), authorized Aug 31, 2026 — an authorization, **not** a confirmed ITMO transfer: Zambia Ministry of Green Economy and Environment <https://www.mgee.gov.zm/?p=9199>; Zambia Monitor <https://www.zambiamonitor.com/zambia-switzerland-authorise-200000-clean-cookstoves-deal/>; Carbon Pulse
+    [^chsn]: Switzerland-Senegal jointly authorized an e-mobility activity replacing fossil-fuel taxis with EVs in Dakar, announced Sept 25, 2026 — an authorization, **not** a confirmed ITMO transfer: Carbon Pulse <https://carbon-pulse.com/554441/>
 
     ## Eligible & Excluded Project Types (NBS Exclusion)
 
@@ -106,6 +108,8 @@
     - WAHU e-bikes Ghana A6.2 authorization (May 2025) — e-mobility, eligible ✅
     - Norway-Switzerland CDR ITMO transfer (Jun 2025) — geological CDR, eligible ✅
     - BioLite Improved Cookstoves Zambia A6.2 authorization (Aug 17, 2026) — clean cooking, eligible ✅[^chzm]
+    - Modern Energy Cooking Zambia A6.2 authorization (Aug 31, 2026) — clean cooking (biomass pellets), eligible ✅[^chzm2]
+    - Dakar EV taxi replacement, Senegal, A6.2 authorization (Sept 25, 2026) — e-mobility, eligible ✅[^chsn]
     - Ghana bilateral table lists "REDD+" as a label, but **REDD+ projects under that bilateral are not authorized as ITMOs** — only non-NBS project types (cookstoves, solar PV, lighting) are transferred[^chnbs]
 
     **Implication for bilateral partners**: Countries whose primary carbon asset is REDD+ or forest conservation (Uganda, Malawi, Dominica, Vanuatu) will not be able to export NBS credits to Switzerland under A6.2 — the bilateral will focus on cookstoves, RE, or other eligible sectors. NBS project developers must target other acquiring countries (Singapore, Japan JCM, Sweden, Norway via LEAF/ART — noting Norway's NOGER also excludes direct ITMO purchase of forestry projects).
@@ -151,13 +155,13 @@
     | ジョージア 🇬🇪 | 2022年 | ✅ 稼働中 | 再エネ・森林 |
     | ウクライナ 🇺🇦 | 2022年 | ✅（一部停止） | 戦争影響 |
     | マラウイ 🇲🇼 | 2022年 | ✅ 稼働中 | クリーンクッキング |
-    | セネガル 🇸🇳 | 2023年 | ✅ 稼働中 | バイオガス・大グリーンウォール |
-    | **タイ 🇹🇭** | **2022年** | 🟢 **ITMO移転済み（2023年12月・世界初＋2026年4月2日）** | 1,916＋49,717ユニット [^chth] |
+    | セネガル 🇸🇳 | 2023年 | 🟡 稼働中 — EVタクシー授権 | バイオガス・大グリーンウォール・Eモビリティ（ダカールEVタクシー転換、2026年9月25日共同授権；ITMO移転はまだ）[^chsn] |
+    | **タイ 🇹🇭** | **2022年** | 🟢 **ITMO移転済み（2023年12月・世界初＋2026年4月2日＋2026年9月8日）** | 1,916＋49,717＋57,327＝累計108,960ユニット [^chth] |
     | チリ 🇨🇱 | 〜2023年 | ✅ 稼働中 | — |
     | ウルグアイ 🇺🇾 | 〜2023年 | ✅ 稼働中 | 農業炭素 |
     | チュニジア 🇹🇳 | 〜2023年 | ✅ 稼働中 | — |
     | **ケニア 🇰🇪** | **2025年5月2日** | ✅ 稼働中 | — |
-    | **ザンビア 🇿🇲** | **2025年11月20日** | 🟡 稼働中 — クッキングストーブ授権 | BioLite改良かまど事業、2026年8月17日授権（163,500台、2026〜27年）；ITMO移転はまだ未実施[^chzm] |
+    | **ザンビア 🇿🇲** | **2025年11月20日** | 🟡 稼働中 — かまど授権2件 | BioLite改良かまど事業、2026年8月17日授権（163,500台、2026〜27年）[^chzm]；第2弾「Modern Energy Cooking Zambia」2026年8月31日授権（バイオマスペレット、約20万台、4州）[^chzm2]；いずれもITMO移転はまだ未実施 |
     | **モンゴル 🇲🇳** | **2025年11月21日** | ✅ 稼働中 | — |
     | モロッコ 🇲🇦 | — | 🔄 交渉中 | 再エネ |
     | ベトナム 🇻🇳 | — | 🔄 交渉中 | — |
@@ -173,7 +177,7 @@
 
     ## 調達実績・需要見通し
 
-    - 完了済みITMO移転（調達側）：**4件** — タイ（2023年12月・世界初）、ノルウェーCDR（2025年6月）、ガーナ（2025年7月）、タイ第2回（2026年4月） [^chth]
+    - 完了済みITMO移転（調達側）：**5件** — タイ×3（2023年12月・世界初、2026年4月、2026年9月）、ノルウェーCDR（2025年6月）、ガーナ（2025年7月） [^chth]
     - ホスト側としての移転：**1件** — スウェーデンCDRパイロット（2026年5月6日）[^chswse]
     - 2030年目標：国際調達分だけで約1,750万t CO₂e必要（NDC50%を国際調達で補完）
     - 需要の硬直性：CO2法による法的義務のため、調達は義務的 → 価格交渉力は弱い
