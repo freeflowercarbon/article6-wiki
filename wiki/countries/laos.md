@@ -12,7 +12,7 @@
     | Carbon System | Carbon Credit Decree (May 2025)[^laccd]; no ETS yet |
     | Key Ministry | MONRE (Ministry of Natural Resources and Environment)[^lamonre] |
     | JCM (Japan) | ✅ Since 2015; 6 projects[^lajcm] |
-    | Singapore IA | 🟡 **Full Implementation Agreement signed Sept 4, 2026**[^lasgia] |
+    | Singapore IA | 🟡 **Full Implementation Agreement signed Sept 4, 2026**; **58 pre-approved methodologies published Oct 1, 2026**[^lasgia][^lasgmethods] |
     | CA Framework | 🟡 First authorization done (enteric methane, 3M credits)[^lacauth] |
 
     [^landc]: Laos NDC (2020): UNFCCC NDC Registry <https://www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=LAO>
@@ -21,6 +21,7 @@
     [^lajcm]: JCM Laos: GEC <https://gec.jp/jcm/projects/>; signed 2015
     [^lacauth]: First A6.2 Authorization in Mekong region (enteric methane, up to 3M credits): Carbon Pulse <https://carbon-pulse.com/453295/>
     [^lasgia]: Singapore-Laos full Article 6 Implementation Agreement signed Sept 4, 2026 (virtually, by Singapore Minister Grace Fu and Laos Minister Dr. Linkham Douangsavanh); terms include 5% of proceeds to Laos adaptation and 2% mandatory cancellation of CA credits at issuance — a bilateral framework agreement, not yet a project authorization or transfer: The Star <https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/laos-singapore-sign-carbon-credits-agreement>; CarbonCredits.com; GGGI
+    [^lasgmethods]: On Oct 1, 2026 Singapore published a list of **58 pre-approved carbon-credit methodologies** eligible under the Singapore-Laos IA (Laos's 4th ASEAN IA partner for Singapore, 12th IA overall) — still methodology eligibility, not a project authorization or ITMO transfer: CarbonCredits.com <https://carboncredits.com/singapore-laos-58-article-6-carbon-credit-methodologies/>
 
     ## NDC Achievement Status
 
@@ -80,7 +81,7 @@
     | 国内炭素制度 | 炭素クレジット令（2025年5月）・ETS未導入 |
     | 主管省庁 | MONRE（自然資源環境省） |
     | JCM状況 | 日本（2015年）✅ 6件 |
-    | シンガポールIA | 🟡 **実施協定を2026年9月4日署名**[^lasgia] |
+    | シンガポールIA | 🟡 **実施協定を2026年9月4日署名**；**58件の事前承認方法論を2026年10月1日公表**[^lasgia][^lasgmethods] |
     | CA実績 | ✅ 腸内メタン削減で最大300万クレジット授権 |
 
     ## NDC達成見込み

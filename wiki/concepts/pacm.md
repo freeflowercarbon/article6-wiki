@@ -78,7 +78,10 @@
     | **Jul 10, 2026** | **65% of countries (129 of 198) have appointed Designated National Authorities for PACM**; the joint UNEP Copenhagen Climate Centre / UNFCCC Secretariat **"Article 6 Pipeline" platform launched March 2026**[^pacmregistry] |
     | **Jul 27–30, 2026** | **A6.4 Supervisory Body 22nd meeting, Bonn — concluded**: approved a **grid-connected renewable electricity methodology** (3rd A6.4-native methodology, after landfill gas and N2O abatement); **deferred** a household cooking-energy-efficiency (cookstove) methodology decision pending further work on non-permanence, uncertainty and conservativeness; also updated registry procedures (issuing/holding/transferring/tracking credits）（要確認 — corroborated by a secondary source only; primary UNFCCC decision document not yet located）[^a64sb22] |
     | **Sept 30, 2026** | **Civil society groups (Carbon Market Watch, Global Forest Coalition) sent an open letter to the A6.4 Supervisory Body demanding suspension of the first-ever PACM-issued credits** (Myanmar cookstove PoA 10471, Feb 26, 2026 issuance) — citing alleged human rights concerns and over-crediting; escalation of the integrity controversy first flagged mid-2026[^pacmmyanmarletter] |
-    | 2027+ | Scale-up phase; CORSIA eligibility decision expected; next A6.4SB meeting (SBM 23) Oct 5–9, 2026, Bonn — extended to a 5-day meeting to accommodate methodology workload[^sbm23] |
+    | **Oct 5–10, 2026** | **A6.4SB 23rd meeting (SBM23), Bonn — concluded**: approved **two cookstove methodologies** (incl. A6.4-AMM-005 "Energy efficiency measures in household cooking," granted an exemption from the downward adjustment) and adopted the **first reversal-risk tool**; closed Oct 10 with adoption of the **Standard on Non-Permanence and Reversals** after a week of intensive negotiation. **Deferred**: post-issuance Corresponding-Adjustment authorization timelines and the mechanism's sustainable-development tool[^sbm23oct] |
+    | Oct 13–14, 2026 | Methodological Expert Panel (MEP) reconvened following SBM23 |
+    | **Oct 29–30, 2026** | **Virtual A6.4SB meeting** — expected to adopt the revision of **ACM0001** (flaring/landfill gas utilization), the first revision of a transitioned legacy-CDM methodology under PACM[^sbm23oct] |
+    | 2027+ | Scale-up phase; CORSIA eligibility decision expected |
 
     [^firstpacm]: First Article 6.4 credits (A6.4ERs) issued February 26, 2026 — Myanmar efficient cookstoves PoA 10471, 58,428 tCO₂e issued (≈603,368 t issuable; 648,783 t reductions for vintage Jan 2021–May 2022); acquiring country: South Korea: UNFCCC A6.4SB registry; S&P Global <https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/022626-un-greenlights-first-credits-under-article-64-from-myanmar-cookstove-project>
     [^pacm2nd]: Second PACM issuance approval: PoA 10415 (March 2026), following Myanmar PoA 10471: Fastmarkets <https://www.fastmarkets.com/insights/first-issuances-approved-under-pacm-from-myanmar-cookstove-project-with-loa/>
@@ -88,6 +91,7 @@
     [^a64sb22]: A6.4 Supervisory Body 22nd meeting, Bonn, Jul 27–30, 2026 — concluded Jul 30 with approval of a grid-connected renewable electricity methodology (3rd A6.4-native methodology) and deferral of a cookstove methodology decision: Carbon Herald <https://carbonherald.com/renewable-energy-methodology-cleared-in-major-expansion-of-un-carbon-market/>; White & Case alert "Progress made on Paris Agreement Article 6.4 at Bonn; Talks to Continue in Dubai" (headline corroboration only, article inaccessible/403); UN Indico event page <https://indico.un.org/event/1024170/> (logistics only). No primary UNFCCC decision document located as of this crawl (2026-08-02) — treat methodology-approval detail as medium confidence pending primary confirmation
     [^pacmmyanmarletter]: Civil society open letter to the A6.4 Supervisory Body demanding suspension of first-ever PACM credits (Myanmar cookstove PoA 10471), citing human rights concerns and over-crediting, Sept 30, 2026: Carbon Pulse <https://carbon-pulse.com/555734/>（secondary source, paywalled headline-level）
     [^sbm23]: A6.4 Supervisory Body SBM23 (Bonn, Oct 5–9, 2026) extended to a 5-day meeting to accommodate methodology-related workload: UNFCCC/IETA <https://www.ieta.org/news/ieta-position-on-the-article-6-4-supervisory-body-decision-at-bonn>（要確認 — exact announcement date not confirmed）
+    [^sbm23oct]: A6.4SB 23rd meeting (SBM23, Bonn, Oct 5–9/10, 2026): approved two cookstove methodologies (incl. A6.4-AMM-005, exemption from downward adjustment) and adopted the first reversal-risk tool; closed Oct 10 with the Standard on Non-Permanence and Reversals; deferred post-issuance CA authorization timelines and the sustainable-development tool. Follow-on MEP meeting Oct 13–14; virtual SB meeting Oct 29–30 expected to adopt the ACM0001 (flaring/landfill gas) revision: UNFCCC A6.4SB meeting reports <https://unfccc.int/process/bodies/constituted-bodies/a6-4-supervisory-body>; IETA <https://www.ieta.org/news/ieta-position-on-the-article-6-4-supervisory-body-decision-at-bonn>（二次情報源の集約。ACM0001改訂の正式採択は2026-10-29/30会合の結果待ち — 要確認）
 
     ## A6.4SB — Active Methodology Reviews (updated Jul 2026)
 
@@ -97,10 +101,14 @@
     | Efficient cookstoves | 🟡 Under review | AMS-II.G adaptation; **methodology decision deferred at SB22 (Jul 2026)** pending further work on non-permanence, uncertainty and conservativeness[^a64sb22] |
     | Avoided deforestation (REDD+) | 🔴 Not yet approved | Complex permanence/leakage rules |
     | Carbon removal (reforestation) | 🟡 Under review | New removal activity standards apply |
-    | **Landfill gas flaring/utilization** | 🟢 **Approved (Oct 2025)** | First A6.4-native methodology approved[^pacmmethods] |
+    | **Landfill gas flaring/utilization** | 🟢 **Approved (Oct 2025)**; **ACM0001 revision expected to be adopted at the Oct 29–30, 2026 virtual SB meeting** — first revision of a transitioned legacy-CDM methodology under PACM | Approval[^pacmmethods]; revision[^sbm23oct] |
     | **N2O abatement (nitric acid production)** | 🟢 **Approved (May 2026)** | Second A6.4-native methodology approved[^pacmmethods] |
+    | **Efficient cookstoves (2 methodologies)** | 🟢 **Approved at SBM23 (Oct 5–10, 2026)** | Incl. A6.4-AMM-005 "Energy efficiency measures in household cooking," granted exemption from the downward adjustment — supersedes "under review" status above[^sbm23oct] |
+    | **Non-permanence / reversal standard** | 🟢 **Adopted (Oct 10, 2026)** | First A6.4-native **reversal-risk tool**, adopted late in SBM23 after intensive negotiation[^sbm23oct] |
 
     > Only **64 of the 415** approved-transition projects are using Article 6.4-native methodologies as of Jul 2026 — the remaining **351 remain on legacy CDM methodologies** pending further A6.4SB approvals.[^pacmmethods]
+
+    > 🆕 **SBM23 (Oct 5–10, 2026, Bonn)**: adopted two cookstove methodologies, the first reversal-risk tool, and the Standard on Non-Permanence and Reversals. **Deferred**: post-issuance CA authorization timelines and the sustainable-development tool. Follow-on MEP meeting Oct 13–14; virtual SB meeting Oct 29–30 (expected to adopt the ACM0001 revision)[^sbm23oct]
     > A6.4SB methodology registry: <https://unfccc.int/sb-a64>
 
     ## Comparison: PACM vs. CDM vs. Article 6.2
@@ -235,7 +243,10 @@
     | **2026年7月10日** | **198カ国中129カ国（65%）がPACM向け国家指定機関（DNA）を任命済み**；UNEP Copenhagen Climate Centre/UNFCCC事務局共同の**「Article 6 Pipeline」プラットフォームが2026年3月に稼働開始**[^pacmregistry] |
     | **2026年7月27〜30日** | **A6.4監督機関第22回会合、ボン — 終了**：**系統連系型再エネ発電の方法論を承認**（埋立地ガス・N2O削減に次ぐ3件目のA6.4固有方法論）；**かまど（cookstove）方法論の決定は非永続性・不確実性・保守性に関する追加検討のため見送り**；登録簿手続（発行・保有・移転・トラッキング）も更新（要確認 — 二次情報源による裏付けのみ、一次UNFCCC決定文書は未確認）[^a64sb22] |
     | **2026年9月30日** | **市民社会団体（Carbon Market Watch、Global Forest Coalition）がA6.4監督機関に公開書簡を送付し、PACM初発行クレジット**（ミャンマーかまどPoA 10471、2026年2月26日発行分）**の停止を要求** — 人権侵害・過剰クレジット発行を主張；2026年半ばから指摘されていた完全性問題の激化[^pacmmyanmarletter] |
-    | 2027年以降 | スケールアップ、CORSIA適格性決定見込み；次回A6.4SB会合（SBM23）2026年10月5〜9日、ボン — 方法論審査の作業量増加により5日間に延長[^sbm23] |
+    | **2026年10月5〜10日** | **A6.4SB第23回会合（SBM23）、ボン — 終了**：**かまど方法論2件を承認**（A6.4-AMM-005「家庭用調理のエネルギー効率措置」等、下方調整の免除付き）、**初のリバーサルリスク・ツールを採択**；1週間の激しい交渉を経て10月10日に**非永続性・リバーサル基準を採択**。**先送り**：発行後CA授権のタイムライン、持続可能な開発ツール[^sbm23oct] |
+    | 2026年10月13〜14日 | SBM23に続きMethodological Expert Panel（MEP）会合を開催 |
+    | **2026年10月29〜30日** | **バーチャルA6.4SB会合** — **ACM0001**（フレアリング/埋立地ガス利用）の改訂版採択が見込まれる、PACM下で移行済み旧CDM方法論としては初の改訂[^sbm23oct] |
+    | 2027年以降 | スケールアップ、CORSIA適格性決定見込み |
 
     ## CDMからPACMへの移行
 
@@ -252,10 +263,14 @@
     | 効率的かまど | 🟡 審査中 | AMS-II.G応用；**SB22（2026年7月）で方法論決定を見送り** — 非永続性・不確実性・保守性の追加検討待ち[^a64sb22] |
     | 森林減少回避（REDD+） | 🔴 未承認 | 恒久性・漏洩ルールが複雑 |
     | 炭素除去（植林） | 🟡 審査中 | 新除去活動基準を適用 |
-    | **埋立地ガスフレアリング/利用** | 🟢 **承認済み（2025年10月）** | A6.4固有方法論として初承認[^pacmmethods] |
+    | **埋立地ガスフレアリング/利用** | 🟢 **承認済み（2025年10月）**；**ACM0001改訂版をSBM23後の臨時会合（2026年10月29〜30日）で採択見込み** — 移行済み旧CDM方法論としては初の改訂 | A6.4固有方法論として初承認[^pacmmethods]；改訂は[^sbm23oct] |
     | **硝酸製造でのN2O削減** | 🟢 **承認済み（2026年5月）** | A6.4固有方法論として2件目[^pacmmethods] |
+    | **効率的かまど（2件）** | 🟢 **承認済み（SBM23、2026年10月5〜10日）** | A6.4-AMM-005「家庭用調理のエネルギー効率措置」ほか1件；下方調整の免除を付与。上表「審査中」の記載から更新[^sbm23oct] |
+    | **非永続性・リバーサル基準** | 🟢 **採択（2026年10月10日）** | A6.4固有の**初のリバーサルリスク・ツール**；SBM23で激しい交渉の末、金曜深夜に採択[^sbm23oct] |
 
     > 移行承認済み415件のうち、A6.4固有方法論を使用しているのは**わずか64件**（2026年7月時点）。残る**351件は旧CDM方法論のまま**、A6.4SBの追加承認待ち。[^pacmmethods]
+
+    > 🆕 **SBM23（2026年10月5〜10日、ボン）**：かまど方法論2件・初のリバーサルリスク・ツール・非永続性基準を採択。**先送り**：発行後CA授権のタイムライン、持続可能な開発ツール。続くMEP会合は10月13〜14日、バーチャルSB会合は10月29〜30日（ACM0001改訂の採択見込み）[^sbm23oct]
 
     ## PACMとCORSIAの連携
 

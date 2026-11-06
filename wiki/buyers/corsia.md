@@ -20,6 +20,10 @@
 
     [^corsiarwanda]: Carbon Pulse, "Rwandan cookstove carbon credits cleared for Article 6, CORSIA trade" (headline only, paywalled, exact date unconfirmed, ~late Jul 2026): <https://carbon-pulse.com/536733/> — low/medium confidence, secondary source only
 
+    > 🆕 **ICAO joins IATA-backed supply alliance; EEU supply still short (Oct 2026)**: as of October 2026, EEU supply reached **~72M units**, up from ~40M at the start of 2026 but still well short of the **200–250M units** needed for the first compliance cycle. On **Oct 13, 2026, ICAO formally joined the IATA-backed "Supporting Alliance for CORSIA EEU Supply"** (now 80+ stakeholders), lending its institutional weight to closing the supply gap. Separately, ICAO had approved **2 additional unit programmes in Apr 2026** (bringing the Phase 1-eligible total to 10 programmes), and from Feb–Mar 2026 the Technical Advisory Body received **25 applications** for 2027–2029 Phase assessment.[^corsiaoct2026]
+
+    [^corsiaoct2026]: EEU supply ~72M as of Oct 2026 (vs. ~40M start of 2026; 200–250M needed for Phase 1): multiple trade sources via WebSearch synthesis (Oct 2026). ICAO joined IATA's CORSIA EEU supply alliance (80+ stakeholders) Oct 13, 2026: europawire.eu <https://news.europawire.eu/icao-joins-iata-backed-alliance-to-address-corsia-emissions-unit-supply-shortfall/eu-press-release/2026/10/13/18/41/08/182827/>; Airspace Africa <https://airspace-africa.com/2026/10/13/icao-joins-global-alliance-to-address-carbon-credit-shortfall-ahead-of-corsia-deadline/>. ICAO Council approved 2 more unit programmes Apr 2026 (10 total Phase-1-eligible); TAB received 25 applications Feb–Mar 2026 for 2027–2029 assessment: ICAO <https://www.icao.int/news/icao-expands-approved-emissions-unit-programmes-effective-corsia-implementation>（要確認 — supply figures are secondary-source aggregates, not an ICAO primary statistic）
+
     ## Key Parameters
 
     | Item | Detail |
@@ -35,7 +39,7 @@
     | 2027–2030 Price Estimate | US$10–40/t |
     | Total Demand 2024–2035 | ~2–5 billion t CO₂e (wide range) |
     | Article 6 LoA requirement | ✅ **Required** for EEUs of 2021+ vintage (host-country LoA + corresponding adjustment) |
-    | Phase 1 (2024–26) supply | ⚠️ Tight but broadening — Guyana ART TREES remains the anchor source, but **10 countries now supplying via LoA (Apr 2026)**; IATA-led alliance targeting 225–250M EEUs by spring 2027 (~40Mt current supply vs. ~200Mt Phase 1 demand)[^corsiaalliance] |
+    | Phase 1 (2024–26) supply | ⚠️ Tight but broadening — Guyana ART TREES remains the anchor source, but **10 countries now supplying via LoA (Apr 2026)**; IATA-led alliance targeting 225–250M EEUs by spring 2027. **Supply reached ~72M EEUs by Oct 2026** (up from ~40M at start of 2026) vs. ~200–250M Phase 1 demand; ICAO joined the IATA supply alliance Oct 13, 2026[^corsiaalliance][^corsiaoct2026] |
     | A6.4 PACM Unit Acceptance | 🔄 Under ICAO-UNFCCC discussion |
 
     ## CORSIA-Eligible Carbon Programs (CEU Sources)
@@ -96,6 +100,8 @@
 
     > 🆕 **ルワンダかまどクレジットが取引可能に（2026年7月下旬、要確認）**：Verraがルワンダのかまどプロジェクト（DelAgua関連）由来の**500万t超のクレジット**について対応調整（CA）を記録したと報じられ、国際的なArticle 6・CORSIA取引の対象となった模様。ガイアナART TREES以外へのEEU供給源多様化がさらに進んだ形。ただし出典はCarbon Pulseの有料記事見出しのみで、正確な日付・登録簿での確認・実際の取引成立の有無は未確認。CA記録・適格化イベントであり、**ITMO移転が確定したわけではない** — [itmo_tracker.md](../itmo_tracker.md)には反映しない。[^corsiarwanda]
 
+    > 🆕 **ICAOがIATA主導の供給連合に参加；供給はなお不足（2026年10月）**：2026年10月時点でEEU供給量は**約7,200万ユニット**に達した（2026年年初の約4,000万から増加）が、第1遵守期間に必要な**2億〜2億5,000万ユニット**にはなお遠い。**2026年10月13日、ICAOがIATA主導の「CORSIA EEU供給支援連合」に正式参加**（現在80超のステークホルダーが参加）し、供給ギャップ解消に向け機関としての重みを加えた。別途、ICAOは**2026年4月に追加2プログラムを承認**（フェーズ1適格プログラムは計10件に）、2026年2〜3月には技術諮問委員会（TAB）が2027〜2029年フェーズ向け評価で**25件の申請**を受理した。[^corsiaoct2026]
+
     ## 主要パラメータ
 
     | 項目 | 内容 |
@@ -109,7 +115,7 @@
     | 2027〜2030年予測価格 | US$10〜40/t |
     | 総需要（2024〜2035年） | 約20〜50億t CO₂e（推定幅大） |
     | Article 6 LoA要件 | ✅ **必須**（2021年以降ヴィンテージのEEUはホスト国LoA＋CAが必要） |
-    | フェーズ1(2024–26)供給 | ⚠️ 逼迫するが多様化中 — ガイアナART TREESが依然中核だが、**2026年4月時点で10カ国がLoA経由供給**；IATA主導連合が2027年春までに2.25〜2.5億EEU供給を目標（現状供給約4,000万t、フェーズ1需要約2億t） |
+    | フェーズ1(2024–26)供給 | ⚠️ 逼迫するが多様化中 — ガイアナART TREESが依然中核だが、**2026年4月時点で10カ国がLoA経由供給**；IATA主導連合が2027年春までに2.25〜2.5億EEU供給を目標。**2026年10月時点で供給は約7,200万EEUに到達**（年初の約4,000万から増加）、需要の2〜2.5億には依然不足；ICAOが2026年10月13日に供給連合へ参加[^corsiaoct2026] |
     | A6.4 PACMユニット受入 | 🔄 ICAO-UNFCCC協議中 |
 
     > **重要更新（2026年）**: CORSIAのEEU（2021年以降ヴィンテージ）は、二重計上回避のため**Article 6のLoA（授権書）＋Corresponding Adjustment**が必須となった。つまりCORSIAは「ITMO」という名称では取引しないが、実質的に**Article 6の需要チャネル**（授権・CA付きクレジットを消費）として機能する。フェーズ1供給は逼迫し、ガイアナの管轄型REDD+（ART TREES）が事実上唯一の供給源。

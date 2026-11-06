@@ -4,14 +4,14 @@
 
     ## Overview
 
-    Chile has **triple acquiring-country access**: Japan JCM (2015), Singapore IA (signed 2025), and Switzerland bilateral agreement (active). Chile is one of Latin America's environmental policy leaders with a carbon tax (since 2017, US$5/t) and ETS under development. Patagonian temperate rainforest and blue carbon (kelp, seagrass) represent unique, high-quality NBS resources. Chile also occupies an interesting dual position — potentially both a host country (NBS exports) and an acquiring country (aviation, shipping sectors).
+    Chile has **triple acquiring-country access**: Japan JCM (2015), Singapore IA (signed 2025), and Switzerland bilateral agreement (active). Chile is one of Latin America's environmental policy leaders with a carbon tax (since 2017, US$5/t) and ETS under development. Patagonian temperate rainforest and blue carbon (kelp, seagrass) represent unique, high-quality NBS resources. Chile also occupies an interesting dual position — potentially both a host country (NBS exports) and an acquiring country (aviation, shipping sectors). On **Oct 7, 2026, Chile and Japan approved updated JCM rules and guidelines**, moving the bilateral relationship from authorization-stage to **transfer-capable** — Chile can now authorize projects and transfer ITMOs to Japan under the mechanism. 8 of the 17 projects in the JCM pipeline are at a more advanced validation/verification stage and are being evaluated to begin the Letter of Authorization (LoA) process; no ITMO transfer has been confirmed yet.[^cljcmroi]
 
     | Item | Detail |
     |------|--------|
     | NDC Target | Max 95 MtCO₂e net by 2030; net zero 2050[^clndc] |
     | Carbon System | Carbon tax US$5/t (2017–)[^clcarbon]; ETS under development |
     | Key Ministry | Ministry of Environment (MMA)[^clmma] |
-    | JCM (Japan) | ✅ Since 2015[^cljcm] |
+    | JCM (Japan) | ✅ Since 2015; **updated rules/guidelines approved Oct 7, 2026 — transfer-capable**[^cljcm][^cljcmroi] |
     | Singapore IA | ✅ **Signed 2025**[^clsg] |
     | Switzerland | ✅ Bilateral active[^clch] |
     | CA Framework | 🟡 In development |
@@ -23,6 +23,7 @@
     [^cljcm]: JCM Chile: GEC <https://gec.jp/jcm/projects/>; signed 2015
     [^clsg]: Singapore-Chile Implementation Agreement (2025): Singapore MSE <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
     [^clch]: Switzerland-Chile bilateral agreement: FOEN <https://www.bafu.admin.ch/bafu/en/home/topics/climate/info-specialists/climate-and-international-cooperation/bilateral-agreements-on-the-implementation-of-article-6-of-the.html>
+    [^cljcmroi]: Chile-Japan approved updated JCM rules and guidelines Oct 7, 2026, enabling Chile to authorize projects and transfer ITMOs to Japan; 8 of 17 pipeline projects at advanced validation/verification stage, being evaluated to begin the LoA process — no transfer confirmed yet: Carbon Pulse, "CLCF26: Chile, Japan approve JCM rules and guidelines, paving way for ITMO transfers" <https://carbon-pulse.com/558155/>（paywalled headline-level; primary JCM Joint Committee decision not independently confirmed — 要確認）
 
     ## NDC Achievement Status
 
@@ -36,7 +37,7 @@
 
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
-    | Japan 🇯🇵 | JCM | ✅ 2015 | RE (solar, wind), mining efficiency |
+    | Japan 🇯🇵 | JCM | ✅ 2015; **rules/guidelines updated Oct 7, 2026 (transfer-capable)**[^cljcmroi] | RE (solar, wind), mining efficiency |
     | Singapore 🇸🇬 | IA | ✅ **2025** | NBS, clean energy pipeline |
     | Switzerland 🇨🇭 | Bilateral | ✅ Active | — |
 
@@ -72,7 +73,7 @@
 === "🇯🇵 日本語"
 
     ## サマリー
-    日本JCM（2015年）・シンガポールIA（2025年署名）・スイス二国間協定という三重のアクセスを持つ南米有数の環境先進国。炭素税（2017年〜US$5/t）とETS整備中。パタゴニア温帯雨林・ブルーカーボン（ケルプ・海草）という高品質NBS資源を持つ。ホスト国・調達国の双方の立場を持ちうる希少な国。
+    日本JCM（2015年）・シンガポールIA（2025年署名）・スイス二国間協定という三重のアクセスを持つ南米有数の環境先進国。炭素税（2017年〜US$5/t）とETS整備中。パタゴニア温帯雨林・ブルーカーボン（ケルプ・海草）という高品質NBS資源を持つ。ホスト国・調達国の双方の立場を持ちうる希少な国。**2026年10月7日、チリ・日本間でJCMの改訂ルール・ガイドラインが承認**され、チリがプロジェクトを授権し日本へITMOを移転できる「移転可能」段階に移行（17件のパイプライン案件中8件が検証・認証の進んだ段階にあり、LoA発行プロセス開始の評価対象；移転確定はまだ）[^cljcmroi]。
 
     ## 基本情報
     | 項目 | 内容 |
@@ -80,7 +81,7 @@
     | NDC目標 | 2030年に最大95MtCO₂e（ネットゼロ2050） |
     | 国内炭素制度 | 炭素税（US$5/t、2017〜）＋ETS導入検討 |
     | 主管省庁 | 環境省（MMA） |
-    | JCM状況 | ✅ 日本（2015年） |
+    | JCM状況 | ✅ 日本（2015年）；**改訂ルール承認・移転可能段階へ（2026年10月7日）** |
     | シンガポールIA | ✅ **2025年署名** |
     | スイス | ✅ バイラテラル稼働中 |
     | CA体制 | 🟡 整備中 |
@@ -90,7 +91,7 @@
 
     | 調達国 | 制度 | 状況 | 備考 |
     |--------|------|------|------|
-    | 日本 🇯🇵 | JCM | ✅ 2015年署名 | 再エネ・省エネ中心 |
+    | 日本 🇯🇵 | JCM | ✅ 2015年署名；**改訂ルール承認・移転可能（2026年10月7日）** | 再エネ・省エネ中心 |
     | スイス 🇨🇭 | バイラテラル | ✅ 稼働中 | — |
     | シンガポール 🇸🇬 | IA | ✅ **2025年署名** | — |
 

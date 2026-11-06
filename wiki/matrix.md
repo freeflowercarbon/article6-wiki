@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-09-30** | Crawl covered an extended window (Aug 17–Sep 30) due to a gap in the weekly cycle. Key developments: **Switzerland-Thailand completed a 3rd ITMO issuance** (57,327 units, Sept 8, 2026, Bangkok E-Bus — cumulative 108,960 ITMOs; confirmed transfer) — see [Thailand](countries/thailand.md), [ITMO Tracker](itmo_tracker.md). **Singapore and Laos signed a full Article 6 Implementation Agreement** (Sept 4, 2026 — Singapore's 12th IA) — see [Laos](countries/laos.md). **Switzerland authorized two new activities** (not transfers): a second Zambia cookstove activity ("Modern Energy Cooking Zambia", ~200,000 stoves, Aug 31, 2026) and a Senegal EV taxi replacement in Dakar (Sept 25, 2026) — see [Switzerland](countries/switzerland.md), [Senegal](countries/senegal.md). Ghana reported an updated authorization figure of 12.7 MtCO₂e through 2030（要確認、paywalled source）— see [Ghana](countries/ghana.md). Separately: the A6.4 Supervisory Body's first-ever PACM-issued credits (Myanmar cookstove) face a civil-society suspension demand (Sept 30) — see [PACM](concepts/pacm.md). No other confirmed ITMO transfers this window.
+    > Last updated: **2026-11-07** | Crawl covered an extended window (Sept 30–Nov 7) due to a gap in the weekly cycle. Key developments: **no new confirmed ITMO transfers** this window (most recent remains Thailand→Switzerland, Sept 8, 2026 — see [ITMO Tracker](itmo_tracker.md)). **Chile and Japan approved updated JCM rules/guidelines** (Oct 7, 2026), moving the relationship to transfer-capable status (8 of 17 pipeline projects advancing toward LoA; no transfer yet) — see [Chile](countries/chile.md). **Singapore published 58 pre-approved methodologies** for its Laos IA (Oct 1, 2026) and **opened a project-application window with Mongolia** (from Oct 30, 2026) — see [Laos](countries/laos.md), [Mongolia](countries/mongolia.md). **A6.4 Supervisory Body SBM23** (Bonn, Oct 5–10, 2026) approved two cookstove methodologies and adopted the mechanism's first reversal-risk tool plus a Standard on Non-Permanence and Reversals; a follow-on virtual SB meeting (Oct 29–30) was expected to adopt the first revision of a transitioned legacy-CDM methodology (ACM0001) — see [PACM](concepts/pacm.md). **CORSIA** EEU supply reached ~72M (vs. ~200–250M Phase 1 demand) and ICAO formally joined the IATA-backed supply alliance (Oct 13, 2026) — see [CORSIA](buyers/corsia.md). **Verra/Gold Standard launched a joint Article 6.2 Corresponding Adjustment reporting tool** (Aug 20, 2026) ahead of the Dec 2026 BTR deadline — see [Corresponding Adjustment](concepts/corresponding_adjustment.md). **ICVCM** recognized Verra VCS v5 and approved the VM0049 CCS methodology (Sept 2 and Sept 28, 2026) — see [CCP/NBS Methodologies](concepts/ccp_nbs_methodologies.md).
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -78,7 +78,7 @@
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
     | [Peru 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1 | 🟡 bilateral(2020) **Tuki Wasi authorized Mar 2026** | — | — | — |
     | [Paraguay 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1 | — | — | — | — |
-    | [Chile 🇨🇱](countries/chile.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟡 bilateral | — | — | — |
+    | [Chile 🇨🇱](countries/chile.md) | 🟡 **JCM(2015); rules updated Oct 7, 2026 — transfer-capable** | 🟡 **IA(2025)** | 🟡 bilateral | — | — | — |
     | [Colombia 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
     | [Mexico 🇲🇽](countries/mexico.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [Costa Rica 🇨🇷](countries/costa_rica.md) | 🟡 JCM(2013) | 🔴 MOU | — | — | — | — |
@@ -221,7 +221,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-09-30** | 週次サイクルの空白期間があったため、今回は拡大期間（8月17日〜9月30日）を対象にクロール。主な進展：**スイス・タイ間でITMO第3回発行が完了**（57,327ユニット、2026年9月8日、バンコクE-Bus — 累計108,960ユニット；確定移転）— [タイ](countries/thailand.md)、[ITMOトラッカー](itmo_tracker.md)参照。**シンガポールとラオスが本格的なArticle 6実施協定に署名**（2026年9月4日 — シンガポール第12号IA）— [ラオス](countries/laos.md)参照。**スイスが新たに2件の活動を授権**（移転ではない）：ザンビアで2件目のかまど事業（「Modern Energy Cooking Zambia」、約20万台、2026年8月31日）とセネガル・ダカールのEVタクシー転換事業（2026年9月25日）— [スイス](countries/switzerland.md)、[セネガル](countries/senegal.md)参照。ガーナは授権実績を2030年までに1,270万tCO₂eと更新報告（要確認、ペイウォール情報源）— [ガーナ](countries/ghana.md)参照。別件：A6.4監督機関によるPACM初発行クレジット（ミャンマーかまど事業）に対し、市民社会団体が停止を要求（9月30日）— [PACM](concepts/pacm.md)参照。その他の確定ITMO移転は本期間中なし。
+    > 最終更新: **2026-11-07** | 週次サイクルの空白期間があったため、今回は拡大期間（9月30日〜11月7日）を対象にクロール。主な進展：本期間中、**新たな確定ITMO移転はなし**（直近は2026年9月8日タイ→スイス — [ITMOトラッカー](itmo_tracker.md)参照）。**チリ・日本間でJCM改訂ルール・ガイドラインを承認**（2026年10月7日）し、移転可能段階へ移行（17件のパイプライン案件中8件がLoA発行プロセスに向け前進；移転はまだ）— [チリ](countries/chile.md)参照。**シンガポールがラオスIA向けに58件の事前承認方法論を公表**（2026年10月1日）、**モンゴルとのプロジェクト申請受付を開始**（2026年10月30日より）— [ラオス](countries/laos.md)、[モンゴル](countries/mongolia.md)参照。**A6.4監督機関SBM23**（ボン、2026年10月5〜10日）がかまど方法論2件を承認、同機関初のリバーサルリスク・ツールおよび非永続性・リバーサル基準を採択；続くバーチャルSB会合（10月29〜30日）では移行済み旧CDM方法論（ACM0001）の初の改訂採択が見込まれた — [PACM](concepts/pacm.md)参照。**CORSIA**のEEU供給は約7,200万（フェーズ1需要2〜2.5億に対しなお不足）に達し、ICAOがIATA主導の供給連合に正式参加（2026年10月13日）— [CORSIA](buyers/corsia.md)参照。**VerraとGold Standardが共同のArticle 6.2対応調整報告ツールを発表**（2026年8月20日、2026年12月のBTR提出期限に向けて）— [対応調整](concepts/corresponding_adjustment.md)参照。**ICVCM**がVerra VCS v5を認定・VM0049（CCS）方法論を承認（2026年9月2日・9月28日）— [CCP/NBS方法論](concepts/ccp_nbs_methodologies.md)参照。
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -280,7 +280,7 @@
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
     | [ペルー 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1落札 | 🟡 二国間(2020) **Tuki Wasi授権 2026年3月** | — | — | — |
     | [パラグアイ 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1落札 | — | — | — | — |
-    | [チリ 🇨🇱](countries/chile.md) | 🟡 JCM(2015) | 🟡 **IA(2025)** | 🟡 二国間 | — | — | — |
+    | [チリ 🇨🇱](countries/chile.md) | 🟡 **JCM(2015)；ルール改訂2026年10月7日・移転可能段階へ** | 🟡 **IA(2025)** | 🟡 二国間 | — | — | — |
     | [コロンビア 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
     | [メキシコ 🇲🇽](countries/mexico.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [コスタリカ 🇨🇷](countries/costa_rica.md) | 🟡 JCM(2013) | 🔴 MOU | — | — | — | — |

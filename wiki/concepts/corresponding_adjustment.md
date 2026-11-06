@@ -65,6 +65,12 @@
 
     > Reversal risk details: [Reversal Risk](reversal_risk.md)
 
+    ## CA Reporting Infrastructure
+
+    > 🆕 **Verra/Gold Standard launch a joint Article 6.2 CA Reporting Tool (Aug 20, 2026)**: the tool gives host countries a single consolidated record of corresponding adjustments for all credits authorized under either standard, which they are due to report in their **2026 Biennial Transparency Reports (BTR deadline: end of Dec 2026)**. After a host country enters its NDC target type, accounting approach, and authorization terms, the tool auto-populates the structured summary table required for BTR submission — reducing reporting errors and standardizing disclosure across the two largest voluntary crediting programs.[^cartool]
+
+    [^cartool]: Verra and Gold Standard launched a joint Article 6.2 Corresponding Adjustments Reporting Tool on Aug 20, 2026, ahead of the Dec 2026 BTR deadline: Verra <https://verra.org/gold-standard-and-verra-launch-tool-to-support-article-6-2-reporting/>; ESG News <https://esgnews.com/verra-gold-standard-launch-article-6-2-tool/>
+
     ## Key Sources
     - UNFCCC Article 6 Transparency Framework: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6>
     - Singapore National Environment Agency (CA requirements for ICC): <https://www.nea.gov.sg/our-services/pollution-control/air-pollution/singapore-carbon-tax>
@@ -120,7 +126,7 @@
     - **シンガポール**: CA適用ITMOのみが国際炭素クレジット（ICC）として炭素税控除に使用可能 → CA未適用のVCMクレジットはシンガポールの炭素税コンプライアンスには使えない
     - **スイスFOEN**: すべての二国間プロジェクトクレジットにCA必須 → CA未適用のVCMクレジットは不可
     - **日本JCM**: 2025年3月以降、CA付与でITMOに移行可能。既存JCMクレジットは移行処理中
-    - **CORSIA**: CAを要求しない（航空市場独自の会計フレームワーク）
+    - **CORSIA**: 2021年以降ヴィンテージのEEU（CORSIA適格ユニット）は、ホスト国のArticle 6授権書（LoA）＋CAが必須（二重計上回避）。「ITMO」という名称は使わないが、実質的にCA付きクレジットを消費するArticle 6需要チャネルとして機能（訂正：旧記載「CAを要求しない」は誤り）— 詳細: [CORSIA](../buyers/corsia.md)
     - **企業ネットゼロ宣言**: SBTi等の基準は、バリューチェーン外の緩和主張にCA付きクレジットを要求する方向に移行中
 
     ## NBS・REDD+プロジェクトとCA
@@ -132,6 +138,12 @@
     | 恒久性 | CA適用後に森林が失われた場合、ホスト国がその分を「負債」として抱える | バッファープール・リバーサルリスク条項 |
     | 漏洩 | 同国内の別地域で森林減少が移動する可能性 | 管轄域型会計が望ましい |
     | ベースライン再評価 | CAの量はベースラインに依存 → ベースライン変更でCA量が変わる | 二国間協定でのベースライン見直し期間設定 |
+
+    ## CA報告インフラ
+
+    > 🆕 **VerraとGold StandardがArticle 6.2 CA報告ツールを共同発表（2026年8月20日）**：ホスト国が両規格のいずれかで授権されたクレジットすべての対応調整（CA）を一元的に記録できるツール。**2026年BTR（隔年透明性報告書）提出期限（2026年12月末）**に向けた報告義務を支援。ホスト国がNDC目標タイプ・会計アプローチ・授権条件を入力すると、BTR提出用の構造化サマリー表を自動生成 — 2大ボランタリークレジット規格間での報告の標準化・誤り削減を図る。[^cartool]
+
+    [^cartool]: VerraとGold Standardが2026年8月20日、Article 6.2対応調整（CA）報告ツールを共同発表（2026年12月のBTR提出期限に向けて）：Verra <https://verra.org/gold-standard-and-verra-launch-tool-to-support-article-6-2-reporting/>；ESG News <https://esgnews.com/verra-gold-standard-launch-article-6-2-tool/>
 
     ## 関連ページ
     - [ITMO](itmo.md)

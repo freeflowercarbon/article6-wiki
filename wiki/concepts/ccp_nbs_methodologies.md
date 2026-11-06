@@ -2,7 +2,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: 2026-08-11  
+    > Last updated: 2026-11-07  
     > Sources: [ICVCM](https://icvcm.org/), [Verra](https://verra.org/), [Gold Standard](https://www.goldstandard.org/), [NEA Eligibility List](https://www.carbonmarkets-cooperation.gov.sg/environmental-integrity/eligibility-criteria/)
 
     ## What is the CCP Label?
@@ -29,6 +29,10 @@
     🆕 **Aug 4, 2026 — three more crediting programs approved as CCP-Eligible**: BioCarbon Standard, Cercarbono, and Plan Vivo, bringing the cumulative total to 13 programs approved as CCP-Eligible since March 2024 (secondary reporting cites ~95% of cumulative VCM issuance now CCP-Eligible-program-covered — this is a *program*-level coverage claim, distinct from the methodology-level "30+ methodologies / ~98% of market volume" figure above; not reconciled against a primary ICVCM source)[^ccpaug2026]
 
     [^ccpaug2026]: ICVCM approved BioCarbon Standard, Cercarbono, and Plan Vivo as CCP-Eligible crediting programs on Aug 4, 2026 (13 programs total since Mar 2024; 41/66 methodologies approved overall per this source): Carbon Herald <https://carbonherald.com/icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95/>（要確認 — secondary reporting on ICVCM's decision; recommend cross-check at icvcm.org/assessment-status）
+
+    🆕 **Sept 2026 — VCS v5 recognized; VM0049 (CCS) approved**: on **Sept 2, 2026** ICVCM recognized **Verra VCS Version 5** as meeting the Core Carbon Principles and approved **13 active VCS methodologies** under it. On **Sept 28, 2026** ICVCM approved **VM0049** — Verra's carbon capture and storage methodology, with modules for direct air capture, CO₂ transport, CO₂ storage, and BECCS. VM0049 is **not an NBS methodology**; included here for market-wide CCP tracking completeness.[^ccpsept2026]
+
+    [^ccpsept2026]: ICVCM recognized Verra VCS v5 as CCP-aligned and approved 13 active VCS methodologies under it on Sept 2, 2026; approved VM0049 (CCS: DAC, CO₂ transport/storage, BECCS modules) on Sept 28, 2026: crbn.credit <https://crbn.credit/post/icvcm-verra-vcs-v5-ccs-approval-2026>（要確認 — secondary source; recommend cross-check at icvcm.org/assessment-status）
 
     ### ✅ REDD+ / Avoided Deforestation
 
@@ -199,11 +203,15 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: 2026-08-11
+    > 最終更新: 2026-11-07
 
     🆕 **2026年8月4日 — 新たに3件のクレジット制度がCCP-Eligibleに承認**：BioCarbon Standard、Cercarbono、Plan Vivo。2024年3月以降の累計承認プログラム数は13件（二次情報源によれば累計VCM発行量の約95%がCCP-Eligibleプログラムでカバーされるとの報道 — これは上記の方法論レベルの「30以上の方法論／市場ボリューム約98%」とは異なるプログラムレベルの指標であり、一次資料での突合は未実施）[^ccpaug2026]
 
     [^ccpaug2026]: ICVCMが2026年8月4日、BioCarbon Standard・Cercarbono・Plan VivoをCCP-Eligibleクレジット制度として承認（2024年3月以降累計13制度；本情報源によれば方法論ベースで41/66件承認）：Carbon Herald <https://carbonherald.com/icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95/>（要確認 — ICVCM決定に関する二次報道；icvcm.org/assessment-statusでの一次確認を推奨）
+
+    🆕 **2026年9月 — VCS v5承認・VM0049（CCS）承認**：**2026年9月2日**、ICVCMがVerra VCS **Version 5**をCore Carbon Principles適合と認定し、その下の**13件のアクティブVCS方法論**を承認。**2026年9月28日**にはVerraのCCS（炭素回収・貯留）方法論**VM0049**（DAC・CO₂輸送・CO₂貯留・BECCS各モジュール含む）を承認。VM0049は**NBS方法論ではない**が、CCP承認の全体像把握のため本ページに記載。[^ccpsept2026]
+
+    [^ccpsept2026]: ICVCMが2026年9月2日にVerra VCS v5をCCP整合と認定し13件のアクティブVCS方法論を承認、2026年9月28日にVM0049（CCS：DAC・CO₂輸送/貯留・BECCS各モジュール）を承認：crbn.credit <https://crbn.credit/post/icvcm-verra-vcs-v5-ccs-approval-2026>（要確認 — 二次情報源；icvcm.org/assessment-statusでの一次確認を推奨）
 
     ## CCPラベルとは
 
