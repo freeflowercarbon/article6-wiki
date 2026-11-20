@@ -37,7 +37,9 @@
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
     | Japan 🇯🇵 | JCM | ✅ 2021 | RE, energy efficiency, NBS |
-    | Singapore 🇸🇬 | — | 📋 MOU | IA in negotiation |
+    | Singapore 🇸🇬 | — | 📋 MOU (renewed/re-signed Nov 16, 2026, COP31) | Both sides commit to work toward a legally binding IA; not yet an IA[^cosg2026] |
+
+    [^cosg2026]: Singapore-Colombia MOU signed at COP31 (Antalya), Nov 16, 2026 — described by QCI as "renewing" the MOU; commits to work toward a legally binding IA (要確認 — relationship to the earlier MOU not confirmed against MTI text): technode.global <https://technode.global/?p=997796>; Quantum Commodity Intelligence <https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-deals-with-colombia-kenya-77573.html> (secondary source)
     | Switzerland 🇨🇭 | Bilateral | 💬 Under discussion | REDD+ focus |
 
     ## NBS Resources
@@ -73,7 +75,7 @@
     | 国内炭素制度 | 炭素税（COP 15,000/t≈US$4/t、2016〜）＋REDD+クレジット充当制度 |
     | 主管省庁 | 環境持続可能開発省（MADS） |
     | JCM状況 | ✅ 日本（2021年） |
-    | シンガポール | 📋 MOU署名済み・IA交渉中 |
+    | シンガポール | 📋 MOU署名済み（2026年11月COP31で更新）・IA交渉中 |
     | スイス | 💬 協議中 |
     | CA体制 | 🟡 整備中 |
     | NBS成熟度 | ⭐⭐⭐⭐ |
@@ -83,7 +85,9 @@
     | 調達国 | 制度 | 状況 | 備考 |
     |--------|------|------|------|
     | 日本 🇯🇵 | JCM | ✅ 2021年署名 | 再エネ・省エネ・NBS |
-    | シンガポール 🇸🇬 | MOU | 📋 MOU署名済み | IA交渉中 |
+    | シンガポール 🇸🇬 | MOU | 📋 MOU（2026年11月16日COP31で更新・再署名） | 法的拘束力あるIAに向け協議することを確認。IAではない[^cosg2026] |
+
+    [^cosg2026]: シンガポール・コロンビアMOU、COP31（アンタルヤ）2026年11月16日署名 — QCIは既存MOUの「更新」と報道；法的拘束力のあるIA締結に向けた協力を約束（要確認 — 既存MOUとの関係はMTI原文で未確認）：technode.global <https://technode.global/?p=997796>；Quantum Commodity Intelligence <https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-deals-with-colombia-kenya-77573.html>（二次資料）
     | スイス 🇨🇭 | — | 💬 協議中 | REDD+ベース |
 
     ## 関連ページ

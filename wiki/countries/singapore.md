@@ -43,8 +43,12 @@
     | Mongolia 🇲🇳 | 2025 | ✅ Active | IA signed Oct 6, 2025 |
     | **Philippines 🇵🇭** | **2026** | ✅ **Active** | **IA signed April 30, 2026 — 11th Singapore IA** [^sgph] |
     | **Laos 🇱🇦** | **2026** | ✅ **Active** | **Full IA signed Sept 4, 2026 — 12th Singapore IA**; 5% adaptation proceeds, 2% mandatory cancellation[^sgla] |
+    | **Kenya 🇰🇪** | **2026** | ✅ **Signed** | **IA signed Nov 16, 2026 at COP31 — 13th Singapore IA** (3rd in Africa); 5% adaptation proceeds; project applications expected 2027[^sgke] |
+    | Zambia 🇿🇲 | 2026（要確認） | 🟡 Reported | IA reported signed at COP31 (~Nov 18, 2026) per a single paywalled headline; would upgrade the Nov 2024 MOU — **not yet confirmed by MTI/NCCS**[^sgzm] |
 
-    > **Signed Implementation Agreements: 12** (10 listed by NCCS as of Oct 2025 — PNG, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay, Thailand, Vietnam, Mongolia — plus Philippines, signed April 30, 2026, and Laos, signed Sept 4, 2026). **Cambodia and Indonesia have MOUs / broader-cooperation arrangements only — not signed IAs** (a prior version of this page wrongly counted Cambodia as an IA and labeled Philippines the "12th").[^sgIA]
+    > **🆕 First Letter of Authorisation (Nov 14, 2026)**: Singapore (NEA) issued its **first-ever LoA under any IA** — for a safe-drinking-water (ceramic filter) project in **Rwanda** (~780,000 tCO₂e expected 2026–2030). This is an authorization, not an ITMO issuance or transfer; see [Rwanda](rwanda.md)[^sgloa1].
+
+    > **Signed Implementation Agreements: 13 confirmed** (10 listed by NCCS as of Oct 2025 — PNG, Ghana, Bhutan, Chile, Peru, Rwanda, Paraguay, Thailand, Vietnam, Mongolia — plus Philippines, signed April 30, 2026, Laos, signed Sept 4, 2026, and Kenya, signed Nov 16, 2026; Zambia（要確認） would make 14). **Cambodia and Indonesia have MOUs / broader-cooperation arrangements only — not signed IAs** (a prior version of this page wrongly counted Cambodia as an IA and labeled Philippines the "12th").[^sgIA]
 
     ### MOU / Letter of Intent Countries [^sgMOU]
 
@@ -52,15 +56,16 @@
     |---------|--------|-------|
     | Cambodia 🇰🇭 | 📋 MOU | Carbon collaboration MOU; IA not yet signed (JCM overlap) |
     | Indonesia 🇮🇩 | 📋 MOU signed **Jul 6, 2026** | Carbon-credit collaboration MOU (Jakarta Leaders' Retreat); precursor to IA — both sides to identify projects and negotiate a full IA next[^sgid] |
-    | Colombia 🇨🇴 | 📋 MOU | — |
+    | Colombia 🇨🇴 | 📋 MOU | Renewed/re-signed at COP31, Nov 16, 2026; works toward IA[^sgco] |
+    | Bangladesh 🇧🇩 | 📋 MOU signed **Nov 14, 2026** (COP31) | Works toward a legally binding IA (reportedly targeted for COP32（要確認））[^sgbd] |
     | Dominican Republic 🇩🇴 | 📋 MOU | — |
     | Fiji 🇫🇯 | 📋 MOU | — |
-    | Kenya 🇰🇪 | 📋 MOU | Negotiating IA; KNCR registry live Feb 2026 |
+    | Kenya 🇰🇪 | ⬆️ Upgraded to IA | IA signed Nov 16, 2026 (see table above) |
     | Malaysia 🇲🇾 | 📋 MOU | — |
     | Morocco 🇲🇦 | 📋 MOU | — |
     | Brazil 🇧🇷 | 📋 MOU | MOU signed Dec 18, 2025 |
     | Costa Rica 🇨🇷 | 📋 MOU | — |
-    | Zambia 🇿🇲 | 📋 MOU | — |
+    | Zambia 🇿🇲 | 📋 MOU (Nov 2024) | IA reportedly signed at COP31（要確認）[^sgzm] |
     | Sri Lanka 🇱🇰 | 📋 MOU | — |
 
     [^sgIA]: Singapore MSE Implementation Agreements: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/singapores-art-6-cooperations/implementation-agreements/>
@@ -70,6 +75,11 @@
     [^sgMOU]: Singapore MSE MOUs: <https://www.carbonmarkets-cooperation.gov.sg/our-article-6-cooperation/sgs-article-6-cooperations/mous/>
     [^sgid]: Singapore-Indonesia carbon-credit cooperation MOU signed July 6, 2026 at the Jakarta Leaders' Retreat: Singapore MTI <https://www.mti.gov.sg/newsroom/singapore-and-indonesia-sign-memorandum-of-understanding-on-carbon-credits-collaboration/>
     [^sgla]: Singapore-Laos full Article 6 Implementation Agreement signed Sept 4, 2026 (virtually, by Minister Grace Fu and Laos Minister Dr. Linkham Douangsavanh) — 12th Singapore IA; 5% of proceeds to Laos adaptation, 2% mandatory cancellation of CA credits at issuance: The Star <https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/05/laos-singapore-sign-carbon-credits-agreement>; CarbonCredits.com; GGGI
+    [^sgke]: Singapore-Kenya IA signed Nov 16, 2026 at COP31 (Antalya) — 13th IA, 3rd African (after Ghana, Rwanda): Daily Nation <https://nation.africa/kenya/climate/kenya-and-singapore-sign-carbon-trading-deal-5672722>; QCI <https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-deals-with-colombia-kenya-77573.html> (secondary source; MTI release not retrieved)
+    [^sgzm]: "COP31: Singapore signs Article 6 carbon deal with Zambia" — QCI headline/teaser stating a new IA was signed: <https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-carbon-deal-with-zambia-77812.html> (secondary source, paywalled; date and IA number unconfirmed（要確認）)
+    [^sgco]: Singapore-Colombia MOU at COP31, Nov 16, 2026: technode.global <https://technode.global/?p=997796> (secondary source)
+    [^sgbd]: Singapore-Bangladesh MOU, Nov 14, 2026 (Singapore Pavilion, COP31): Dhaka Tribune <https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market> (secondary source)
+    [^sgloa1]: Singapore's first LoA under an IA (Rwanda safe-water project), NEA press release Nov 14, 2026: Mothership <https://mothership.sg/2026/11/1st-spore-rwanda-ia-carbon-credit-project/>; The New Times <https://www.newtimes.co.rw/article/40480/news/environment/singapore-authorises-first-carbon-credit-project-in-rwanda/amp> (secondary source)
 
     ## Article 6.2 Crediting Protocol (Singapore × Verra × Gold Standard) [^sgprotocol]
 
@@ -248,8 +258,20 @@
     | **ラオス 🇱🇦** | **2026年** | ✅ **稼働中** | **本格IA署名 2026年9月4日（第12号IA）**；適応拠出5%・強制キャンセル2%[^sgla] |
     | カンボジア 🇰🇭 | — | 🔄 MOUのみ | 炭素協力MOU；IA未署名（JCM重複） |
     | インドネシア 🇮🇩 | — | 📋 **MOU署名 2026年7月6日** | ジャカルタ首脳リトリートで炭素クレジット協力MOU署名；IA交渉は今後[^sgid] |
+    | **ケニア 🇰🇪** | **2026年** | ✅ **署名済み** | **IA署名 2026年11月16日（COP31）— 第13号IA**（アフリカ3件目）；適応拠出5%、案件募集は2027年見込み[^sgke] |
+    | ザンビア 🇿🇲 | 2026年（要確認） | 🟡 報道のみ | COP31（2026年11月18日頃）でIA署名との有料記事見出し1件のみ；MTI/NCCS未確認（2024年11月MOUの格上げ）[^sgzm] |
+    | コロンビア 🇨🇴 | — | 📋 MOU（2026年11月16日COP31で更新） | IA締結に向け協議[^sgco] |
+    | バングラデシュ 🇧🇩 | — | 📋 **MOU署名 2026年11月14日（COP31）** | 法的拘束力あるIAへ（COP32目標との報道（要確認））[^sgbd] |
 
-    > **署名済みIA：12件**（NCCSが2025年10月時点で列挙した10件 — PNG・ガーナ・ブータン・チリ・ペルー・ルワンダ・パラグアイ・タイ・ベトナム・モンゴル — ＋2026年4月30日署名のフィリピン、＋2026年9月4日署名のラオス）。**カンボジア・インドネシアはMOU／広範協力のみで署名済みIAではない**（旧版はカンボジアをIAと誤計上しフィリピンを「第12号」と表記していた）。
+    > **🆕 初の授権状（LoA）発行（2026年11月14日）**：シンガポール（NEA）が**IA下で初めてのLoA**を**ルワンダ**の安全な飲料水（セラミック浄水器）プロジェクトに発行（2026〜2030年に約78万tCO₂e見込み）。授権であり、ITMOの発行・移転ではない。[ルワンダ](rwanda.md)参照[^sgloa1]。
+
+    > **署名済みIA：確認済み13件**（NCCSが2025年10月時点で列挙した10件 — PNG・ガーナ・ブータン・チリ・ペルー・ルワンダ・パラグアイ・タイ・ベトナム・モンゴル — ＋2026年4月30日署名のフィリピン、＋2026年9月4日署名のラオス、＋2026年11月16日署名のケニア。ザンビア（要確認）が確認されれば14件）。
+
+    [^sgke]: シンガポール・ケニアIA、2026年11月16日COP31（アンタルヤ）署名 — 第13号IA：Daily Nation <https://nation.africa/kenya/climate/kenya-and-singapore-sign-carbon-trading-deal-5672722>；QCI（二次資料；MTI原文未取得）
+    [^sgzm]: QCI見出し「COP31: Singapore signs Article 6 carbon deal with Zambia」：<https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-carbon-deal-with-zambia-77812.html>（二次資料・有料；日付・IA番号未確認（要確認））
+    [^sgco]: シンガポール・コロンビアMOU（COP31、2026年11月16日）：technode.global <https://technode.global/?p=997796>（二次資料）
+    [^sgbd]: シンガポール・バングラデシュMOU（2026年11月14日、COP31シンガポール館）：Dhaka Tribune <https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market>（二次資料）
+    [^sgloa1]: シンガポール初のIA下LoA（ルワンダ飲料水プロジェクト）、NEAプレスリリース2026年11月14日：Mothership <https://mothership.sg/2026/11/1st-spore-rwanda-ia-carbon-credit-project/>（二次資料）**カンボジア・インドネシアはMOU／広範協力のみで署名済みIAではない**（旧版はカンボジアをIAと誤計上しフィリピンを「第12号」と表記していた）。
 
     ## A6.2クレジティング・プロトコル（シンガポール×Verra×Gold Standard）
 

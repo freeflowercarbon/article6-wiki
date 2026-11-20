@@ -55,8 +55,10 @@
     |---------|-----------|--------|-------|
     | Japan 🇯🇵 | JCM | ✅ 2013 | Geothermal, energy efficiency |
     | Sweden 🇸🇪 | Bilateral | ✅ Active | Energimyndigheten bilateral |
-    | Singapore 🇸🇬 | IA | ⚪ | — |
+    | Singapore 🇸🇬 | IA | 🟡 **IA signed Nov 16, 2026 (COP31)** | Singapore's 13th IA and 3rd in Africa (after Ghana, Rwanda); 5% of proceeds from authorised credits to Kenya adaptation; project applications expected to open 2027. No ITMO authorization/transfer yet[^kesgia] |
     | Switzerland 🇨🇭 | Bilateral | 🟡（要確認） | Reported signed May 2, 2025; primary FOEN confirmation pending[^kech] |
+
+    [^kesgia]: Singapore-Kenya Implementation Agreement signed Nov 16, 2026 at COP31 (Antalya) — 13th Singapore IA; MTI press release not retrieved in this crawl, details per secondary sources: Daily Nation <https://nation.africa/kenya/climate/kenya-and-singapore-sign-carbon-trading-deal-5672722>; Quantum Commodity Intelligence <https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-deals-with-colombia-kenya-77573.html> (secondary source)
 
     ## Active A6.2 / CCP-Eligible Projects
 
@@ -103,7 +105,7 @@
     | JCM状況 | ✅ 日本（2013年） |
     | スウェーデン | 🟡 二国間／MoU稼働中 |
     | スイス | 🟡 二国間協定署名との報道 **2025年5月2日**（要確認 — FOEN一次資料での確認待ち） |
-    | シンガポールIA | 📋 MOU署名；IA交渉中 |
+    | シンガポールIA | 🟡 **IA署名 2026年11月16日（COP31）** — シンガポール13件目のIA[^kesgia] |
     | 韓国 | 📋 交渉中 |
     | ノルウェー | 📋 意図表明書署名 **2026年6月9日**（協定前段階、正式な二国間A6.2協定ではない）[^kenor] |
     | CA体制 | 🟡 整備中（政策枠組み確定） |
@@ -115,8 +117,10 @@
     |--------|------|------|------|
     | 日本 🇯🇵 | JCM | ✅ 2013年署名 | 地熱・省エネ中心 |
     | スウェーデン 🇸🇪 | バイラテラル | ✅ 稼働中 | Energimyndigheten協定 |
-    | シンガポール 🇸🇬 | IA | ⚪ | — |
+    | シンガポール 🇸🇬 | IA | 🟡 **IA署名 2026年11月16日（COP31）** | シンガポール13件目・アフリカ3件目（ガーナ、ルワンダに続く）；授権クレジット収益の5%をケニアの適応へ；案件募集は2027年開始見込み。ITMO授権・移転は未実施[^kesgia] |
     | スイス 🇨🇭 | バイラテラル | 🟡（要確認） | 2025年5月2日署名との報道；FOEN一次資料確認待ち |
+
+    [^kesgia]: シンガポール・ケニア実施協定（IA）、2026年11月16日COP31（アンタルヤ）で署名 — シンガポール13件目のIA。MTIプレスリリースは本クロールで未取得、詳細は二次資料による：Daily Nation <https://nation.africa/kenya/climate/kenya-and-singapore-sign-carbon-trading-deal-5672722>；Quantum Commodity Intelligence <https://www.qcintel.com/carbon/article/cop31-singapore-signs-article-6-deals-with-colombia-kenya-77573.html>（二次資料）
 
     ## 稼働中・候補プロジェクト
 

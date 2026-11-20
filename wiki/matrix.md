@@ -3,7 +3,7 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-11-07** | Crawl covered an extended window (Sept 30–Nov 7) due to a gap in the weekly cycle. Key developments: **no new confirmed ITMO transfers** this window (most recent remains Thailand→Switzerland, Sept 8, 2026 — see [ITMO Tracker](itmo_tracker.md)). **Chile and Japan approved updated JCM rules/guidelines** (Oct 7, 2026), moving the relationship to transfer-capable status (8 of 17 pipeline projects advancing toward LoA; no transfer yet) — see [Chile](countries/chile.md). **Singapore published 58 pre-approved methodologies** for its Laos IA (Oct 1, 2026) and **opened a project-application window with Mongolia** (from Oct 30, 2026) — see [Laos](countries/laos.md), [Mongolia](countries/mongolia.md). **A6.4 Supervisory Body SBM23** (Bonn, Oct 5–10, 2026) approved two cookstove methodologies and adopted the mechanism's first reversal-risk tool plus a Standard on Non-Permanence and Reversals; a follow-on virtual SB meeting (Oct 29–30) was expected to adopt the first revision of a transitioned legacy-CDM methodology (ACM0001) — see [PACM](concepts/pacm.md). **CORSIA** EEU supply reached ~72M (vs. ~200–250M Phase 1 demand) and ICAO formally joined the IATA-backed supply alliance (Oct 13, 2026) — see [CORSIA](buyers/corsia.md). **Verra/Gold Standard launched a joint Article 6.2 Corresponding Adjustment reporting tool** (Aug 20, 2026) ahead of the Dec 2026 BTR deadline — see [Corresponding Adjustment](concepts/corresponding_adjustment.md). **ICVCM** recognized Verra VCS v5 and approved the VM0049 CCS methodology (Sept 2 and Sept 28, 2026) — see [CCP/NBS Methodologies](concepts/ccp_nbs_methodologies.md).
+    > Last updated: **2026-11-21** | COP31 (Antalya, Nov 9–20, 2026) week. Key developments: **no new confirmed ITMO transfers** (most recent remains Thailand→Switzerland, Sept 8, 2026 — see [ITMO Tracker](itmo_tracker.md)). **Singapore signed its 13th IA with Kenya** (Nov 16) and an MOU with **Bangladesh** (Nov 14), renewed its **Colombia** MOU, and reportedly signed an IA with **Zambia**（要確認）; Singapore also issued its **first-ever IA Letter of Authorisation** (Rwanda safe-water project, Nov 14) — authorization only, no transfer — see [Singapore](countries/singapore.md), [Kenya](countries/kenya.md), [Rwanda](countries/rwanda.md). **Norway signed MOPAs** with **Indonesia** (Nov 11, up to ~12 Mt, solar-for-coal) and **Morocco** (Nov 12, up to 8.78M ITMOs 2027–2036) — purchase contracts, not transfers — see [Norway](countries/norway.md). **Sweden and Côte d'Ivoire** signed Côte d'Ivoire's first A6.2 bilateral (Nov 13) — see [Côte d'Ivoire](countries/cote_divoire.md). The **UNFCCC soft-launched the first version of the Article 6.2 international registry** at COP31 (operational access phased from early 2027) — see [ITMO Tracker](itmo_tracker.md). Final CMA8 Article 6 decisions (technical-review consequences, A6.2 infrastructure funding) not yet confirmed at time of crawl.
     > **Host Country**: Generates and transfers ITMOs (project implementation side)
     > **Acquiring Country**: Obtains ITMOs for NDC achievement / compliance obligations
 
@@ -51,7 +51,7 @@
 
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
-    | [Indonesia 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 **MOU(Jul 6, 2026)** | — | — | — | 🔴 MOU(2024) |
+    | [Indonesia 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 **MOU(Jul 6, 2026)** | — | — | 🟡 bilateral(Jun 2025) + **MOPA(Nov 11, 2026)** | 🔴 MOU(2024) |
     | [Vietnam 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
     | [Philippines 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
     | [Thailand 🇹🇭](countries/thailand.md) | 🟢 JCM(2015) **ITMO Nov 2025** | 🟡 **IA(2025)** | 🟢 **ITMO Dec 2023 + Apr 2026 + Sept 2026** | — | — | — |
@@ -79,7 +79,7 @@
     | [Peru 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1 | 🟡 bilateral(2020) **Tuki Wasi authorized Mar 2026** | — | — | — |
     | [Paraguay 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1 | — | — | — | — |
     | [Chile 🇨🇱](countries/chile.md) | 🟡 **JCM(2015); rules updated Oct 7, 2026 — transfer-capable** | 🟡 **IA(2025)** | 🟡 bilateral | — | — | — |
-    | [Colombia 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
+    | [Colombia 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU (renewed Nov 2026) | — | — | — | — |
     | [Mexico 🇲🇽](countries/mexico.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [Costa Rica 🇨🇷](countries/costa_rica.md) | 🟡 JCM(2013) | 🔴 MOU | — | — | — | — |
 
@@ -88,14 +88,14 @@
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
     | [Ghana 🇬🇭](countries/ghana.md) | — | 🟡 IA(2023) **RFP1:Kwahu ARR** | 🟢 bilateral(2021) **11,733 ITMO Jul 2025** | 🟡 bilateral | — | — |
-    | [Rwanda 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) | — | 🟡 bilateral | — | — |
-    | [Kenya 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | 🟡 **bilateral(May 2025)（要確認）** | 🟡 bilateral | — | — |
+    | [Rwanda 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) — **SG's first LoA Nov 14, 2026** | — | 🟡 bilateral | — | — |
+    | [Kenya 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🟡 **IA(Nov 16, 2026)** | 🟡 **bilateral(May 2025)（要確認）** | 🟡 bilateral | — | — |
     | [Senegal 🇸🇳](countries/senegal.md) | 🟡 JCM(2015) | — | 🟡 bilateral(2023) **EV taxi auth. Sept 25, 2026** | — | 🟡 bilateral | — |
     | [Ethiopia 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
-    | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
+    | [Côte d'Ivoire 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | 🟡 **bilateral(Nov 13, 2026)** | — | — |
     | Tanzania 🇹🇿 | 🟡 **JCM(May 2025)** | — | — | — | — | — |
-    | [Morocco 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **bilateral(May 2026)** | — |
-    | Zambia 🇿🇲 | — | 🔴 MOU | 🟡 **bilateral(Nov 2025) — cookstoves authorized Aug 17 + Aug 31, 2026 (2 activities)** | 🟡 bilateral | 🟡 **bilateral(COP30 2025)** | — |
+    | [Morocco 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **bilateral(May 2026) + MOPA(Nov 12, 2026, ≤8.78M)** | — |
+    | Zambia 🇿🇲 | — | 🔴 MOU — IA reported Nov 2026（要確認） | 🟡 **bilateral(Nov 2025) — cookstoves authorized Aug 17 + Aug 31, 2026 (2 activities)** | 🟡 bilateral | 🟡 **bilateral(COP30 2025)** | — |
     | [Malawi 🇲🇼](countries/malawi.md) | — | 🔴 **MOU(Nov 20, 2025)** | 🟡 bilateral; **AIR Aug 2025; Dairy Biogas authorized Apr 2026** | — | — | — |
     | [Uganda 🇺🇬](countries/uganda.md) | — | — | 🟡 bilateral(COP30 2025) | — | — | — |
     | Dominica 🇩🇲 | — | — | 🟡 bilateral(2021) | 🟡 bilateral | — | — |
@@ -108,7 +108,7 @@
     | Host Country | Japan 🇯🇵 | Singapore 🇸🇬 | Switzerland 🇨🇭 | Sweden 🇸🇪 | Norway 🇳🇴 | Korea 🇰🇷 |
     |-------------|:-------:|:--------------:|:-------:|:-------:|:------:|:-------:|
     | [India 🇮🇳](countries/india.md) | 🟡 **JCM(Aug 29, 2025)** | — | — | — | — | 🟡 **A6.2 bilateral(Apr 24, 2026)** |
-    | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [Bangladesh 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | 🔴 **MOU(Nov 14, 2026)** | — | — | — | — |
     | [Tunisia 🇹🇳](countries/tunisia.md) | 🟡 JCM(2015) | — | 🟡 bilateral | — | — | — |
     | [Moldova 🇲🇩](countries/moldova.md) | 🟡 JCM(2016) | — | — | — | — | — |
     | [Azerbaijan 🇦🇿](countries/azerbaijan.md) | 🟡 JCM(2016) | — | — | — | — | — |
@@ -221,7 +221,7 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-11-07** | 週次サイクルの空白期間があったため、今回は拡大期間（9月30日〜11月7日）を対象にクロール。主な進展：本期間中、**新たな確定ITMO移転はなし**（直近は2026年9月8日タイ→スイス — [ITMOトラッカー](itmo_tracker.md)参照）。**チリ・日本間でJCM改訂ルール・ガイドラインを承認**（2026年10月7日）し、移転可能段階へ移行（17件のパイプライン案件中8件がLoA発行プロセスに向け前進；移転はまだ）— [チリ](countries/chile.md)参照。**シンガポールがラオスIA向けに58件の事前承認方法論を公表**（2026年10月1日）、**モンゴルとのプロジェクト申請受付を開始**（2026年10月30日より）— [ラオス](countries/laos.md)、[モンゴル](countries/mongolia.md)参照。**A6.4監督機関SBM23**（ボン、2026年10月5〜10日）がかまど方法論2件を承認、同機関初のリバーサルリスク・ツールおよび非永続性・リバーサル基準を採択；続くバーチャルSB会合（10月29〜30日）では移行済み旧CDM方法論（ACM0001）の初の改訂採択が見込まれた — [PACM](concepts/pacm.md)参照。**CORSIA**のEEU供給は約7,200万（フェーズ1需要2〜2.5億に対しなお不足）に達し、ICAOがIATA主導の供給連合に正式参加（2026年10月13日）— [CORSIA](buyers/corsia.md)参照。**VerraとGold Standardが共同のArticle 6.2対応調整報告ツールを発表**（2026年8月20日、2026年12月のBTR提出期限に向けて）— [対応調整](concepts/corresponding_adjustment.md)参照。**ICVCM**がVerra VCS v5を認定・VM0049（CCS）方法論を承認（2026年9月2日・9月28日）— [CCP/NBS方法論](concepts/ccp_nbs_methodologies.md)参照。
+    > 最終更新: **2026-11-21** | COP31（アンタルヤ、2026年11月9〜20日）週。主な進展：**新たな確定ITMO移転はなし**（直近は2026年9月8日タイ→スイス — [ITMOトラッカー](itmo_tracker.md)参照）。**シンガポールがケニアと第13号IAを署名**（11月16日）、**バングラデシュ**とMOU署名（11月14日）、**コロンビア**MOUを更新、**ザンビア**ともIA署名との報道（要確認）。さらにシンガポールは**IA下で初の授権状（LoA）**を発行（ルワンダ飲料水プロジェクト、11月14日）— 授権のみで移転ではない — [シンガポール](countries/singapore.md)、[ケニア](countries/kenya.md)、[ルワンダ](countries/rwanda.md)参照。**ノルウェーがMOPA（購入契約）を締結**：**インドネシア**（11月11日、最大約1,200万t、石炭→太陽光）、**モロッコ**（11月12日、2027〜2036年に最大878万ITMO）— 購入契約であり移転ではない — [ノルウェー](countries/norway.md)参照。**スウェーデン・コートジボワール**が同国初のA6.2二国間協定に署名（11月13日）— [コートジボワール](countries/cote_divoire.md)参照。**UNFCCCがArticle 6.2国際登録簿の第1版をCOP31でソフトローンチ**（運用アクセスは2027年初から段階的）— [ITMOトラッカー](itmo_tracker.md)参照。CMA8のArticle 6最終決定（技術専門家審査の帰結、A6.2インフラ資金）はクロール時点で未確認。
     > **ホスト国**: ITMOを生成・移転する国（プロジェクト実施側）
     > **調達国**: ITMOを取得してNDC達成・国内炭素義務に充当する国
 
@@ -253,7 +253,7 @@
 
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
-    | [インドネシア 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 **MOU(2026年7月6日)** | — | — | — | 🔴 MOU(2024) |
+    | [インドネシア 🇮🇩](countries/indonesia.md) | 🟡 JCM(2013) | 🔴 **MOU(2026年7月6日)** | — | — | 🟡 二国間(2025年6月)＋**MOPA(2026年11月11日)** | 🔴 MOU(2024) |
     | [ベトナム 🇻🇳](countries/vietnam.md) | 🟡 JCM(2013) | 🟡 **IA(2025)** | 🔴 | — | — | — |
     | [フィリピン 🇵🇭](countries/philippines.md) | 🟡 JCM(2017) | 🟡 **IA(Apr 2026)** | — | — | — | — |
     | [タイ 🇹🇭](countries/thailand.md) | 🟢 JCM(2015) **ITMO 2025年11月** | 🟡 **IA(2025)** | 🟢 **ITMO 2023年12月 + 2026年4月 + 2026年9月** | — | — | — |
@@ -281,7 +281,7 @@
     | [ペルー 🇵🇪](countries/peru.md) | — | 🟡 IA(2024) RFP1落札 | 🟡 二国間(2020) **Tuki Wasi授権 2026年3月** | — | — | — |
     | [パラグアイ 🇵🇾](countries/paraguay.md) | — | 🟡 IA(2024) RFP1落札 | — | — | — | — |
     | [チリ 🇨🇱](countries/chile.md) | 🟡 **JCM(2015)；ルール改訂2026年10月7日・移転可能段階へ** | 🟡 **IA(2025)** | 🟡 二国間 | — | — | — |
-    | [コロンビア 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU | — | — | — | — |
+    | [コロンビア 🇨🇴](countries/colombia.md) | 🟡 JCM(2021) | 🔴 MOU（2026年11月更新） | — | — | — | — |
     | [メキシコ 🇲🇽](countries/mexico.md) | 🟡 JCM(2014) | — | — | — | — | — |
     | [コスタリカ 🇨🇷](countries/costa_rica.md) | 🟡 JCM(2013) | 🔴 MOU | — | — | — | — |
 
@@ -290,13 +290,13 @@
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
     | [ガーナ 🇬🇭](countries/ghana.md) | — | 🟡 IA(2023) **RFP1:Kwahu ARR** | 🟢 二国間(2021) **11,733 ITMO 2025年7月** | 🟡 二国間 | — | — |
-    | [ルワンダ 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) | — | 🟡 二国間 | — | — |
-    | [ケニア 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🔴 MOU | 🟡 **二国間(2025年5月)（要確認）** | 🟡 二国間 | — | — |
+    | [ルワンダ 🇷🇼](countries/rwanda.md) | — | 🟡 IA(2023) — **SG初のLoA 2026年11月14日** | — | 🟡 二国間 | — | — |
+    | [ケニア 🇰🇪](countries/kenya.md) | 🟡 JCM(2013) | 🟡 **IA(2026年11月16日)** | 🟡 **二国間(2025年5月)（要確認）** | 🟡 二国間 | — | — |
     | [セネガル 🇸🇳](countries/senegal.md) | 🟡 JCM(2015) | — | 🟡 二国間(2023) **EVタクシー授権 2026年9月25日** | — | 🟡 二国間 | — |
     | [エチオピア 🇪🇹](countries/ethiopia.md) | 🟡 JCM(2013) | — | — | — | — | — |
-    | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | — | — | — |
-    | [モロッコ 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **二国間(2026年5月)** | — |
-    | ザンビア 🇿🇲 | — | 🔴 MOU | 🟡 **二国間(2025年11月) — かまど授権 2026年8月17日＋8月31日（2件）** | 🟡 二国間 | 🟡 **二国間(COP30 2025)** | — |
+    | [コートジボワール 🇨🇮](countries/cote_divoire.md) | 🟡 JCM(2021) | — | — | 🟡 **二国間(2026年11月13日)** | — | — |
+    | [モロッコ 🇲🇦](countries/morocco.md) | — | 🔴 MOU | 🔴 | — | 🟡 **二国間(2026年5月)＋MOPA(2026年11月12日、最大878万)** | — |
+    | ザンビア 🇿🇲 | — | 🔴 MOU — 2026年11月IA署名報道（要確認） | 🟡 **二国間(2025年11月) — かまど授権 2026年8月17日＋8月31日（2件）** | 🟡 二国間 | 🟡 **二国間(COP30 2025)** | — |
     | [マラウィ 🇲🇼](countries/malawi.md) | — | 🔴 **MOU(2025年11月20日)** | 🟡 二国間；**AIR 2025年8月；乳牛バイオガス授権 2026年4月** | — | — | — |
     | [ウガンダ 🇺🇬](countries/uganda.md) | — | — | 🟡 二国間(COP30 2025) | — | — | — |
     | ドミニカ 🇩🇲 | — | — | 🟡 二国間(2021) | 🟡 二国間 | — | — |
@@ -309,7 +309,7 @@
     | ホスト国 | 日本 🇯🇵 | シンガポール 🇸🇬 | スイス 🇨🇭 | スウェーデン 🇸🇪 | ノルウェー 🇳🇴 | 韓国 🇰🇷 |
     |---------|:-------:|:--------------:|:-------:|:--------------:|:---------:|:-------:|
     | [インド 🇮🇳](countries/india.md) | 🟡 **JCM(2025年8月)** | — | — | — | — | 🟡 **A6.2二国間協定(2026年4月24日)** |
-    | [バングラデシュ 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | — | — | — | — | — |
+    | [バングラデシュ 🇧🇩](countries/bangladesh.md) | 🟡 JCM(2013) | 🔴 **MOU(2026年11月14日)** | — | — | — | — |
     | [チュニジア 🇹🇳](countries/tunisia.md) | 🟡 JCM(2015) | — | 🟡 二国間 | — | — | — |
     | [モルドバ 🇲🇩](countries/moldova.md) | 🟡 JCM(2016) | — | — | — | — | — |
     | [アゼルバイジャン 🇦🇿](countries/azerbaijan.md) | 🟡 JCM(2016) | — | — | — | — | — |

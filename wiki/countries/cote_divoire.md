@@ -24,7 +24,10 @@
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
     | Japan 🇯🇵 | JCM | ✅ 2021 | — |
+    | Sweden 🇸🇪 | Bilateral (A6.2) | 🟡 **Signed Nov 13, 2026 (COP31 side event)** | Côte d'Ivoire's first Article 6.2 bilateral agreement; Swedish focus areas: sustainable transport, renewable energy, green transition. Builds on Swedish Energy Agency capacity-building via GGGI "Mobilising Article 6 Trading Structures". No authorization/ITMO transfer yet[^cise] |
     | Others | — | ⚪ | — |
+
+    [^cise]: Sweden-Côte d'Ivoire Article 6.2 bilateral agreement signed Nov 13, 2026 at COP31 (Antalya); Energimyndigheten partnership page not yet updated at time of crawl: Argus Media <https://argusmedia.com/en/news-and-insights/latest-market-news/2904387-cop-sweden-ivory-coast-sign-article-6-agreement>; Carbon Pulse <https://carbon-pulse.com/570956/> (secondary source, headline only)
 
     ## NBS Resources
 
@@ -57,7 +60,10 @@
     | 国内炭素制度 | 整備中 |
     | 主管省庁 | 環境持続可能開発省（MINEDD） |
     | JCM状況 | ✅ 日本（2021年） |
+    | スウェーデン | 🟡 **A6.2二国間協定署名 2026年11月13日（COP31サイドイベント）** — 同国初のA6.2協定。持続可能な交通・再エネ・グリーン移行が重点。授権・ITMO移転は未実施[^cise] |
     | CA体制 | 🔴 未整備 |
+
+    [^cise]: スウェーデン・コートジボワール A6.2二国間協定、2026年11月13日COP31（アンタルヤ）で署名。クロール時点でEnergimyndigheten公式パートナーページは未更新：Argus Media <https://argusmedia.com/en/news-and-insights/latest-market-news/2904387-cop-sweden-ivory-coast-sign-article-6-agreement>；Carbon Pulse <https://carbon-pulse.com/570956/>（二次資料・見出しのみ）
     | NBS成熟度 | ⭐⭐ |
 
     ## NBS状況

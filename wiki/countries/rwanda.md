@@ -39,9 +39,11 @@
     |---------|---------|--------|-------|
     | Forest conservation (Gishwati area) | Singapore | 🟡 Development stage | Singapore IA 2023; **project application call issued January 30, 2026**[^rwcall] |
     | Smallholder clean cooking | Singapore (prospective) | 🟡 Scoping | — |
+    | 🆕 Safe Water Supply Project (ceramic water filters) | Singapore | 🟡 **Singapore issued its first-ever IA Letter of Authorisation, Nov 14, 2026** | ~780,000 tCO₂e expected 2026–2030; first project approved under any Singapore IA. Rwanda-side LoA not yet reported; **authorization only — no ITMO issuance/transfer**[^rwsgloa] |
     | 🆕 Improved Cookstove Project (Verra) | Two authorizations, Aug 2026 | 🟡 CORSIA-eligible marketing authorized | Econetix authorized Aug 6, 2026 to market credits from crediting period Sep 2022–Aug 2027[^rwcookstove1]; a separate "global carbon asset manager" authorized Aug 5, 2026 for up to 1.8M CORSIA-eligible credits[^rwcookstove2] — **authorizations to market, not confirmed ITMO transfers**; possible overlap between the two reports（要確認） |
 
     [^rwcall]: Singapore-Rwanda IA project application call issued January 30, 2026: Singapore MSE / NCCS announcement
+    [^rwsgloa]: Singapore NEA press release (Nov 14, 2026): first Letter of Authorisation under the Singapore-Rwanda IA, for a safe drinking-water (ceramic filter) project: Mothership <https://mothership.sg/2026/11/1st-spore-rwanda-ia-carbon-credit-project/>; The New Times <https://www.newtimes.co.rw/article/40480/news/environment/singapore-authorises-first-carbon-credit-project-in-rwanda/amp>; QCI <https://www.qcintel.com/carbon/article/cop31-singapore-issues-first-loa-signs-art-6-deal-with-bangladesh-77538.html> (secondary source; NEA original not retrieved)
     [^rwcookstove1]: Econetix authorized Aug 6, 2026 to market CORSIA-eligible credits from Rwanda's Verra-certified Improved Cookstove Project (crediting period Sep 2022–Aug 2027): Carbon Herald <https://carbonherald.com/econetix-gains-rwanda-authorization-to-market-for-corsia-eligible-carbon-credits/>
     [^rwcookstove2]: An unnamed "global carbon asset manager" authorized Aug 5, 2026 for up to 1.8 million CORSIA-eligible credits from a Verra Improved Cookstove Project in Rwanda: Carbon Pulse <https://carbon-pulse.com/538810/>（要確認 — may describe the same underlying deal as Econetix's Aug 6 authorization）
     [^rwkw]: Rwanda-Kuwait Article 6.2 cooperation agreement — Rwanda has bilateral Article 6 agreements with both Singapore and Kuwait as of 2026: crawl_C 2026-06-20 (secondary source — exact date and terms TBC)
@@ -100,6 +102,9 @@
     |------------|------|------|
     | 森林保全（Gishwati地域） | シンガポール | 🟡 開発段階（**プロジェクト公募 2026年1月30日**） |
     | 小規模農家クリーンクッキング | シンガポール（予定） | 🟡 スコーピング中 |
+    | 🆕 安全な飲料水供給プロジェクト（セラミック浄水器） | シンガポール | 🟡 **シンガポールがIA下で初の授権状（LoA）を発行、2026年11月14日** — 2026〜2030年に約78万tCO₂e削減見込み。ルワンダ側LoAは未報道；**授権のみでITMO発行・移転なし**[^rwsgloa] |
+
+    [^rwsgloa]: シンガポールNEAプレスリリース（2026年11月14日）：シンガポール・ルワンダIA下で初のLoA、飲料水（セラミックフィルター）プロジェクト向け：Mothership <https://mothership.sg/2026/11/1st-spore-rwanda-ia-carbon-credit-project/>；The New Times（二次資料；NEA原文未取得）
     | 🆕 改良かまどプロジェクト（Verra） | 2026年8月に2件の授権 | 🟡 CORSIA適格クレジットの販売授権 | Econetixが2026年8月6日授権（クレジット期間2022年9月〜2027年8月）[^rwcookstove1]；別途「グローバル炭素アセットマネージャー」が2026年8月5日に最大180万CORSIA適格クレジットの授権取得[^rwcookstove2] — **販売授権であり確定したITMO移転ではない**；両報道が同一案件の可能性あり（要確認） |
 
     [^rwcookstove1]: Econetixが2026年8月6日、ルワンダのVerra認証改良かまどプロジェクト（クレジット期間2022年9月〜2027年8月）のCORSIA適格クレジット販売授権を取得：Carbon Herald <https://carbonherald.com/econetix-gains-rwanda-authorization-to-market-for-corsia-eligible-carbon-credits/>

@@ -27,7 +27,10 @@
     | Country | Mechanism | Status | Notes |
     |---------|-----------|--------|-------|
     | Japan 🇯🇵 | JCM | ✅ 2013 (energy efficiency, RE) | |
+    | Singapore 🇸🇬 | MOU | 📋 **MOU signed Nov 14, 2026 (COP31, Singapore Pavilion)** | Signed by State Minister Sheikh Faridul Islam (BD) and Melvyn Ong (SG); commits both sides to work toward a legally binding Article 6.2 IA (reportedly targeted for COP32). Does not yet allow credit transfers under Singapore's carbon tax[^bdsg] |
     | Others | — | ⚪ | — |
+
+    [^bdsg]: Bangladesh-Singapore MOU on Article 6 carbon-credit cooperation, signed Nov 14, 2026 at COP31 (Antalya): Dhaka Tribune <https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market>; UNB <https://unb.com.bd/category/Bangladesh/bangladesh-singapore-ink-mou-to-boost-cooperation-in-carbon-markets/200338> (secondary source); COP32 IA target（要確認）
 
     ## NBS Resources
 
@@ -59,7 +62,10 @@
     | 主管省庁 | 環境森林気候変動省 |
     | JCM状況 | ✅ 日本（2013年） |
     | 日本MoC（2026年2月） | 🟡 2026年2月7日署名、広範な環境協力MoC（緩和・適応・汚染・廃棄物・生物多様性）— **JCM専用の枠組みではない**；2013年協定を超える専用JCM MoCは未確認[^bdmoc] |
+    | シンガポール | 🔴 **MOU署名 2026年11月14日（COP31、シンガポール館）** — Sheikh Faridul Islam環境担当国務大臣とMelvyn Ong氏が署名。法的拘束力あるA6.2 IAに向け協議（COP32での締結目標との報道（要確認））。現時点ではシンガポール炭素税向けクレジット移転は不可[^bdsg] |
     | CA体制 | 🔴 未整備 |
+
+    [^bdsg]: バングラデシュ・シンガポール Article 6炭素クレジット協力MOU、2026年11月14日COP31（アンタルヤ）で署名：Dhaka Tribune <https://www.dhakatribune.com/bangladesh/foreign-affairs/424627/bangladesh-singapore-sign-mou-on-carbon-market>；UNB <https://unb.com.bd/category/Bangladesh/bangladesh-singapore-ink-mou-to-boost-cooperation-in-carbon-markets/200338>（二次資料）
     | NBS成熟度 | ⭐⭐ |
 
     [^bdframework]: バングラデシュはCOP30（2025年11月）でPositive Listを含む国内炭素市場枠組みを先行発表。2026年7月5日の首相会合・7月下旬の閣僚発言時点でも依然として発表前・草案段階で未稼働：bssnews.net <https://www.bssnews.net/news/358816>（要確認）

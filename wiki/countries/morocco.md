@@ -28,6 +28,9 @@
     |---------|-----------|--------|-------|
     | Switzerland 🇨🇭 | Bilateral | 🔄 Under negotiation | RE focus |
     | Norway 🇳🇴 | Bilateral | ✅ **Signed May 5, 2026** | NOGER; renewable energy GBI programme[^manor] |
+    | Norway 🇳🇴 | MOPA (purchase agreement) | ✅ **Signed Nov 12, 2026 (COP31)** | Up to **8.78M ITMOs** from solar/wind, 2027–2036; ~2 GW new RE; payment only on verified delivery — no ITMO transferred yet[^mamopa] |
+
+    [^mamopa]: Norway-Morocco Mitigation Outcome Purchase Agreement, Nov 12, 2026 (COP31, Antalya): Norwegian government <https://www.regjeringen.no/en/whats-new/norway-to-purchase-carbon-credits-from-solar-and-wind-power-in-morocco/id3192555/>; Argus Media <https://www.argusmedia.com/en/news-and-insights/latest-market-news/2903507-cop-norway-signs-article-6.2-deal-with-morocco>; Enerdata <https://www.enerdata.net/publications/daily-energy-news/norway-plans-purchase-88-mtco2-emission-reductions-morocco.html> (secondary source)
     | Japan 🇯🇵 | JCM | 💬 Status unclear | RE cooperation exists |
     | Singapore 🇸🇬 | IA | ⚪ | — |
 
@@ -64,6 +67,9 @@
     | JCM状況 | ⚪ 未締結 |
     | スイス二国間 | 🔄 交渉中 |
     | ノルウェー二国間 | ✅ **2026年5月5日署名**（NOGER；再エネGBIプログラム、初期資金約1億ドル、約2GW目標） |
+    | ノルウェーMOPA | ✅ **2026年11月12日署名（COP31）** — 2027〜2036年の太陽光・風力由来**最大878万ITMO**、検証済み引渡し後のみ支払い。ITMO移転は未実施[^mamopa] |
+
+    [^mamopa]: ノルウェー・モロッコ緩和成果購入契約（MOPA）、2026年11月12日（COP31、アンタルヤ）：ノルウェー政府 <https://www.regjeringen.no/en/whats-new/norway-to-purchase-carbon-credits-from-solar-and-wind-power-in-morocco/id3192555/>；Argus Media；Enerdata <https://www.enerdata.net/publications/daily-energy-news/norway-plans-purchase-88-mtco2-emission-reductions-morocco.html>（二次資料）
     | CA体制 | 🔴 未整備 |
     | NBS成熟度 | ⭐⭐ |
 

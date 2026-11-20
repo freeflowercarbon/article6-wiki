@@ -51,6 +51,9 @@
     | JCM renewable energy (geothermal, solar) | Japan | 🟡 Processing | ~2–10 Mt/yr potential |
     | REDD+ (Kalimantan, Sumatra) | Japan, prospective SG | 🟡 Authorization pending | Large (100+ Mt potential) |
     | Peatland restoration | Prospective SG IA | 🔄 Dependency on IA | Large |
+    | 🆕 PLN solar-for-coal power-sector programme | Norway (NACA Fund / GGGI CTF) | 🟡 **MOPA signed Nov 11, 2026 (COP31)** — Indonesia's first Mitigation Outcome Purchase Agreement; results-based, no ITMO transferred yet | Up to ~12 Mt over ~10 years (one report: 8 Mt（要確認））[^idnomopa] |
+
+    [^idnomopa]: Indonesia-Norway MOPA signed Nov 11, 2026 at COP31 (Antalya) by GGGI (on behalf of Norway) and PLN; follows the Jun 26, 2025 bilateral agreement and a COP30 PLN-GGGI framework: Norwegian government <https://www.regjeringen.no/en/whats-new/new-programme-to-cut-emissions-from-indonesias-power-sector/id3192314/> (title only); The Jakarta Post <https://thejakartapost.com/business/2026/11/12/indonesia-norway-strike-carbon-credit-deal-at-cop31>; KLH <https://kemenlh.go.id/> (secondary source)
 
     > JCM projects: <https://gec.jp/jcm/projects/>
     > UNFCCC A6 portal: <https://unfccc.int/process-and-meetings/the-paris-agreement/article-6-of-the-paris-agreement>
@@ -134,6 +137,9 @@
     | JCM省エネ（工業） | 日本 | 🟡 処理開始 |
     | JCM再エネ（地熱・太陽光） | 日本 | 🟡 処理中 |
     | REDD+（カリマンタン・スマトラ） | 日本・SG見込み | 🟡 授権待ち |
+    | 🆕 PLN 石炭→太陽光 電力部門プログラム | ノルウェー（NACA／GGGI CTF） | 🟡 **MOPA署名 2026年11月11日（COP31）** — 同国初の緩和成果購入契約、約10年で最大約1,200万t（800万tとの報道も（要確認））。成果払いでITMO移転は未実施[^idnomopa] |
+
+    [^idnomopa]: インドネシア・ノルウェーMOPA、2026年11月11日COP31（アンタルヤ）でGGGI（ノルウェー代理）とPLNが署名。2025年6月26日の二国間協定・COP30のPLN-GGGI枠組みに続くもの：ノルウェー政府（見出しのみ）；The Jakarta Post <https://thejakartapost.com/business/2026/11/12/indonesia-norway-strike-carbon-credit-deal-at-cop31>（二次資料）
 
     ## CCP認証候補ボランタリープロジェクト
 

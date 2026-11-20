@@ -2,11 +2,15 @@
 
 === "🇬🇧 English"
 
-    > Last updated: **2026-09-30** — Single source of truth for **confirmed Article 6.2 ITMO transfers** worldwide. Status anywhere else in this wiki should match this page; if it doesn't, this page wins.
+    > Last updated: **2026-11-21** — Single source of truth for **confirmed Article 6.2 ITMO transfers** worldwide. Status anywhere else in this wiki should match this page; if it doesn't, this page wins.
 
     ## Confirmed A6.2 ITMO Transfers (all known, chronological)
 
     As of June 2026, **106 bilateral arrangements across 53 host countries** have been formalized, but only the following international transfers have actually been completed.[^stat]
+
+    > **Nov 21, 2026 check (COP31 week):** no new confirmed transfers. COP31 produced new agreements (Singapore-Kenya IA, Norway-Indonesia and Norway-Morocco MOPAs, Sweden-Côte d'Ivoire bilateral) and Singapore's first IA Letter of Authorisation (Rwanda) — **none is a transfer**. The **UNFCCC soft-launched v1 of the Article 6.2 international registry** at COP31 (for Parties without national registries: record activities, issue mitigation outcomes, link authorizations, track transfer/use/cancellation; units become ITMOs on first international transfer); onboarding workshop early 2027, then testing before operational access.[^intlreg]
+
+    [^intlreg]: UNFCCC Article 6.2 international registry v1 unveiled at COP31 (~Nov 16–18, 2026): QCI <https://www.qcintel.com/carbon/article/cop31-un-soft-launches-article-6-2-carbon-registry-77604.html>; The Annapurna Express <https://theannapurnaexpress.com/story/68839/> (secondary sources); background: UNFCCC <https://unfccc.int/news/development-of-paris-agreement-article-6-registry-infrastructure-begins>
 
     | # | Host → Acquirer | Transfer Date | Volume | Project | Significance |
     |---|----------------|---------------|--------|---------|--------------|
@@ -75,11 +79,15 @@
 
 === "🇯🇵 日本語"
 
-    > 最終更新: **2026-08-02** — 世界の**確認済みA6.2 ITMO移転**の一元管理ページ。本Wikiの他ページの記載と食い違う場合は本ページが正。
+    > 最終更新: **2026-11-21** — 世界の**確認済みA6.2 ITMO移転**の一元管理ページ。本Wikiの他ページの記載と食い違う場合は本ページが正。
 
     ## 確認済みA6.2 ITMO移転（全件・時系列）
 
     2026年6月時点で**106件の二国間協定（53ホスト国）**が形式化されているが、実際に完了した国際移転は以下のみ。[^stat]
+
+    > **2026年11月21日確認（COP31週）：** 新たな確定移転なし。COP31ではシンガポール・ケニアIA、ノルウェー・インドネシア／モロッコMOPA、スウェーデン・コートジボワール協定、シンガポール初のIA下LoA（ルワンダ）などが成立したが、**いずれも移転ではない**。**UNFCCCがArticle 6.2国際登録簿の第1版をCOP31でソフトローンチ**（国家登録簿を持たない締約国向け：活動登録、緩和成果の発行、授権の紐付け、移転・使用・取消の追跡；初回国際移転時にITMOとして記録）。2027年初に参加国ワークショップ、試験を経て運用アクセス開始予定。[^intlreg]
+
+    [^intlreg]: UNFCCC A6.2国際登録簿 第1版（COP31、2026年11月16〜18日頃）：QCI <https://www.qcintel.com/carbon/article/cop31-un-soft-launches-article-6-2-carbon-registry-77604.html>；The Annapurna Express <https://theannapurnaexpress.com/story/68839/>（二次資料）；背景：UNFCCC <https://unfccc.int/news/development-of-paris-agreement-article-6-registry-infrastructure-begins>
 
     | # | ホスト → 調達国 | 移転日 | 量 | プロジェクト | 意義 |
     |---|---------------|--------|---|------------|------|

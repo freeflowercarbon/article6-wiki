@@ -37,6 +37,9 @@
     | Dominican Republic 🇩🇴 | ✅ Active | — |
     | Zambia 🇿🇲 | ✅ Active (COP29) | — |
     | Nepal 🇳🇵 | ✅ Active | — |
+    | Côte d'Ivoire 🇨🇮 | 🟡 **Signed Nov 13, 2026 (COP31)** | Sustainable transport, RE, green transition[^seci] |
+
+    [^seci]: Sweden-Côte d'Ivoire Article 6.2 bilateral agreement signed Nov 13, 2026 at a COP31 side event (Antalya) — Côte d'Ivoire's first A6.2 agreement: Argus Media <https://argusmedia.com/en/news-and-insights/latest-market-news/2904387-cop-sweden-ivory-coast-sign-article-6-agreement>; Carbon Pulse <https://carbon-pulse.com/570956/> (secondary source). Separately, a Sweden-Switzerland MOU on a "symbolic" volume of ITMOs from captured industrial emissions was reported around COP31（要確認 — date/terms not confirmed）
 
     > Source: Energimyndigheten Partnerships under the Paris Agreement: <https://www.energimyndigheten.se/en/cooperation/swedens-program-for-international-climate-initiatives/paris-agreement/partnerships-under-the-paris-agreement/>
 
@@ -99,6 +102,9 @@
     | ドミニカ共和国 🇩🇴 | ✅ 稼働中 |
     | ザンビア 🇿🇲 | ✅ 稼働中（COP29） |
     | ネパール 🇳🇵 | ✅ 稼働中 |
+    | コートジボワール 🇨🇮 | 🟡 **2026年11月13日署名（COP31）** — 持続可能な交通・再エネ[^seci] |
+
+    [^seci]: スウェーデン・コートジボワール A6.2二国間協定、2026年11月13日COP31サイドイベントで署名（同国初のA6.2協定）：Argus Media <https://argusmedia.com/en/news-and-insights/latest-market-news/2904387-cop-sweden-ivory-coast-sign-article-6-agreement>；Carbon Pulse <https://carbon-pulse.com/570956/>（二次資料）。別途、産業回収CO₂由来ITMOの「象徴的」数量に関するスウェーデン・スイスMOUがCOP31前後に報道（要確認 — 日付・条件未確認）
 
     ## 炭素価格制度の概要
 

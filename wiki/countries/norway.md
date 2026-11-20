@@ -49,6 +49,11 @@
     | Pakistan 🇵🇰 | MoU | Apr 1, 2026 | ✅ **Signed** | Article 6.2 cooperation[^nopak] |
     | Morocco 🇲🇦 | Bilateral Agreement | May 5, 2026 | ✅ **Signed** | NOGER portfolio[^nomorocco] |
     | Kenya 🇰🇪 | Statement of Intent | Jun 9, 2026 | 📋 **Signed** (pre-agreement stage) | Not yet a bilateral A6.2 agreement or IA — lays groundwork for future ITMO cooperation[^nokenya] |
+    | Indonesia 🇮🇩 | **MOPA** (purchase agreement) | **Nov 11, 2026 (COP31)** | ✅ **Signed** (GGGI on behalf of Norway × PLN) | Indonesia's first MOPA; solar-for-coal power-sector programme; up to ~12 Mt over ~10 years (one report cites 8 Mt（要確認）). Results-based — no ITMO transferred yet[^noidmopa] |
+    | Morocco 🇲🇦 | **MOPA** (purchase agreement) | **Nov 12, 2026 (COP31)** | ✅ **Signed** | Up to **8.78M ITMOs** from solar/wind generated 2027–2036; ~2 GW new RE; Norway pays only on achieved, verified and delivered reductions[^nomamopa] |
+
+    [^noidmopa]: Norway-Indonesia Mitigation Outcome Purchase Agreement, signed Nov 11, 2026 at COP31 (Antalya) via the NACA Fund / GGGI Carbon Transaction Facility: Norwegian government <https://www.regjeringen.no/en/whats-new/new-programme-to-cut-emissions-from-indonesias-power-sector/id3192314/> (page not retrievable in this crawl — title only); The Jakarta Post <https://thejakartapost.com/business/2026/11/12/indonesia-norway-strike-carbon-credit-deal-at-cop31>; Argus Media <https://www.argusmedia.com/en/news-and-insights/latest-market-news/2903065-cop-norway-indonesia-sign-paris-article-6.2-deal> (secondary source)
+    [^nomamopa]: Norway-Morocco Mitigation Outcome Purchase Agreement, signed Nov 12, 2026 at COP31: Norwegian government <https://www.regjeringen.no/en/whats-new/norway-to-purchase-carbon-credits-from-solar-and-wind-power-in-morocco/id3192555/> (title only); Argus Media <https://www.argusmedia.com/en/news-and-insights/latest-market-news/2903507-cop-norway-signs-article-6.2-deal-with-morocco>; Carbon Pulse <https://carbon-pulse.com/570378/> (secondary source)
 
     > ⚠️ **NOGER exclusion**: Norway's NOGER framework **excludes direct forestry ITMO purchase** (NBS excluded from eligible credit types, similar to Switzerland's CO2 Act constraint). Host countries with primarily NBS/REDD+ pipelines may need to target other buyers.
 
@@ -148,6 +153,11 @@
     | パキスタン 🇵🇰 | 2026年4月1日（MoU） | ✅ **署名済み** [^nopak] |
     | モロッコ 🇲🇦 | 2026年5月5日 | ✅ **署名済み** [^nomorocco] |
     | ケニア 🇰🇪 | 2026年6月9日（意図表明書） | 📋 **署名済み**（協定前段階、正式な二国間A6.2協定・IAではない）[^nokenya] |
+    | インドネシア 🇮🇩 | **2026年11月11日（COP31）MOPA（購入契約）** | ✅ **署名済み**（GGGI〔ノルウェー代理〕×PLN）— 同国初のMOPA、石炭→太陽光の電力部門プログラム、約10年で最大約1,200万t（800万tとの報道もあり（要確認））。成果払いでITMO移転は未実施[^noidmopa] |
+    | モロッコ 🇲🇦 | **2026年11月12日（COP31）MOPA（購入契約）** | ✅ **署名済み** — 2027〜2036年の太陽光・風力由来**最大878万ITMO**、新規再エネ約2GW、削減の達成・検証・引渡し後のみ支払い[^nomamopa] |
+
+    [^noidmopa]: ノルウェー・インドネシア緩和成果購入契約（MOPA）、2026年11月11日COP31でNACAファンド／GGGI CTF経由で署名：ノルウェー政府 <https://www.regjeringen.no/en/whats-new/new-programme-to-cut-emissions-from-indonesias-power-sector/id3192314/>（本クロールでは本文取得不可・見出しのみ）；The Jakarta Post <https://thejakartapost.com/business/2026/11/12/indonesia-norway-strike-carbon-credit-deal-at-cop31>；Argus Media（二次資料）
+    [^nomamopa]: ノルウェー・モロッコMOPA、2026年11月12日COP31で署名：ノルウェー政府 <https://www.regjeringen.no/en/whats-new/norway-to-purchase-carbon-credits-from-solar-and-wind-power-in-morocco/id3192555/>（見出しのみ）；Argus Media <https://www.argusmedia.com/en/news-and-insights/latest-market-news/2903507-cop-norway-signs-article-6.2-deal-with-morocco>；Carbon Pulse <https://carbon-pulse.com/570378/>（二次資料）
 
     > ⚠️ **NOGER除外事項**: 直接的な林業ITMOの購入は対象外（NBS除外、スイスCO2法の制約と類似）。
 
